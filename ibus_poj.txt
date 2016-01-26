@@ -615,15 +615,19 @@ bai7	覓	100
 bak	bak	101
 bak	汙	100
 bak	染	99
+bak8	ba̍k	101
 bak8	木	100
 bak8	目	99
 bak8	茉	98
 bak8	密	97
 bak8	漠	96
 bak8	墨	95
+ban	ban	101
 ban	屘	100
+ban2	bán	101
 ban2	挽	100
 ban2	滿	99
+ban5	bân	101
 ban5	曼	100
 ban5	頑	99
 ban5	閩	98
@@ -631,6 +635,7 @@ ban5	饅	97
 ban5	鰻	96
 ban5	蠻	95
 ban5	鬘	94
+ban7	bān	101
 ban7	命	100
 ban7	曼	99
 ban7	萬	98
@@ -648,10 +653,13 @@ ban7	嫚	87
 ban7	鄤	86
 ban7	槾	85
 ban7	謾	84
+bang	bang	101
 bang	濛	100
+bang2	báng	101
 bang2	罔	100
 bang2	蚊	99
 bang2	網	98
+bang5	bâng	101
 bang5	忙	100
 bang5	芒	99
 bang5	茫	98
@@ -662,28 +670,44 @@ bang5	哤	94
 bang5	庬	93
 bang5	牻	92
 bang5	駹	91
+bang7	bāng	101
 bang7	望	100
 bang7	夢	99
 bang7	網	98
+bat	bat	101
 bat	白	100
 bat	曾	99
 bat	識	98
+bat8	ba̍t	101
 bat8	木	100
 bat8	密	99
 bat8	墨	98
+bau	bau	101
 bau	包	100
+bau2	báu	101
 bau2	卯	100
 bau2	泖	99
 bau2	昴	98
+bau3	bàu	101
+bauh	bauh	101
+bau5	bâu	101
 bau5	矛	100
+bauh8	ba̍uh	101
 bauh8	貿	100
 bauh8	藐	99
+be	be	101
 be	咪	100
+be2	bé	101
 be2	尾	100
 be2	迷	99
 be2	馬	98
 be2	瑪	97
 be2	碼	96
+be3	bè	101
+beh	beh	101
+beh	要	100
+beh	乜	99
+be5	bê	101
 be5	泥	100
 be5	迷	99
 be5	霉	98
@@ -692,12 +716,13 @@ be5	麛	96
 be7	未	100
 be7	妹	99
 be7	謎	98
-beh	要	100
-beh	乜	99
+beh8	be̍h	101
 beh8	脈	100
 beh8	麥	99
 beh8	襪	98
+bek	bek	101
 bek	貘	100
+bek8	be̍k	101
 bek8	糸	100
 bek8	汨	99
 bek8	陌	98
@@ -725,7 +750,9 @@ bek8	霢	77
 bek8	羃	76
 bek8	礣	75
 bek8	纆	74
+beng	beng	101
 beng	名	100
+beng2	béng	101
 beng2	皿	100
 beng2	孟	99
 beng2	茗	98
@@ -734,6 +761,8 @@ beng2	酩	96
 beng2	艋	95
 beng2	蜢	94
 beng2	慏	93
+beng3	bèng	101
+beng5	bêng	101
 beng5	杗	100
 beng5	明	99
 beng5	盲	98
@@ -754,6 +783,7 @@ beng5	溟	84
 beng5	蓂	83
 beng5	儚	82
 beng5	覭	81
+beng7	bēng	101
 beng7	命	100
 beng7	孟	99
 beng7	蜢	98
@@ -16199,4 +16229,4 @@ ut8	鱊	93
 ut8	鷸	92
 END_TABlE
 
-### TODO: check from b***
+### TODO: continue from bi

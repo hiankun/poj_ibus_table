@@ -12,7 +12,7 @@ The table has only been created and tested in Ubuntu 14.04.
 * Prepare the cin table `poj-holo.cin`
 * Copy the file for editing:
   `$cp /usr/share/ibus-table/table/template.txt ibus_poj.txt`
-* Transform the cin table to meet the ibus format by using:
+* Convert the cin table to meet the ibus format by using:
   `$awk '/\%chardef begin/{f=1;next}/\%chardef end/{exit}f' poj-holo.cin | awk '{count[$1]++}{print $1"\t"$2"\t"101-count[$1]}' | tr '[A-Z]' '[a-z]' >> ibus_poj.txt`
 * Edit `ibus_poj.txt` to fit your need
 * Build the table:
