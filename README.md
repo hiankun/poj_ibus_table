@@ -15,6 +15,14 @@ The table has only been created and tested in Ubuntu 14.04.
 * Transform the cin table to meet the ibus format by using:
   `$awk '/\%chardef begin/{f=1;next}/\%chardef end/{exit}f' poj-holo.cin | awk '{count[$1]++}{print $1"\t"$2"\t"101-count[$1]}' | tr '[A-Z]' '[a-z]' >> ibus_poj.txt`
 * Edit `ibus_poj.txt` to fit your need
+* Build the table:
+  `$ibus-table-createdb -s ibus_poj.txt -n poj.db`
+* Copy the table to its working directory:
+  `$sudo cp poj.db /usr/share/ibus-table/tables/`
+* Restart IBus:
+  `$ibus-daemon -x -r -d`
+* Add POJ input method in the setup of IBus.
+  ![add poj in ibus](pics/add_poj_in_ibus.png)
 
 ## File list
 * poj-holo.cin: The original cin table, which contains only Han characters.
