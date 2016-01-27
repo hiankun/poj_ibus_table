@@ -37,6 +37,11 @@ The content of `ibus_poj.txt` is far than complete.
 What I plan to do is to add Lô-má-jī ahead of the Han characters.
 Any contributions/corrections/modifications/suggestions are welcome.
 
+## TODO
+* To add Lô-má-jī ahead of the Han characters.
+* To tune the usage frequency of some Han characters.
+
 ## Ref.
 * [ibus上安裝大易輸入法](http://120.114.52.240/~T093000298/blog?node=000000103)
 * [在 iBus 加入大易輸入法](http://jamyy.us.to/blog/2013/12/5653.html)
+
