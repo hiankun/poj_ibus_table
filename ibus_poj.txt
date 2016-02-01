@@ -58,7 +58,7 @@ VALID_INPUT_CHARS = -_\|/+,.:;`'"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJK
 LAYOUT = us
 
 ### The max number of input keys for every phrase or character.
-MAX_KEY_LENGTH = 4
+MAX_KEY_LENGTH = 10
 
 ### Use auto_commit mode as default
 AUTO_COMMIT = FALSE
@@ -184,6 +184,7 @@ ai2	ái	101
 ai3	ài	101
 ai5	âi	101
 ai7	āi	101
+ainn	aiⁿ	101
 ainn2	áiⁿ	101
 ainn3	àiⁿ	101
 ainn5	âiⁿ	101
@@ -381,7 +382,6 @@ ng6	ňg	101
 ng9	n̋g	101
 ngh6	ňgh	101
 ngh9	n̋gh	101
-nn	ⁿ	101
 o6	ŏ	101
 o9	ő	101
 oh6	ŏh	101
@@ -1359,6 +1359,8 @@ chai7	財	99
 chai7	載	98
 chai7	豸	97
 chai7	廌	96
+chainn	chaiⁿ	101
+chainn2	cháiⁿ	101
 chainn2	怎	100
 chainn2	指	99
 chainn2	宰	98
@@ -1369,18 +1371,25 @@ chainn2	笫	94
 chainn2	崽	93
 chainn2	縡	92
 chainn2	儦	91
+chak	chak	101
 chak	齪	100
+chak8	cha̍k	101
 chak8	族	100
+cham	cham	101
 cham	簪	100
 cham	臢	99
 cham	喒	98
+cham2	chám	101
 cham2	斬	100
 cham2	昝	99
 cham2	寁	98
 cham2	喒	97
 cham2	噆	96
+cham3	chàm	101
 cham3	蘸	100
+cham5	châm	101
 cham5	巉	100
+cham7	chām	101
 cham7	站	100
 cham7	斬	99
 cham7	塹	98
@@ -1388,12 +1397,15 @@ cham7	賺	97
 cham7	鏨	96
 cham7	詀	95
 cham7	槧	94
+chan	chan	101
 chan	曾	100
 chan	罾	99
+chan2	chán	101
 chan2	盞	100
 chan2	琖	99
 chan2	醆	98
 chan2	儹	97
+chan3	chàn	101
 chan3	站	100
 chan3	棧	99
 chan3	層	98
@@ -1408,29 +1420,39 @@ chan3	酇	90
 chan3	禶	89
 chan3	纘	88
 chan3	躦	87
+chan5	chân	101
 chan5	刺	100
 chan5	殘	99
 chan5	層	98
 chan5	戔	97
+chan7	chān	101
 chan7	贊	100
+chang	chang	101
 chang	棕	100
 chang	鬃	99
 chang	艐	98
 chang	騣	97
+chang2	cháng	101
 chang2	總	100
 chang2	鬃	99
+chang3	chàng	101
 chang3	粽	100
 chang3	綜	99
+chang5	châng	101
 chang5	叢	100
 chang5	藂	99
 chang5	欉	98
+chang7	chāng	101
+chann2	cháⁿ	101
 chann2	斬	100
 chann2	整	99
+chap8	cha̍p	101
 chap8	十	100
 chap8	卡	99
 chap8	拾	98
 chap8	雜	97
 chap8	磼	96
+chat	chat	101
 chat	扎	100
 chat	匝	99
 chat	札	98
@@ -1444,34 +1466,42 @@ chat	蚻	91
 chat	嘁	90
 chat	巀	89
 chat	囋	88
+chat8	cha̍t	101
 chat8	寂	100
 chat8	賊	99
 chat8	實	98
 chat8	寔	97
+chau	chau	101
 chau	焦	100
 chau	糟	99
 chau	燋	98
 chau	蹧	97
+chau2	cháu	101
 chau2	走	100
 chau2	草	99
 chau2	蚤	98
 chau2	笊	97
 chau2	蚧	96
+chau3	chàu	101
 chau3	灶	100
 chau3	奏	99
+chau5	châu	101
 chau5	巢	100
 chau5	剿	99
 chau5	勦	98
 chau5	漅	97
 chau5	窲	96
 chau5	轈	95
+chau7	chāu	101
 chau7	找	100
 chau7	桌	99
 chau7	掉	98
 chau7	棹	97
 chau7	櫂	96
 chau7	淖	95
+chauh8	cha̍uh	101
 chauh8	寂	100
+che	che	101
 che	查	100
 che	這	99
 che	掣	98
@@ -1487,6 +1517,7 @@ che	櫅	89
 che	齎	88
 che	虀	87
 che	齏	86
+che2	ché	101
 che2	姊	100
 che2	這	99
 che2	擠	98
@@ -1495,6 +1526,7 @@ che2	薺	96
 che2	泲	95
 che2	癠	94
 che2	鱭	93
+che3	chè	101
 che3	制	100
 che3	祭	99
 che3	債	98
@@ -1513,6 +1545,7 @@ che3	穄	86
 che3	簀	85
 che3	隮	84
 che3	穧	83
+che5	chê	101
 che5	齊	100
 che5	臍	99
 che5	嚌	98
@@ -1521,14 +1554,18 @@ che5	櫅	96
 che5	癠	95
 che5	艩	94
 che5	蠐	93
+che7	chē	101
 che7	坐	100
 che7	罪	99
 che7	寨	98
 che7	睡	97
 che7	砦	96
+cheh	cheh	101
 cheh	仄	100
 cheh	績	99
+cheh8	che̍h	101
 cheh8	絕	100
+chek	chek	101
 chek	仄	100
 chek	即	99
 chek	叔	98
@@ -1585,6 +1622,7 @@ chek	蹠	48
 chek	騭	47
 chek	鶺	46
 chek	魙	45
+chek8	che̍k	101
 chek8	柞	100
 chek8	疾	99
 chek8	嫉	98
@@ -1596,7 +1634,8 @@ chek8	耤	93
 chek8	蒺	92
 chek8	簎	91
 chek8	蠈	90
-chek88	寂	100
+chek8	寂	89
+cheng	cheng	101
 cheng	正	100
 cheng	征	99
 cheng	怔	98
@@ -1651,6 +1690,7 @@ cheng	鶄	50
 cheng	騬	49
 cheng	鼱	48
 cheng	鬙	47
+cheng2	chéng	101
 cheng2	井	100
 cheng2	腫	99
 cheng2	種	98
@@ -1659,6 +1699,7 @@ cheng2	丼	96
 cheng2	殄	95
 cheng2	晸	94
 cheng2	煄	93
+cheng3	chèng	101
 cheng3	正	100
 cheng3	政	99
 cheng3	症	98
@@ -1670,12 +1711,14 @@ cheng3	諍	93
 cheng3	薦	92
 cheng3	證	91
 cheng3	眐	90
+cheng5	chêng	101
 cheng5	前	100
 cheng5	情	99
 cheng5	晴	98
 cheng5	曾	97
 cheng5	層	96
 cheng5	嶒	95
+cheng7	chēng	101
 cheng7	阱	100
 cheng7	淨	99
 cheng7	睜	98
@@ -1691,6 +1734,7 @@ cheng7	靚	89
 cheng7	甑	88
 cheng7	蹭	87
 chh2	泚	100
+chha	chha	101
 chha	叉	100
 chha	岔	99
 chha	差	98
@@ -1702,8 +1746,10 @@ chha	茈	93
 chha	嗏	92
 chha	溠	91
 chha	艖	90
+chha2	chhá	101
 chha2	吵	100
 chha2	炒	99
+chha3	chhà	101
 chha3	吒	100
 chha3	吵	99
 chha3	鈔	98
@@ -1711,6 +1757,7 @@ chha3	詫	97
 chha3	侘	96
 chha3	衩	95
 chha3	瘥	94
+chha5	chhâ	101
 chha5	材	100
 chha5	查	99
 chha5	柴	98
@@ -1720,14 +1767,18 @@ chha5	搽	95
 chha5	薪	94
 chha5	秅	93
 chha5	喍	92
+chha7	chhā	101
 chha7	吵	100
+chhah	chhah	101
 chhah	插	100
 chhah	鍤	99
+chhai	chhai	101
 chhai	猜	100
 chhai	釵	99
 chhai	杈	98
 chhai	偲	97
 chhai	啋	96
+chhai2	chhái	101
 chhai2	采	100
 chhai2	彩	99
 chhai2	採	98
@@ -1736,6 +1787,7 @@ chhai2	綵	96
 chhai2	寀	95
 chhai2	棌	94
 chhai2	跴	93
+chhai3	chhài	101
 chhai3	采	100
 chhai3	菜	99
 chhai3	蔡	98
@@ -1743,6 +1795,7 @@ chhai3	埰	97
 chhai3	瘵	96
 chhai3	縩	95
 chhai3	蠆	94
+chhai5	chhâi	101
 chhai5	才	100
 chhai5	材	99
 chhai5	柴	98
@@ -1752,11 +1805,16 @@ chhai5	裁	95
 chhai5	儕	94
 chhai5	纔	93
 chhai5	祡	92
+chhai7	chhāi	101
 chhai7	在	100
 chhai7	祀	99
+chhainn2	chháiⁿ	101
 chhainn2	彩	100
+chhainn3	chhàiⁿ	101
 chhainn3	襯	100
+chhak8	chha̍k	101
 chhak8	鑿	100
+chham	chham	101
 chham	參	100
 chham	摻	99
 chham	墋	98
@@ -16319,4 +16377,4 @@ ut8	鱊	93
 ut8	鷸	92
 END_TABlE
 
-### TODO: continue from chainn2
+### TODO: continue from chham2
