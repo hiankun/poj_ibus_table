@@ -2246,7 +2246,9 @@ chhin	人	100
 chhin	新	99
 chhin	親	98
 chhin	儭	97
+chhin2	chhín	101
 chhin2	齔	100
+chhin3	chhìn	101
 chhin3	且	100
 chhin3	秤	99
 chhin3	櫬	98
@@ -2254,6 +2256,7 @@ chhin3	襯	97
 chhin3	凊	96
 chhin3	儭	95
 chhin3	嚫	94
+chhinn	chhiⁿ	101
 chhinn	生	100
 chhinn	青	99
 chhinn	星	98
@@ -2265,18 +2268,26 @@ chhinn	腥	93
 chhinn	親	92
 chhinn	鮮	91
 chhinn	蘚	90
-chhinn2	淺	100
-chhinn2	醒	99
+chhinn2	chhíⁿ	101
+chhinn2	醒	100
+chhinn2	淺	99
+chhio	chhio	101
 chhio	哨	100
+chhio3	chhiò	101
 chhio3	笑	100
+chhio5	chhiô	101
 chhio5	蟯	100
+chhio7	chhiō	101
 chhio7	照	100
+chhioh	chhioh	101
 chhioh	尺	100
 chhioh	跡	99
 chhioh	螫	98
 chhioh	蹟	97
 chhioh	臅	96
+chhioh8	chhio̍h	101
 chhioh8	蓆	100
+chhiok	chhiok	101
 chhiok	促	100
 chhiok	斫	99
 chhiok	捉	98
@@ -2323,7 +2334,9 @@ chhiok	灂	58
 chhiok	顣	57
 chhiok	穱	56
 chhiok	齱	55
+chhiok8	chhio̍k	101
 chhiok8	摶	100
+chhiong	chhiong	101
 chhiong	充	100
 chhiong	沖	99
 chhiong	昌	98
@@ -2360,6 +2373,7 @@ chhiong	蹌	68
 chhiong	蹡	67
 chhiong	鏦	66
 chhiong	鶬	65
+chhiong2	chhióng	101
 chhiong2	悚	100
 chhiong2	敞	99
 chhiong2	搶	98
@@ -2372,6 +2386,7 @@ chhiong2	昶	92
 chhiong2	竦	91
 chhiong2	傸	90
 chhiong2	磢	89
+chhiong3	chhiòng	101
 chhiong3	倡	100
 chhiong3	笑	99
 chhiong3	唱	98
@@ -2381,6 +2396,7 @@ chhiong3	縱	95
 chhiong3	揰	94
 chhiong3	銃	93
 chhiong3	瘲	92
+chhiong5	chhiông	101
 chhiong5	戕	100
 chhiong5	檣	99
 chhiong5	牆	98
@@ -2389,8 +2405,10 @@ chhiong5	嬙	96
 chhiong5	廧	95
 chhiong5	蘠	94
 chhiong5	墻	93
+chhiong7	chhiōng	101
 chhiong7	匠	100
 chhiong7	趟	99
+chhip	chhip	101
 chhip	揖	100
 chhip	戢	99
 chhip	楫	98
@@ -2406,12 +2424,14 @@ chhip	諿	89
 chhip	蕺	88
 chhip	蹐	87
 chhip	霵	86
+chhit	chhit	101
 chhit	七	100
 chhit	拭	99
 chhit	柒	98
 chhit	漆	97
 chhit	嚙	96
 chhit	囓	95
+chhiu	chhiu	101
 chhiu	抽	100
 chhiu	秋	99
 chhiu	啾	98
@@ -2428,22 +2448,27 @@ chhiu	瞅	88
 chhiu	僽	87
 chhiu	緧	86
 chhiu	鶖	85
+chhiu2	chhiú	101
 chhiu2	手	100
 chhiu2	帚	99
 chhiu2	首	98
 chhiu2	醜	97
+chhiu3	chhiù	101
 chhiu3	皺	100
 chhiu3	縐	99
 chhiu3	偢	98
 chhiu3	甃	97
 chhiu3	簉	96
-chhiu5	愀	100
+chhiu5	chhiû	101
+chhiu5	愁	100
 chhiu5	揪	99
-chhiu5	愁	98
+chhiu5	愀	98
 chhiu5	揫	97
 chhiu5	詶	96
-chhiu7	楊	100
-chhiu7	樹	99
+chhiu7	chhiū	101
+chhiu7	樹	100
+chhiu7	楊	99
+chhiunn	chhiuⁿ	101
 chhiunn	匠	100
 chhiunn	象	99
 chhiunn	鎗	98
@@ -6480,6 +6505,7 @@ in7	垽	95
 in7	媵	94
 in7	勩	93
 in7	酳	92
+inn	iⁿ	101
 inn	英	100
 inn	嚶	99
 inn	殔	98
@@ -6497,21 +6523,30 @@ inn7	院	98
 inn7	異	97
 inn7	肄	96
 inn7	异	95
+io	io	101
 io	育	100
 io	腰	99
 io	邀	98
+io2	ió	101
 io2	毆	100
 io2	敺	99
+io3	iò	101
+io5	iô	101
 io5	姚	100
 io5	搖	99
 io5	窯	98
+io7	iō	101
+ioh	ioh	101
 ioh	約	100
 ioh	喲	99
 ioh	虳	98
+ioh8	io̍h	101
 ioh8	藥	100
 ioh8	鑰	99
+iok	iok	101
 iok	約	100
 iok	喲	99
+iok8	io̍k	101
 iok8	育	100
 iok8	昱	99
 iok8	唷	98
@@ -6540,6 +6575,7 @@ iok8	趯	76
 iok8	禴	75
 iok8	韣	74
 iok8	鬻	73
+iong	iong	101
 iong	央	100
 iong	泱	99
 iong	殃	98
@@ -6563,10 +6599,11 @@ iong	廱	81
 iong	灉	80
 iong	饔	79
 iong	癰	78
-iong2	甬	100
+iong2	ióng	101
+iong2	勇	100
 iong2	臾	99
 iong2	俑	98
-iong2	勇	97
+iong2	甬	97
 iong2	涌	96
 iong2	湧	95
 iong2	蛹	94
@@ -6585,6 +6622,7 @@ iong2	筩	82
 iong2	踊	81
 iong2	懩	80
 iong2	瀁	79
+iong3	iòng	101
 iong3	怏	100
 iong3	泱	99
 iong3	映	98
@@ -6594,6 +6632,7 @@ iong3	壅	95
 iong3	擁	94
 iong3	甕	93
 iong3	佒	92
+iong5	iông	101
 iong5	羊	100
 iong5	佯	99
 iong5	徉	98
@@ -6633,6 +6672,7 @@ iong5	顒	65
 iong5	瀜	64
 iong5	鏞	63
 iong5	鰫	62
+iong7	iōng	101
 iong7	用	100
 iong7	恙	99
 iong7	漾	98
@@ -6641,6 +6681,7 @@ iong7	養	96
 iong7	癢	95
 iong7	羕	94
 iong7	瀁	93
+ip	ip	101
 ip	邑	100
 ip	浥	99
 ip	揖	98
@@ -6653,6 +6694,7 @@ ip	挹	92
 ip	圔	91
 ip	裛	90
 ip	熠	89
+it	it	101
 it	一	100
 it	乙	99
 it	壹	98
@@ -6661,6 +6703,7 @@ it	憶	96
 it	汩	95
 it	鳦	94
 it	饐	93
+iu	iu	101
 iu	攸	100
 iu	幽	99
 iu	憂	98
@@ -6673,6 +6716,7 @@ iu	懮	92
 iu	鄾	91
 iu	櫌	90
 iu	耰	89
+iu2	iú	101
 iu2	友	100
 iu2	右	99
 iu2	有	98
@@ -6689,7 +6733,9 @@ iu2	栯	88
 iu2	貁	87
 iu2	戭	86
 iu2	懮	85
+iu3	iù	101
 iu3	幼	100
+iu5	iû	101
 iu5	尤	100
 iu5	由	99
 iu5	攸	98
@@ -6728,6 +6774,7 @@ iu5	蝤	66
 iu5	蕕	65
 iu5	輶	64
 iu5	繇	63
+iu7	iū	101
 iu7	又	100
 iu7	右	99
 iu7	有	98
@@ -6745,9 +6792,12 @@ iu7	姷	87
 iu7	栯	86
 iu7	痏	85
 iu7	褎	84
+iunn	iuⁿ	101
 iunn	鴦	100
 iunn	螉	99
+iunn2	iúⁿ	101
 iunn2	養	100
+iunn5	iûⁿ	101
 iunn5	羊	100
 iunn5	洋	99
 iunn5	庸	98
@@ -6755,6 +6805,7 @@ iunn5	陽	97
 iunn5	楊	96
 iunn5	瘍	95
 iunn5	鎔	94
+iunn7	iūⁿ	101
 iunn7	樣	100
 je5	摧	100
 jeng5	仍	100
@@ -16459,4 +16510,4 @@ ut8	鱊	93
 ut8	鷸	92
 END_TABlE
 
-### TODO: continue from chhin
+### TODO: continue from chhiunn
