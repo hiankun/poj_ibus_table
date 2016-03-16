@@ -19,6 +19,8 @@ The table has only been created and tested in Ubuntu 14.04.
   `$ibus-table-createdb -s ibus_poj.txt -n poj.db`
 * Copy the table to its working directory:
   `$sudo cp poj.db /usr/share/ibus-table/tables/`
+* Add the icon:
+  `sudo cp pics/ibus-poj.svg /usr/share/ibus-table/icons/`
 * Restart IBus:
   `$ibus-daemon -x -r -d`
 * Add POJ input method in the setup of IBus.
