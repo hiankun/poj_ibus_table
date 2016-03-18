@@ -7367,11 +7367,15 @@ jian2	橪	100
 jian5	jiân	101
 jian5	然	100
 jian5	燃	99
+jiang2	jiáng	101
 jiang2	冗	100
+jiap8	jia̍p	101
 jiap8	廿	100
 jiap8	顳	99
+jiat8	jia̍t	101
 jiat8	熱	100
 jiat8	爇	99
+jiau2	jiáu	101
 jiau2	爪	100
 jiau2	抓	99
 jiau2	搔	98
@@ -7379,9 +7383,11 @@ jiau2	嬈	97
 jiau2	擾	96
 jiau2	繞	95
 jiau2	遶	94
+jiau3	jiàu	101
 jiau3	抓	100
 jiau3	皺	99
 jiau3	縐	98
+jiau5	jiâu	101
 jiau5	嬈	100
 jiau5	澆	99
 jiau5	皺	98
@@ -7393,14 +7399,19 @@ jiau5	蕘	93
 jiau5	遶	92
 jiau5	襓	91
 jiau5	鱙	90
+jiau7	jiāu	101
 jiau7	尿	100
 jiau7	溺	99
+jiaunn2	jiáuⁿ	101
 jiaunn2	爪	100
 jiaunn2	鳥	99
+jih8	ji̍h	101
 jih8	廿	100
 jih8	扼	99
+jim	jim	101
 jim	肕	100
 jim	恁	99
+jim2	jím	101
 jim2	忍	100
 jim2	涊	99
 jim2	荏	98
@@ -7412,10 +7423,12 @@ jim2	恁	93
 jim2	荵	92
 jim2	棯	91
 jim2	腍	90
+jim5	iîm	101
 jim5	壬	100
 jim5	任	99
 jim5	尋	98
 jim5	紝	97
+jim7	jīm	101
 jim7	刃	100
 jim7	仞	99
 jim7	任	98
@@ -7428,13 +7441,16 @@ jim7	潯	92
 jim7	牣	91
 jim7	訒	90
 jim7	鵀	89
+jin5	jîn	101
 jin5	人	100
 jin5	儿	99
 jin5	仁	98
 jin5	紉	97
 jin5	齦	96
 jin5	芢	95
+jin7	jīn	101
 jin7	認	100
+jinn2	jíⁿ	101
 jinn2	耳	100
 jinn2	你	99
 jinn2	洱	98
@@ -7444,9 +7460,13 @@ jinn2	尒	95
 jinn2	珥	94
 jinn2	駬	93
 jinn2	禰	92
+jio5	jiô	101
 jio5	橈	100
+jio7	jiō	101
 jio7	尿	100
+jioh8	jio̍h	101
 jioh8	弱	100
+jiok8	jio̍k	101
 jiok8	肉	100
 jiok8	若	99
 jiok8	弱	98
@@ -7465,6 +7485,7 @@ jiok8	蓐	86
 jiok8	蒻	85
 jiok8	箬	84
 jiok8	縟	83
+jiong2	jióng	101
 jiong2	冗	100
 jiong2	茸	99
 jiong2	嚷	98
@@ -7474,7 +7495,9 @@ jiong2	攘	95
 jiong2	傇	94
 jiong2	軵	93
 jiong2	穰	92
+jiong3	jiòng	101
 jiong3	釀	100
+jiong5	jiông	101
 jiong5	戎	100
 jiong5	茸	99
 jiong5	絨	98
@@ -7497,12 +7520,16 @@ jiong5	蘘	82
 jiong5	穰	81
 jiong5	纕	80
 jiong5	鬤	79
+jiong7	jiōng	101
 jiong7	攘	100
 jiong7	讓	99
+jip8	ji̍p	101
 jip8	入	100
+jit8	ji̍t	101
 jit8	日	100
 jit8	衵	99
 jit8	馹	98
+jiu2	jiú	101
 jiu2	揉	100
 jiu2	蹂	99
 jiu2	鞣	98
@@ -7512,6 +7539,7 @@ jiu2	楺	95
 jiu2	煣	94
 jiu2	糅	93
 jiu2	輮	92
+jiu5	jiû	101
 jiu5	柔	100
 jiu5	硫	99
 jiu5	揉	98
@@ -17038,4 +17066,4 @@ ut8	鱊	93
 ut8	鷸	92
 END_TABlE
 
-### TODO: continue from jian5
+### TODO: continue from jo5
