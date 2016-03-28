@@ -2679,8 +2679,10 @@ chhoe	初	99
 chhoe2	chhóe	101
 chhoe3	chhòe	101
 chhoe3	刷	100
+chhoe7	chhōe	101
 chhoeh	chhoeh	101
 chhoeh	慼	100
+chhoeh8	chho̍eh	101
 chhok	chhok	101
 chhok	昔	100
 chhok	厝	99
@@ -4353,9 +4355,9 @@ geng7	迎	100
 geng7	勁	99
 geng7	硬	98
 gi2	gí	101
-gi2	捏	100
+gi2	蟻	100
 gi2	擬	99
-gi2	蟻	98
+gi2	捏	98
 gi2	掜	97
 gi2	儗	96
 gi2	螘	95
