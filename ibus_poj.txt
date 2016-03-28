@@ -7949,6 +7949,7 @@ kang3	絳	99
 kang3	壙	98
 kang3	洚	97
 kang3	蝀	96
+kang5	kâng	101
 kang7	kāng	101
 kang7	共	100
 kann	kaⁿ	101
@@ -12149,6 +12150,7 @@ nau5	鐃	100
 nau5	怓	99
 nau7	nāu	101
 nau7	鬧	100
+ne	ne	101
 ne2	né	101
 ne2	奶	100
 ne2	妳	99
