@@ -4795,8 +4795,7 @@ hai2	駭	98
 hai2	醢	97
 hai3	hài	101
 hai3	屝	100
-Hai5	Âi	102
-hai5	âi	101
+hai5	hâi	101
 hai5	咳	100
 hai5	孩	99
 hai5	械	98
@@ -5559,9 +5558,9 @@ hng	坊	99
 hng	昏	98
 hng	荒	97
 hng5	hn̂g	101
-hng5	何	100
+hng5	園	100
 hng5	黃	99
-hng5	園	98
+hng5	何	98
 hng7	hn̄g	101
 hng7	遠	100
 hng7	圂	99
