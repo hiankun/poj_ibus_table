@@ -61,10 +61,10 @@ LAYOUT = us
 MAX_KEY_LENGTH = 10
 
 ### Use auto_commit mode as default
-AUTO_COMMIT = FALSE
+AUTO_COMMIT = TRUE
 
 ### Automatically selects the first phrase when typing
-AUTO_SELECT = FALSE
+AUTO_SELECT = TRUE
 
 ### Use full width punctuation by default
 DEF_FULL_WIDTH_PUNCT = FALSE
@@ -74,7 +74,7 @@ DEF_FULL_WIDTH_LETTER = FALSE
 ### Whether user are allow to define phrase, default is true
 ### You have to define the word construction rules below.
 ### For input methods which do not input phrases, set this to False
-USER_CAN_DEFINE_PHRASE = TRUE
+USER_CAN_DEFINE_PHRASE = FALSE
 
 ### Whether support PinYin Mode, default is true.
 ### this feature is just for Chinese, set it to False if your IM is not
@@ -83,7 +83,7 @@ PINYIN_MODE = FALSE
 
 ### If true then the phrases' frequencies will be adjusted dynamically
 ### according your using frequency.
-DYNAMIC_ADJUST = FALSE 
+DYNAMIC_ADJUST = TRUE 
 
 ### Some characters whose frequencies should be fix all the time, e.g. 
 ### some punctuations
@@ -5261,6 +5261,7 @@ hia	瓠	99
 hia	靴	98
 hia7	hiā	101
 hia7	瓦	100
+hiah	hiah	101
 hiah8	hia̍h	101
 hiah8	額	100
 hiam	hiam	101
@@ -5418,6 +5419,7 @@ hiau	鴞	83
 hiau2	hiáu	101
 hiau2	曉	100
 hiau2	膮	99
+hiau3	hiàu	101
 hiau5	hiâu	101
 hiau5	膮	100
 hih	hih	101
@@ -7964,6 +7966,7 @@ kang7	共	100
 kann	kaⁿ	101
 kann	監	100
 kann	橄	99
+kann2	káⁿ	101
 kann3	kàⁿ	101
 kann3	酵	100
 kann5	kâⁿ	101
@@ -18585,4 +18588,4 @@ ut8	鱊	93
 ut8	鷸	92
 END_TABlE
 
-### TODO: Onnh8
+### TODO: change 123 to asd
