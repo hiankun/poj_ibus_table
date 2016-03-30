@@ -117,38 +117,38 @@ END_DEFINITION
 ### the key combination you want; the 3rd column are frequency of the character
 ### or phrase.
 BEGIN_TABLE
--	-	1
-'	'	1
-`	`	1
-^	^	1
-=	=	1
-|	|	1
-A	A	1
-B	B	1
-C	C	1
-D	D	1
-E	E	1
-F	F	1
-G	G	1
-H	H	1
-I	I	1
-J	J	1
-K	K	1
-L	L	1
-M	M	1
-N	N	1
-O	O	1
-P	P	1
-Q	Q	1
-R	R	1
-S	S	1
-T	T	1
-U	U	1
-V	V	1
-W	W	1
-X	X	1
-Y	Y	1
-Z	Z	1
+-	-	101
+'	'	101
+`	`	101
+^	^	101
+=	=	101
+|	|	101
+A	A	101
+B	B	101
+C	C	101
+D	D	101
+E	E	101
+F	F	101
+G	G	101
+H	H	101
+I	I	101
+J	J	101
+K	K	101
+L	L	101
+M	M	101
+N	N	101
+O	O	101
+P	P	101
+Q	Q	101
+R	R	101
+S	S	101
+T	T	101
+U	U	101
+V	V	101
+W	W	101
+X	X	101
+Y	Y	101
+Z	Z	101
 a	a	101
 b	b	101
 c	c	101
@@ -18586,6 +18586,6 @@ ut8	繘	95
 ut8	驈	94
 ut8	鱊	93
 ut8	鷸	92
-END_TABlE
+END_TABLE
 
 ### TODO: change 123 to asd
