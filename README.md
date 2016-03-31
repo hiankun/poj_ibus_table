@@ -28,9 +28,8 @@ The table has only been created and tested in Ubuntu 14.04.
 
 ## File list
 * poj-holo.cin: The original cin table, which contains only Han characters.
-* ibus_poj_all.txt: The file used to create the POJ table.
-* ibus_poj_all_asd.txt: Using ``asdf...'' instead of ``1234...'' as the input keys, so that the number keys can be used to select between listed words.
-* ibus_poj_lomaji.txt: This file has only Lo-ma-ji (no Han characters).
+* ibus_han_poj_123.txt: The file used to create the POJ table.
+* ibus_han_poj_asd.txt: Using ``asdfzxcv'' instead of ``12345678'' as the input keys, so that the number keys can be used to select between listed words.
 * poj.db: The ibus table generated from ibus_poj.txt.
 * ibus-poj.svg: The icon file.
 * lomaji.py: The original file which contains the (incomplete) POJ unicode list.
