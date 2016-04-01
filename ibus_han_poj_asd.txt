@@ -17698,6 +17698,7 @@ tiunnd	脹	99
 tiunnd	漲	98
 tiunnc	tiūⁿ	101
 tiunnc	丈	100
+tnga	tng	101
 tngs	tńg	101
 tngs	返	100
 tngs	轉	99

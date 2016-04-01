@@ -17698,6 +17698,7 @@ tiunn3	脹	99
 tiunn3	漲	98
 tiunn7	tiūⁿ	101
 tiunn7	丈	100
+tng	tng	101
 tng2	tńg	101
 tng2	返	100
 tng2	轉	99
