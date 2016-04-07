@@ -10800,6 +10800,7 @@ lec	禲	75
 lec	糲	74
 lec	鱱	73
 lec	鱺	72
+lehf	leh	101
 lehv	le̍h	101
 lehv	裂	100
 lehv	靂	99

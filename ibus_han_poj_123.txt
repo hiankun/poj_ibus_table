@@ -10800,6 +10800,7 @@ le7	禲	75
 le7	糲	74
 le7	鱱	73
 le7	鱺	72
+leh	leh	101
 leh8	le̍h	101
 leh8	裂	100
 leh8	靂	99
