@@ -5334,6 +5334,7 @@ hiangs	hiáng	101
 hiangs	響	100
 hianna	hiaⁿ	101
 hianna	兄	100
+hianns	hiáⁿ	101
 hiannd	hiàⁿ	101
 hiannd	向	100
 hiannz	hiâⁿ	101

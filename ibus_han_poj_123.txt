@@ -5334,6 +5334,7 @@ hiang2	hiáng	101
 hiang2	響	100
 hiann	hiaⁿ	101
 hiann	兄	100
+hiann2	hiáⁿ	101
 hiann3	hiàⁿ	101
 hiann3	向	100
 hiann5	hiâⁿ	101
