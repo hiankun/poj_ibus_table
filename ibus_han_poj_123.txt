@@ -4807,6 +4807,8 @@ hai7	韰	86
 hai7	薤	85
 hai7	瀣	84
 hai7	齘	83
+hainn	haiⁿ	101
+hainn3	hàiⁿ	101
 hak	hak	101
 hak	嗀	100
 hak	觳	99

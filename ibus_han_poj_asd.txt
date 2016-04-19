@@ -4807,6 +4807,8 @@ haic	韰	86
 haic	薤	85
 haic	瀣	84
 haic	齘	83
+hainna	haiⁿ	101
+hainnd	hàiⁿ	101
 hakf	hak	101
 hakf	嗀	100
 hakf	觳	99
