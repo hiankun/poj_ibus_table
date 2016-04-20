@@ -12028,6 +12028,8 @@ moaz	môa	101
 moaz	麻	100
 moaz	瞞	99
 moaz	鰻	98
+moea	moe	101
+moec	mōe	101
 mohv	mo̍h	101
 mohv	木	100
 mohv	膜	99
