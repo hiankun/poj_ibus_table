@@ -11953,6 +11953,7 @@ mac	禡	96
 mais	mái	101
 mais	買	100
 mais	嘪	99
+maid	mài	101
 maic	māi	101
 maic	袂	100
 maic	賣	99

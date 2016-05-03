@@ -11953,6 +11953,7 @@ ma7	禡	96
 mai2	mái	101
 mai2	買	100
 mai2	嘪	99
+mai3	mài	101
 mai7	māi	101
 mai7	袂	100
 mai7	賣	99
