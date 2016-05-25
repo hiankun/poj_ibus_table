@@ -14630,6 +14630,11 @@ sek8	穸	92
 sek8	祏	91
 sek8	褯	90
 sek8	鼫	89
+senn	seⁿ	101
+senn2	séⁿ	101
+senn3	sèⁿ	101
+senn5	sêⁿ	101
+senn7	sēⁿ	101
 seng	seng	101
 seng	升	100
 seng	生	99
