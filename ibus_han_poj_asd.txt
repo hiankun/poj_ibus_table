@@ -7607,7 +7607,7 @@ jiuz	輮	90
 jiuz	鰇	89
 joz	jô	101
 joz	陶	100
-joac	若	101
+joac	jōa	101
 joac	若	100
 joahv	joa̍h	101
 joahv	熱	100
@@ -11954,6 +11954,7 @@ mac	禡	96
 mais	mái	101
 mais	買	100
 mais	嘪	99
+maid	mài	101
 maic	māi	101
 maic	袂	100
 maic	賣	99
@@ -14630,6 +14631,11 @@ sekv	穸	92
 sekv	祏	91
 sekv	褯	90
 sekv	鼫	89
+senna	seⁿ	101
+senns	séⁿ	101
+sennd	sèⁿ	101
+sennz	sêⁿ	101
+sennc	sēⁿ	101
 senga	seng	101
 senga	升	100
 senga	生	99

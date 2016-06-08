@@ -7607,7 +7607,7 @@ jiu5	輮	90
 jiu5	鰇	89
 jo5	jô	101
 jo5	陶	100
-joa7	若	101
+joa7	jōa	101
 joa7	若	100
 joah8	joa̍h	101
 joah8	熱	100
@@ -11954,6 +11954,7 @@ ma7	禡	96
 mai2	mái	101
 mai2	買	100
 mai2	嘪	99
+mai3	mài	101
 mai7	māi	101
 mai7	袂	100
 mai7	賣	99
@@ -14630,6 +14631,11 @@ sek8	穸	92
 sek8	祏	91
 sek8	褯	90
 sek8	鼫	89
+senn	seⁿ	101
+senn2	séⁿ	101
+senn3	sèⁿ	101
+senn5	sêⁿ	101
+senn7	sēⁿ	101
 seng	seng	101
 seng	升	100
 seng	生	99
