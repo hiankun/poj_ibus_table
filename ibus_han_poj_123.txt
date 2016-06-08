@@ -5504,6 +5504,7 @@ hip	闟	96
 hit	hit	101
 hit	彼	100
 hit	瞲	99
+hit8	hi̍t	101
 hiu	hiu	101
 hiu	休	100
 hiu	咻	99

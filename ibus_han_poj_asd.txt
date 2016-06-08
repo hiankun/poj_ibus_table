@@ -5504,6 +5504,7 @@ hipf	闟	96
 hitf	hit	101
 hitf	彼	100
 hitf	瞲	99
+hitv	hi̍t	101
 hiua	hiu	101
 hiua	休	100
 hiua	咻	99
