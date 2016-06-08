@@ -11588,6 +11588,7 @@ loe7	內	100
 loe7	鱱	99
 loeh8	lo̍eh	101
 loeh8	笠	100
+louh	lo͘h	101
 loh	loh	101
 loh8	lo̍h	101
 loh8	絡	100
@@ -12689,6 +12690,8 @@ Oeh8	O̍eh	102
 oeh8	o̍eh	101
 oeh8	狹	100
 oeh8	陜	99
+Ouh	O͘h	102
+ouh	o͘h	101
 oh	oh	101
 oh	難	100
 Oh8	O̍h	102
