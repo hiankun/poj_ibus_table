@@ -10885,7 +10885,7 @@ lengs	嶺	96
 lengs	濘	95
 lengd	lèng	101
 lengd	踜	100
-lengz	lēng	101
+lengz	lêng	101
 lengz	令	100
 lengz	伶	99
 lengz	冷	98
