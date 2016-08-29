@@ -52,7 +52,9 @@ AUTHOR = thk <hiankun@gmail.com>
 STATUS_PROMPT = 台
 
 ### Valid input chars.
-VALID_INPUT_CHARS = -_\|/+,.:;`'"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+#VALID_INPUT_CHARS = -_\|/+,.:;`'"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+
 
 ### Layout
 LAYOUT = us
@@ -18601,4 +18603,3 @@ utv	鱊	93
 utv	鷸	92
 END_TABLE
 
-### TODO: change 123 to asd
