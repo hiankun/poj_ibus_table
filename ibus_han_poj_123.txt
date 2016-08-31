@@ -13535,6 +13535,7 @@ phoe3	phòe	101
 phoe3	紕	100
 phoe3	配	99
 phoe5	phôe	101
+phoe5	皮	100
 phoe7	phōe	101
 phoe7	菩	100
 phoe7	稗	99

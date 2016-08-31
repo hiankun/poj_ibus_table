@@ -13535,6 +13535,7 @@ phoed	phòe	101
 phoed	紕	100
 phoed	配	99
 phoez	phôe	101
+phoez	皮	100
 phoec	phōe	101
 phoec	菩	100
 phoec	稗	99
