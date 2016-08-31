@@ -53,7 +53,7 @@ STATUS_PROMPT = 台
 
 ### Valid input chars.
 #VALID_INPUT_CHARS = -_\|/+,.:;`'"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
-VALID_INPUT_CHARS = ,.0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+VALID_INPUT_CHARS = -,.0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 ### Layout
@@ -63,7 +63,7 @@ LAYOUT = us
 MAX_KEY_LENGTH = 10
 
 ### Use auto_commit mode as default
-AUTO_COMMIT = FALSE
+AUTO_COMMIT = TRUE
 
 ### Automatically selects the first phrase when typing
 AUTO_SELECT = TRUE
@@ -105,9 +105,11 @@ DYNAMIC_ADJUST = TRUE
 
 ### The key strokes to page up the lookup table.
 ### PAGE_UP_KEYS = Page_Up,KP_Page_Up,minus,comma
+PAGE_UP_KEYS = Page_Up,KP_Page_Up
 
 ### The key strokes to page down.
 ### PAGE_DOWN_KEYS = Page_Down,KP_Page_Down,equal,period
+PAGE_DOWN_KEYS = Page_Down,KP_Page_Down
 
 END_DEFINITION
 
