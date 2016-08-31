@@ -53,7 +53,7 @@ STATUS_PROMPT = 台
 
 ### Valid input chars.
 #VALID_INPUT_CHARS = -_\|/+,.:;`'"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
-VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+VALID_INPUT_CHARS = ,.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 ### Layout
@@ -119,6 +119,10 @@ END_DEFINITION
 ### the key combination you want; the 3rd column are frequency of the character
 ### or phrase.
 BEGIN_TABLE
+,	，	2
+,	,	1
+.	。	2
+.	.	1
 -	-	1
 '	'	1
 `	`	1
@@ -4347,16 +4351,17 @@ gengc	迎	100
 gengc	勁	99
 gengc	硬	98
 gis	gí	101
-gis	蟻	100
-gis	擬	99
-gis	捏	98
-gis	掜	97
-gis	儗	96
-gis	螘	95
-gis	檥	94
-gis	薿	93
-gis	艤	92
-gis	譺	91
+gis	語	100
+gis	蟻	99
+gis	擬	98
+gis	捏	97
+gis	掜	96
+gis	儗	95
+gis	螘	94
+gis	檥	93
+gis	薿	92
+gis	艤	91
+gis	譺	90
 giz	gî	101
 giz	宜	100
 giz	枇	99
