@@ -5833,10 +5833,11 @@ hoe	豗	96
 hoe	蘤	95
 hoe	隳	94
 hoe2	hóe	101
-hoe2	悔	100
-hoe2	賄	99
-hoe2	瘣	98
-hoe2	燘	97
+hoe2	火	100
+hoe2	悔	99
+hoe2	賄	98
+hoe2	瘣	97
+hoe2	燘	96
 hoe3	hòe	101
 hoe3	化	100
 hoe3	沫	99

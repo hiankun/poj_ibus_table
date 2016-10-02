@@ -5833,10 +5833,11 @@ hoea	豗	96
 hoea	蘤	95
 hoea	隳	94
 hoes	hóe	101
-hoes	悔	100
-hoes	賄	99
-hoes	瘣	98
-hoes	燘	97
+hoes	火	100
+hoes	悔	99
+hoes	賄	98
+hoes	瘣	97
+hoes	燘	96
 hoed	hòe	101
 hoed	化	100
 hoed	沫	99
