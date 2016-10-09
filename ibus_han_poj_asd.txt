@@ -16266,6 +16266,7 @@ tea	羝	93
 tea	磾	92
 tes	té	101
 tes	短	100
+tes	底	99
 ted	tè	101
 ted	地	100
 ted	帝	99
