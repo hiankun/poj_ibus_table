@@ -10028,6 +10028,7 @@ koanz	顴	89
 koanc	koān	101
 koanc	倦	100
 koanc	惓	99
+koanc	縣	1
 koanna	koaⁿ	101
 koanna	杆	100
 koanna	肝	99
@@ -17622,6 +17623,7 @@ tioc	趙	100
 tioc	銚	99
 tiohv	tio̍h	101
 tiohv	著	100
+tiohv	着	1
 tiokf	tiok	101
 tiokf	竹	100
 tiokf	竺	99

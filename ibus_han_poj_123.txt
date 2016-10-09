@@ -10028,6 +10028,7 @@ koan5	顴	89
 koan7	koān	101
 koan7	倦	100
 koan7	惓	99
+koan7	縣	1
 koann	koaⁿ	101
 koann	杆	100
 koann	肝	99
@@ -17622,6 +17623,7 @@ tio7	趙	100
 tio7	銚	99
 tioh8	tio̍h	101
 tioh8	著	100
+tioh8	着	1
 tiok	tiok	101
 tiok	竹	100
 tiok	竺	99
