@@ -4616,6 +4616,8 @@ goe7	gōe	101
 goe7	外	100
 goe7	藝	99
 goe7	蓺	98
+goeh8	goe̍h	101
+goeh8	月	100
 gok8	go̍k	101
 gok8	愕	100
 gok8	鄂	99

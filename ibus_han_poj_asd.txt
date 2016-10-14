@@ -4616,6 +4616,8 @@ goec	gōe	101
 goec	外	100
 goec	藝	99
 goec	蓺	98
+goehv	goe̍h	101
+goehv	月	100
 gokv	go̍k	101
 gokv	愕	100
 gokv	鄂	99
