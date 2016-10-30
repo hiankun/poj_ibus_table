@@ -12044,6 +12044,7 @@ moa5	môa	101
 moa5	麻	100
 moa5	瞞	99
 moa5	鰻	98
+moa7	mōa	101
 moe	moe	101
 moe7	mōe	101
 moh8	mo̍h	101

@@ -12044,6 +12044,7 @@ moaz	môa	101
 moaz	麻	100
 moaz	瞞	99
 moaz	鰻	98
+moac	mōa	101
 moea	moe	101
 moec	mōe	101
 mohv	mo̍h	101
