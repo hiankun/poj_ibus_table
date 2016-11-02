@@ -14502,6 +14502,7 @@ satf	薩	92
 satf	摋	91
 satf	攃	90
 satf	鎩	89
+sakf	sak	101
 saua	sau	101
 saua	捎	100
 saua	消	99
