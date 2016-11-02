@@ -14502,6 +14502,7 @@ sat	薩	92
 sat	摋	91
 sat	攃	90
 sat	鎩	89
+sak	sak	101
 sau	sau	101
 sau	捎	100
 sau	消	99
