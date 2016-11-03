@@ -8240,6 +8240,7 @@ kengc	脛	92
 kengc	綆	91
 kengc	骾	90
 kengc	鯁	89
+kenn1	keⁿ	101
 kenns	kéⁿ	101
 kenns	骾	100
 kenns	鯁	99
@@ -16245,6 +16246,7 @@ taud	到	100
 taud	罩	99
 taud	跳	98
 taud	踔	97
+taud	鬥	1
 tauz	tâu	101
 tauz	投	100
 tauz	佻	99

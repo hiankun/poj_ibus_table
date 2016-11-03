@@ -8240,6 +8240,7 @@ keng7	脛	92
 keng7	綆	91
 keng7	骾	90
 keng7	鯁	89
+kenn1	keⁿ	101
 kenn2	kéⁿ	101
 kenn2	骾	100
 kenn2	鯁	99
@@ -16245,6 +16246,7 @@ tau3	到	100
 tau3	罩	99
 tau3	跳	98
 tau3	踔	97
+tau3	鬥	1
 tau5	tâu	101
 tau5	投	100
 tau5	佻	99
