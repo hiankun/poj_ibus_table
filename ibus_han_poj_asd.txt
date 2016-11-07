@@ -6875,6 +6875,7 @@ ianz	綖	80
 ianz	蜒	79
 ianz	蝝	78
 ianz	櫞	77
+ianz	緣	1
 ianc	iān	101
 ianc	院	100
 ianc	羨	99

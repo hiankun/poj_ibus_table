@@ -6875,6 +6875,7 @@ ian5	綖	80
 ian5	蜒	79
 ian5	蝝	78
 ian5	櫞	77
+ian5	緣	1
 ian7	iān	101
 ian7	院	100
 ian7	羨	99
