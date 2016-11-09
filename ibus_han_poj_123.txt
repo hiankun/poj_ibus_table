@@ -8241,6 +8241,7 @@ keng7	脛	92
 keng7	綆	91
 keng7	骾	90
 keng7	鯁	89
+kenn1	keⁿ	101
 kenn2	kéⁿ	101
 kenn2	骾	100
 kenn2	鯁	99
@@ -12787,6 +12788,7 @@ ou2	敺	89
 ou2	謳	88
 ou3	ò͘	101
 ou3	噁	100
+Ou5	Ô͘	102
 ou5	ô͘	101
 ou5	胡	100
 ou5	壺	99
@@ -14503,6 +14505,7 @@ sat	薩	92
 sat	摋	91
 sat	攃	90
 sat	鎩	89
+sak	sak	101
 sau	sau	101
 sau	捎	100
 sau	消	99
@@ -16245,6 +16248,7 @@ tau3	到	100
 tau3	罩	99
 tau3	跳	98
 tau3	踔	97
+tau3	鬥	1
 tau5	tâu	101
 tau5	投	100
 tau5	佻	99
