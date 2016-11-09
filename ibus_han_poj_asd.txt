@@ -12788,6 +12788,7 @@ ous	敺	89
 ous	謳	88
 oud	ò͘	101
 oud	噁	100
+Ouz	Ô͘	102
 ouz	ô͘	101
 ouz	胡	100
 ouz	壺	99
