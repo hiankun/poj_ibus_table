@@ -17734,6 +17734,8 @@ tiunnd	tiùⁿ	101
 tiunnd	帳	100
 tiunnd	脹	99
 tiunnd	漲	98
+tiunnz	tiûⁿ	101
+tiunnz	場	1
 tiunnc	tiūⁿ	101
 tiunnc	丈	100
 tnga	tng	101
