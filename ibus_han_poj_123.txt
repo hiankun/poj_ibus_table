@@ -4972,6 +4972,7 @@ hann2	哄	100
 hann3	hàⁿ	101
 hann5	hâⁿ	101
 hann5	懸	100
+hann7	hāⁿ	101
 hap	hap	101
 hap	哈	100
 hap8	ha̍p	101
