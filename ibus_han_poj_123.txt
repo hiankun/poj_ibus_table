@@ -4636,6 +4636,9 @@ gok8	齶	87
 gong5	gông	101
 gong5	昂	100
 gong5	卬	99
+gong7	gōng	101
+gong7	戇	1
+gang7	gāng	101
 gou5	gô͘	101
 gou5	吳	100
 gou5	梧	99

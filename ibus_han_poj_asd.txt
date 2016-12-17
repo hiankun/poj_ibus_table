@@ -4636,6 +4636,9 @@ gokv	齶	87
 gongz	gông	101
 gongz	昂	100
 gongz	卬	99
+gongc	gōng	101
+gongc	戇	1
+gangc	gāng	101
 gouz	gô͘	101
 gouz	吳	100
 gouz	梧	99
