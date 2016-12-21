@@ -13172,6 +13172,7 @@ phann3	怕	100
 phann3	冇	99
 phann3	帊	98
 phann3	袙	97
+phann7	phāⁿ	101
 phat	phat	101
 phat	汃	100
 phau	phau	101
