@@ -24,6 +24,8 @@ BEGIN {OFS=""};
         print $1=gensub(/7$/,"c",1,$1),"\t",$2,"\t",$3;
     else if (/[[:alpha:]][8]\t.*\t.*/)
         print $1=gensub(/8$/,"v",1,$1),"\t",$2,"\t",$3;
+    else if (/[[:alpha:]][9]\t.*\t.*/)
+        print $1=gensub(/9$/,"b",1,$1),"\t",$2,"\t",$3;
     else
         print $0;
     }
