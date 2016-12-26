@@ -13172,6 +13172,7 @@ phannd	怕	100
 phannd	冇	99
 phannd	帊	98
 phannd	袙	97
+phannc	phāⁿ	101
 phatf	phat	101
 phatf	汃	100
 phaua	phau	101
