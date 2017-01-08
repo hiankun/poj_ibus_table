@@ -10106,6 +10106,7 @@ koe2	改	100
 koe2	解	99
 koe2	鮭	98
 koe3	kòe	101
+koe3	過	1
 koe3	怪	100
 koe3	疥	99
 koe3	械	98
@@ -11254,6 +11255,7 @@ liau7	尥	94
 liau7	窲	93
 lih8	li̍h	101
 lih8	裂	100
+lim	lim	101
 lim2	lím	101
 lim2	僅	100
 lim2	稟	99
