@@ -10106,6 +10106,7 @@ koes	改	100
 koes	解	99
 koes	鮭	98
 koed	kòe	101
+koed	過	1
 koed	怪	100
 koed	疥	99
 koed	械	98
@@ -11254,6 +11255,7 @@ liauc	尥	94
 liauc	窲	93
 lihv	li̍h	101
 lihv	裂	100
+lima	lim	101
 lims	lím	101
 lims	僅	100
 lims	稟	99
