@@ -6197,6 +6197,7 @@ houc	雘	68
 houc	矱	67
 houc	蠖	66
 houc	鑊	65
+hounna	ho͘ⁿ	101
 hounns	hó͘ⁿ	101
 hounns	火	100
 hounns	好	99
@@ -6206,6 +6207,7 @@ hounnd	好	100
 hounnd	耗	99
 hounnd	貨	98
 hounnd	秏	97
+hounnhf	ho͘ⁿh	101
 hua	hu	101
 hua	夫	100
 hua	灰	99
@@ -12811,8 +12813,12 @@ ouz	餬	89
 ouz	鶘	88
 ouc	ō͘	101
 ouc	芋	100
+ounna	o͘ⁿ	101
+ounns	ó͘ⁿ	101
 ounnd	ò͘ⁿ	101
 ounnd	惡	100
+ounnz	ô͘ⁿ	101
+ounnc	ō͘ⁿ	101
 paa	pa	101
 paa	巴	100
 paa	吧	99

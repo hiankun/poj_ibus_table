@@ -6197,6 +6197,7 @@ hou7	雘	68
 hou7	矱	67
 hou7	蠖	66
 hou7	鑊	65
+hounn	ho͘ⁿ	101
 hounn2	hó͘ⁿ	101
 hounn2	火	100
 hounn2	好	99
@@ -6206,6 +6207,7 @@ hounn3	好	100
 hounn3	耗	99
 hounn3	貨	98
 hounn3	秏	97
+hounnh	ho͘ⁿh	101
 hu	hu	101
 hu	夫	100
 hu	灰	99
@@ -12811,8 +12813,12 @@ ou5	餬	89
 ou5	鶘	88
 ou7	ō͘	101
 ou7	芋	100
+ounn	o͘ⁿ	101
+ounn2	ó͘ⁿ	101
 ounn3	ò͘ⁿ	101
 ounn3	惡	100
+ounn5	ô͘ⁿ	101
+ounn7	ō͘ⁿ	101
 pa	pa	101
 pa	巴	100
 pa	吧	99
