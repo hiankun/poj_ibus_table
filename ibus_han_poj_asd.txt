@@ -1373,6 +1373,7 @@ chac	乍	100
 chac	昨	99
 chac	蚱	98
 chac	鮓	97
+chahf	chah	101
 chahv	cha̍h	101
 chahv	卡	100
 chahv	閘	99
