@@ -55,6 +55,8 @@ In Ubuntu 16.04, the problem disappeared.
 
 * After the installation, you may be need to log out and in again, and remember to add the POJ input method from the IBus GUI as show above.
 
+* If your POJ input method didn't adapt the given icon (ibus-poj.svg), try to install ``ibus-chewing'', reboot the system, and then add POJ input method from the IBus GUI again. (I don't know the reason, but this work-around works for me.)
+
 ## File list
 * poj-holo.cin: The original cin table, which contains only Han characters.
 * **ibus_han_poj_123.txt**: This is the `<your_ibus_table.txt>` file, which you should edit to create your own ibus table.
