@@ -44,7 +44,15 @@ In Ubuntu 16.04, the problem disappeared.
     * Edit `<your_ibus_table.txt>` to fit your need
     * Run `$bash update_poj_db.sh`
  
- 
+
+## Trouble Shooting
+
+* If you encounter the following message as running the update_poj_db.sh script:
+  `awk: line 29: function gensub never defined` 
+  
+  it means that you need to install `gawk`.
+
+* After the installation, you may be need to log out and in again, and remember to add the POJ input method from the IBus GUI as show above.
 
 ## File list
 * poj-holo.cin: The original cin table, which contains only Han characters.
