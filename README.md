@@ -48,6 +48,7 @@ In Ubuntu 16.04, the problem disappeared.
 ## Trouble Shooting
 
 * If you encounter the following message as running the update_poj_db.sh script:
+
   `awk: line 29: function gensub never defined` 
   
   it means that you need to install `gawk`.
