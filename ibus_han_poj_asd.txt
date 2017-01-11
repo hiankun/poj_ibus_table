@@ -5459,6 +5459,7 @@ hinnhf	欷	100
 hiohf	hioh	101
 hiohf	息	100
 hiohf	歇	99
+hiouhf	hio͘h	101
 hiohv	hio̍h	101
 hiohv	葉	100
 hiohv	鴞	99

@@ -5459,6 +5459,7 @@ hinnh	欷	100
 hioh	hioh	101
 hioh	息	100
 hioh	歇	99
+hiouh	hio͘h	101
 hioh8	hio̍h	101
 hioh8	葉	100
 hioh8	鴞	99
