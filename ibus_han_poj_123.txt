@@ -2009,6 +2009,7 @@ chheh	chheh	101
 chheh	冊	100
 chheh	啜	99
 chheh	撮	98
+chheh8	chhe̍h	101
 chhek	chhek	101
 chhek	尺	100
 chhek	冊	99
