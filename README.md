@@ -45,7 +45,7 @@ In Ubuntu 16.04, the problem disappeared.
     * Run `$bash update_poj_db.sh`
  
 
-## Trouble Shooting
+## Trouble shooting
 
 * If you encounter the following message as running the update_poj_db.sh script:
 
@@ -56,6 +56,14 @@ In Ubuntu 16.04, the problem disappeared.
 * After the installation, you may be need to log out and in again, and remember to add the POJ input method from the IBus GUI as show above.
 
 * If your POJ input method didn't adapt the given icon (ibus-poj.svg), try to install ``ibus-chewing'', reboot the system, and then add POJ input method from the IBus GUI again. (I don't know the reason, but this work-around works for me.)
+
+## Known bugs
+
+* The ``ê'' won't go up to the first place in the selecting list even it is the most used word.
+
+* Some Han characters won't shown in the selecting list. This might be bugs of IBus.
+
+* In some situations (e.g., after selecting Han characters) the input method switched to full-width mode, and you need to press `Shift` key once to back to normal English input mode and again to back to POJ input mode.
 
 ## File list
 * poj-holo.cin: The original cin table, which contains only Han characters.

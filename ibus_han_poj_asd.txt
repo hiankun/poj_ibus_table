@@ -15735,8 +15735,8 @@ sua	su	101
 sua	司	100
 sua	私	99
 sua	思	98
-sua	胥	97
-sua	師	96
+sua	師	97
+sua	胥	96
 sua	書	95
 sua	斯	94
 sua	舒	93
