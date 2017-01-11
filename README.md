@@ -59,11 +59,11 @@ In Ubuntu 16.04, the problem disappeared.
 
 ## Known bugs
 
-* The ``ê'' won't go up to the first place in the selecting list even it is the most used word.
+* The dynamic adjust function don't work as expected.
 
-* Some Han characters won't shown in the selecting list. This might be bugs of IBus.
+* Some Han characters won't shown in the selecting list.
 
-* In some situations (e.g., after selecting Han characters) the input method switched to full-width mode, and you need to press `Shift` key once to back to normal English input mode and again to back to POJ input mode.
+* In some situations (e.g., after selecting Han characters) the input method might switch to full-width mode, and you need to press `Shift+Space` key once to back to normal input mode.
 
 ## File list
 * poj-holo.cin: The original cin table, which contains only Han characters.

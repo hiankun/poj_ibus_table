@@ -81,7 +81,7 @@ USER_CAN_DEFINE_PHRASE = FALSE
 ### Whether support PinYin Mode, default is true.
 ### this feature is just for Chinese, set it to False if your IM is not
 ### Chinese.
-PINYIN_MODE = FALSE
+PINYIN_MODE = TRUE
 
 ### If true then the phrases' frequencies will be adjusted dynamically
 ### according your using frequency.
@@ -14488,6 +14488,7 @@ san3	鬖	90
 sang	sang	101
 sang	雙	100
 sang	鬆	99
+sang2	sáng	101
 sang3	sàng	101
 sang3	宋	100
 sang3	送	99
