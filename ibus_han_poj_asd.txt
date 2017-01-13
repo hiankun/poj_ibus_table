@@ -12130,6 +12130,7 @@ muic	痗	96
 muic	韎	95
 muihv	mu̍ih	101
 muihv	蟆	100
+naa	na	101
 nas	ná	101
 nas	那	100
 nas	哪	99

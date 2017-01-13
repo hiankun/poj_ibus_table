@@ -12130,6 +12130,7 @@ mui7	痗	96
 mui7	韎	95
 muih8	mu̍ih	101
 muih8	蟆	100
+na	na	101
 na2	ná	101
 na2	那	100
 na2	哪	99
