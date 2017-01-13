@@ -11289,7 +11289,8 @@ lin2	們	100
 lin2	您	99
 lin2	僯	98
 lin2	橉	97
-lin5	lìn	101
+lin3	lìn	101
+lin5	lîn	101
 lin5	綾	100
 lin5	憐	99
 lin5	鄰	98

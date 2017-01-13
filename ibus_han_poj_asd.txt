@@ -11289,7 +11289,8 @@ lins	們	100
 lins	您	99
 lins	僯	98
 lins	橉	97
-linz	lìn	101
+lind	lìn	101
+linz	lîn	101
 linz	綾	100
 linz	憐	99
 linz	鄰	98
