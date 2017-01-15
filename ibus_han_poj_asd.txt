@@ -12256,6 +12256,7 @@ ngauhf	ngauh	101
 ngauhf	耦	100
 ngehv	nge̍h	101
 ngehv	挾	100
+ngec	ngē	101
 ngic	ngī	101
 ngic	硬	100
 ngiaz	ngiâ	101
