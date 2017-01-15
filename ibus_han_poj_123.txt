@@ -12256,6 +12256,7 @@ ngauh	ngauh	101
 ngauh	耦	100
 ngeh8	nge̍h	101
 ngeh8	挾	100
+nge7	ngē	101
 ngi7	ngī	101
 ngi7	硬	100
 ngia5	ngiâ	101
