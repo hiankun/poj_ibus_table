@@ -3591,6 +3591,7 @@ choah8	差	100
 choah8	蠽	99
 choai7	choāi	101
 choai7	膗	100
+choainn7    choāiⁿ  101
 choan	choan	101
 choan	耑	100
 choan	專	99
@@ -3623,6 +3624,7 @@ choan5	佺	99
 choan5	泉	98
 choan5	荃	97
 choan5	牷	96
+choan6	choăn	101
 choan7	choān	101
 choan7	僎	100
 choan7	撰	99
@@ -3639,6 +3641,7 @@ choann3	chòaⁿ	101
 choann5	chôaⁿ	101
 choann5	泉	100
 choann5	殘	99
+choann6 choăⁿ   101
 choann7	chōaⁿ	101
 choann7	賤	100
 choann7	濺	99
