@@ -3641,7 +3641,7 @@ choann3	chòaⁿ	101
 choann5	chôaⁿ	101
 choann5	泉	100
 choann5	殘	99
-choann6 choăⁿ   101
+choann6	chŏaⁿ	101
 choann7	chōaⁿ	101
 choann7	賤	100
 choann7	濺	99

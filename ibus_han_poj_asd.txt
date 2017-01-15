@@ -3641,7 +3641,7 @@ choannd	chòaⁿ	101
 choannz	chôaⁿ	101
 choannz	泉	100
 choannz	殘	99
-choann6 choăⁿ   101
+choannx	chŏaⁿ	101
 choannc	chōaⁿ	101
 choannc	賤	100
 choannc	濺	99
