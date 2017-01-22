@@ -121,8 +121,9 @@ END_DEFINITION
 ### the key combination you want; the 3rd column are frequency of the character
 ### or phrase.
 BEGIN_TABLE
-,	，	2
-,	,	1
+,	，	3
+,	,	2
+,	、	1
 .	。	2
 .	.	1
 :	：	2
@@ -13167,6 +13168,7 @@ phaid	霈	94
 phainns	pháiⁿ	101
 phainns	歹	100
 phainns	惡	99
+phainnc	phāiⁿ	101
 phakf	phak	101
 phakf	仆	100
 phakf	朴	99
