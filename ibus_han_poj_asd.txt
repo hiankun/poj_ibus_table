@@ -1110,6 +1110,7 @@ boec	秣	99
 boec	賣	98
 bohv	bo̍h	101
 bohv	莫	100
+bokf	bok	101
 bokv	bo̍k	101
 bokv	木	100
 bokv	目	99
