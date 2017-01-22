@@ -1110,6 +1110,7 @@ boe7	秣	99
 boe7	賣	98
 boh8	bo̍h	101
 boh8	莫	100
+bok	bok	101
 bok8	bo̍k	101
 bok8	木	100
 bok8	目	99
@@ -11992,6 +11993,7 @@ ma2	媽	98
 ma2	瑪	97
 ma2	碼	96
 ma2	螞	95
+ma3	mà	101
 ma5	mâ	101
 ma5	麻	100
 ma5	痲	99

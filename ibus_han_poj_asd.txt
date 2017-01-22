@@ -11992,6 +11992,7 @@ mas	媽	98
 mas	瑪	97
 mas	碼	96
 mas	螞	95
+mad	mà	101
 maz	mâ	101
 maz	麻	100
 maz	痲	99
