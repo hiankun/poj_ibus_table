@@ -14173,6 +14173,7 @@ poe	篦	98
 poe	桮	97
 poe	棓	96
 poe	鎞	95
+poe	飛	1
 poe3	pòe	101
 poe3	貝	100
 poe3	背	99
