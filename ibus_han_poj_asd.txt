@@ -5466,6 +5466,7 @@ hinna	譆	100
 hinnz	hîⁿ	101
 hinnz	絃	100
 hinnc	hīⁿ	101
+hinnc	耳	100
 hinnc	硯	100
 hinnhf	hiⁿh	101
 hinnhf	欷	100
