@@ -14011,6 +14011,8 @@ pinnc	pīⁿ	101
 pinnc	病	100
 pinnc	編	99
 pinnc	辮	98
+pennc	pīⁿ	101
+pennc	病	100
 pioa	pio	101
 pioa	標	100
 pioa	錶	99

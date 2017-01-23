@@ -14011,6 +14011,8 @@ pinn7	pīⁿ	101
 pinn7	病	100
 pinn7	編	99
 pinn7	辮	98
+penn7	pīⁿ	101
+penn7	病	100
 pio	pio	101
 pio	標	100
 pio	錶	99
