@@ -13732,6 +13732,7 @@ pia	pi	101
 pia	卑	100
 pia	紕	99
 pia	啡	98
+pi	琲	1
 pia	埤	97
 pia	悲	96
 pia	碑	95
