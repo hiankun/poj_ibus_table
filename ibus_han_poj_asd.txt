@@ -4101,7 +4101,7 @@ ez	丌	97
 ez	亓	96
 ec	下	100
 ec	禍	99
-ec	會	1
+ec	會	10
 ehf	呃	100
 ehf	噫	99
 ehf	阨	98
@@ -4661,7 +4661,7 @@ gongz	gông	101
 gongz	昂	100
 gongz	卬	99
 gongc	gōng	101
-gongc	戇	1
+gongc	戇	10
 gangc	gāng	101
 gouz	gô͘	101
 gouz	吳	100
@@ -6909,7 +6909,7 @@ ianz	綖	80
 ianz	蜒	79
 ianz	蝝	78
 ianz	櫞	77
-ianz	緣	1
+ianz	緣	10
 ianc	iān	101
 ianc	院	100
 ianc	羨	99
@@ -10066,7 +10066,7 @@ koanz	顴	89
 koanc	koān	101
 koanc	倦	100
 koanc	惓	99
-koanc	縣	1
+koanc	縣	10
 koanna	koaⁿ	101
 koanna	杆	100
 koanna	肝	99
@@ -10136,7 +10136,7 @@ koes	改	100
 koes	解	99
 koes	鮭	98
 koed	kòe	101
-koed	過	1
+koed	過	10
 koed	怪	100
 koed	疥	99
 koed	械	98
@@ -13732,7 +13732,6 @@ pia	pi	101
 pia	卑	100
 pia	紕	99
 pia	啡	98
-pi	琲	1
 pia	埤	97
 pia	悲	96
 pia	碑	95
@@ -13746,6 +13745,7 @@ pia	萆	88
 pia	蓖	87
 pia	鎞	86
 pia	鵯	85
+pia	琲	10
 pis	pí	101
 pis	匕	100
 pis	比	99
@@ -14187,7 +14187,7 @@ poea	篦	98
 poea	桮	97
 poea	棓	96
 poea	鎞	95
-poe	飛	1
+poea	飛	10
 poed	pòe	101
 poed	貝	100
 poed	背	99
@@ -16299,7 +16299,7 @@ taud	到	100
 taud	罩	99
 taud	跳	98
 taud	踔	97
-taud	鬥	1
+taud	鬥	10
 tauz	tâu	101
 tauz	投	100
 tauz	佻	99
@@ -17682,7 +17682,7 @@ tioc	趙	100
 tioc	銚	99
 tiohv	tio̍h	101
 tiohv	著	100
-tiohv	着	1
+tiohv	着	10
 tiokf	tiok	101
 tiokf	竹	100
 tiokf	竺	99
@@ -17786,7 +17786,7 @@ tiunnd	帳	100
 tiunnd	脹	99
 tiunnd	漲	98
 tiunnz	tiûⁿ	101
-tiunnz	場	1
+tiunnz	場	10
 tiunnc	tiūⁿ	101
 tiunnc	丈	100
 tnga	tng	101

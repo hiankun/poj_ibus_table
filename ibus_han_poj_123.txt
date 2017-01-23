@@ -4101,7 +4101,7 @@ e5	丌	97
 e5	亓	96
 e7	下	100
 e7	禍	99
-e7	會	1
+e7	會	10
 eh	呃	100
 eh	噫	99
 eh	阨	98
@@ -4661,7 +4661,7 @@ gong5	gông	101
 gong5	昂	100
 gong5	卬	99
 gong7	gōng	101
-gong7	戇	1
+gong7	戇	10
 gang7	gāng	101
 gou5	gô͘	101
 gou5	吳	100
@@ -6909,7 +6909,7 @@ ian5	綖	80
 ian5	蜒	79
 ian5	蝝	78
 ian5	櫞	77
-ian5	緣	1
+ian5	緣	10
 ian7	iān	101
 ian7	院	100
 ian7	羨	99
@@ -10066,7 +10066,7 @@ koan5	顴	89
 koan7	koān	101
 koan7	倦	100
 koan7	惓	99
-koan7	縣	1
+koan7	縣	10
 koann	koaⁿ	101
 koann	杆	100
 koann	肝	99
@@ -10136,7 +10136,7 @@ koe2	改	100
 koe2	解	99
 koe2	鮭	98
 koe3	kòe	101
-koe3	過	1
+koe3	過	10
 koe3	怪	100
 koe3	疥	99
 koe3	械	98
@@ -13732,7 +13732,6 @@ pi	pi	101
 pi	卑	100
 pi	紕	99
 pi	啡	98
-pi	琲	1
 pi	埤	97
 pi	悲	96
 pi	碑	95
@@ -13746,6 +13745,7 @@ pi	萆	88
 pi	蓖	87
 pi	鎞	86
 pi	鵯	85
+pi	琲	10
 pi2	pí	101
 pi2	匕	100
 pi2	比	99
@@ -14187,7 +14187,7 @@ poe	篦	98
 poe	桮	97
 poe	棓	96
 poe	鎞	95
-poe	飛	1
+poe	飛	10
 poe3	pòe	101
 poe3	貝	100
 poe3	背	99
@@ -16299,7 +16299,7 @@ tau3	到	100
 tau3	罩	99
 tau3	跳	98
 tau3	踔	97
-tau3	鬥	1
+tau3	鬥	10
 tau5	tâu	101
 tau5	投	100
 tau5	佻	99
@@ -17682,7 +17682,7 @@ tio7	趙	100
 tio7	銚	99
 tioh8	tio̍h	101
 tioh8	著	100
-tioh8	着	1
+tioh8	着	10
 tiok	tiok	101
 tiok	竹	100
 tiok	竺	99
@@ -17786,7 +17786,7 @@ tiunn3	帳	100
 tiunn3	脹	99
 tiunn3	漲	98
 tiunn5	tiûⁿ	101
-tiunn5	場	1
+tiunn5	場	10
 tiunn7	tiūⁿ	101
 tiunn7	丈	100
 tng	tng	101
