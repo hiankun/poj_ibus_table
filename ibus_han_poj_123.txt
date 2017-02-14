@@ -6456,6 +6456,8 @@ hui7	繐	85
 hui7	蟪	84
 hui7	譓	83
 hui7	譿	82
+huinn5	hûiⁿ	101
+huinn5	橫	10
 hoeh	hoeh	101
 hoeh	血	100
 huih	huih	101

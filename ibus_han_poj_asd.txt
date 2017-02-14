@@ -6456,6 +6456,8 @@ huic	繐	85
 huic	蟪	84
 huic	譓	83
 huic	譿	82
+huinnz	hûiⁿ	101
+huinnz	橫	10
 hoehf	hoeh	101
 hoehf	血	100
 huihf	huih	101
