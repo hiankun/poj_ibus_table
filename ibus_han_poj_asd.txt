@@ -5883,6 +5883,7 @@ hoed	痗	92
 hoed	嬇	91
 hoed	癈	90
 hoed	聵	89
+hoed	歲	10
 hoez	hôe	101
 hoez	回	100
 hoez	徊	99
@@ -18002,6 +18003,7 @@ tohf	toh	101
 tohf	卓	100
 tohf	桌	99
 tohf	棹	98
+tohv	to̍h	101
 tokf	tok	101
 tokf	卓	100
 tokf	桌	99

@@ -5883,6 +5883,7 @@ hoe3	痗	92
 hoe3	嬇	91
 hoe3	癈	90
 hoe3	聵	89
+hoe3	歲	10
 hoe5	hôe	101
 hoe5	回	100
 hoe5	徊	99
@@ -18002,6 +18003,7 @@ toh	toh	101
 toh	卓	100
 toh	桌	99
 toh	棹	98
+toh8	to̍h	101
 tok	tok	101
 tok	卓	100
 tok	桌	99
