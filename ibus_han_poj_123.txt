@@ -2548,6 +2548,7 @@ chhiunn	菖	96
 chhiunn2	chhiúⁿ	101
 chhiunn2	取	100
 chhiunn2	廠	99
+chhiunn2	搶	10
 chhiunn3	chhiùⁿ	101
 chhiunn3	唱	100
 chhiunn3	揖	99
@@ -14232,6 +14233,7 @@ poeh	poeh	101
 poeh	八	100
 poeh	怕	99
 poeh	捌	98
+poeh8	po̍eh	101
 poh	poh	101
 poh	卜	100
 poh	駁	99

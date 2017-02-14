@@ -2548,6 +2548,7 @@ chhiunna	菖	96
 chhiunns	chhiúⁿ	101
 chhiunns	取	100
 chhiunns	廠	99
+chhiunns	搶	10
 chhiunnd	chhiùⁿ	101
 chhiunnd	唱	100
 chhiunnd	揖	99
@@ -14232,6 +14233,7 @@ poehf	poeh	101
 poehf	八	100
 poehf	怕	99
 poehf	捌	98
+poehv	po̍eh	101
 pohf	poh	101
 pohf	卜	100
 pohf	駁	99
