@@ -2136,6 +2136,7 @@ chhis	姼	95
 chhis	恀	94
 chhis	欼	93
 chhis	誃	92
+chhis	鼠	10
 chhid	chhì	101
 chhid	試	100
 chhid	刺	99

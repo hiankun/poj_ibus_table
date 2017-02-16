@@ -2136,6 +2136,7 @@ chhi2	姼	95
 chhi2	恀	94
 chhi2	欼	93
 chhi2	誃	92
+chhi2	鼠	10
 chhi3	chhì	101
 chhi3	試	100
 chhi3	刺	99
