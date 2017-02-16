@@ -2576,6 +2576,7 @@ chhngd	串	100
 chhngd	穿	99
 chhngd	竄	98
 chhngz	chhn̂g	101
+chhngz	床	10
 chhngc	chhn̄g	101
 chhoa	chho	101
 chhoa	嵯	100

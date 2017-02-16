@@ -2576,6 +2576,7 @@ chhng3	串	100
 chhng3	穿	99
 chhng3	竄	98
 chhng5	chhn̂g	101
+chhng5	床	10
 chhng7	chhn̄g	101
 chho	chho	101
 chho	嵯	100
