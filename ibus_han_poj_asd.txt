@@ -13079,6 +13079,7 @@ pehf	柏	96
 pehf	迫	95
 pehf	擘	94
 pehf	擗	93
+pehf	八	10
 pehv	pe̍h	101
 pehv	白	100
 pehv	帛	99
