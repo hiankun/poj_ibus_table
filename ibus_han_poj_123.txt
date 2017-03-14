@@ -60,7 +60,7 @@ VALID_INPUT_CHARS = -,.:;?![]()0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLM
 LAYOUT = us
 
 ### The max number of input keys for every phrase or character.
-MAX_KEY_LENGTH = 10
+MAX_KEY_LENGTH = 20
 
 ### Use auto_commit mode as default
 AUTO_COMMIT = TRUE
@@ -18687,12 +18687,70 @@ ut8	鷸	92
 poj	Pe̍hōejī	100
 poj	Pe̍h-ōe-jī	99
 poj	POJ	98
+poj	白話字	97
 lmj	Lômájī	100
 lmj	Lô-má-jī	99
-lmj	LMJ	99
+lmj	LMJ	98
+lmj	羅馬字	97
 etang	ētàng	100
 etang	ē-tàng	99
 esai	ēsái	100
 esai	ē-sái	99
+engkai	èngkai	100
+engkai	èng-kai	99
+engkai	應該	98
+mkoh	m̄koh	100
+mkoh	m̄-koh	99
+mkoh	不閣	98
+pouchhiong	pó͘chhiong	100
+pouchhiong	pó͘-chhiong	99
+pouchhiong	補充	98
+kaitoann	kaitōaⁿ	100
+kaitoann	kai-tōaⁿ	99
+kaitoann	階段	97
+chinheng	chìnhêng	100
+chinheng	chìn-hêng	99
+chinheng	進行	98
+chohoe	chòhóe	100
+chohoe	chò-hóe	99
+outoubai	o͘tó͘bái	100
+outoubai	o͘-tó͘-bái	99
+taioan	Tâioân	100
+taioan	Tâi-oân	99
+taioan	台灣	98
+taioan	台員	97
+taioan	tâioan	96
+taioan	tâi-oan	95
+taioan	埋冤	94
+taioanlang	Tâioânlâng	100
+taioanlang	Tâi-oân-lâng	99
+taioanlang	台灣人	98
+taioanlang	台員人	97
+taioanoe	Tâioânōe	100
+taioanoe	Tâi-oân-ōe	99
+taioanoe	台灣話	98
+taioanoe	台員話	97
+taibun	Tâibûn	100
+taibun	Tâi-bûn	99
+taibun	台文	98
+bunhak	bûnha̍k	100
+bunhak	bûn-ha̍k	99
+bunhak	文學	98
+khohak	khoha̍k	100
+khohak	kho-ha̍k	99
+khohak	科學	98
+gesut	gēsu̍t	100
+gesut	gē-su̍t	99
+gesut	藝術	98
+jitpun	Ji̍tpún	100
+jitpun	Ji̍t-pún	99
+jitpun	日本	98
+bikok	Bíkok	100
+bikok	Bí-kok	99
+bikok	米國	98
+bikok	美國	97
+tiongkok	Tiongkok	100
+tiongkok	Tiong-kok	99
+tiongkok	中國	98
 END_TABLE
 
