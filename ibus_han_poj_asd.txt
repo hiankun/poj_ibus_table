@@ -16262,6 +16262,7 @@ tanns	觰	98
 tannd	tàⁿ	101
 tannd	擔	100
 tannd	呾	99
+tannz	tâⁿ	101
 tapf	tap	101
 tapf	答	100
 tapf	搭	99
@@ -18683,5 +18684,15 @@ utv	繘	95
 utv	驈	94
 utv	鱊	93
 utv	鷸	92
+poja	Pe̍hōejī	100
+poja	Pe̍h-ōe-jī	99
+poja	POJ	98
+lmja	Lômájī	100
+lmja	Lô-má-jī	99
+lmja	LMJ	99
+etanga	ētàng	100
+etanga	ē-tàng	99
+esaia	ēsái	100
+esaia	ē-sái	99
 END_TABLE
 

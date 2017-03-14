@@ -16262,6 +16262,7 @@ tann2	觰	98
 tann3	tàⁿ	101
 tann3	擔	100
 tann3	呾	99
+tann5	tâⁿ	101
 tap	tap	101
 tap	答	100
 tap	搭	99
@@ -18683,5 +18684,15 @@ ut8	繘	95
 ut8	驈	94
 ut8	鱊	93
 ut8	鷸	92
+poj	Pe̍hōejī	100
+poj	Pe̍h-ōe-jī	99
+poj	POJ	98
+lmj	Lômájī	100
+lmj	Lô-má-jī	99
+lmj	LMJ	99
+etang	ētàng	100
+etang	ē-tàng	99
+esai	ēsái	100
+esai	ē-sái	99
 END_TABLE
 
