@@ -18687,6 +18687,7 @@ ut8	繘	95
 ut8	驈	94
 ut8	鱊	93
 ut8	鷸	92
+### gisu
 amkun	āmkún	100
 amkun	ām-kún	99
 amkun	頷滾	98
@@ -19019,15 +19020,15 @@ ngoukoan	ngó͘-koan	99
 ngoukoan	五官	98
 outoubai	o͘tó͘bái	100
 outoubai	o͘-tó͘-bái	99
-paanbang	pangbâng	100
-paanbang	pang-bâng	99
-paanbang	幫忙	98
-paanchan	pangchān	100
-paanchan	pang-chān	99
-paanchan	幫贊	98
-paanchou	pangchō͘	100
-paanchou	pang-chō͘	99
-paanchou	幫助	98
+pangbang	pangbâng	100
+pangbang	pang-bâng	99
+pangbang	幫忙	98
+pangchan	pangchān	100
+pangchan	pang-chān	99
+pangchan	幫贊	98
+pangchou	pangchō͘	100
+pangchou	pang-chō͘	99
+pangchou	幫助	98
 patkoa	patkòa	100
 patkoa	pat-kòa	99
 patkoa	八卦	98

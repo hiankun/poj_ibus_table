@@ -18687,6 +18687,7 @@ utv	繘	95
 utv	驈	94
 utv	鱊	93
 utv	鷸	92
+### gisu
 amkuna	āmkún	100
 amkuna	ām-kún	99
 amkuna	頷滾	98
@@ -19019,15 +19020,15 @@ ngoukoana	ngó͘-koan	99
 ngoukoana	五官	98
 outoubaia	o͘tó͘bái	100
 outoubaia	o͘-tó͘-bái	99
-paanbanga	pangbâng	100
-paanbanga	pang-bâng	99
-paanbanga	幫忙	98
-paanchana	pangchān	100
-paanchana	pang-chān	99
-paanchana	幫贊	98
-paanchoua	pangchō͘	100
-paanchoua	pang-chō͘	99
-paanchoua	幫助	98
+pangbanga	pangbâng	100
+pangbanga	pang-bâng	99
+pangbanga	幫忙	98
+pangchana	pangchān	100
+pangchana	pang-chān	99
+pangchana	幫贊	98
+pangchoua	pangchō͘	100
+pangchoua	pang-chō͘	99
+pangchoua	幫助	98
 patkoaa	patkòa	100
 patkoaa	pat-kòa	99
 patkoaa	八卦	98
