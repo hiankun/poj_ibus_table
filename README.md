@@ -5,9 +5,7 @@ The purpose of the project is to create an IBus table for POJ users.
 The table was modified from one of the cin-tables ([poj-holo.cin](https://github.com/chinese-opendesktop/cin-tables)).
 
 ## Test Environment
-The table has been created and tested in Ubuntu 14.04, 
-in which the dynamic adjustment of phrases' frequencies seemed buggy.
-In Ubuntu 16.04, the problem disappeared.
+The table has been created and tested in Ubuntu 16.04. 
 
 ## Steps
 
@@ -47,7 +45,18 @@ In Ubuntu 16.04, the problem disappeared.
 ## Note
 
 In `table_converter.sh`, the phrases' frequencies less than 10 have been preserved for punctuations, digits, and letters.
-Therefore, when you edit `ibus_han_poj_123.txt` to add your own characters, please note that the frequencies should NOT be less than 10 or they won't be converted.
+For words/phrases (i.e., combinations of single syllables), the frequencies have been set to be 300 or more.
+Therefore, when you edit `ibus_han_poj_123.txt` to add your own characters, please note that the frequencies should be in the range of `10-299` or they won't be converted.
+
+The usage of the phrases' frequencies are listed in the following table.
+
+| Frequency range | Usage | Example |
+| --- | --- | --- |
+| 0-9 | punctuations, digits, and letters. | ,.;123abcABC |
+| 10-99 | seldom used Han characters | |
+| 100-199 | general Han characters | |
+| 200-299 | LMJ/POJ | tâi, gí, ...|
+| 300- | Words/Phrases | Tâigí, Tâi-gí, 台語, ... |
 
 ## Trouble shooting
 
