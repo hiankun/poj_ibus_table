@@ -18730,6 +18730,13 @@ banglou	網路	308
 besai	bēsái	310
 besai	bē-sái	309
 besai	袂使	308
+besin	bêsìn	310
+besin	bê-sìn	309
+besin	迷信	308
+betang	bētàng	310
+betang	bē-tàng	309
+###TODO
+betang	袂當	308
 bibiau	bībiāu	310
 bibiau	bī-biāu	309
 bibiau	微妙	308
@@ -18785,6 +18792,10 @@ chauchhoe	走尋	308
 chekjim	chekjīm	310
 chekjim	chek-jīm	309
 chekjim	責任	308
+chektek	chektek	310
+chektek	chek-tek	309
+###TODO
+chektek	積德	308
 chengli	chénglí	310
 chengli	chéng-lí	309
 chengli	整理	308
@@ -18851,6 +18862,19 @@ chhauhoeta	臭火礁	308
 chhengchi	chhèngchí	310
 chhengchi	chhèng-chí	309
 chhengchi	銃子	308
+chhiuchheng	chhiúchhèng	310
+chhiuchheng	chhiú-chhèng	309
+chhiuchheng	手銃	308
+chhiulou	chhiúlō͘	310
+chhiulou	chhiú-lō͘	309
+chhiulou	手路	308
+chhiupio	chhiúpió	310
+chhiupio	chhiú-pió	309
+###TODO
+chhiupio	手錶	308
+chhiuthau	chhiúthâu	310
+chhiuthau	chhiú-thâu	309
+chhiuthau	手頭	308
 chhuli	chhúlí	310
 chhuli	chhú-lí	309
 chhuli	處理	308
@@ -18872,6 +18896,14 @@ gesut	藝術	308
 giankiu	giánkiù	310
 giankiu	gián-kiù	309
 giankiu	研究	308
+gina	gíná	310
+gina	gín-á	309
+###TODO
+gina	囡仔	308
+ginna	gínná	310
+ginna	gín-ná	309
+###TODO
+ginna	囡仔	308
 goanin	goânin	310
 goanin	goân-in	309
 goanin	原因	308
@@ -19008,6 +19040,9 @@ kaki	ka-kī	309
 kaki	加忌	308
 kalauh	kala̍uh	310
 kalauh	ka-la̍uh	309
+kanna	kannā	310
+kanna	kan-nā	309
+kanna	干但	308
 kanta	kanta	310
 kanta	kan-ta	309
 kanta	干單	308
@@ -19028,6 +19063,9 @@ kepo	家婆	308
 khangkhoe	khangkhòe	310
 khangkhoe	khang-khòe	309
 khangkhoe	工課	308
+khiansng	khiànsńg	310
+khiansng	khiàn-sńg	309
+khiansng	㩜損	308
 khikhi	khíkhì	310
 khikhi	khí-khì	309
 khikhi	起去	308
@@ -19170,7 +19208,11 @@ ngoukim	五金	308
 ngoukoan	ngó͘koan	310
 ngoukoan	ngó͘-koan	309
 ngoukoan	五官	308
-outoubai	o͘tó͘bái	310
+olo	oló	310
+olo	o-ló	309
+###TODO
+olo	呵咾	308
+pangbang	pangbâng	310
 outoubai	o͘-tó͘-bái	309
 pangbang	pangbâng	310
 pangbang	pang-bâng	309
@@ -19235,14 +19277,25 @@ sengtiong	生長	308
 siannlang	siáⁿlâng	310
 siannlang	siáⁿ-lâng	309
 siannlang	省人	308
+siannmih	siáⁿmih	310
+siannmih	siáⁿ-mih	309
+siannmih	省乜	308
+siannmih	siáⁿmi̍h	310
+siannmih	siáⁿ-mi̍h	309
 sihna	sihnà	310
 sihna	sih-nà	309
 sikan	sîkan	310
 sikan	sî-kan	309
 sikan	時間	308
+simmih	símmi̍h	310
+simmih	sím-mi̍h	309
 singiong	sìngióng	310
 singiong	sìn-gióng	309
 singiong	信仰	308
+sinnmia	sìⁿmiā	310
+sinnmia	sìⁿ-miā	309
+###TODO
+sinnmia	性命	308
 siongse	siôngsè	310
 siongse	siông-sè	309
 siongse	詳細	308
@@ -19414,6 +19467,9 @@ thiahbeng	拆明	308
 thinnkhi	thiⁿkhì	310
 thinnkhi	thiⁿ-khì	309
 thinnkhi	天氣	308
+thinnteng	thiⁿténg	310
+thinnteng	thiⁿ-téng	309
+thinnteng	天頂	308
 uiann	ūiáⁿ	310
 uiann	ū-iáⁿ	309
 uiann	有影	308
