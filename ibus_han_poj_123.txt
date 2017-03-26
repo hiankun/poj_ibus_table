@@ -1035,17 +1035,9 @@ che3	濟	122
 che5	chê	201
 che5	齊	123
 che7	chē	201
-<<<<<<< HEAD
 che7	坐	133
 che7	罪	111
-||||||| merged common ancestors
-che7	坐	100
-che7	罪	99
-=======
 che7	多	132
-che7	坐	133
-che7	罪	111
->>>>>>> 32eb8108b1e27512315c8a97c865a9569a07d4b0
 che7	寨	98
 che7	多	132
 cheh	cheh	201
@@ -18052,7 +18044,6 @@ besin	bê-sìn	309
 besin	迷信	308
 betang	bētàng	310
 betang	bē-tàng	309
-###DONE
 betang	袂凍	308
 bibiau	bībiāu	310
 bibiau	bī-biāu	309
@@ -18126,7 +18117,6 @@ chekjim	chek-jīm	309
 chekjim	責任	308
 chektek	chektek	310
 chektek	chek-tek	309
-###DONE
 chektek	積德	308
 chengchha	chengchha	310
 chengchha	cheng-chha	309
@@ -18221,14 +18211,12 @@ chhaputto	chha-put-to	309
 chhaputto	差不多	308
 chhauta	chhàuta	310
 chhauta	chhàu-ta	309
-###DONE
 chhauta	臭 ta	308
 chhauta	臭乾	307
 chhauta	臭礁	306
 chhauta	臭焦	305
 chhauhoeta	chhàuhóeta	310
 chhauhoeta	chhàu-hóe-ta	309
-###DONE
 chhauhoeta	臭火 ta	308
 chhauhoeta	臭火乾	307
 chhauhoeta	臭火礁	306
@@ -18251,7 +18239,6 @@ chhiulou	chhiú-lō͘	309
 chhiulou	手路	308
 chhiupio	chhiúpió	310
 chhiupio	chhiú-pió	309
-###DONE
 chhiupio	手錶	308
 chhiuthau	chhiúthâu	310
 chhiuthau	chhiú-thâu	309
@@ -18267,7 +18254,6 @@ engkai	èng-kai	309
 engkai	應該	308
 esai	ēsái	310
 esai	ē-sái	309
-###DONE
 esai	會使	308
 etang	ētàng	310
 etang	ē-tàng	309
@@ -18279,26 +18265,9 @@ giankiu	gián-kiù	309
 giankiu	研究	308
 gina	gíná	310
 gina	gín-á	309
-<<<<<<< HEAD
-###DONE
 gina	囝仔	308
-||||||| merged common ancestors
-###TODO
-gina	囡仔	308
-=======
-###TODO
-gina	囝仔	308
->>>>>>> 32eb8108b1e27512315c8a97c865a9569a07d4b0
 ginna	gínná	310
 ginna	gín-ná	309
-<<<<<<< HEAD
-###DONE
-ginna	囝仔	308
-||||||| merged common ancestors
-###TODO
-ginna	囡仔	308
-=======
-###TODO
 ginna	囝仔	308
 goanchai	goânchāi	310
 goanchai	goân-chāi	309
@@ -18318,7 +18287,6 @@ goanchuhek	原子核	308
 goanchulou	goânchúlô͘	310
 goanchulou	goân-chú-lô͘	309
 goanchulou	原子爐	308
->>>>>>> 32eb8108b1e27512315c8a97c865a9569a07d4b0
 goanin	goânin	310
 goanin	goân-in	309
 goanin	原因	308
@@ -18840,7 +18808,6 @@ ngoukoan	ngó͘-koan	309
 ngoukoan	五官	308
 olo	oló	310
 olo	o-ló	309
-###DONE
 olo	呵咾	308
 outoubai	o͘tó͘bái	310
 outoubai	o͘-tó͘-bái	309
@@ -18967,7 +18934,6 @@ singiong	sìn-gióng	309
 singiong	信仰	308
 sinnmia	sìⁿmiā	310
 sinnmia	sìⁿ-miā	309
-###DONE
 sinnmia	性命	308
 siongse	siôngsè	310
 siongse	siông-sè	309
@@ -19082,7 +19048,6 @@ tholun	thó-lūn	309
 tholun	討論	309
 thoukha	thô͘kha	310
 thoukha	thô͘-kha	309
-###DONE
 thoukha	塗脚	308
 thoukha	塗 kha	307
 tianhun	tiānhûn	310
@@ -19118,7 +19083,6 @@ tianpo	tiān-pò	309
 tianpo	電報	308
 tianpothiau	tiānpòtiāu	310
 tianpothiau	tiān-pò-tiāu	309
-###DONE
 tianpothiau	電報柱	308
 tiansi	tiānsī	310
 tiansi	tiān-sī	309
