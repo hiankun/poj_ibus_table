@@ -1098,8 +1098,9 @@ chez	癠	95
 chez	艩	94
 chez	蠐	93
 chec	chē	201
-chec	坐	100
-chec	罪	99
+chec	多	132
+chec	坐	133
+chec	罪	111
 chec	寨	98
 chec	睡	97
 chec	砦	96

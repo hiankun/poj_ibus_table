@@ -1098,8 +1098,9 @@ che5	癠	95
 che5	艩	94
 che5	蠐	93
 che7	chē	201
-che7	坐	100
-che7	罪	99
+che7	多	132
+che7	坐	133
+che7	罪	111
 che7	寨	98
 che7	睡	97
 che7	砦	96
