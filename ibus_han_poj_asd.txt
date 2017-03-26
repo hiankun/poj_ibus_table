@@ -18735,11 +18735,25 @@ kokip	高級	308
 kongleng	konglêng	310
 kongleng	kong-lêng	309
 kongleng	功能	308
+koucha	kó͘chá	310
+koucha	kó͘-chá	309
+koucha	古早	308
 koui	kó͘ì	310
 koui	kó͘-ì	309
 koui	古意	308
+koulu	kò͘lū	310
+koulu	kò͘-lū	309
+koulu	顧慮	308
+koupan	kó͘pán	310
+koupan	kó͘-pán	309
+koupan	古板	308
 kouputchiong	ko͘putchiong	310
 kouputchiong	ko͘-put-chiong	309
+#TODO
+kouputchiong	???	308
+koutong	kó͘tóng	310
+koutong	kó͘-tóng	309
+koutong	古董	308
 laibin	lāibīn	310
 laibin	lāi-bīn	309
 laibin	內面	308
