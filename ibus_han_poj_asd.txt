@@ -18588,6 +18588,13 @@ igi	意義	308
 isu	ìsù	310
 isu	ì-sù	309
 isu	意思	308
+inui	inūi	310
+inui	in-ūi	309
+inui	因爲	308
+inui	因為	307
+jinui	jīnûi	310
+jinui	jīn-ûi	309
+jinui	認爲	308
 jipkhi	ji̍pkhì	310
 jipkhi	ji̍p-khì	309
 jipkhi	入去	308
