@@ -18185,6 +18185,17 @@ ut8	鷸	92
 amkun	āmkún	310
 amkun	ām-kún	309
 amkun	頷滾	308
+anchoann	ánchóaⁿ	310
+anchoann	án-chóaⁿ	309
+anchoann	按盞	308
+annoa	ánnóa	310
+annoa	án-nóa	309
+anne	ánne	310
+anne	án-ne	309
+anne	按呢	308
+anni	ánni	310
+anni	án-ni	309
+anni	按呢	308
 aplek	aple̍k	310
 aplek	ap-le̍k	309
 aplek	壓力	308
@@ -18326,6 +18337,9 @@ chhamsiong	參詳	308
 chhanthiann	chhanthiaⁿ	310
 chhanthiann	chhan-thiaⁿ	309
 chhanthiann	餐廳	308
+chhaputto	chhaputto	310
+chhaputto	chha-put-to	309
+chhaputto	差不多	308
 chhauta	chhàuta	310
 chhauta	chhàu-ta	309
 ###TODO
