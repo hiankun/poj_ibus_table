@@ -18233,9 +18233,15 @@ bitbe	密碼	308
 boiann	bôiáⁿ	310
 boiann	bô-iáⁿ	309
 boiann	無影	308
+bokcheng	bo̍kchêng	310
+bokcheng	bo̍k-chêng	309
+bokcheng	目前	308
 bokphiau	bo̍kphiau	310
 bokphiau	bo̍k-phiau	309
 bokphiau	目標	308
+boktek	bo̍ktek	310
+boktek	bo̍k-tek	309
+boktek	目的	308
 bunbeng	bûnbêng	310
 bunbeng	bûn-bêng	309
 bunbeng	文明	308
@@ -18276,9 +18282,28 @@ chektek	chektek	310
 chektek	chek-tek	309
 ###TODO
 chektek	積德	308
+chengchha	chengchha	310
+chengchha	cheng-chha	309
+#TODO
+chengchha	精差	308
+chengchong	chengchông	310
+chengchong	cheng-chông	309
+#TODO
+chengchong	??	308
 chengli	chénglí	310
 chengli	chéng-lí	309
 chengli	整理	308
+chengsin	chengsîn	310
+chengsin	cheng-sîn	309
+chengsin	精神	308
+chengsenn	chengseⁿ	310
+chengsenn	cheng-seⁿ	309
+#TODO
+chengsenn	精牲	308
+chengsinn	chengsiⁿ	310
+chengsinn	cheng-siⁿ	309
+#TODO
+chengsinn	精牲	308
 chiannsit	chiaⁿsi̍t	310
 chiannsit	chiaⁿ-si̍t	309
 chiannsit	正實	308
@@ -18290,6 +18315,8 @@ china	Chi-ná	309
 china	支那	308
 chincheng	chìnchêng	310
 chincheng	chìn-chêng	309
+#TODO
+chincheng	??	308
 chinheng	chìnhêng	310
 chinheng	chìn-hêng	309
 chinheng	進行	308
@@ -18388,14 +18415,35 @@ giankiu	研究	308
 gina	gíná	310
 gina	gín-á	309
 ###TODO
-gina	囡仔	308
+gina	囝仔	308
 ginna	gínná	310
 ginna	gín-ná	309
 ###TODO
-ginna	囡仔	308
+ginna	囝仔	308
+goanchai	goânchāi	310
+goanchai	goân-chāi	309
+goanchai	原在	308
+goanchu	goânchú	310
+goanchu	goân-chú	309
+goanchu	原子	308
+goanchubin	goânchūbîn	310
+goanchubin	goân-chū-bîn	309
+goanchubin	原住民	308
+goanchubichok	goânchūbîncho̍k	310
+goanchubichok	goân-chū-bîn-cho̍k	309
+goanchubichok	原住民族	308
+goanchuhek	goânchúhe̍k	310
+goanchuhek	goân-chú-he̍k	309
+goanchuhek	原子核	308
+goanchulou	goânchúlô͘	310
+goanchulou	goân-chú-lô͘	309
+goanchulou	原子爐	308
 goanin	goânin	310
 goanin	goân-in	309
 goanin	原因	308
+goante	goânté	310
+goante	goân-té	309
+goante	原底	308
 goanthau	goânthâu	310
 goanthau	goân-thâu	309
 goanthau	源頭	308
@@ -18472,6 +18520,13 @@ hoepo	回報	308
 hoethoann	hóethòaⁿ	310
 hoethoann	hóe-thòaⁿ	309
 hoethoann	火炭	308
+hokgoan	ho̍kgoân	310
+hokgoan	ho̍k-goân	309
+hokgoan	復原	308
+hoksip	ho̍ksi̍p	310
+hoksip	ho̍k-si̍p	309
+#TODO
+hoksip	複習	308
 honghoat	honghoat	310
 honghoat	hong-hoat	309
 honghoat	方法	308
@@ -18484,6 +18539,9 @@ hongpoesoa	風飛沙	308
 hongsek	hongsek	310
 hongsek	hong-sek	309
 hongsek	方式	308
+hongsia	hongsiâ	310
+hongsia	hong-siâ	309
+hongsia	風邪	308
 hongtian	hòngtiān	310
 hongtian	hòng-tiān	309
 hongtian	放電	308
@@ -18506,6 +18564,18 @@ imtian	陰電	308
 iongtian	iôngtiān	310
 iongtian	iông-tiān	309
 iongtian	陽電	308
+iai	ìài	310
+iai	ì-ài	309
+iai	意愛	308
+imi	ìmī	310
+imi	ì-mī	309
+imi	意麵	308
+igi	ìgī	310
+igi	ì-gī	309
+igi	意義	308
+isu	ìsù	310
+isu	ì-sù	309
+isu	意思	308
 jipkhi	ji̍pkhì	310
 jipkhi	ji̍p-khì	309
 jipkhi	入去	308
@@ -18534,17 +18604,43 @@ kaki	ka-kī	309
 kaki	加忌	308
 kalauh	kala̍uh	310
 kalauh	ka-la̍uh	309
+kameng	kámèng	310
+kameng	kám-èng	309
+kameng	感應	308
+kamkak	kámkak	310
+kamkak	kám-kak	309
+kamkak	感覺	308
+kamkek	kámkek	310
+kamkek	kám-kek	309
+kamkek	感激	308
+kammou	kámmō͘	310
+kammou	kám-mō͘	309
+kammou	感冒	308
+kamun	kámun	310
+kamun	kám-un	309
+kamun	感恩	308
+kamsia	kámsiā	310
+kamsia	kám-siā	309
+kamsia	感謝	308
+kamsiong	kámsióng	310
+kamsiong	kám-sióng	309
+kamsiong	感想	308
+kamtong	kámtōng	310
+kamtong	kám-tōng	309
+kamtong	感動	308
 kanna	kannā	310
 kanna	kan-nā	309
 kanna	干但	308
 kanta	kanta	310
 kanta	kan-ta	309
+#TODO
 kanta	干單	308
 kantan	kántan	310
 kantan	kán-tan	309
 kantan	簡單	307
 kantann	kantaⁿ	310
 kantann	kan-taⁿ	309
+#TODO
 kantann	干單	308
 kati	katī	310
 kati	ka-tī	309
@@ -18630,6 +18726,9 @@ koasu	歌詞	308
 kokip	kokip	310
 kokip	ko-kip	309
 kokip	高級	308
+kongleng	konglêng	310
+kongleng	kong-lêng	309
+kongleng	功能	308
 koui	kó͘ì	310
 koui	kó͘-ì	309
 koui	古意	308
@@ -18660,12 +18759,34 @@ lausit	老實	308
 leksu	le̍ksú	310
 leksu	le̍k-sú	309
 leksu	歷史	308
+lengkam	lêngkám	310
+lengkam	lêng-kám	309
+lengkam	靈感	308
+lengkhi	léngkhì	310
+lengkhi	léng-khì	309
+lengkhi	冷氣	308
+lengkhiki	léngkhìki	310
+lengkhiki	léng-khì-ki	309
+lengkhiki	冷氣機	308
+lenglek	lêngle̍k	310
+lenglek	lêng-le̍k	309
+lenglek	能力	308
+lengmui	léngmûi	310
+lengmui	léng-mûi	309
+lengmui	冷媒	308
+lengsiann	lêngsiàⁿ	310
+lengsiann	lêng-siàⁿ	309
+#TODO
+lengsiann	靈聖	308
 liaukai	liáukái	310
 liaukai	liáu-kái	309
 liaukai	了解	308
 liek	līek	310
 liek	lī-ek	309
 liek	利益	308
+liiong	līiōng	310
+liiong	lī-iōng	309
+liiong	利用	308
 liukiu	Liûkiû	310
 liukiu	Liû-kiû	309
 liukiu	琉球	308
@@ -18758,9 +18879,22 @@ poj	Pe̍hōejī	310
 poj	Pe̍h-ōe-jī	309
 poj	POJ	308
 poj	白話字	307
+posiu	pósiú	310
+posiu	pó-siú	309
+posiu	保守	308
 pouchhiong	pó͘chhiong	310
 pouchhiong	pó͘-chhiong	309
 pouchhiong	補充	308
+punchiann	púnchiâⁿ	310
+punchiann	pún-chiâⁿ	309
+#TODO
+punchiann	本成	308
+punlai	púnlâi	310
+punlai	pún-lâi	309
+punlai	本來	308
+punte	púnté	310
+punte	pún-té	309
+punte	本底	308
 phiauchun	phiauchún	310
 phiauchun	phiau-chún	309
 phiauchun	標準	308
@@ -18839,6 +18973,18 @@ sitgiam	實驗	308
 sitgiamsek	si̍tgiāmsek	310
 sitgiamsek	si̍t-giām-sek	309
 sitgiamsek	實驗室	308
+siuhok	siuho̍k	310
+siuhok	siu-ho̍k	309
+#TODO
+siuhok	收伏	308
+siuhok	收服	307
+siuhok	修復	306
+siukai	siukái	310
+siukai	siu-kái	309
+siukai	修改	308
+siuli	siulí	310
+siuli	siu-lí	309
+siuli	修理	308
 snghai	sńghāi	310
 snghai	sńg-hāi	309
 snghai	損害	308
