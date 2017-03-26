@@ -18567,7 +18567,10 @@ iongtian	陽電	308
 iai	ìài	310
 iai	ì-ài	309
 iai	意愛	308
-imi	ìmī	310
+ichhi	îchhî	310
+ichhi	îchhî	309
+ichhi	維持	308
+ichhi	ìmī	310
 imi	ì-mī	309
 imi	意麵	308
 igi	ìgī	310
@@ -18671,6 +18674,9 @@ khipin	吸引	308
 khohak	khoha̍k	310
 khohak	kho-ha̍k	309
 khohak	科學	308
+khuilat	khùila̍t	310
+khuilat	khùi-la̍t	309
+khuilat	氣力	308
 kiamchhai	kiámchhái	310
 kiamchhai	kiám-chhái	309
 kianchhi	kianchhî	310
@@ -18790,6 +18796,10 @@ liiong	利用	308
 liukiu	Liûkiû	310
 liukiu	Liû-kiû	309
 liukiu	琉球	308
+liuliah	liúlia̍h	310
+liuliah	liú-lia̍h	309
+#TODO
+liuliah	??	308
 lmj	LMJ	308
 lmj	Lômájī	310
 lmj	Lô-má-jī	309
@@ -18879,9 +18889,24 @@ poj	Pe̍hōejī	310
 poj	Pe̍h-ōe-jī	309
 poj	POJ	308
 poj	白話字	307
+poan	Póan	310
+poan	Pó-an	309
+poan	保安	308
+pochhi	póchhî	310
+pochhi	pó-chhî	309
+pochhi	保持	308
+pochun	póchûn	310
+pochun	pó-chûn	309
+pochun	保存	308
+poliu	póliû	310
+poliu	pó-liû	309
+poliu	保留	308
 posiu	pósiú	310
 posiu	pó-siú	309
 posiu	保守	308
+potiong	pótiōng	310
+potiong	pó-tiōng	309
+potiong	保重	308
 pouchhiong	pó͘chhiong	310
 pouchhiong	pó͘-chhiong	309
 pouchhiong	補充	308
@@ -19146,6 +19171,9 @@ tongki	動機	308
 tonglek	tōngle̍k	310
 tonglek	tōng-le̍k	309
 tonglek	動力	308
+thekiong	thêkiong	310
+thekiong	thê-kiong	309
+thekiong	提供	308
 thiahbeng	thiahbêng	310
 thiahbeng	thiah-bêng	309
 thiahbeng	拆明	308
