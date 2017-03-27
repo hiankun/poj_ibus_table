@@ -18100,6 +18100,8 @@ bunpit	文筆	308
 bunte	būntê	310
 bunte	būn-tê	309
 bunte	問題	308
+chainniunn	cháiⁿiūⁿ	310
+chainniunn	cháiⁿ-iūⁿ	309
 chailiau	châiliāu	310
 chailiau	châi-liāu	309
 chailiau	材料	308
@@ -18120,11 +18122,11 @@ chektek	chek-tek	309
 chektek	積德	308
 chengchha	chengchha	310
 chengchha	cheng-chha	309
-#TODO
+###TODO
 chengchha	精差	308
 chengchong	chengchông	310
 chengchong	cheng-chông	309
-#TODO
+###TODO
 chengchong	??	308
 chenggi	chènggī	310
 chenggi	chèng-gī	309
@@ -18137,11 +18139,11 @@ chengsin	cheng-sîn	309
 chengsin	精神	308
 chengsenn	chengseⁿ	310
 chengsenn	cheng-seⁿ	309
-#TODO
+###TODO
 chengsenn	精牲	308
 chengsinn	chengsiⁿ	310
 chengsinn	cheng-siⁿ	309
-#TODO
+###TODO
 chengsinn	精牲	308
 chiannsit	chiaⁿsi̍t	310
 chiannsit	chiaⁿ-si̍t	309
@@ -18154,7 +18156,7 @@ china	Chi-ná	309
 china	支那	308
 chincheng	chìnchêng	310
 chincheng	chìn-chêng	309
-#TODO
+###TODO
 chincheng	??	308
 chinheng	chìnhêng	310
 chinheng	chìn-hêng	309
@@ -18168,6 +18170,11 @@ chiuchoa	咒咀	308
 choanbun	choanbûn	310
 choanbun	choan-bûn	309
 choanbun	專門	308
+choaiunn	chóaiūⁿ	310
+choaiunn	chóa-iūⁿ	309
+choaiunn	紙樣	308
+choanniunn	chóaⁿiūⁿ	310
+choanniunn	chóaⁿ-iūⁿ	309
 chongou	chòngō͘	310
 chongou	chò-ngō͘	309
 chongou	錯誤	308
@@ -18374,7 +18381,7 @@ hokgoan	ho̍k-goân	309
 hokgoan	復原	308
 hoksip	ho̍ksi̍p	310
 hoksip	ho̍k-si̍p	309
-#TODO
+###TODO
 hoksip	複習	308
 honghoat	honghoat	310
 honghoat	hong-hoat	309
@@ -18492,7 +18499,7 @@ kamtong	kám-tōng	309
 kamtong	感動	308
 kanghu	kanghu	310
 kanghu	kang-hu	309
-#TODO
+###TODO
 kanghu	工夫	308
 kanglang	kanglâng	310
 kanglang	kang-lâng	309
@@ -18517,17 +18524,21 @@ kanna	kan-nā	309
 kanna	干但	308
 kanta	kanta	310
 kanta	kan-ta	309
-#TODO
+###TODO
 kanta	干單	308
 kantan	kántan	310
 kantan	kán-tan	309
 kantan	簡單	307
 kantann	kantaⁿ	310
 kantann	kan-taⁿ	309
-#TODO
+###TODO
 kantann	干單	308
 kati	katī	310
 kati	ka-tī	309
+kato	kato	310
+kato	ka-to	309
+###TODO
+kato	鉸刀	308
 kaukoai	káukoài	310
 kaukoai	káu-koài	309
 kaukoai	狡怪	308
@@ -18542,7 +18553,7 @@ kechhek	kè-chhek	309
 kechhek	計策	308
 keoe	kèōe	310
 keoe	kè-ōe	309
-#TODO
+###TODO
 keoe	計劃	308
 kepo	kepô	310
 kepo	ke-pô	309
@@ -18558,7 +18569,7 @@ khangkhoe	khang-khòe	309
 khangkhoe	工課	308
 khangphang	khangphāng	310
 khangphang	khang-phāng	309
-#TODO
+###TODO
 khangphang	空縫	308
 khaucho	kháuchō	310
 khaucho	kháu-chō	309
@@ -18630,6 +18641,12 @@ koakhek	歌曲	308
 koasu	koasû	310
 koasu	koa-sû	309
 koasu	歌詞	308
+kohiong	Kohiông	310
+kohiong	Ko-hiông	309
+kohiong	高雄	308
+takao	Kohiông	310
+takao	Ko-hiông	309
+takao	高雄	308
 kokip	kokip	310
 kokip	ko-kip	309
 kokip	高級	308
@@ -18662,7 +18679,7 @@ kongka	kong-ka	309
 kongka	公家	308
 kongke	kongke	310
 kongke	kong-ke	309
-#TODO
+###TODO
 kongke	公家	308
 kongli	konglí	310
 kongli	kong-lí	309
@@ -18693,11 +18710,20 @@ koupan	kó͘-pán	309
 koupan	古板	308
 kouputchiong	ko͘putchiong	310
 kouputchiong	ko͘-put-chiong	309
-#TODO
+###TODO
 kouputchiong	???	308
 koutong	kó͘tóng	310
 koutong	kó͘-tóng	309
 koutong	古董	308
+kuibou	kuibô͘	310
+kuibou	kui-bô͘	309
+kuibou	規模	308
+kuiki	kuikí	310
+kuiki	kui-kí	309
+kuiki	規矩	308
+kuiteng	kuitēng	310
+kuiteng	kui-tēng	309
+kuiteng	規定	308
 laibin	lāibīn	310
 laibin	lāi-bīn	309
 laibin	內面	308
@@ -18740,7 +18766,7 @@ lengmui	léng-mûi	309
 lengmui	冷媒	308
 lengsiann	lêngsiàⁿ	310
 lengsiann	lêng-siàⁿ	309
-#TODO
+###TODO
 lengsiann	靈聖	308
 liaukai	liáukái	310
 liaukai	liáu-kái	309
@@ -18756,7 +18782,7 @@ liukiu	Liû-kiû	309
 liukiu	琉球	308
 liuliah	liúlia̍h	310
 liuliah	liú-lia̍h	309
-#TODO
+###TODO
 liuliah	??	308
 lmj	LMJ	308
 lmj	Lômájī	310
@@ -18817,6 +18843,10 @@ panpun	版本	308
 pangbang	pangbâng	310
 pangbang	pang-bâng	309
 pangbang	幫忙	308
+pangbou	pangbô͘	310
+pangbou	pang-bô͘	309
+###TODO
+pangbou	枋模	308
 pangchan	pangchān	310
 pangchan	pang-chān	309
 pangchan	幫贊	308
@@ -18872,7 +18902,7 @@ pouchhiong	pó͘-chhiong	309
 pouchhiong	補充	308
 punchiann	púnchiâⁿ	310
 punchiann	pún-chiâⁿ	309
-#TODO
+###TODO
 punchiann	本成	308
 punlai	púnlâi	310
 punlai	pún-lâi	309
@@ -18924,6 +18954,8 @@ siatteng	siat-tēng	309
 siatteng	設定	308
 sihna	sihnà	310
 sihna	sih-nà	309
+###TODO
+sihna	??	308
 sikan	sîkan	310
 sikan	sî-kan	309
 sikan	時間	308
@@ -18959,7 +18991,7 @@ sitgiamsek	si̍t-giām-sek	309
 sitgiamsek	實驗室	308
 siuhok	siuho̍k	310
 siuhok	siu-ho̍k	309
-#TODO
+###TODO
 siuhok	收伏	308
 siuhok	收服	307
 siuhok	修復	306
@@ -19020,6 +19052,9 @@ taigi	台語	308
 taike	tāike	310
 taike	tāi-ke	309
 taike	大家	308
+tailam	Tâilâm	310
+tailam	Tâi-lâm	309
+tailam	台南	307
 taioan	Tâioân	310
 taioan	Tâi-oân	309
 taioan	台員	307
@@ -19035,6 +19070,18 @@ taioanoe	Tâioânōe	310
 taioanoe	Tâi-oân-ōe	309
 taioanoe	台員話	307
 taioanoe	台灣話	308
+taipak	Tâipak	310
+taipak	Tâi-pak	309
+taipak	台北	307
+taise	Tâise	310
+taise	Tâi-se	309
+taise	台西	307
+taitang	Tâitang	310
+taitang	Tâi-tang	309
+taitang	台東	307
+taitiong	Tâitiong	310
+taitiong	Tâi-tiong	309
+taitiong	台中	307
 take	ta̍kê	310
 take	ta̍k-ê	309
 tautin	tàutīn	310
