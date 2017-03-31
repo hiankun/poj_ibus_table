@@ -17976,12 +17976,22 @@ chhiuchheng	手銃	308
 chhiulou	chhiúlō͘	310
 chhiulou	chhiú-lō͘	309
 chhiulou	手路	308
+chhiunnkiap	chhiúⁿkiap	310
+chhiunnkiap	chhiúⁿ-kiap	309
+###TODO: 劫？刧？
+chhiunnkiap	廠劫	308
+chhiunnsiong	chhiúⁿsiong	310
+chhiunnsiong	chhiúⁿ-siong	309
+chhiunnsiong	廠商	308
 chhiupio	chhiúpió	310
 chhiupio	chhiú-pió	309
 chhiupio	手錶	308
 chhiuthau	chhiúthâu	310
 chhiuthau	chhiú-thâu	309
 chhiuthau	手頭	308
+chhubi	chhùbī	310
+chhubi	chhù-bī	309
+chhubi	趣味	308
 chhuli	chhúlí	310
 chhuli	chhú-lí	309
 chhuli	處理	308
@@ -18020,6 +18030,17 @@ giankiu	研究	308
 gina	gíná	310
 gina	gín-á	309
 gina	囝仔	308
+###TODO: 像 chit 種有「á」做尾liu--ê，
+###      汝有 siáⁿ 建議 bô？
+ginkaka	gînkaká	310
+ginkaka	gîn-kak-á	309
+ginkaka	銀角仔	308
+ginhang	gînhâng	310
+ginhang	gîn-hâng	309
+ginhang	銀行	308
+ginphio	gînphiò	310
+ginphio	gîn-phiò	309
+ginphio	銀票	308
 ginna	gínná	310
 ginna	gín-ná	309
 ginna	囝仔	308
@@ -18090,6 +18111,9 @@ hiohkhun	宿困	308
 hionghiong	hiônghiông	310
 hionghiong	hiông-hiông	309
 hionghiong	雄雄	308
+hoagi	Hôagí	310
+hoagi	Hôa-gí	309
+hoagi	華語	308
 hoatbeng	hoatbêng	310
 hoatbeng	hoat-bêng	309
 hoatbeng	發明	308
@@ -18099,6 +18123,9 @@ hoatchai	發財	308
 hoathian	hoathiān	310
 hoathian	hoat-hiān	309
 hoathian	發現	308
+hoatim	hoatim	310
+hoatim	hoat-im	309
+hoatim	發音	308
 hoatpiau	hoatpiáu	310
 hoatpiau	hoat-piáu	309
 hoatpiau	發表	308
@@ -18261,6 +18288,9 @@ kamtong	感動	308
 kanghu	kanghu	310
 kanghu	kang-hu	309
 kanghu	工夫	308
+kangkhau	kángkháu	310
+kangkhau	káng-kháu	309
+kangkhau	港口	308
 kanglang	kanglâng	310
 kanglang	kang-lâng	309
 kanglang	工人	308
@@ -18315,6 +18345,7 @@ kechhek	kèchhek	310
 kechhek	kè-chhek	309
 kechhek	計策	308
 ###DONE
+keek	kèe̍k	310
 keek	kè-e̍k	309
 keek	計劃	308
 keoe	kèōe	310
@@ -18369,6 +18400,9 @@ kiamchhai	kiám-chhái	309
 kianchhi	kianchhî	310
 kianchhi	kian-chhî	309
 kianchhi	堅持	308
+kiangi	kiàngī	310
+kiangi	kiàn-gī	309
+kiangi	建議	308
 kiankok	kiànkok	310
 kiankok	kiàn-kok	309
 kiankok	建國	308
@@ -18425,9 +18459,20 @@ koakhek	歌曲	308
 koasu	koasû	310
 koasu	koa-sû	309
 koasu	歌詞	308
+koesin	kòesin	310
+koesin	kòe-sin	309
+koesin	過身	308
+koesit	kòesit	310
+koesit	kòe-sit	309
+koesit	過失	308
+koetheng	kòethêng	310
+koetheng	kòe-thêng	309
+koetheng	過程	308
 kohiong	Kohiông	310
 kohiong	Ko-hiông	309
 kohiong	高雄	308
+###TODO: che 是 Easter egg;
+###      看汝咁有想 tio̍h siáⁿmih 趣味 ê ētàng khǹg...
 takao	Kohiông	310
 takao	Ko-hiông	309
 takao	高雄	308
@@ -18676,18 +18721,33 @@ poj	白話字	307
 poan	Póan	310
 poan	Pó-an	309
 poan	保安	308
+pobea	pòbéá	310
+pobea	pò-bé-á	309
+pobea	報馬仔	308
 pochhi	póchhî	310
 pochhi	pó-chhî	309
 pochhi	保持	308
 pochun	póchûn	310
 pochun	pó-chûn	309
 pochun	保存	308
+poeng	pòèng	310
+poeng	pò-èng	309
+poeng	報應	308
+pohok	pòho̍k	310
+pohok	pò-ho̍k	309
+pohok	報復	308
+poko	pòkò	310
+poko	pò-kò	309
+poko	報告	308
 poliu	póliû	310
 poliu	pó-liû	309
 poliu	保留	308
 posiu	pósiú	310
 posiu	pó-siú	309
 posiu	保守	308
+posiu	pósiû	310
+posiu	pó-siû	309
+posiu	報仇	308
 potiong	pótiōng	310
 potiong	pó-tiōng	309
 potiong	保重	308
