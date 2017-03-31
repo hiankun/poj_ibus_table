@@ -102,6 +102,7 @@ DYNAMIC_ADJUST = TRUE
 ### of phrase. This have to be satisfied if you need ibus-table to build up
 ### your own inputed phrase via your daily using.
 ### RULES = ce2:p11+p12+p21+p22;ce3:p11+p21+p22+p31;ca4:p11+p21+p31+p41
+RULES = ce2:p11+p12+p21+p22;ce3:p11+p21+p22+p31;ca4:p11+p21+p31+p41
 
 ### The key strokes to page up the lookup table.
 ### PAGE_UP_KEYS = Page_Up,KP_Page_Up,minus,comma
