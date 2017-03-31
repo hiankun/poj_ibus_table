@@ -1103,7 +1103,7 @@ cheng5	情	132
 cheng5	晴	98
 cheng5	曾	111
 cheng5	層	88
-cheng5	從	113	
+cheng5	從	113
 cheng7	chēng	201
 cheng7	淨	122
 cheng7	靖	111
@@ -17830,7 +17830,6 @@ bunte	būn-tê	309
 bunte	問題	308
 chaiiann	chaiiáⁿ	310
 chaiiann	chai-iáⁿ	309
-###DONE
 chaiiann	知影	308
 chainniunn	cháiⁿiūⁿ	310
 chainniunn	cháiⁿ-iūⁿ	309
@@ -17854,7 +17853,6 @@ chektek	chek-tek	309
 chektek	積德	308
 chengchha	chengchha	310
 chengchha	cheng-chha	309
-###DONE
 chengchha	爭差	308
 chengchong	chengchông	310
 chengchong	cheng-chông	309
@@ -17888,7 +17886,6 @@ china	Chi-ná	309
 china	支那	308
 chincheng	chìnchêng	310
 chincheng	chìn-chêng	309
-###DONE
 chincheng	進前	308
 chinheng	chìnhêng	310
 chinheng	chìn-hêng	309
@@ -17996,7 +17993,6 @@ engbun	Eng-bûn	309
 engbun	英文	308
 engeng	êngêng	310
 engeng	êng-êng	309
-###DONE
 engeng	閑閑	308
 enggi	Enggí	310
 enggi	Eng-gí	309
@@ -18135,7 +18131,6 @@ hokgoan	ho̍k-goân	309
 hokgoan	復原	308
 hoksip	ho̍ksi̍p	310
 hoksip	ho̍k-si̍p	309
-###DONE
 hoksip	復習	308
 honghoat	honghoat	310
 honghoat	hong-hoat	309
@@ -18265,7 +18260,6 @@ kamtong	kám-tōng	309
 kamtong	感動	308
 kanghu	kanghu	310
 kanghu	kang-hu	309
-###DONE
 kanghu	工夫	308
 kanglang	kanglâng	310
 kanglang	kang-lâng	309
@@ -18285,21 +18279,13 @@ kangthengchhia	工程車	308
 kangthengsu	kangthêngsu	310
 kangthengsu	kang-thêng-su	309
 kangthengsu	工程師	308
-###kanna	kannā	310
-###kanna	kan-nā	309
-###kanna	干但	308
-###照我知、「kan-nā」是將
-###「na」分析做「本調音節」；
-###che káⁿnáⁿ 無理。
 kanna	kanna	310
 kanna	kan-na	309
-###DONE
 kanna	干乾	308
 kanna	干礁	307
 kanna	干焦	306
 kanta	kanta	310
 kanta	kan-ta	309
-###DONE
 kanta	干乾	308
 kanta	干礁	307
 kanta	干焦	306
@@ -18308,7 +18294,6 @@ kantan	kán-tan	309
 kantan	簡單	307
 kantann	kantaⁿ	310
 kantann	kan-taⁿ	309
-###DONE
 kantann	干乾	308
 kantann	干礁	307
 kantann	干焦	306
@@ -18316,7 +18301,6 @@ kati	katī	310
 kati	ka-tī	309
 kato	kato	310
 kato	ka-to	309
-###DONE
 kato	鉸刀	308
 kaukoai	káukoài	310
 kaukoai	káu-koài	309
@@ -18352,7 +18336,6 @@ khangkhoe	khang-khòe	309
 khangkhoe	工課	308
 khangphang	khangphāng	310
 khangphang	khang-phāng	309
-###DONE
 khangphang	空縫	308
 khaucho	kháuchō	310
 khaucho	kháu-chō	309
@@ -18377,7 +18360,6 @@ kholeng	khó-lêng	309
 kholeng	可能	308
 khoounn	khóò͘ⁿ	310
 khoounn	khó-ò͘ⁿ	309
-###DONE
 khoounn	可惡	308
 khuilat	khùila̍t	310
 khuilat	khùi-la̍t	309
@@ -18481,7 +18463,6 @@ kongka	kong-ka	309
 kongka	公家	308
 kongke	kongke	310
 kongke	kong-ke	309
-###DONE
 kongke	公家	308
 kongli	konglí	310
 kongli	kong-lí	309
@@ -18512,7 +18493,6 @@ koupan	kó͘-pán	309
 koupan	古板	308
 kouputchiong	ko͘putchiong	310
 kouputchiong	ko͘-put-chiong	309
-###DONE
 kouputchiong	姑不將	308
 koutong	kó͘tóng	310
 koutong	kó͘-tóng	309
@@ -18568,7 +18548,6 @@ lengmui	léng-mûi	309
 lengmui	冷媒	308
 lengsiann	lêngsiàⁿ	310
 lengsiann	lêng-siàⁿ	309
-###DONE
 lengsiann	靈聖	308
 liaukai	liáukái	310
 liaukai	liáu-kái	309
@@ -18717,7 +18696,6 @@ pouchhiong	pó͘-chhiong	309
 pouchhiong	補充	308
 punchiann	púnchiâⁿ	310
 punchiann	pún-chiâⁿ	309
-###DONE
 punchiann	本成	308
 punlai	púnlâi	310
 punlai	pún-lâi	309
@@ -18788,7 +18766,6 @@ sengkong	sêng-kong	309
 sengkong	成功	308
 sengli	senglí	310
 sengli	seng-lí	309
-###DONE
 sengli	生理	308
 sengoah	sengoa̍h	310
 sengoah	seng-oa̍h	309
