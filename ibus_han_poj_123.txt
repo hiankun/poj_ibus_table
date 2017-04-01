@@ -1253,6 +1253,12 @@ chheng5	chhêng	201
 chheng5	松	132
 chheng7	chhēng	201
 chheng7	穿	123
+chhenn	chheⁿ	201
+chhenn	生	131
+chhenn	青	133
+chhenn	星	123
+chhenn2	chhéⁿ	201
+chhenn2	醒	132
 chhi	chhi	201
 chhi	痴	122
 chhi	癡	66
