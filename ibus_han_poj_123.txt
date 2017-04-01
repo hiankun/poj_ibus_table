@@ -44,8 +44,9 @@ DESCRIPTION = This is a template engine table for IBus Table.
 ### and "en_US, zh_CN" will be just ignored.
 LANGUAGES = zh_CN,zh_SG,zh_TW,zh_HK
 
-### The author of this table
+### The authors of this table
 AUTHOR = thk <hiankun@gmail.com> 
+AUTHOR = KIRINPUTRA <3@tawa.asia> 
 
 ### Prompt string to be displayed in the status area, CN will be replaced by
 ### the gettext tools in runtime as 中.
@@ -17870,12 +17871,12 @@ chengsin	cheng-sîn	309
 chengsin	精神	308
 chengsenn	chengseⁿ	310
 chengsenn	cheng-seⁿ	309
-###TODO
-chengsenn	精牲	308
+###DONE
+chengsenn	精生	308
 chengsinn	chengsiⁿ	310
 chengsinn	cheng-siⁿ	309
-###TODO
-chengsinn	精牲	308
+###DONE
+chengsinn	精生	308
 chiannsit	chiaⁿsi̍t	310
 chiannsit	chiaⁿ-si̍t	309
 chiannsit	正實	308
@@ -18031,8 +18032,13 @@ giankiu	研究	308
 gina	gíná	310
 gina	gín-á	309
 gina	囝仔	308
-###TODO: 像 chit 種有「á」做尾liu--ê，
+###: 像 chit 種有「á」做尾liu--ê，
 ###      汝有 siáⁿ 建議 bô？
+###DONE 建議 
+### gînkakgá、gînkak-á
+### 個人暫時認爲「gînkaká」不可取
+###未來个台文﹕gînkakᵃ #眠夢
+###當然「ᵃ」ē 使 koh 注調號
 ginkaka	gînkaká	310
 ginkaka	gîn-kak-á	309
 ginkaka	銀角仔	308
@@ -18472,22 +18478,30 @@ koetheng	過程	308
 kohiong	Kohiông	310
 kohiong	Ko-hiông	309
 kohiong	高雄	308
-###TODO: che 是 Easter egg;
-###      看汝咁有想 tio̍h siáⁿmih 趣味 ê ētàng khǹg...
+###: che 是 Easter egg;
+###      看汝咁有想 tio̍h
+###siáⁿmih 趣味 ê ētàng khǹg...
+###DONE: XDDDDD
+### 我來加 kóa 正經个
 takao	Kohiông	310
 takao	Ko-hiông	309
 takao	高雄	308
+takau	Tákáu	310
+takau	Táⁿkáu	309
+takau	Tá-káu	308
+takau	Táⁿ-káu	307
+takau	打狗	306
 kokip	kokip	310
 kokip	ko-kip	309
 kokip	高級	308
 kokbin	kokbîn	310
-kokbin	ko-bîn	309
+kokbin	kok-bîn	309
 kokbin	國民	308
 kokhong	kokhông	310
-kokhong	ko-hông	309
+kokhong	kok-hông	309
 kokhong	國防	308
 kokka	kokka	310
-kokka	ko-ka	309
+kokka	kok-ka	309
 kokka	國家	308
 kongbeng	kongbêng	310
 kongbeng	kong-bêng	309
@@ -18655,8 +18669,9 @@ mthang	m̄-thang	309
 mthang	不通	308
 ngbang	ǹgbāng	310
 ngbang	ǹg-bāng	309
-###TODO+
-ngbang	向望	308
+###DONE
+ngbang	瞈望	308
+ngbang	映望	307
 ngouheng	ngó͘hêng	310
 ngouheng	ngó͘-hêng	309
 ngouheng	五行	308
@@ -18781,8 +18796,17 @@ phiauthau	phiau-thâu	309
 phiauthau	標頭	308
 phiju	phìjū	310
 phiju	phì-jū	309
-###TODO
-phiju	譬諭	308
+###DONE﹕Che 是二个詞。第二个是 choa̍h 音。
+###Hām 卜 khǹg to 有好有呆。
+###日本時代个文献寫「喩、輸、偸」多過「喻、輸、偷」
+###是在來个寫法 á 是 tòe 日本人寫、我不知
+###今電腦 kan-na「俞」系有 chiâu 全
+### → 建議 lóng 用「俞」系
+###＆「喩、輸、偸」kan-na 提供單字
+phiju	譬喻	308
+phiju	phíjū	307
+phiju	phí-jū	306
+phiju	比喻	305
 phitphiak	phi̍tphia̍k	310
 phitphiak	phi̍t-phia̍k	309
 phitphok	phi̍tpho̍k	310
@@ -18804,7 +18828,7 @@ santo	sán-tō	309
 santo	產道	308
 sebin	sèbīn	310
 sebin	sè-bīn	309
-###TODO
+###DONE
 sebin	勢面	308
 sebin	世面	307
 sekan	sèkan	310
@@ -18859,15 +18883,19 @@ siatsiong	siat-sióng	309
 siatsiong	設想	308
 siatsu	siatsú	310
 siatsu	siat-sú	309
-###TODO
+###DONE
 siatsu	設使	308
 siatteng	siattēng	310
 siatteng	siat-tēng	309
 siatteng	設定	308
 sihna	sihnà	310
 sihna	sih-nà	309
-###TODO
-sihna	??	308
+###DONE
+sihna	薛那	308
+sihnah	sihnah	310
+sihnah	sih-nah	309
+###DONE
+sihnah	薛那	308
 sikan	sîkan	310
 sikan	sî-kan	309
 sikan	時間	308
