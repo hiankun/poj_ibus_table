@@ -1112,6 +1112,15 @@ cheng7	靖	111
 cheng7	靜	123
 cheng7	贈	113
 cheng7	凈	22
+chenn	cheⁿ	201
+chenn	爭	132
+chenn2	chéⁿ	201
+chenn2	井	132
+chenn3	chèⁿ	201
+chenn3	諍	121
+chenn5	chêⁿ	201
+chenn7	chēⁿ 201
+chenn7	靜	123
 chha	chha	201
 chha	叉	88
 chha	差	123
