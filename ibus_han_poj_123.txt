@@ -17287,11 +17287,9 @@ chengsin	cheng-sîn	309
 chengsin	精神	308
 chengsenn	chengseⁿ	310
 chengsenn	cheng-seⁿ	309
-###DONE
 chengsenn	精生	308
 chengsinn	chengsiⁿ	310
 chengsinn	cheng-siⁿ	309
-###DONE
 chengsinn	精生	308
 chiannsit	chiaⁿsi̍t	310
 chiannsit	chiaⁿ-si̍t	309
@@ -17305,6 +17303,9 @@ china	支那	308
 chincheng	chìnchêng	310
 chincheng	chìn-chêng	309
 chincheng	進前	308
+chinchiann	chinchiàⁿ	310
+chinchiann	chin-chiàⁿ	309
+chinchiann	真正	308
 chinheng	chìnhêng	310
 chinheng	chìn-hêng	309
 chinheng	進行	308
@@ -17330,12 +17331,25 @@ chongou	chò-ngō͘	309
 chongou	錯誤	308
 chohoe	chòhóe	310
 chohoe	chò-hóe	309
+chuchai	chūchāi	310
+chuchai	chū-chāi	309
+chuchai	自在	308
+chuchun	chūchun	310
+chuchun	chū-chun	309
+chuchun	自尊	308
+chuiu	chūiû	310
+chuiu	chū-iû	309
+chuiu	自由	308
 chujian	chūjiân	310
 chujian	chū-jiân	309
 chujian	自然	308
 chujiankai	chūjiânkài	310
 chujiankai	chū-jiân-kài	309
 chujiankai	自然界	308
+###TODO
+chuki	chūkí	310
+chuki	chū-kí	309
+chuki	自己	308
 chuliau	chuliāu	310
 chuliau	chu-liāu	309
 chuliau	資料	308
@@ -17348,6 +17362,9 @@ chuntiong	尊重	308
 chusin	chusìn	310
 chusin	chu-sìn	309
 chusin	資訊	308
+chusin	chūsìn	310
+chusin	chū-sìn	309
+chusin	自信	308
 chhailiau	chhâiliāu	310
 chhailiau	chhâi-liāu	309
 chhailiau	材料	308
@@ -17397,7 +17414,7 @@ chhiulou	手路	308
 chhiunnkiap	chhiúⁿkiap	310
 chhiunnkiap	chhiúⁿ-kiap	309
 ###TODO: 劫？刧？
-chhiunnkiap	廠劫	308
+chhiunnkiap	搶劫	308
 chhiunnsiong	chhiúⁿsiong	310
 chhiunnsiong	chhiúⁿ-siong	309
 chhiunnsiong	廠商	308
@@ -17453,11 +17470,14 @@ gina	囝仔	308
 ###DONE 建議 
 ### gînkakgá、gînkak-á
 ### 個人暫時認爲「gînkaká」不可取
-###未來个台文﹕gînkakᵃ #眠夢
-###當然「ᵃ」ē 使 koh 注調號
-ginkaka	gînkaká	310
-ginkaka	gîn-kak-á	309
-ginkaka	銀角仔	308
+### 未來个台文﹕gînkakᵃ #眠夢
+### 當然「ᵃ」ē 使 koh 注調號
+###TODO
+### Ánne siáⁿkhoán?
+### Ah 是講 chit khoán 詞 mài 收？
+ginkak	gînkak	310
+ginkak	gîn-kak	309
+ginkak	銀角	308
 ginhang	gînhâng	310
 ginhang	gîn-hâng	309
 ginhang	銀行	308
@@ -17767,14 +17787,11 @@ kebou	計謀	308
 kechhek	kèchhek	310
 kechhek	kè-chhek	309
 kechhek	計策	308
-###DONE
 keek	kèe̍k	310
 keek	kè-e̍k	309
 keek	計劃	308
 keoe	kèōe	310
 keoe	kè-ōe	309
-###DONE
-###計劃＝kè-e̍k
 keoe	計畫	308
 kepo	kepô	310
 kepo	ke-pô	309
@@ -17843,6 +17860,9 @@ kianteng	堅定	308
 kiathap	kiatha̍p	310
 kiathap	kiat-ha̍p	309
 kiathap	結合	308
+kibiau	kîbiāu	310
+kibiau	kî-biāu	309
+kibiau	奇妙	308
 kiche	kichè	310
 kiche	ki-chè	309
 kiche	機制	308
@@ -17858,6 +17878,9 @@ kiliok	記錄	308
 kionghi	kionghí	310
 kionghi	kiong-hí	309
 kionghi	恭喜	308
+kisit	kîsi̍t	310
+kisit	kî-si̍t	309
+kisit	其實	308
 kisut	kisu̍t	310
 kisut	ki-su̍t	309
 kisut	技術	308
@@ -18074,6 +18097,9 @@ mkoh	m̄-koh	309
 mkoh	不閣	308
 mna	m̄nā	310
 mna	m̄-nā	309
+mouhiam	mō͘hiám	310
+mouhiam	mō͘-hiám	309
+mouhiam	冒險	308
 mousina	mô͘sîná	310
 mousina	mô͘-sîn-á	309
 mousina	魔神仔	308
@@ -18085,7 +18111,6 @@ mthang	m̄-thang	309
 mthang	不通	308
 ngbang	ǹgbāng	310
 ngbang	ǹg-bāng	309
-###DONE
 ngbang	瞈望	308
 ngbang	映望	307
 ngouheng	ngó͘hêng	310
@@ -18195,6 +18220,9 @@ punlai	本來	308
 punte	púnté	310
 punte	pún-té	309
 punte	本底	308
+phahji	phahjī	310
+phahji	phahjī	309
+phahji	拍字	308
 phiauchun	phiauchún	310
 phiauchun	phiau-chún	309
 phiauchun	標準	308
@@ -18244,7 +18272,6 @@ santo	sán-tō	309
 santo	產道	308
 sebin	sèbīn	310
 sebin	sè-bīn	309
-###DONE
 sebin	勢面	308
 sebin	世面	307
 sekan	sèkan	310
@@ -18299,18 +18326,15 @@ siatsiong	siat-sióng	309
 siatsiong	設想	308
 siatsu	siatsú	310
 siatsu	siat-sú	309
-###DONE
 siatsu	設使	308
 siatteng	siattēng	310
 siatteng	siat-tēng	309
 siatteng	設定	308
 sihna	sihnà	310
 sihna	sih-nà	309
-###DONE
 sihna	薛那	308
 sihnah	sihnah	310
 sihnah	sih-nah	309
-###DONE
 sihnah	薛那	308
 sikan	sîkan	310
 sikan	sî-kan	309
