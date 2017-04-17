@@ -16405,6 +16405,10 @@ chekjim	責任	308
 chektek	chektek	310
 chektek	chek-tek	309
 chektek	積德	308
+chengam	chéngām	310
+chengam	chéng-ām	309
+###TODO
+chengam	腫頷	308
 chengchha	chengchha	310
 chengchha	cheng-chha	309
 chengchha	爭差	308
@@ -16416,6 +16420,9 @@ chengchong	精裝	307
 chenggi	chènggī	310
 chenggi	chèng-gī	309
 chenggi	正義	308
+chengka	chengka	310
+chengka	cheng-ka	309
+chengka	增加	308
 chengli	chénglí	310
 chengli	chéng-lí	309
 chengli	整理	308
@@ -16483,7 +16490,6 @@ chujian	自然	308
 chujiankai	chūjiânkài	310
 chujiankai	chū-jiân-kài	309
 chujiankai	自然界	308
-###DONE/OK
 chuki	chūkí	310
 chuki	chū-kí	309
 chuki	自己	308
@@ -16572,6 +16578,21 @@ chhuli	處理	308
 chhinchhiunn	chhinchhiūⁿ	310
 chhinchhiunn	chhin-chhiūⁿ	309
 chhinchhiunn	親像	308
+chhuthian	chhuthiān	310
+chhuthian	chhut-hiān	309
+chhuthian	出現	308
+chhutlai	chhutlâi	310
+chhutlai	chhut-lâi	309
+chhutlai	出來	308
+chhutpan	chhutpán	310
+chhutpan	chhut-pán	309
+chhutpan	出版	308
+chhutsoann	chhutsoaⁿ	310
+chhutsoann	chhut-soaⁿ	309
+chhutsoann	出山	308
+chhuttiunn	chhuttiuⁿ	310
+chhuttiunn	chhut-tiuⁿ	309
+chhuttiunn	出張	308
 engbun	Engbûn	310
 engbun	Eng-bûn	309
 engbun	英文	308
@@ -16611,16 +16632,18 @@ gina	囝仔	308
 ### 個人暫時認爲「gînkaká」不可取
 ### 未來个台文﹕gînkakᵃ #眠夢
 ### 當然「ᵃ」ē 使 koh 注調號
-###TODO
+###DONE
 ### Ánne siáⁿkhoán?
 ### Ah 是講 chit khoán 詞 mài 收？
 ###DONE:
 ###一、Chit 个問題 chiâⁿ 硬斗﹗
 ###→ 電子批討論
 ###二、Kám 正實有人講「銀角」﹖
-ginkak	gînkak	310
-ginkak	gîn-kak	309
-ginkak	銀角	308
+###TODO
+### Nā ánne leh?
+ginkak	gînkak-á	310
+ginkak	gîn-kak-á	309
+ginkak	銀角仔	308
 ginhang	gînhâng	310
 ginhang	gîn-hâng	309
 ginhang	銀行	308
@@ -16978,6 +17001,12 @@ khoounn	可惡	308
 khuilat	khùila̍t	310
 khuilat	khùi-la̍t	309
 khuilat	氣力	308
+khunlan	khùnlân	310
+khunlan	khùn-lân	309
+khunlan	困難	308
+khunlantou	khùnlântō͘	310
+khunlantou	khùn-lân-tō͘	309
+khunlantou	困難度	308
 kiamchhai	kiámchhái	310
 kiamchhai	kiám-chhái	309
 kianchhi	kianchhî	310
@@ -17214,6 +17243,9 @@ lmj	羅馬字	307
 langkheh	lângkheh	310
 langkheh	lâng-kheh	309
 langkheh	人客	308
+lantou	lântō͘	310
+lantou	lân-tō͘	309
+lantou	難度	308
 lohlai	lo̍hlâi	310
 lohlai	lo̍h-lâi	309
 lohlai	落來	308
@@ -17278,7 +17310,6 @@ pangbang	pang-bâng	309
 pangbang	幫忙	308
 pangbou	pangbô͘	310
 pangbou	pang-bô͘	309
-###DONE / OK
 pangbou	枋模	308
 pangchan	pangchān	310
 pangchan	pang-chān	309
@@ -17473,6 +17504,24 @@ siatsu	設使	308
 siatteng	siattēng	310
 siatteng	siat-tēng	309
 siatteng	設定	308
+siaubin	siáubīn	310
+siaubin	siáu-bīn	309
+###TODO
+siaubin	siáu 面	308
+siaugongsin	siáugōngsîn	310
+siaugongsin	siáu-gōng-sîn	309
+###TODO
+siaugongsin	siáu 戇神	308
+siaujin	siáujîn	310
+siaujin	siáu-jîn	309
+siaujin	小人	308
+siausoat	siáusoat	310
+siausoat	siáu-soat	309
+siausoat	小說	308
+###TODO
+siauthiua	siáuthiú-á	310
+siauthiua	siáu-thiú-á	309
+siauthiua	小丑仔	308
 sihna	sihnà	310
 sihna	sih-nà	309
 sihna	薛那	308
@@ -17490,6 +17539,10 @@ singiong	信仰	308
 sinnmia	sìⁿmiā	310
 sinnmia	sìⁿ-miā	309
 sinnmia	性命	308
+siokhoa	siókhóa	310
+siokhoa	sió-khóa	309
+###TODO
+siokhoa	小許	308
 siongse	siôngsè	310
 siongse	siông-sè	309
 siongse	詳細	308
@@ -17514,7 +17567,6 @@ sitgiamsek	si̍t-giām-sek	309
 sitgiamsek	實驗室	308
 siuhok	siuho̍k	310
 siuhok	siu-ho̍k	309
-###DONE
 siuhok	收服	307
 siuhok	修復	306
 siukai	siukái	310
@@ -17529,9 +17581,15 @@ snghai	損害	308
 soannteng	sòaⁿténg	310
 soannteng	sòaⁿ-téng	309
 soannteng	線頂	308
+souhak	sò͘ha̍k	310
+souhak	sò͘-ha̍k	309
+souhak	數學	308
 soui	só͘í	310
 soui	só͘-í	309
 soui	所以	308
+souji	sò͘jī	310
+souji	sò͘-jī	309
+souji	數字	308
 souchai	só͘chāi	310
 souchai	só͘-chāi	309
 souchai	所在	308
@@ -17677,6 +17735,10 @@ tiantong	電動	308
 tiantongki	tiāntōngki	310
 tiantongki	tiān-tōng-ki	309
 tiantongki	電動機	308
+tiautau	tiàutâu	310
+tiautau	tiàu-tâu	309
+###TODO
+tiautau	吊投	308
 tihui	tìhūi	310
 tihui	tì-hūi	309
 tihui	智慧	308
@@ -17722,6 +17784,16 @@ thekiong	提供	308
 thiahbeng	thiahbêng	310
 thiahbeng	thiah-bêng	309
 thiahbeng	拆明	308
+thiaubu	thiaubú	310
+thiaubu	thiau-bú	309
+thiaubu	跳舞	308
+thiauchian	thiauchiàn	310
+thiauchian	thiau-chiàn	309
+thiauchian	挑戰	308
+thiaukang	thiaukang	310
+thiaukang	thiau-kang	309
+###TODO
+thiaukang	刁工	308
 thinnkhi	thiⁿkhì	310
 thinnkhi	thiⁿ-khì	309
 thinnkhi	天氣	308
