@@ -609,6 +609,7 @@ bahf	肉	133
 bahf	嘛	33
 baia	bai	201
 ### Popular ji for bai is 之 minus the dot up top.
+###TODO: itpoaⁿ ê hēthóng kám sī bô chit ê jī?
 baia	毴	33
 bais	bái	201
 bais	呆	123
@@ -16315,6 +16316,9 @@ aplek	ap-le̍k	309
 aplek	壓力	308
 asi	ásī	310
 asi	á-sī	309
+banengkong	Bānèngkong	310
+banengkong	Bān-èng-kong	309
+banengkong	萬應公	308
 banglou	bānglō͘	310
 banglou	bānglō͘	309
 banglou	網路	308
@@ -16435,6 +16439,9 @@ chengsenn	精生	308
 chengsinn	chengsiⁿ	310
 chengsinn	cheng-siⁿ	309
 chengsinn	精生	308
+chiahnih	chiahni̍h	310
+chiahnih	chiah-ni̍h	309
+chiahnih	隻哖	308
 chiannsit	chiaⁿsi̍t	310
 chiannsit	chiaⁿ-si̍t	309
 chiannsit	正實	308
@@ -16470,9 +16477,9 @@ choaiunn	chóa-iūⁿ	309
 choaiunn	紙樣	308
 choanniunn	chóaⁿiūⁿ	310
 choanniunn	chóaⁿ-iūⁿ	309
-chongou	chòngō͘	310
-chongou	chò-ngō͘	309
-chongou	錯誤	308
+chongthong	chóngthóng	310
+chongthong	chóng-thóng	309
+chongthong	總統	308
 chohoe	chòhóe	310
 chohoe	chò-hóe	309
 chuchai	chūchāi	310
@@ -16578,6 +16585,9 @@ chhuli	處理	308
 chhinchhiunn	chhinchhiūⁿ	310
 chhinchhiunn	chhin-chhiūⁿ	309
 chhinchhiunn	親像	308
+chhongou	chhòngō͘	310
+chhongou	chhò-ngō͘	309
+chhongou	錯誤	308
 chhuthian	chhuthiān	310
 chhuthian	chhut-hiān	309
 chhuthian	出現	308
@@ -16599,6 +16609,15 @@ engbun	英文	308
 engeng	êngêng	310
 engeng	êng-êng	309
 engeng	閑閑	308
+engiong	êngióng	310
+engiong	êng-ióng	309
+engiong	營養	308
+engionghak	êngiónghak	310
+engionghak	êng-ióng-hak	309
+engionghak	營養學	308
+engiongsu	êngióngsu	310
+engiongsu	êng-ióng-su	309
+engiongsu	營養師	308
 enggi	Enggí	310
 enggi	Eng-gí	309
 enggi	英語	308
@@ -16707,6 +16726,12 @@ hanji	漢字	308
 hengbi	hèngbī	310
 hengbi	hèng-bī	309
 hengbi	興味	308
+hethong	hēthóng	310
+hethong	hē-thóng	309
+hethong	系統	308
+hiahnih	hiahni̍h	310
+hiahnih	hiah-ni̍h	309
+hiahnih	靴哖	308
 hiansiong	hiānsiōng	310
 hiansiong	hiān-siōng	309
 hiansiong	現象	308
@@ -16830,6 +16855,9 @@ inui	因為	307
 ittit	itti̍t	310
 ittit	it-ti̍t	309
 ittit	一直	308
+iuengkong	Iúèngkong	310
+iuengkong	Iú-èng-kong	309
+iuengkong	有應公	308
 jinui	jīnûi	310
 jinui	jīn-ûi	309
 jinui	認爲	308
@@ -17284,6 +17312,9 @@ mousut	魔術	308
 mthang	m̄thang	310
 mthang	m̄-thang	309
 mthang	不通	308
+muithe	mûithé	310
+muithe	mûi-thé	309
+muithe	媒體	308
 ngbang	ǹgbāng	310
 ngbang	ǹg-bāng	309
 ngbang	瞈望	308
@@ -17626,6 +17657,12 @@ taibun	台文	308
 taichi	tāichì	310
 taichi	tāi-chì	309
 taichi	事志	308
+taichiong	tāichìong	310
+taichiong	tāi-chìong	309
+taichiong	大眾	308
+taichiongbio	tāichìongbiō	310
+taichiongbio	tāi-chìong-biō	309
+taichiongbio	大眾廟	308
 taigi	Tâigí	310
 taigi	Tâi-gí	309
 taigi	台語	308
