@@ -13272,7 +13272,8 @@ soed	說	94
 soed	帨	93
 soed	繐	92
 soehf	soeh	201
-soehf	塞	100
+soehf	說	100
+soehf	塞	99
 sohf	soh	201
 sohf	索	100
 sohv	so̍h	201
@@ -16933,6 +16934,9 @@ kaichong	改裝	307
 kaipian	káipiàn	310
 kaipian	kái-piàn	309
 kaipian	改變	307
+kaisoeh	káisoeh	310
+kaisoeh	kái-soeh	309
+kaisoeh	解說	307
 kaitoann	kaitōaⁿ	310
 kaitoann	kai-tōaⁿ	309
 kaitoann	階段	307
@@ -17039,6 +17043,15 @@ keseng	繼承	308
 kesiok	kèsio̍k	310
 kesiok	kè-sio̍k	309
 kesiok	繼續	308
+khakjin	khakjīn	310
+khakjin	khak-jīn	309
+khakjin	確認	308
+khakteng	khaktēng	310
+khakteng	khak-tēng	309
+khakteng	確定	308
+khaksit	khaksi̍t	310
+khaksit	khak-si̍t	309
+khaksit	確實	308
 khangkhoe	khangkhòe	310
 khangkhoe	khang-khòe	309
 khangkhoe	工課	308
@@ -17257,6 +17270,9 @@ laibin	內面	308
 laichai	lāichâi	310
 laichai	lāi-châi	309
 laichai	內才	308
+laigoan	lâigoân	310
+laigoan	lâi-goân	309
+laigoan	來源	308
 laikhou	lāikhò͘	310
 laikhou	lāi-khò͘	309
 laikhou	內褲	308
@@ -17546,6 +17562,9 @@ sengchit	性質	308
 sengkong	sêngkong	310
 sengkong	sêng-kong	309
 sengkong	成功	308
+sengkhu	sengkhu	310
+sengkhu	seng-khu	309
+sengkhu	身軀	308
 sengli	senglí	310
 sengli	seng-lí	309
 sengli	生理	308
@@ -17635,6 +17654,9 @@ simmih	sím-mi̍h	309
 singiong	sìngióng	310
 singiong	sìn-gióng	309
 singiong	信仰	308
+sinkhu	sinkhu	310
+sinkhu	sin-khu	309
+sinkhu	身軀	308
 sinnmia	sìⁿmiā	310
 sinnmia	sìⁿ-miā	309
 sinnmia	性命	308
@@ -17680,6 +17702,15 @@ snghai	損害	308
 soannteng	sòaⁿténg	310
 soannteng	sòaⁿ-téng	309
 soannteng	線頂	308
+soatbeng	soatbêng	310
+soatbeng	soat-bêng	309
+soatbeng	說明	308
+soatbengsu	soatbêngsu	310
+soatbengsu	soat-bêng-su	309
+soatbengsu	說明書	308
+soehbeng	soehbêng	310
+soehbeng	soeh-bêng	309
+soehbeng	說明	308
 souhak	sò͘ha̍k	310
 souhak	sò͘-ha̍k	309
 souhak	數學	308
@@ -17700,6 +17731,13 @@ suchhut	輸出	308
 suiann	suiâⁿ	310
 suiann	su-iâⁿ	309
 suiann	輸贏	308
+###TODO: bô khaktēng chit ê sû ê lâigoân...
+suibong	suibóng	310
+suibong	sui-bóng	309
+suibong	雖罔	308
+suijian	suijiân	310
+suijian	sui-jiân	309
+suijian	雖然	308
 suiong	súiōng	310
 suiong	sú-iōng	309
 suiong	使用	308
