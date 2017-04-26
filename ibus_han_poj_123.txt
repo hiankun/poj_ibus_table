@@ -12321,6 +12321,7 @@ sek8	祏	91
 sek8	褯	90
 sek8	鼫	89
 senn	seⁿ	201
+senn	生	100
 senn2	séⁿ	201
 senn3	sèⁿ	201
 senn5	sêⁿ	201
@@ -16442,6 +16443,21 @@ chengsinn	精生	308
 chiahnih	chiahni̍h	310
 chiahnih	chiah-ni̍h	309
 chiahnih	隻哖	308
+chiancheng	chiàncheng	310
+chiancheng	chiàn-cheng	309
+chiancheng	戰爭	308
+chianchhia	chiànchhia	310
+chianchhia	chiàn-chhia	309
+chianchhia	戰車	308
+chianchun	chiànchûn	310
+chianchun	chiàn-chûn	309
+chianchun	戰船	308
+chiantau	chiàntàu	310
+chiantau	chiàn-tàu	309
+chiantau	戰鬥	308
+chiantauki	chiàntàuki	310
+chiantauki	chiàn-tàu-ki	309
+chiantauki	戰鬥機	308
 chiannsit	chiaⁿsi̍t	310
 chiannsit	chiaⁿ-si̍t	309
 chiannsit	正實	308
@@ -16585,6 +16601,12 @@ chhuli	處理	308
 chhinchhiunn	chhinchhiūⁿ	310
 chhinchhiunn	chhin-chhiūⁿ	309
 chhinchhiunn	親像	308
+chhongcho	chhòngchō	310
+chhongcho	chhòng-chō	309
+chhongcho	創造	308
+chhongchok	chhòngchok	310
+chhongchok	chhòng-chok	309
+chhongchok	創作	308
 chhongou	chhòngō͘	310
 chhongou	chhò-ngō͘	309
 chhongou	錯誤	308
@@ -16720,6 +16742,9 @@ hakmia	學名	308
 hakseng	ha̍kseng	310
 hakseng	ha̍k-seng	309
 hakseng	學生	308
+haksip	ha̍ksi̍p	310
+haksip	ha̍k-si̍p	309
+haksip	學習	308
 hanji	Hànjī	310
 hanji	Hàn-jī	309
 hanji	漢字	308
@@ -16833,6 +16858,9 @@ iongtian	陽電	308
 iai	ìài	310
 iai	ì-ài	309
 iai	意愛	308
+iau	íāu	310
+iau	í-āu	309
+iau	以後	308
 ichhi	îchhî	310
 ichhi	îchhî	309
 ichhi	維持	308
@@ -16845,6 +16873,9 @@ igi	意義	308
 igoan	ìgoān	310
 igoan	ì-goān	309
 igoan	意願	308
+ikian	ìkiàn	310
+ikian	ì-kiàn	309
+ikian	意見	308
 isu	ìsù	310
 isu	ì-sù	309
 isu	意思	308
@@ -16852,12 +16883,21 @@ inui	inūi	310
 inui	in-ūi	309
 inui	因爲	308
 inui	因為	307
+isu	ìsù	310
+isu	ì-sù	309
+isu	意思	308
+itou	ìtô͘	310
+itou	ì-tô͘	309
+itou	意圖	308
 ittit	itti̍t	310
 ittit	it-ti̍t	309
 ittit	一直	308
 iuengkong	Iúèngkong	310
 iuengkong	Iú-èng-kong	309
 iuengkong	有應公	308
+jibo	jībó	310
+jibo	jī-bó	309
+jibo	字母	308
 jinui	jīnûi	310
 jinui	jīn-ûi	309
 jinui	認爲	308
@@ -16870,6 +16910,9 @@ jitian	字典	308
 jitchi	ji̍tchí	310
 jitchi	ji̍t-chí	309
 jitchi	日子	308
+jitki	ji̍tkî	310
+jitki	ji̍t-kî	309
+jitki	日期	308
 jitthau	ji̍tthâu	310
 jitthau	ji̍t-thâu	309
 jitthau	日頭	308
@@ -17193,6 +17236,9 @@ koupan	古板	308
 kouputchiong	ko͘putchiong	310
 kouputchiong	ko͘-put-chiong	309
 kouputchiong	姑不將	308
+kousu	kò͘sū	310
+kousu	kò͘-sū	309
+kousu	故事	308
 koutong	kó͘tóng	310
 koutong	kó͘-tóng	309
 koutong	古董	308
@@ -17416,6 +17462,9 @@ potiong	保重	308
 pouchhiong	pó͘chhiong	310
 pouchhiong	pó͘-chhiong	309
 pouchhiong	補充	308
+pouhun	pō͘hūn	310
+pouhun	pō͘-hūn	309
+pouhun	部份	308
 punchiann	púnchiâⁿ	310
 punchiann	pún-chiâⁿ	309
 punchiann	本成	308
@@ -17509,6 +17558,25 @@ sengsan	生產	308
 sengtiong	sengtióng	310
 sengtiong	seng-tióng	309
 sengtiong	生長	308
+sennhun	seⁿhūn	310
+sennhun	seⁿ-hūn	309
+###TODO
+sennhun	生份	308
+sennjit	seⁿji̍t	310
+sennjit	seⁿ-ji̍t	309
+sennjit	生日	308
+sennsiann	seⁿsian	310
+sennsiann	seⁿ-sian	309
+###TODO
+sennsiann	生sian	308
+sennsiunn	seⁿsiùⁿ	310
+sennsiunn	seⁿ-siùⁿ	309
+###TODO
+sennsiunn	生相	308
+sennthoann	seⁿthòaⁿ	310
+sennthoann	seⁿ-thòaⁿ	309
+###TODO
+sennthoann	生湠	308
 siannlang	siáⁿlâng	310
 siannlang	siáⁿ-lâng	309
 siannlang	省人	308
