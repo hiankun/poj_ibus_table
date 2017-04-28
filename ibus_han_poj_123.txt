@@ -8965,6 +8965,7 @@ liok	忸	100
 liok	鑠	99
 liok	恧	98
 liok8	lio̍k	201
+liok8	陸	101
 liok8	六	100
 liok8	掠	99
 liok8	略	98
@@ -16532,6 +16533,9 @@ chusin	資訊	308
 chusin	chūsìn	310
 chusin	chū-sìn	309
 chusin	自信	308
+chutong	chūtōng	310
+chutong	chū-tōng	309
+chutong	自動	308
 chhailiau	chhâiliāu	310
 chhailiau	chhâi-liāu	309
 chhailiau	材料	308
@@ -16565,6 +16569,18 @@ chhauhoeta	臭火焦	305
 chhengchi	chhèngchí	310
 chhengchi	chhèng-chí	309
 chhengchi	銃子	308
+chhengkiat	chhengkiat	310
+chhengkiat	chheng-kiat	309
+chhengkiat	清潔	308
+chhengkiatche	chhengkiatche	310
+chhengkiatche	chheng-kiat-che	309
+chhengkiatche	清潔劑	308
+chhengtu	chhengtû	310
+chhengtu	chheng-tû	309
+chhengtu	清除	308
+chhengtuchia	chhengtûchiá	310
+chhengtuchia	chheng-tû-chiá	309
+chhengtuchia	清除者	308
 chhiahgu	chhiahgû	310
 chhiahgu	chhiahgû	309
 chhiahgu	赤牛	308
@@ -17016,6 +17032,10 @@ kati	ka-tī	309
 kato	kato	310
 kato	ka-to	309
 kato	鉸刀	308
+kauhia	káuhiā	310
+kauhia	káu-hiā	309
+###TODO
+kauhia	狗蟻	308
 kaukoai	káukoài	310
 kaukoai	káu-koài	309
 kaukoai	狡怪	308
@@ -17146,9 +17166,27 @@ kiti	記池	308
 koaachheh	koaáchheh	310
 koaachheh	koa-á-chheh	309
 koaachheh	歌仔冊	308
+koanchiong	koanchiòng	310
+koanchiong	koan-chiòng	309
+koanchiong	觀眾	308
+koanhe	koanhē	310
+koanhe	koan-hē	309
+koanhe	關係	308
+koankong	Koankong	310
+koankong	Koan-kong	309
+koankong	關公	308
+koanliam	koanliām	310
+koanliam	koan-liām	309
+koanliam	觀念	308
 koansi	koànsì	310
 koansi	koàn-sì	309
 koansi	慣勢	308
+koansim	koansim	310
+koansim	koan-sim	309
+koansim	關心	308
+koantiam	koantiám	310
+koantiam	koan-tiám	309
+koantiam	觀點	308
 koabu	koabú	310
 koabu	koa-bú	309
 koabu	歌舞	308
@@ -17319,6 +17357,9 @@ liek	利益	308
 liiong	līiōng	310
 liiong	lī-iōng	309
 liiong	利用	308
+liokte	lio̍ktē	310
+liokte	lio̍k-tē	309
+liokte	陸地	308
 liukiu	Liûkiû	310
 liukiu	Liû-kiû	309
 liukiu	琉球	308
@@ -17574,6 +17615,9 @@ sengoah	生活	308
 sengsan	sengsán	310
 sengsan	seng-sán	309
 sengsan	生產	308
+sengsanchia	sengsánchiá	310
+sengsanchia	seng-sán-chiá	309
+sengsanchia	生產者	308
 sengtiong	sengtióng	310
 sengtiong	seng-tióng	309
 sengtiong	生長	308
@@ -17630,6 +17674,12 @@ siaugongsin	siáugōngsîn	310
 siaugongsin	siáu-gōng-sîn	309
 ###TODO
 siaugongsin	siáu 戇神	308
+siauhui	siauhùi	310
+siauhui	siau-hùi	309
+siauhui	消費	308
+siauhuichia	siauhùichiá	310
+siauhuichia	siau-hùi-chiá	309
+siauhuichia	消費者	308
 siaujin	siáujîn	310
 siaujin	siáu-jîn	309
 siaujin	小人	308
