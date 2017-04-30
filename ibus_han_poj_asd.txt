@@ -16564,6 +16564,9 @@ chhanthiann	餐廳	308
 chhaputto	chhaputto	310
 chhaputto	chha-put-to	309
 chhaputto	差不多	308
+chhatthau	chha̍tthâu	310
+chhatthau	chha̍t-thâu	309
+chhatthau	賊頭	308
 chhauta	chhàuta	310
 chhauta	chhàu-ta	309
 chhauta	臭 ta	308
@@ -17063,8 +17066,17 @@ kauhia	狗蟻	308
 kaukoai	káukoài	310
 kaukoai	káu-koài	309
 kaukoai	狡怪	308
+kengchhia	kéngchhia	310
+kengchhia	kéng-chhia	309
+kengchhia	警車	308
+kengchhat	kéngchhat	310
+kengchhat	kéng-chhat	309
+kengchhat	警察	308
+kengchhatkiok	kéngchhatkio̍k	310
+kengchhatkiok	kéng-chhat-kio̍k	309
+kengchhatkiok	警察局	308
 kenggiam	kenggiām	310
-kenggiam	kenggiām	309
+kenggiam	keng-giām	309
 kenggiam	經驗	308
 kebou	kèbô͘	310
 kebou	kè-bô͘	309
@@ -17503,6 +17515,9 @@ pehoeji	Pe̍hōejī	310
 pehoeji	Pe̍h-ōe-jī	309
 pehoeji	POJ	308
 pehoeji	白話字	307
+pengiu	pêngiú	310
+pengiu	pêng-iú	309
+pengiu	朋友	308
 penntai	pêⁿtâi	310
 penntai	pêⁿ-tâi	309
 penntai	平台	308
@@ -18022,6 +18037,9 @@ titchiap	直接	308
 tittit	ti̍tti̍t	310
 tittit	ti̍t-ti̍t	309
 tittit	直直	308
+toalau	tōalâu	310
+toalau	tōa-lâu	309
+toalau	大樓	308
 tongan	tòngàn	310
 tongan	tòng-àn	309
 tongan	檔案	308
