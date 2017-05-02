@@ -16317,6 +16317,10 @@ anne	按呢	308
 anni	ánni	310
 anni	án-ni	309
 anni	按呢	308
+ansng	ánsǹg	310
+ansng	án-sǹg	309
+###TODO
+ansng	按算	308
 aplek	aple̍k	310
 aplek	ap-le̍k	309
 aplek	壓力	308
@@ -16868,12 +16872,18 @@ hoepo	回報	308
 hoethoann	hóethòaⁿ	310
 hoethoann	hóe-thòaⁿ	309
 hoethoann	火炭	308
+hokchap	ho̍kcha̍p	310
+hokchap	ho̍k-cha̍p	309
+hokchap	複雜	308
 hokgoan	ho̍kgoân	310
 hokgoan	ho̍k-goân	309
 hokgoan	復原	308
 hoksip	ho̍ksi̍p	310
 hoksip	ho̍k-si̍p	309
 hoksip	復習	308
+hoksou	ho̍ksò͘	310	#complex_number
+hoksou	ho̍k-sò͘	309
+hoksou	複數	308
 hongbin	hongbīn	310
 hongbin	hong-bīn	309
 hongbin	方面	308
@@ -17135,6 +17145,10 @@ kechhek	計策	308
 keek	kèe̍k	310
 keek	kè-e̍k	309
 keek	計劃	308
+###TODO: m̄ chai `format' ū siáⁿ kónghoat bô...
+kehsek	kehsek	310
+kehsek	keh-sek	309
+kehsek	格式	308
 keoe	kèōe	310
 keoe	kè-ōe	309
 keoe	計畫	308
@@ -17380,6 +17394,10 @@ koutong	古董	308
 kuibou	kuibô͘	310
 kuibou	kui-bô͘	309
 kuibou	規模	308
+kuikhi	kuikhì	310
+kuikhi	kui-khì	309
+###TODO
+kuikhi	歸氣	308
 kuiki	kuikí	310
 kuiki	kui-kí	309
 kuiki	規矩	308
