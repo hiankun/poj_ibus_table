@@ -16309,6 +16309,9 @@ amkun	頷滾	308
 anchoann	ánchóaⁿ	310
 anchoann	án-chóaⁿ	309
 anchoann	按盞	308
+anime	ánīmè	310
+anime	ánīmè	309
+anime	アニメ	308
 annoa	ánnóa	310
 annoa	án-nóa	309
 anne	ánne	310
@@ -17450,6 +17453,10 @@ lengmui	冷媒	308
 lengsiann	lêngsiàⁿ	310
 lengsiann	lêng-siàⁿ	309
 lengsiann	靈聖	308
+liansoa	liânsòa	310
+liansoa	liân-sòa	309
+###TODO
+liansoa	連續	308
 liaukai	liáukái	310
 liaukai	liáu-kái	309
 liaukai	了解	308
@@ -17874,6 +17881,9 @@ siongsim	傷心	308
 siongphin	siongphín	310
 siongphin	siong-phín	309
 siongphin	商品	308
+siongphinn	siòngphìⁿ	310
+siongphinn	siòng-phìⁿ	309
+siongphinn	相片	308
 siongtian	siongtián	310
 siongtian	siong-tián	309
 siongtian	商展	308
