@@ -11628,6 +11628,7 @@ pinnc	pīⁿ	201
 pinnc	病	100
 pinnc	編	99
 pinnc	辮	98
+penna	peⁿ	201
 pennz	pêⁿ	201
 pennz	平	100
 pennc	pēⁿ	201
@@ -14452,6 +14453,8 @@ thengz	騰	97
 thengz	棦	96
 thengz	裎	95
 thengz	縢	94
+thennd	thèⁿ	201
+thennd	撐	100
 thia	thi	201
 thia	笞	100
 thia	郗	99
@@ -16803,6 +16806,15 @@ hanji	漢字	308
 hengbi	hèngbī	310
 hengbi	hèng-bī	309
 hengbi	興味	308
+hengiong	hêngiông	310
+hengiong	hêng-iông	309
+hengiong	形容	308
+hengsek	hêngsek	310
+hengsek	hêng-sek	309
+hengsek	形式	308
+hengthe	hêngthé	310
+hengthe	hêng-thé	309
+hengthe	形體	308
 hethong	hēthóng	310
 hethong	hē-thóng	309
 hethong	系統	308
@@ -16812,6 +16824,9 @@ hiahnih	靴哖	308
 hiansiong	hiānsiōng	310
 hiansiong	hiān-siōng	309
 hiansiong	現象	308
+hiantai	hiāntāi	310
+hiantai	hiān-tāi	309
+hiantai	現代	308
 hibang	hibāng	310
 hibang	hi-bāng	309
 hibang	希望	308
@@ -16970,6 +16985,9 @@ isu	意思	308
 itou	ìtô͘	310
 itou	ì-tô͘	309
 itou	意圖	308
+itpoann	itpoaⁿ	310
+itpoann	it-poaⁿ	309
+itpoann	一般	308
 ittit	itti̍t	310
 ittit	it-ti̍t	309
 ittit	一直	308
@@ -17124,6 +17142,9 @@ kausek	教室	308
 kausiu	kàusiū	310
 kausiu	kàu-siū	309
 kausiu	教授	308
+kengche	kengchè	310
+kengche	keng-chè	309
+kengche	經濟	308
 kengchhia	kéngchhia	310
 kengchhia	kéng-chhia	309
 kengchhia	警車	308
@@ -17158,9 +17179,23 @@ kepo	家婆	308
 keseng	kèsêng	310
 keseng	kè-sêng	309
 keseng	繼承	308
+kesiau	késiáu	310
+kesiau	ké-siáu	309
+###TODO
+kesiau	??	308
+kesiau	kèsiàu	310
+kesiau	kè-siàu	309
+###TODO
+kesiau	價數	308
 kesiok	kèsio̍k	310
 kesiok	kè-sio̍k	309
 kesiok	繼續	308
+ketat	kèta̍t	310
+ketat	kè-ta̍t	309
+ketat	價值	308
+ketatkoan	kèta̍tkoan	310
+ketatkoan	kè-ta̍t-koan	309
+ketatkoan	價值觀	308
 khakjin	khakjīn	310
 khakjin	khak-jīn	309
 khakjin	確認	308
@@ -17273,6 +17308,12 @@ koanhe	關係	308
 koankong	Koankong	310
 koankong	Koan-kong	309
 koankong	關公	308
+koanli	koánlí	310
+koanli	koán-lí	309
+koanli	管理	308
+koanligoan	koánlígoân	310
+koanligoan	koán-lí-goân	309
+koanligoan	管理員	308
 koanliam	koanliām	310
 koanliam	koan-liām	309
 koanliam	觀念	308
@@ -17322,6 +17363,9 @@ takau	Táⁿkáu	309
 takau	Tá-káu	308
 takau	Táⁿ-káu	307
 takau	打狗	306
+kojin	kòjîn	310
+kojin	kò-jîn	309
+kojin	個人	308
 kokip	kokip	310
 kokip	ko-kip	309
 kokip	高級	308
@@ -17426,9 +17470,15 @@ laisann	內衫	308
 laite	lāité	310
 laite	lāi-té	309
 laite	內底	308
+laulang	lāulâng	310
+laulang	lāu-lâng	309
+laulang	老人	308
 lausit	láusi̍t	310
 lausit	láu-si̍t	309
 lausit	老實	308
+lausu	lāusu	310
+lausu	lāu-su	309
+lausu	老師	308
 leksu	le̍ksú	310
 leksu	le̍k-sú	309
 leksu	歷史	308
@@ -17730,6 +17780,9 @@ sekan	世間	308
 sekai	sèkài	310
 sekai	sè-kài	309
 sekai	世界	308
+sekhap	sekha̍p	310
+sekhap	sek-ha̍p	309
+sekhap	適合	308
 selek	sèle̍k	310
 selek	sè-le̍k	309
 selek	勢力	308
@@ -17779,6 +17832,9 @@ sennthoann	seⁿthòaⁿ	310
 sennthoann	seⁿ-thòaⁿ	309
 ###TODO
 sennthoann	生湠	308
+siahoe	siāhōe	310
+siahoe	siā-hōe	309
+siahoe	社會	308
 siannlang	siáⁿlâng	310
 siannlang	siáⁿ-lâng	309
 siannlang	省人	308
@@ -17852,6 +17908,9 @@ sinkhu	身軀	308
 sinnmia	sìⁿmiā	310
 sinnmia	sìⁿ-miā	309
 sinnmia	性命	308
+sinthe	sinthé	310
+sinthe	sin-thé	309
+sinthe	身體	308
 siokhoa	siókhóa	310
 siokhoa	sió-khóa	309
 ###TODO
@@ -18158,6 +18217,18 @@ tonglek	動力	308
 thekiong	thêkiong	310
 thekiong	thê-kiong	309
 thekiong	提供	308
+theiok	théio̍k	310
+theiok	thé-io̍k	309
+theiok	體育	308
+thekeh	thékeh	310
+thekeh	thé-keh	309
+thekeh	體格	308
+thelat	théla̍t	310
+thelat	thé-la̍t	309
+thelat	體力	308
+theleng	thélêng	310
+theleng	thé-lêng	309
+theleng	體能	308
 thengsek	thêngsek	310
 thengsek	thêng-sek	309
 thengsek	程式	308
