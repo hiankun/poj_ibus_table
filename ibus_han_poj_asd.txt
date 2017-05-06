@@ -17968,6 +17968,10 @@ sitgiam	實驗	308
 sitgiamsek	si̍tgiāmsek	310
 sitgiamsek	si̍t-giām-sek	309
 sitgiamsek	實驗室	308
+sitthau	sitthâu	310
+sitthau	sit-thâu	309
+###TODO
+sitthau	穡頭	308
 siuhok	siuho̍k	310
 siuhok	siu-ho̍k	309
 siuhok	收服	307
@@ -18038,6 +18042,9 @@ sukiu	需求	308
 sunhai	súnhāi	310
 sunhai	sún-hāi	309
 sunhai	損害	308
+susit	sūsi̍t	310
+susit	sū-si̍t	309
+susit	事實	308
 sutgi	su̍tgí	310
 sutgi	su̍tgí	309
 sutgi	術語	308
@@ -18224,6 +18231,13 @@ tongki	動機	308
 tonglek	tōngle̍k	310
 tonglek	tōng-le̍k	309
 tonglek	動力	308
+tuihu	tùihù	310
+tuihu	tùi-hù	309
+tuihu	對付	308
+thaulou	thâulō͘	310
+thaulou	thâu-lō͘	309
+###TODO
+thaulou	頭路	308
 thekiong	thêkiong	310
 thekiong	thê-kiong	309
 thekiong	提供	308
