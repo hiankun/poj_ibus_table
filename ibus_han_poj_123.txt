@@ -16449,9 +16449,21 @@ chengchong	精裝	307
 chenggi	chènggī	310
 chenggi	chèng-gī	309
 chenggi	正義	308
+chenghu	chènghú	310
+chenghu	chèng-hú	309
+chenghu	政府	308
 chengka	chengka	310
 chengka	cheng-ka	309
 chengka	增加	308
+chengkeng	chèngkeng	310
+chengkeng	chèng-keng	309
+chengkeng	正經	308
+chengkhak	chèngkhak	310
+chengkhak	chèng-khak	309
+chengkhak	正確	308
+chenglang	chènglâng	310
+chenglang	chèng-lâng	309
+chenglang	眾人	308
 chengli	chénglí	310
 chengli	chéng-lí	309
 chengli	整理	308
@@ -16464,6 +16476,9 @@ chengsenn	精生	308
 chengsinn	chengsiⁿ	310
 chengsinn	cheng-siⁿ	309
 chengsinn	精生	308
+chengti	chèngtī	310
+chengti	chèng-tī	309
+chengti	政治	308
 chiahnih	chiahni̍h	310
 chiahnih	chiah-ni̍h	309
 chiahnih	隻哖	308
@@ -16482,6 +16497,13 @@ chiantau	戰鬥	308
 chiantauki	chiàntàuki	310
 chiantauki	chiàn-tàu-ki	309
 chiantauki	戰鬥機	308
+chiannpan	chiàⁿpán	310
+chiannpan	chiàⁿ-pán	309
+chiannpan	正版	308
+chiannpan	chiàⁿpān	310
+chiannpan	chiàⁿ-pān	309
+###TODO
+chiannpan	正pān	308
 chiannsit	chiaⁿsi̍t	310
 chiannsit	chiaⁿ-si̍t	309
 chiannsit	正實	308
@@ -17237,12 +17259,28 @@ khaucho	口座	308
 khiansng	khiànsńg	310
 khiansng	khiàn-sńg	309
 khiansng	㩜損	308
+khichhng	khíchhn̂g	310
+khichhng	khí-chhn̂g	309
+khichhng	起床	308
+khichhu	khíchhù	310
+khichhu	khí-chhù	309
+khichhu	起厝	308
+khicho	khíchō	310
+khicho	khí-chō	309
+khicho	起造	308
 khikhi	khíkhì	310
 khikhi	khí-khì	309
 khikhi	起去	308
+khilai	khílâi	310
+khilai	khí-lâi	309
+khilai	起來	308
 khipin	khipín	310
 khipin	khip-ín	309
 khipin	吸引	308
+khisiau	khísiáu	310
+khisiau	khí-siáu	309
+###TODO
+khisiau	起siáu	308
 khoai	khóài	310
 khoai	khó-ài	309
 khoai	可愛	308
@@ -17458,6 +17496,10 @@ koupan	古板	308
 kouputchiong	ko͘putchiong	310
 kouputchiong	ko͘-put-chiong	309
 kouputchiong	姑不將	308
+###TODO
+kouputjichiong	ko͘putjîchiong	310
+kouputjichiong	ko͘-put-jî-chiong	309
+kouputjichiong	姑不而將	308
 kousu	kò͘sū	310
 kousu	kò͘-sū	309
 kousu	故事	308
