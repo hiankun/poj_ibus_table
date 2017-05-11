@@ -16312,6 +16312,10 @@ amkun	頷滾	308
 anchoann	ánchóaⁿ	310
 anchoann	án-chóaⁿ	309
 anchoann	按盞	308
+angphinn	àngphīⁿ	310
+angphinn	àng-phīⁿ	309
+###TODO
+angphinn	àng鼻	308
 anime	ánīmè	310
 anime	ánīmè	309
 anime	アニメ	308
@@ -16332,6 +16336,10 @@ aplek	ap-le̍k	309
 aplek	壓力	308
 asi	ásī	310
 asi	á-sī	309
+aukhakin	āukhakin	310
+aukhakin	āu-kha-kin	309
+###TODO
+aukhakin	後kha筋	308
 bakchiu	ba̍kchiu	310
 bakchiu	ba̍k-chiu	309
 ###TODO
@@ -16365,6 +16373,8 @@ bangiu	網友	308
 banglou	bānglō͘	310
 banglou	bānglō͘	309
 banglou	網路	308
+bansoukhou	bán-sò͘-khò͘	310
+bansoukhou	bánsò͘khò͘	309
 besai	bēsái	310
 besai	bē-sái	309
 besai	袂使	308
@@ -16686,12 +16696,15 @@ chhengtuchia	chhengtûchiá	310
 chhengtuchia	chheng-tû-chiá	309
 chhengtuchia	清除者	308
 chhiahgu	chhiahgû	310
-chhiahgu	chhiahgû	309
+chhiahgu	chhiah-gû	309
 chhiahgu	赤牛	308
 chhiahji	chhiahjī	310
-chhiahji	chhiahjī	309
+chhiahji	chhiah-jī	309
 chhiahji	刺字	308
 chhiahji	赤字	307
+chhiahsng	chhiahsng	310
+chhiahsng	chhiah-sng	309
+chhiahsng	赤酸	308
 chhiuchheng	chhiúchhèng	310
 chhiuchheng	chhiú-chhèng	309
 chhiuchheng	手銃	308
@@ -16746,6 +16759,12 @@ chhutsoann	出山	308
 chhuttiunn	chhuttiuⁿ	310
 chhuttiunn	chhut-tiuⁿ	309
 chhuttiunn	出張	308
+chiamchhihoat	chiamchhìhoat	310
+chiamchhihoat	chiah-chhì-hoat	309
+chiamchhihoat	針刺法	308
+chiamkiu	chiamkiù	310
+chiamkiu	chiah-kiù	309
+chiamkiu	針灸	308
 engbun	Engbûn	310
 engbun	Eng-bûn	309
 engbun	英文	308
@@ -16815,6 +16834,18 @@ ginphio	銀票	308
 ginna	gínná	310
 ginna	gín-ná	309
 ginna	囝仔	308
+goabin	gōabīn	310
+goabin	gōa-bīn	309
+goabin	外面	308
+goaiong	gōaiōng	310
+goaiong	gōa-iōng	309
+goaiong	外用	308
+goakhau	gōakháu	310
+goakhau	gōa-kháu	309
+goakhau	外口	308
+goasiau	gōasiau	310
+goasiau	gōa-siau	309
+goasiau	外銷	308
 goanbun	goânpún	310
 goanbun	goân-pún	309
 goanbun	原本	308
@@ -17199,6 +17230,10 @@ kantann	kan-taⁿ	309
 kantann	干乾	308
 kantann	干礁	307
 kantann	干焦	306
+kapou	kapò͘	310
+kapou	ka-pò͘	309
+###TODO
+kapou	膠布	308
 kati	katī	310
 kati	ka-tī	309
 kato	kato	310
@@ -17283,6 +17318,10 @@ ketat	價值	308
 ketatkoan	kèta̍tkoan	310
 ketatkoan	kè-ta̍t-koan	309
 ketatkoan	價值觀	308
+khaaukin	khaāukin	310
+khaaukin	kha-āu-kin	309
+###TODO
+khaaukin	kha後筋	308
 khakjin	khakjīn	310
 khakjin	khak-jīn	309
 khakjin	確認	308
@@ -17301,6 +17340,9 @@ khangphang	空縫	308
 khaucho	kháuchō	310
 khaucho	kháu-chō	309
 khaucho	口座	308
+khauhok	kháuho̍k	310
+khauhok	kháu-ho̍k	309
+khauhok	口服	308
 khehchng	khehchng	310
 khehchng	kheh-chng	309
 khehchng	客庄	308
@@ -17411,6 +17453,9 @@ kiliok	記錄	308
 kionghi	kionghí	310
 kionghi	kiong-hí	309
 kionghi	恭喜	308
+kipseng	kipsèng	310
+kipseng	kip-sèng	309
+kipseng	急性	308
 kisit	kîsi̍t	310
 kisit	kî-si̍t	309
 kisit	其實	308
@@ -17423,6 +17468,12 @@ kiti	記池	308
 koaachheh	koaáchheh	310
 koaachheh	koa-á-chheh	309
 koaachheh	歌仔冊	308
+koaho	kòahō	310
+koaho	kòa-hō	309
+koaho	掛號	308
+koahochhu	kòahōchhù	310
+koahochhu	kòa-hō-chhù	309
+koahochhu	掛號處	308
 koanchiong	koanchiòng	310
 koanchiong	koan-chiòng	309
 koanchiong	觀眾	308
@@ -17585,6 +17636,9 @@ laichai	內才	308
 laigoan	lâigoân	310
 laigoan	lâi-goân	309
 laigoan	來源	308
+laihok	lāiho̍k	310
+laihok	lāi-ho̍k	309
+laihok	內服	308
 laikhou	lāikhò͘	310
 laikhou	lāi-khò͘	309
 laikhou	內褲	308
@@ -17628,6 +17682,10 @@ lengmui	冷媒	308
 lengsiann	lêngsiàⁿ	310
 lengsiann	lêng-siàⁿ	309
 lengsiann	靈聖	308
+liampou	liâmpò͘	310
+liampou	liâm-pò͘	309
+###TODO
+liampou	黏布	308
 liansoa	liânsòa	310
 liansoa	liân-sòa	309
 ###TODO
@@ -17904,6 +17962,19 @@ phiju	譬喻	308
 phiju	phíjū	307
 phiju	phí-jū	306
 phiju	比喻	305
+phinnchui	phīⁿchúi	310
+phinnchui	phīⁿ-chúi	309
+phinnchui	鼻水	308
+phinnim	phīⁿim	310
+phinnim	phīⁿ-im	309
+phinnim	鼻音	308
+phinnkhang	phīⁿkhang	310
+phinnkhang	phīⁿ-khang	309
+###TODO
+phinnkhang	鼻空	308
+phinnsai	phīⁿsái	310
+phinnsai	phīⁿ-sái	309
+phinnsai	鼻屎	308
 phitphiak	phi̍tphia̍k	310
 phitphiak	phi̍t-phia̍k	309
 phitphok	phi̍tpho̍k	310
@@ -18433,6 +18504,9 @@ thinnteng	天頂	308
 uiann	ūiáⁿ	310
 uiann	ū-iáⁿ	309
 uiann	有影	308
+uisng	ūisng	310
+uisng	ūi-sng	309
+uisng	胃酸	308
 untou	untō͘	310
 untou	un-tō͘	309
 untou	溫度	308
