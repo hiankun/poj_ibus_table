@@ -5875,6 +5875,8 @@ kenn2	鯁	99
 kennh8	ke̍ⁿh	201
 kennh8	逆	100
 kha	kha	201
+kha	脚	102
+kha	腳	101
 kha	佉	100
 kha	呿	99
 kha	愘	98
@@ -16339,7 +16341,12 @@ asi	á-sī	309
 aukhakin	āukhakin	310
 aukhakin	āu-kha-kin	309
 ###TODO
-aukhakin	後kha筋	308
+aukhakin	後脚筋	308
+aupiah	āupiah	310
+aupiah	āu-piah	309
+aupiah	後壁	308
+aupiah	Āupiah	307
+aupiah	Āu-piah	306
 bakchiu	ba̍kchiu	310
 bakchiu	ba̍k-chiu	309
 ###TODO
@@ -16765,6 +16772,14 @@ chiamchhihoat	針刺法	308
 chiamkiu	chiamkiù	310
 chiamkiu	chiah-kiù	309
 chiamkiu	針灸	308
+ehiau	ehiáu	310
+ehiau	e-hiáu	309
+###TODO
+ehiau	會曉	308
+ehng	ehng	310
+ehng	e-hng	309
+###TODO
+ehng	??	308
 engbun	Engbûn	310
 engbun	Eng-bûn	309
 engbun	英文	308
@@ -16792,6 +16807,10 @@ engkok	英國	308
 engpong	Engpōng	310
 engpong	Eng-pōng	309
 engpong	英磅	308
+epou	epo͘	310
+epou	e-po͘	309
+###TODO
+epou	??	308
 esai	ēsái	310
 esai	ē-sái	309
 esai	會使	308
@@ -16960,6 +16979,9 @@ hoagi	華語	308
 hoahak	hòaha̍k	310
 hoahak	hòa-ha̍k	309
 hoahak	化學	308
+hoannhi	hoaⁿhí	310
+hoannhi	hoaⁿ-hí	309
+hoannhi	歡喜	308
 hoatbeng	hoatbêng	310
 hoatbeng	hoat-bêng	309
 hoatbeng	發明	308
@@ -17081,6 +17103,9 @@ igi	意義	308
 igoan	ìgoān	310
 igoan	ì-goān	309
 igoan	意願	308
+ikeng	íkeng	310
+ikeng	í-keng	309
+ikeng	已經	308
 ikian	ìkiàn	310
 ikian	ì-kiàn	309
 ikian	意見	308
@@ -17321,7 +17346,19 @@ ketatkoan	價值觀	308
 khaaukin	khaāukin	310
 khaaukin	kha-āu-kin	309
 ###TODO
-khaaukin	kha後筋	308
+khaaukin	脚後筋	308
+khaigiap	khaigia̍p	310
+khaigiap	khai-gia̍p	309
+khaigiap	開業	308
+khaihak	khaiha̍k	310
+khaihak	khai-ha̍k	309
+khaihak	開學	308
+khaikang	khaikang	310
+khaikang	khai-kang	309
+khaikang	開工	308
+khaisi	khaisí	310
+khaisi	khai-sí	309
+khaisi	開始	308
 khakjin	khakjīn	310
 khakjin	khak-jīn	309
 khakjin	確認	308
@@ -17337,6 +17374,11 @@ khangkhoe	工課	308
 khangphang	khangphāng	310
 khangphang	khang-phāng	309
 khangphang	空縫	308
+khatahchhia	khata̍hchhia	310
+khatahchhia	kha-ta̍h-chhia	309
+###TODO
+khatahchhia	脚踏車	308
+khatahchhia	腳踏車	307
 khaucho	kháuchō	310
 khaucho	kháu-chō	309
 khaucho	口座	308
@@ -17373,9 +17415,20 @@ khikhi	起去	308
 khilai	khílâi	310
 khilai	khí-lâi	309
 khilai	起來	308
+khinkho	khinkhó	310
+khinkho	khin-khó	309
+###TODO
+khinkho	輕khó	308
+khinsang	khinsang	310
+khinsang	khin-sang	309
+khinsang	輕鬆	308
 khipin	khipín	310
 khipin	khip-ín	309
 khipin	吸引	308
+khipong	khípōng	310
+khipong	khí-pōng	309
+###TODO
+khipong	起磅	308
 khisiau	khísiáu	310
 khisiau	khí-siáu	309
 ###TODO
@@ -17426,6 +17479,12 @@ kiankou	kian-kò͘	309
 kiankou	堅固	308
 kiannhiann	kiaⁿhiâⁿ	310
 kiannhiann	kiaⁿ-hiâⁿ	309
+###TODO
+kiannhiann	驚hiâⁿ	308
+kiannlou	kiâⁿlō͘	310
+kiannlou	kiâⁿ-lō͘	309
+###TODO
+kiannlou	行路	308
 kiansim	kiansim	310
 kiansim	kian-sim	309
 kiansim	堅心	308
@@ -17682,10 +17741,16 @@ lengmui	冷媒	308
 lengsiann	lêngsiàⁿ	310
 lengsiann	lêng-siàⁿ	309
 lengsiann	靈聖	308
+lepai	lépài	310
+lepai	lé-pài	309
+lepai	禮拜	308
 liampou	liâmpò͘	310
 liampou	liâm-pò͘	309
 ###TODO
 liampou	黏布	308
+liansip	liānsi̍p	310
+liansip	liān-si̍p	309
+liansip	練習	308
 liansoa	liânsòa	310
 liansoa	liân-sòa	309
 ###TODO
@@ -18022,6 +18087,13 @@ sengbuthak	生物學	308
 sengchit	sèngchit	310
 sengchit	sèng-chit	309
 sengchit	性質	308
+senghun	sênghun	310
+senghun	sêng-hun	309
+###TODO
+senghun	成份	308
+sengko	sêngkó	310
+sengko	sêng-kó	309
+sengko	成果	308
 sengkong	sêngkong	310
 sengkong	sêng-kong	309
 sengkong	成功	308
@@ -18265,6 +18337,13 @@ sukiu	需求	308
 sunhai	súnhāi	310
 sunhai	sún-hāi	309
 sunhai	損害	308
+sunli	sūnlī	310
+sunli	sūn-lī	309
+sunli	順利	308
+sunsoa	sūnsòa	310
+sunsoa	sūn-sòa	309
+###TODO
+sunsoa	順sòa	308
 susit	sūsi̍t	310
 susit	sū-si̍t	309
 susit	事實	308
