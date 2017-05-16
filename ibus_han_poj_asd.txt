@@ -17436,6 +17436,12 @@ khisiau	起siáu	308
 khoai	khóài	310
 khoai	khó-ài	309
 khoai	可愛	308
+khochhi	khóchhì	310
+khochhi	khó-chhì	309
+khochhi	考試	308
+khogiam	khógiām	310
+khogiam	khó-giām	309
+khogiam	考驗	308
 khohak	khoha̍k	310
 khohak	kho-ha̍k	309
 khohak	科學	308
@@ -17633,6 +17639,9 @@ kongka	公家	308
 kongke	kongke	310
 kongke	kong-ke	309
 kongke	公家	308
+kongkou	kóngkó͘	310
+kongkou	kóng-kó͘	309
+kongkou	講古	308
 kongli	konglí	310
 kongli	kong-lí	309
 kongli	公理	308
@@ -18334,6 +18343,9 @@ sujiphoat	輸入法	308
 sukiu	sukiû	310
 sukiu	su-kiû	309
 sukiu	需求	308
+sukho	sukhó	310
+sukho	su-khó	309
+sukho	思考	308
 sunhai	súnhāi	310
 sunhai	sún-hāi	309
 sunhai	損害	308
