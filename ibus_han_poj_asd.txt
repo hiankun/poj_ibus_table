@@ -9703,9 +9703,10 @@ moaz	鰻	98
 moac	mōa	201
 moea	moe	201
 moec	mōe	201
-mohv	mo̍h	201
-mohv	木	100
-mohv	膜	99
+mouhf	mo͘h	201
+mouhv	mo̍͘h	201
+mouhv	膜	100
+mouhv	木	99
 moua	mo͘	201
 moua	摸	100
 mouz	mô͘	201
@@ -16853,6 +16854,12 @@ gesut	藝術	308
 giankiu	giánkiù	310
 giankiu	gián-kiù	309
 giankiu	研究	308
+gigian	gígiân	310
+gigian	gí-giân	309
+gigian	語言	308
+gihoat	gíhoat	310
+gihoat	gí-hoat	309
+gihoat	語法	308
 gina	gíná	310
 gina	gín-á	309
 gina	囝仔	308
@@ -16884,6 +16891,9 @@ ginphio	銀票	308
 ginna	gínná	310
 ginna	gín-ná	309
 ginna	囝仔	308
+gisu	gísû	310
+gisu	gí-sû	309
+gisu	語詞	308
 goabin	gōabīn	310
 goabin	gōa-bīn	309
 goabin	外面	308
@@ -17010,6 +17020,9 @@ hoagi	華語	308
 hoahak	hòaha̍k	310
 hoahak	hòa-ha̍k	309
 hoahak	化學	308
+hoanek	hoane̍k	310
+hoanek	hoan-e̍k	309
+hoanek	翻譯	308
 hoannhi	hoaⁿhí	310
 hoannhi	hoaⁿ-hí	309
 hoannhi	歡喜	308
@@ -18317,12 +18330,15 @@ siokhoa	siókhóa	310
 siokhoa	sió-khóa	309
 ###TODO
 siokhoa	小許	308
-sionggiap	sionggia̍p	310
-sionggiap	siong-gia̍p	309
-sionggiap	商業	308
 siongbong	siongbông	310
 siongbong	siong-bông	309
 siongbong	傷亡	308
+sionggiap	sionggia̍p	310
+sionggiap	siong-gia̍p	309
+sionggiap	商業	308
+siongkho	siōngkhò	310
+siongkho	siōng-khò	309
+siongkho	上課	308
 sionghai	sionghāi	310
 sionghai	siong-hāi	309
 sionghai	傷害	308
