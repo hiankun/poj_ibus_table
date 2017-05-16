@@ -16312,6 +16312,22 @@ amkun	頷滾	308
 anchoann	ánchóaⁿ	310
 anchoann	án-chóaⁿ	309
 anchoann	按盞	308
+angachheh	angáchheh	310
+angachheh	ang-á-chheh	309
+###TODO
+angachheh	尫仔冊	308
+angaphiau	angáphiau	310
+angaphiau	ang-á-phiau	309
+###TODO
+angaphiau	尫仔標	308
+angathau	angáthâu	310
+angathau	ang-á-thâu	309
+###TODO
+angathau	尫仔頭	308
+angatou	angátô͘	310
+angatou	ang-á-tô͘	309
+###TODO
+angatou	尫仔圖	308
 angphinn	àngphīⁿ	310
 angphinn	àng-phīⁿ	309
 ###TODO
@@ -16574,6 +16590,9 @@ choanbun	專門	308
 choanche	choanchè	310
 choanche	choan-chè	309
 choanche	專制	308
+choanchit	choanchit	310
+choanchit	choan-chit	309
+choanchit	專職	308
 choangiap	choangia̍p	310
 choangiap	choan-gia̍p	309
 choangiap	專業	308
@@ -16599,6 +16618,15 @@ chongthong	總統	308
 chohoe	chòhóe	310
 chohoe	chò-hóe	309
 chohoe	??	308
+choukong	chó͘kong	310
+choukong	chó͘-kong	309
+choukong	祖公	308
+chouma	chó͘má	310
+chouma	chó͘-má	309
+chouma	祖媽	308
+chousian	chó͘sian	310
+chousian	chó͘-sian	309
+chousian	祖先	308
 choseng	chōsêng	310
 choseng	chō-sêng	309
 choseng	造成	308
@@ -16705,6 +16733,9 @@ chhiahji	赤字	307
 chhiahsng	chhiahsng	310
 chhiahsng	chhiah-sng	309
 chhiahsng	赤酸	308
+chhiaukoe	chhiaukòe	310
+chhiaukoe	chhiau-kòe	309
+chhiaukoe	超過	308
 chhiuchheng	chhiúchhèng	310
 chhiuchheng	chhiú-chhèng	309
 chhiuchheng	手銃	308
@@ -17005,6 +17036,9 @@ hokchap	複雜	308
 hokgoan	ho̍kgoân	310
 hokgoan	ho̍k-goân	309
 hokgoan	復原	308
+hoksai	ho̍ksāi	310
+hoksai	ho̍k-sāi	309
+hoksai	服事	308
 hoksip	ho̍ksi̍p	310
 hoksip	ho̍k-si̍p	309
 hoksip	復習	308
@@ -17069,6 +17103,9 @@ iai	意愛	308
 iau	íāu	310
 iau	í-āu	309
 iau	以後	308
+icha	íchá	310
+icha	í-chá	309
+icha	以早	308
 ichhi	îchhî	310
 ichhi	îchhî	309
 ichhi	維持	308
@@ -17081,6 +17118,9 @@ igi	意義	308
 igoan	ìgoān	310
 igoan	ì-goān	309
 igoan	意願	308
+ikeng	íkeng	310
+ikeng	í-keng	309
+ikeng	已經	308
 ikian	ìkiàn	310
 ikian	ì-kiàn	309
 ikian	意見	308
@@ -17292,6 +17332,10 @@ keek	計劃	308
 kehsek	kehsek	310
 kehsek	keh-sek	309
 kehsek	格式	308
+keiann	kéiáⁿ	310
+keiann	ké-iáⁿ	309
+###TODO
+keiann	ké影	308
 keoe	kèōe	310
 keoe	kè-ōe	309
 keoe	計畫	308
@@ -17468,12 +17512,21 @@ kiti	記池	308
 koaachheh	koaáchheh	310
 koaachheh	koa-á-chheh	309
 koaachheh	歌仔冊	308
+koabu	koabú	310
+koabu	koa-bú	309
+koabu	歌舞	308
+koabutiunn	koabútiûⁿ	310
+koabutiunn	koa-bú-tiûⁿ	309
+koabutiunn	歌舞場	308
 koaho	kòahō	310
 koaho	kòa-hō	309
 koaho	掛號	308
 koahochhu	kòahōchhù	310
 koahochhu	kòa-hō-chhù	309
 koahochhu	掛號處	308
+koakhek	koakhek	310
+koakhek	koa-khek	309
+koakhek	歌曲	308
 koanchiong	koanchiòng	310
 koanchiong	koan-chiòng	309
 koanchiong	觀眾	308
@@ -17501,18 +17554,18 @@ koansim	關心	308
 koantiam	koantiám	310
 koantiam	koan-tiám	309
 koantiam	觀點	308
-koabu	koabú	310
-koabu	koa-bú	309
-koabu	歌舞	308
-koabutiunn	koabútiûⁿ	310
-koabutiunn	koa-bú-tiûⁿ	309
-koabutiunn	歌舞場	308
-koakhek	koakhek	310
-koakhek	koa-khek	309
-koakhek	歌曲	308
 koasu	koasû	310
 koasu	koa-sû	309
 koasu	歌詞	308
+koatsim	koatsim	310
+koatsim	koat-sim	309
+koatsim	決心	308
+koattau	koattàu	310
+koattau	koat-tàu	309
+koattau	決鬥	308
+koatteng	koattēng	310
+koatteng	koat-tēng	309
+koatteng	決定	308
 koesin	kòesin	310
 koesin	kòe-sin	309
 koesin	過身	308
@@ -17822,6 +17875,12 @@ ngoukim	五金	308
 ngoukoan	ngó͘koan	310
 ngoukoan	ngó͘-koan	309
 ngoukoan	五官	308
+oanchoan	oânchoân	310
+oanchoan	oân-choân	309
+oanchoan	完全	308
+oanseng	oânsêng	310
+oanseng	oân-sêng	309
+oanseng	完成	308
 olo	oló	310
 olo	o-ló	309
 olo	呵咾	308
@@ -17849,6 +17908,12 @@ pehoeji	Pe̍hōejī	310
 pehoeji	Pe̍h-ōe-jī	309
 pehoeji	POJ	308
 pehoeji	白話字	307
+pengan	pêngan	310
+pengan	pêng-an	309
+pengan	平安	308
+pengcheng	pêngchēng	310
+pengcheng	pêng-chēng	309
+pengcheng	平靜	308
 pengiu	pêngiú	310
 pengiu	pêng-iú	309
 pengiu	朋友	308
@@ -17925,6 +17990,12 @@ punlai	本來	308
 punte	púnté	310
 punte	pún-té	309
 punte	本底	308
+putchou	Pu̍tchó͘	310
+putchou	Pu̍t-chó͘	309
+putchou	佛祖	308
+puttoh	pu̍ttoh	310
+puttoh	pu̍t-toh	309
+puttoh	佛桌	308
 phahji	phahjī	310
 phahji	phahjī	309
 phahji	拍字	308
@@ -17998,6 +18069,10 @@ sebin	sèbīn	310
 sebin	sè-bīn	309
 sebin	勢面	308
 sebin	世面	307
+sehan	sèhàn	310
+sehan	sè-hàn	309
+###TODO
+sehan	細漢	308
 sekan	sèkan	310
 sekan	sè-kan	309
 sekan	世間	308
@@ -18124,8 +18199,27 @@ sihnah	薛那	308
 sikan	sîkan	310
 sikan	sî-kan	309
 sikan	時間	308
+simchong	simchōng	310
+simchong	sim-chōng	309
+simchong	心臟	308
+simkoann	simkoaⁿ	310
+simkoann	sim-koaⁿ	309
+simkoann	心肝	308
+simkoannthau	simkoaⁿthâu	310
+simkoannthau	sim-koaⁿ-thâu	309
+simkoannthau	心肝頭	308
+simleng	simlêng	310
+simleng	sim-lêng	309
+simleng	心靈	308
 simmih	símmi̍h	310
 simmih	sím-mi̍h	309
+simsek	simsek	310
+simsek	sim-sek	309
+###TODO
+simsek	心適	308
+sinchupai	sînchúpâi	310
+sinchupai	sîn-chú-pâi	309
+sinchupai	神主牌	308
 singiong	sìngióng	310
 singiong	sìn-gióng	309
 singiong	信仰	308
@@ -18220,6 +18314,9 @@ soatbengsu	說明書	308
 soehbeng	soehbêng	310
 soehbeng	soeh-bêng	309
 soehbeng	說明	308
+soktou	soktō͘	310
+soktou	sok-tō͘	309
+soktou	速度	308
 souhak	sò͘ha̍k	310
 souhak	sò͘-ha̍k	309
 souhak	數學	308
@@ -18290,6 +18387,9 @@ taichiongbio	大眾廟	308
 taigi	Tâigí	310
 taigi	Tâi-gí	309
 taigi	台語	308
+taijin	tāijîn	310
+taijin	tāi-jîn	309
+taijin	大人	308
 taike	tāike	310
 taike	tāi-ke	309
 taike	大家	308
@@ -18436,6 +18536,9 @@ titchiap	直接	308
 tittit	ti̍tti̍t	310
 tittit	ti̍t-ti̍t	309
 tittit	直直	308
+toalang	tōalâng	310
+toalang	tōa-lâng	309
+toalang	大人	308
 toalau	tōalâu	310
 toalau	tōa-lâu	309
 toalau	大樓	308
