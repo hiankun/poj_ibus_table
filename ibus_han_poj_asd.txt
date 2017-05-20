@@ -2962,6 +2962,7 @@ hianga	hiang	201
 hianga	香	100
 hianga	馨	99
 hiangs	hiáng	201
+hiangs	享	101
 hiangs	響	100
 hianna	hiaⁿ	201
 hianna	兄	100
@@ -6216,6 +6217,7 @@ khiahf	隙	100
 khiakf	khiak	201
 khiakf	恪	100
 khiakf	瞲	99
+khiakv	khia̍k	201
 khiama	khiam	201
 khiama	謙	100
 khiams	khiám	201
@@ -16528,6 +16530,9 @@ chengli	整理	308
 chengsin	chengsîn	310
 chengsin	cheng-sîn	309
 chengsin	精神	308
+chengsek	chèngsek	310
+chengsek	chèng-sek	309
+chengsek	正式	308
 chengsenn	chengseⁿ	310
 chengsenn	cheng-seⁿ	309
 chengsenn	精生	308
@@ -16580,6 +16585,16 @@ chinchiann	真正	308
 chinheng	chìnhêng	310
 chinheng	chìn-hêng	309
 chinheng	進行	308
+chinlek	chīnle̍k	310
+chinlek	chīn-le̍k	309
+chinlek	盡力	308
+chinpong	chīnpōng	310
+chinliong	chīn-liōng	309
+chinliong	盡量	308
+chinpong	chīnpōng	310
+chinpong	chīn-pōng	309
+###TODO
+chinpong	盡磅	308
 chinpou	chìnpō͘	310
 chinpou	chìn-pō͘	309
 chinpou	進步	308
@@ -16716,6 +16731,9 @@ chhauhoeta	臭火 ta	308
 chhauhoeta	臭火乾	307
 chhauhoeta	臭火礁	306
 chhauhoeta	臭火焦	305
+chhengchho	chhengchhó	310
+chhengchho	chheng-chhó	309
+chhengchho	清楚	308
 chhengchi	chhèngchí	310
 chhengchi	chhèng-chí	309
 chhengchi	銃子	308
@@ -16804,6 +16822,9 @@ chiamchhihoat	針刺法	308
 chiamkiu	chiamkiù	310
 chiamkiu	chiah-kiù	309
 chiamkiu	針灸	308
+chianpoe	chiânpòe	310
+chianpoe	chiân-pòe	309
+chianpoe	前輩	308
 ehiau	ehiáu	310
 ehiau	e-hiáu	309
 ###TODO
@@ -16818,6 +16839,9 @@ engbun	英文	308
 engeng	êngêng	310
 engeng	êng-êng	309
 engeng	閑閑	308
+enghiong	énghióng	310
+enghiong	éng-hióng	309
+enghiong	影響	308
 engiong	êngióng	310
 engiong	êng-ióng	309
 engiong	營養	308
@@ -16930,6 +16954,9 @@ goanchulou	原子爐	308
 goanin	goânin	310
 goanin	goân-in	309
 goanin	原因	308
+goanlai	goânlâi	310
+goanlai	goân-lâi	309
+goanlai	原來	308
 goanli	goânlí	310
 goanli	goân-lí	309
 goanli	原理	308
@@ -17000,6 +17027,9 @@ hethong	系統	308
 hiahnih	hiahni̍h	310
 hiahnih	hiah-ni̍h	309
 hiahnih	靴哖	308
+hiangsiu	hiángsiū	310
+hiangsiu	hiáng-siū	309
+hiangsiu	享受	308
 hiansiong	hiānsiōng	310
 hiansiong	hiān-siōng	309
 hiansiong	現象	308
@@ -17036,6 +17066,9 @@ hoahak	化學	308
 hoanek	hoane̍k	310
 hoanek	hoan-e̍k	309
 hoanek	翻譯	308
+hoaneng	hoánèng	310
+hoaneng	hoán-èng	309
+hoaneng	反應	308
 hoannhi	hoaⁿhí	310
 hoannhi	hoaⁿ-hí	309
 hoannhi	歡喜	308
@@ -17209,6 +17242,9 @@ jinui	認爲	308
 jipkhi	ji̍pkhì	310
 jipkhi	ji̍p-khì	309
 jipkhi	入去	308
+jisu	jīsû	310
+jisu	jī-sû	309
+jisu	字詞	308
 jitian	jītián	310
 jitian	jī-tián	309
 jitian	字典	308
@@ -17435,12 +17471,28 @@ khakteng	確定	308
 khaksit	khaksi̍t	310
 khaksit	khak-si̍t	309
 khaksit	確實	308
+khanbong	khanbông	310
+khanbong	khan-bông	309
+khanbong	牽亡	308
+khanchhiu	khanchhiú	310
+khanchhiu	khan-chhiú	309
+khanchhiu	牽手	308
 khangkhoe	khangkhòe	310
 khangkhoe	khang-khòe	309
 khangkhoe	工課	308
 khangphang	khangphāng	310
 khangphang	khang-phāng	309
 khangphang	空縫	308
+khanlian	khanliân	310
+khanlian	khan-liân	309
+khanlian	牽連	308
+khanseng	khansêng	310
+khanseng	khan-sêng	309
+khanseng	牽成	308
+khanthoa	khanthoa	310
+khanthoa	khan-thoa	309
+###TODO
+khanthoa	牽拖	308
 khatahchhia	khata̍hchhia	310
 khatahchhia	kha-ta̍h-chhia	309
 ###TODO
@@ -17594,6 +17646,9 @@ kiliok	記錄	308
 kionghi	kionghí	310
 kionghi	kiong-hí	309
 kionghi	恭喜	308
+kiongtiau	kiôngtiāu	310
+kiongtiau	kiông-tiāu	309
+kiongtiau	強調	308
 kipseng	kipsèng	310
 kipseng	kip-sèng	309
 kipseng	急性	308
@@ -17606,6 +17661,12 @@ kisut	技術	308
 kiti	kìtî	310
 kiti	kì-tî	309
 kiti	記池	308
+kitok	Kitok	310
+kitok	Ki-tok	309
+kitok	基督	308
+kitokkau	Kitokkàu	310
+kitokkau	Ki-tok-kàu	309
+kitokkau	基督教	308
 koaachheh	koaáchheh	310
 koaachheh	koa-á-chheh	309
 koaachheh	歌仔冊	308
@@ -17981,6 +18042,13 @@ ngoukim	五金	308
 ngoukoan	ngó͘koan	310
 ngoukoan	ngó͘-koan	309
 ngoukoan	五官	308
+nngchiann	nńgchiáⁿ	310
+nngchiann	nńg-chiáⁿ	309
+###TODO
+nngchiann	軟chiáⁿ	308
+nngthe	nńgthé	310
+nngthe	nńg-thé	309
+nngthe	軟體	308
 oanchoan	oânchoân	310
 oanchoan	oân-choân	309
 oanchoan	完全	308
@@ -18207,6 +18275,9 @@ senghun	sênghun	310
 senghun	sêng-hun	309
 ###TODO
 senghun	成份	308
+sengkeng	Sèngkeng	310
+sengkeng	Sèng-keng	309
+sengkeng	聖經	308
 sengko	sêngkó	310
 sengko	sêng-kó	309
 sengko	成果	308
@@ -18367,27 +18438,33 @@ sionghai	傷害	308
 sionghun	sionghûn	310
 sionghun	siong-hûn	309
 sionghun	傷痕	308
-siongsim	siongsim	310
-siongsim	siong-sim	309
-siongsim	傷心	308
 siongphin	siongphín	310
 siongphin	siong-phín	309
 siongphin	商品	308
 siongphinn	siòngphìⁿ	310
 siongphinn	siòng-phìⁿ	309
 siongphinn	相片	308
+siongte	Siōngtè	310
+siongte	Siōng-tè	309
+siongte	上帝	308
 siongtian	siongtián	310
 siongtian	siong-tián	309
 siongtian	商展	308
 siongse	siôngsè	310
 siongse	siông-sè	309
 siongse	詳細	308
+siongsim	siongsim	310
+siongsim	siong-sim	309
+siongsim	傷心	308
 siongsiong	siôngsiông	310
 siongsiong	siông-siông	309
 siongsiong	常常	308
 sisiong	sîsiông	310
 sisiong	sî-siông	309
 sisiong	時常	308
+sitbin	sitbîn	310
+sitbin	sit-bîn	309
+sitbin	失眠	308
 sitbin	si̍tbîn	310
 sitbin	si̍t-bîn	309
 sitbin	植民	308
@@ -18401,6 +18478,12 @@ sitgiam	實驗	308
 sitgiamsek	si̍tgiāmsek	310
 sitgiamsek	si̍t-giām-sek	309
 sitgiamsek	實驗室	308
+sithoe	sithóe	310
+sithoe	sit-hóe	309
+sithoe	熄火	308
+sitle	sitlé	310
+sitle	sit-lé	309
+sitle	失禮	308
 sitthau	sitthâu	310
 sitthau	sit-thâu	309
 ###TODO
@@ -18463,6 +18546,10 @@ suibong	雖罔	308
 suijian	suijiân	310
 suijian	sui-jiân	309
 suijian	雖然	308
+suikhui	súikhùi	310
+suikhui	súi-khùi	309
+###TODO
+suikhui	??	308
 suiong	súiōng	310
 suiong	sú-iōng	309
 suiong	使用	308
@@ -18488,6 +18575,9 @@ sunsoa	sūnsòa	310
 sunsoa	sūn-sòa	309
 ###TODO
 sunsoa	順sòa	308
+susiong	susióng	310
+susiong	su-sióng	309
+susiong	思想	308
 susit	sūsi̍t	310
 susit	sū-si̍t	309
 susit	事實	308
@@ -18686,6 +18776,13 @@ tonglek	動力	308
 tuihu	tùihù	310
 tuihu	tùi-hù	309
 tuihu	對付	308
+thanhoainn	thánhoâiⁿ	310
+thanhoainn	thán-hoâiⁿ	309
+###TODO
+thanhoainn	thán橫	308
+thanpeh	thánpe̍h	310
+thanpeh	thán-pe̍h	309
+thanpeh	坦白	308
 thaulou	thâulō͘	310
 thaulou	thâu-lō͘	309
 ###TODO
