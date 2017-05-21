@@ -17227,6 +17227,9 @@ itou	意圖	308
 itpoann	itpoaⁿ	310
 itpoann	it-poaⁿ	309
 itpoann	一般	308
+itteng	ittēng	310
+itteng	it-tēng	309
+itteng	一定	308
 ittit	itti̍t	310
 ittit	it-ti̍t	309
 ittit	一直	308
@@ -17878,6 +17881,9 @@ lausu	老師	308
 leksu	le̍ksú	310
 leksu	le̍k-sú	309
 leksu	歷史	308
+lenggoa	lēnggōa	310
+lenggoa	lēng-gōa	309
+lenggoa	另外	308
 lengkam	lêngkám	310
 lengkam	lêng-kám	309
 lengkam	靈感	308
