@@ -9693,6 +9693,7 @@ mng5	門	99
 mng5	眠	98
 mng7	mn̄g	201
 mng7	問	100
+mngh8	mn̍gh	100
 moa	moa	201
 moa	裮	100
 moa	廡	99
@@ -9868,6 +9869,7 @@ ng5	彎	97
 Ng7	N̄g	202
 ng7	n̄g	201
 ng7	暈	100
+ngh8	n̍gh	100
 nga2	ngá	201
 nga2	雅	100
 nga2	厊	99
@@ -16479,6 +16481,10 @@ chainniunn	cháiⁿ-iūⁿ	309
 chailiau	châiliāu	310
 chailiau	châi-liāu	309
 chailiau	材料	308
+chaucheng	cháucheng	310
+chaucheng	cháu-cheng	309
+###TODO
+chaucheng	走精	308
 chauchhoe	cháuchhōe	310
 chauchhoe	cháu-chhōe	309
 chauchhoe	走尋	308
@@ -16629,6 +16635,9 @@ choanniunn	chóaⁿiūⁿ	310
 choanniunn	chóaⁿ-iūⁿ	309
 ###TODO
 choanniunn	盞樣	308
+choanpou	choânpō͘	310
+choanpou	choân-pō͘	309
+choanpou	全部	308
 choansim	choansim	310
 choansim	choan-sim	309
 choansim	專心	308
@@ -16825,8 +16834,17 @@ chiamkiu	針灸	308
 chianpoe	chiânpòe	310
 chianpoe	chiân-pòe	309
 chianpoe	前輩	308
-ehiau	ehiáu	310
-ehiau	e-hiáu	309
+chihui	chíhui	310
+chihui	chí-hui	309
+chihui	指揮	308
+chikau	chíkàu	310
+chikau	chí-kàu	309
+chikau	指教	308
+chiteng	chítēng	310
+chiteng	chí-tēng	309
+chiteng	指定	308
+ehiau	ēhiáu	310
+ehiau	ē-hiáu	309
 ###TODO
 ehiau	會曉	308
 ehng	ehng	310
@@ -16972,9 +16990,18 @@ goante	原底	308
 goanthau	goânthâu	310
 goanthau	goân-thâu	309
 goanthau	源頭	308
+goehbai	goe̍hbâi	310
+goehbai	goe̍h-bâi	309
+goehbai	月眉	308
+goehinn	goe̍hîⁿ	310
+goehinn	goe̍h-îⁿ	309
+goehinn	月圓	308
 goehniu	goe̍hniû	310
 goehniu	goe̍h-niû	309
 goehniu	月娘	308
+goehpeng	goe̍hpêng	310
+goehpeng	goe̍h-pêng	309
+goehpeng	月pêng	308
 guihiam	gûihiám	310
 guihiam	gûi-hiám	309
 guihiam	危險	308
@@ -16996,9 +17023,15 @@ hakseng	學生	308
 haksip	ha̍ksi̍p	310
 haksip	ha̍k-si̍p	309
 haksip	學習	308
+hanche	hānchè	310
+hanche	hān-chè	309
+hanche	限制	308
 hanji	Hànjī	310
 hanji	Hàn-jī	309
 hanji	漢字	308
+hanliong	hānliōng	310
+hanliong	hān-liōng	309
+hanliong	限量	308
 hengbi	hèngbī	310
 hengbi	hèng-bī	309
 hengbi	興味	308
@@ -17456,6 +17489,9 @@ khaaukin	脚後筋	308
 khaigiap	khaigia̍p	310
 khaigiap	khai-gia̍p	309
 khaigiap	開業	308
+khaihoat	khaihoat	310
+khaihoat	khai-hoat	309
+khaihoat	開發	308
 khaihak	khaiha̍k	310
 khaihak	khai-ha̍k	309
 khaihak	開學	308
@@ -18330,6 +18366,9 @@ sennthoann	生湠	308
 siahoe	siāhōe	310
 siahoe	siā-hōe	309
 siahoe	社會	308
+siannim	siaⁿim	310
+siannim	siaⁿ-im	309
+siannim	聲音	308
 siannlang	siáⁿlâng	310
 siannlang	siáⁿ-lâng	309
 siannlang	省人	308
@@ -18338,6 +18377,9 @@ siannmih	siáⁿ-mih	309
 siannmih	省乜	308
 siannmih	siáⁿmi̍h	310
 siannmih	siáⁿ-mi̍h	309
+sianntiau	siaⁿtiāu	310
+sianntiau	siaⁿ-tiāu	309
+sianntiau	聲調	308
 siathoat	siathoat	310
 siathoat	siat-hoat	309
 siathoat	設法	308
@@ -18559,6 +18601,9 @@ suikhui	??	308
 suiong	súiōng	310
 suiong	sú-iōng	309
 suiong	使用	308
+suiongchia	súiōngchiá	310
+suiongchia	sú-iōng-chiá	309
+suiongchia	使用者	308
 sujip	suji̍p	310
 sujip	su-ji̍p	309
 sujip	輸入	308
@@ -18683,6 +18728,9 @@ tetang	地動	308
 tholun	thólūn	310
 tholun	thó-lūn	309
 tholun	討論	309
+thongkhou	thòngkhó͘	310
+thongkhou	thòng-khó͘	309
+thongkhou	痛苦	308
 thoukha	thô͘kha	310
 thoukha	thô͘-kha	309
 thoukha	塗脚	308
