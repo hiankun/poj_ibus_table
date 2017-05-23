@@ -57,6 +57,7 @@ STATUS_PROMPT = 台
 VALID_INPUT_CHARS = -,.:;?![]()abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
+
 ### Layout
 LAYOUT = us
 
@@ -77,7 +78,7 @@ DEF_FULL_WIDTH_LETTER = FALSE
 ### Whether user are allow to define phrase, default is true
 ### You have to define the word construction rules below.
 ### For input methods which do not input phrases, set this to False
-USER_CAN_DEFINE_PHRASE = FALSE
+USER_CAN_DEFINE_PHRASE = TRUE
 
 ### Whether support PinYin Mode, default is true.
 ### this feature is just for Chinese, set it to False if your IM is not
@@ -86,11 +87,11 @@ PINYIN_MODE = TRUE
 
 ### If true then the phrases' frequencies will be adjusted dynamically
 ### according your using frequency.
-DYNAMIC_ADJUST = TRUE 
+DYNAMIC_ADJUST = TRUE
 
 ### Some characters whose frequencies should be fix all the time, e.g. 
 ### some punctuations
-### NO_CHECK_CHARS = 
+### NO_CHECK_CHARS =
 
 ### Rules for constructing user defined phrase
 ### "ce" stands for "ci equal", a Chinese English :), means "phrase length
@@ -305,7 +306,6 @@ Ec	Ē	202
 ea	e	201
 es	é	201
 ed	è	201
-ez	ê	201
 ec	ē	201
 Ehf	Eh	202
 ehf	eh	201
@@ -2157,7 +2157,7 @@ es	唖	23
 ed	è	201
 ed	裔	121
 ed	穢	113
-ez	ê	201
+ez	ê	210
 ez	个	131
 ez	鞋	123
 ez	兮	97
