@@ -16565,6 +16565,9 @@ chengsinn	精生	308
 chengti	chèngtī	310
 chengti	chèng-tī	309
 chengti	政治	308
+chetou	chètō͘	310
+chetou	chè-tō͘	309
+chetou	制度	308
 chiahnih	chiahni̍h	310
 chiahnih	chiah-ni̍h	309
 chiahnih	隻哖	308
@@ -17208,6 +17211,9 @@ huho	hû-hō	309
 huho	符號	308
 hukhi	hùikhì	310
 hukhi	hùi-khì	309
+hunin	hunin	310
+hunin	hun-in	309
+hunin	婚姻	308
 hunlian	hùnliān	310
 hunlian	hùn-liān	309
 hunlian	訓練	308
