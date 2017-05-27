@@ -16894,6 +16894,10 @@ chihui	指揮	308
 chikau	chíkàu	310
 chikau	chí-kàu	309
 chikau	指教	308
+chimchiok	chimchiok	310
+chimchiok	chim-chiok	309
+###TODO
+chimchiok	??	308
 chiteng	chítēng	310
 chiteng	chí-tēng	309
 chiteng	指定	308
@@ -17222,6 +17226,9 @@ hongbin	方面	308
 honghoat	honghoat	310
 honghoat	hong-hoat	309
 honghoat	方法	308
+honghu	honghù	310
+honghu	hong-hù	309
+honghu	豐富	308
 hongkhi	hòngkhì	310
 hongkhi	hòng-khì	309
 hongkhi	放棄	308
@@ -18596,7 +18603,7 @@ siongsim	siong-sim	309
 siongsim	傷心	308
 siongsin	siongsìn	310
 siongsin	siong-sìn	309
-siongsin	傷信	308
+siongsin	相信	308
 siongsiong	siôngsiông	310
 siongsiong	siông-siông	309
 siongsiong	常常	308
@@ -18834,6 +18841,9 @@ thoukha	thô͘kha	310
 thoukha	thô͘-kha	309
 thoukha	塗脚	308
 thoukha	塗 kha	307
+tianchun	tiānchú	310
+tianchun	tiān-chú	309
+tianchun	電子	308
 tianhun	tiānhûn	310
 tianhun	tiān-hûn	309
 tianhun	電雲	308
@@ -18961,6 +18971,9 @@ thaunau	頭腦	308
 thauphoe	thâuphôe	310
 thauphoe	thâu-phôe	309
 thauphoe	頭皮	308
+theche	théchè	310
+theche	thé-chè	309
+theche	體制	308
 thekiong	thêkiong	310
 thekiong	thê-kiong	309
 thekiong	提供	308
