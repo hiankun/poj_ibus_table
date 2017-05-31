@@ -17646,6 +17646,13 @@ khehlang	客人	308
 khehoe	khehōe	310
 khehoe	kheh-ōe	309
 khehoe	客話	308
+khiamkhoat	khiàmkhoat	310
+khiamkhoat	khiàm-khoat	309
+khiamkhoat	欠缺	308
+khiamtiam	khiàmtiám	310
+khiamtiam	khiàm-tiám	309
+###TODO
+khiamtiam	欠點	308
 khiansng	khiànsńg	310
 khiansng	khiàn-sńg	309
 khiansng	㩜損	308
