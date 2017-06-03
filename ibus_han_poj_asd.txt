@@ -16819,6 +16819,9 @@ chhiahji	赤字	307
 chhiahsng	chhiahsng	310
 chhiahsng	chhiah-sng	309
 chhiahsng	赤酸	308
+chhiammia	chhiammiâ	310
+chhiammia	chhiam-miâ	309
+chhiammia	簽名	308
 chhiaukoe	chhiaukòe	310
 chhiaukoe	chhiau-kòe	309
 chhiaukoe	超過	308
@@ -17688,6 +17691,9 @@ khipong	khípōng	310
 khipong	khí-pōng	309
 ###TODO
 khipong	起磅	308
+khipsiu	khipsiu	310
+khipsiu	khip-siu	309
+khipsiu	吸收	308
 khisiau	khísiáu	310
 khisiau	khí-siáu	309
 ###TODO
@@ -18871,12 +18877,20 @@ tepiau	地表	308
 tetang	tētāng	310
 tetang	tē-tāng	309
 tetang	地動	308
+thoche	thóchè	310
+thoche	thó-chè	309
+###TODO
+thoche	討債	309
 tholun	thólūn	310
 tholun	thó-lūn	309
 tholun	討論	309
 thongkhou	thòngkhó͘	310
 thongkhou	thòng-khó͘	309
 thongkhou	痛苦	308
+thosiau	thósiàu	310
+thosiau	thó-siàu	309
+###TODO
+thosiau	討賬	309
 thoukha	thô͘kha	310
 thoukha	thô͘-kha	309
 thoukha	塗脚	308
