@@ -9002,6 +9002,7 @@ liong2	輛	98
 liong2	魎	97
 liong2	壟	96
 liong2	緉	95
+liong3	liòng	201
 liong5	liông	201
 liong5	良	100
 liong5	娘	99
@@ -17580,6 +17581,10 @@ khaaukin	khaāukin	310
 khaaukin	kha-āu-kin	309
 ###TODO
 khaaukin	脚後筋	308
+khahchoah	khahchoa̍h	310
+khahchoah	khah-choa̍h	309
+###TODO
+khahchoah	??	308
 khaigiap	khaigia̍p	310
 khaigiap	khai-gia̍p	309
 khaigiap	開業	308
@@ -18029,6 +18034,23 @@ kuiki	規矩	308
 kuiteng	kuitēng	310
 kuiteng	kui-tēng	309
 kuiteng	規定	308
+kunchui	kúnchúi	310
+kunchui	kún-chúi	309
+kunchui	滾水	308
+kunliong	kúniòng	310
+kunliong	kún-liòng	309
+kunhoat	kunhoat	310
+kunhoat	kun-hoat	309
+kunhoat	軍法	308
+kunlam	kunlām	310
+kunlam	kun-lām	309
+kunlam	軍艦	308
+kunlek	kunle̍k	310
+kunlek	kun-le̍k	309
+kunlek	軍力	308
+kuntui	kuntūi	310
+kuntui	kun-tūi	309
+kuntui	軍隊	308
 laibin	lāibīn	310
 laibin	lāi-bīn	309
 laibin	內面	308
