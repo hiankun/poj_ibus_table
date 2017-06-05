@@ -17948,6 +17948,9 @@ kokip	高級	308
 kokbin	kokbîn	310
 kokbin	kok-bîn	309
 kokbin	國民	308
+kokche	kokchè	310
+kokche	kok-chè	309
+kokche	國際	308
 kokhong	kokhông	310
 kokhong	kok-hông	309
 kokhong	國防	308
@@ -18694,6 +18697,9 @@ sitbin	殖民	307
 sitbut	si̍tbu̍t	310
 sitbut	si̍t-bu̍t	309
 sitbut	植物	308
+sitche	si̍tchè	310
+sitche	si̍t-chè	309
+sitche	實際	308
 sitgiam	si̍tgiām	310
 sitgiam	si̍t-giām	309
 sitgiam	實驗	308
@@ -18703,6 +18709,9 @@ sitgiamsek	實驗室	308
 sithoe	sithóe	310
 sithoe	sit-hóe	309
 sithoe	熄火	308
+sitiong	si̍tiōng	310
+sitiong	si̍t-iōng	309
+sitiong	實用	308
 sitle	sitlé	310
 sitle	sit-lé	309
 sitle	失禮	308
@@ -19018,6 +19027,9 @@ tuieng	對應	308
 tuihu	tùihù	310
 tuihu	tùi-hù	309
 tuihu	對付	308
+thamtho	thàmthó	310
+thamtho	thàm-thó	309
+thamtho	探討	308
 thanhoainn	thánhoâiⁿ	310
 thanhoainn	thán-hoâiⁿ	309
 ###TODO
