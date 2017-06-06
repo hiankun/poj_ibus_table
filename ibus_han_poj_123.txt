@@ -609,7 +609,8 @@ bah	肉	133
 bah	嘛	33
 bai	bai	201
 ### Popular ji for bai is 之 minus the dot up top.
-###TODO: itpoaⁿ ê hēthóng kám sī bô chit ê jī?
+###DONE: itpoaⁿ ê hēthóng kám sī bô chit ê jī?
+###Sī. Góa ê hēthóng māⁿ bô chit jī.
 bai	毴	33
 bai2	bái	201
 bai2	呆	123
@@ -16413,7 +16414,7 @@ chektek	chek-tek	309
 chektek	積德	308
 chengam	chéngām	310
 chengam	chéng-ām	309
-###TODO
+###DONE
 chengam	腫頷	308
 chengchha	chengchha	310
 chengchha	cheng-chha	309
@@ -16681,8 +16682,9 @@ gina	囝仔	308
 ###一、Chit 个問題 chiâⁿ 硬斗﹗
 ###→ 電子批討論
 ###二、Kám 正實有人講「銀角」﹖
-###TODO
+###DONE
 ### Nā ánne leh?
+### Che bēbái (góa kòjîn kámkak…)
 ginkak	gînkak-á	310
 ginkak	gîn-kak-á	309
 ginkak	銀角仔	308
@@ -17662,8 +17664,8 @@ sinnmia	sìⁿ-miā	309
 sinnmia	性命	308
 siokhoa	siókhóa	310
 siokhoa	sió-khóa	309
-###TODO
-siokhoa	小許	308
+###DONE
+siokhoa	小可	308
 siongse	siôngsè	310
 siongse	siông-sè	309
 siongse	詳細	308
