@@ -306,7 +306,6 @@ Ec	Ē	202
 ea	e	201
 es	é	201
 ed	è	201
-ec	ē	201
 Ehf	Eh	202
 ehf	eh	201
 Ehv	E̍h	202
@@ -1121,7 +1120,7 @@ chenns	井	132
 chennd	chèⁿ	201
 chennd	諍	121
 chennz	chêⁿ	201
-chenn7	chēⁿ 201
+chennc	chēⁿ	201
 chennc	靜	123
 chhaa	chha	201
 chhaa	叉	88
@@ -17628,7 +17627,6 @@ khatahchhia	kha-ta̍h-chhia	309
 ###thiámthiám。使用者 nā PREFER「腳」字、
 ###因由百面是『因爲華、所以慣 sì』。
 khatahchhia	脚踏車	308
-khatahchhia	腳踏車	307
 khaucho	kháuchō	310
 khaucho	kháu-chō	309
 khaucho	口座	308
@@ -18957,7 +18955,7 @@ tiantongki	tiān-tōng-ki	309
 tiantongki	電動機	308
 tiaukang	tiaukang	310
 tiaukang	tiau-kang	309
-tiaukang	刁工		308
+tiaukang	刁工	308
 tiautau	tiàutâu	310
 tiautau	tiàu-tâu	309
 ###TODO
