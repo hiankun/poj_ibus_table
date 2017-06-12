@@ -17399,6 +17399,9 @@ iuengkong	有應公	308
 jibo	jībó	310
 jibo	jī-bó	309
 jibo	字母	308
+jintong	jīntông	310
+jintong	jīn-tông	309
+jintong	認同	308
 jinui	jīnûi	310
 jinui	jīn-ûi	309
 jinui	認爲	308
