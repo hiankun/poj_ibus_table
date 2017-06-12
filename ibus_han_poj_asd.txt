@@ -306,7 +306,6 @@ Ec	Ē	202
 ea	e	201
 es	é	201
 ed	è	201
-ec	ē	201
 Ehf	Eh	202
 ehf	eh	201
 Ehv	E̍h	202
@@ -609,7 +608,8 @@ bahf	肉	133
 bahf	嘛	33
 baia	bai	201
 ### Popular ji for bai is 之 minus the dot up top.
-###TODO: itpoaⁿ ê hēthóng kám sī bô chit ê jī?
+###DONE: itpoaⁿ ê hēthóng kám sī bô chit ê jī?
+###Sī. Góa ê hēthóng māⁿ bô chit jī.
 baia	毴	33
 bais	bái	201
 bais	呆	123
@@ -1120,7 +1120,7 @@ chenns	井	132
 chennd	chèⁿ	201
 chennd	諍	121
 chennz	chêⁿ	201
-chenn7	chēⁿ 201
+chennc	chēⁿ	201
 chennc	靜	123
 chhaa	chha	201
 chhaa	叉	88
@@ -1977,7 +1977,7 @@ choahf	拙	99
 choahv	choa̍h	201
 choahv	絕	113
 choaic	choāi	201
-choainn7    choāiⁿ  201
+choainnc	choāiⁿ	201
 choana	choan	201
 choana	專	132
 choana	磚	98
@@ -16323,19 +16323,15 @@ anchoann	án-chóaⁿ	309
 anchoann	按盞	308
 angachheh	angáchheh	310
 angachheh	ang-á-chheh	309
-###TODO
 angachheh	尫仔冊	308
 angaphiau	angáphiau	310
 angaphiau	ang-á-phiau	309
-###TODO
 angaphiau	尫仔標	308
 angathau	angáthâu	310
 angathau	ang-á-thâu	309
-###TODO
 angathau	尫仔頭	308
 angatou	angátô͘	310
 angatou	ang-á-tô͘	309
-###TODO
 angatou	尫仔圖	308
 angphinn	àngphīⁿ	310
 angphinn	àng-phīⁿ	309
@@ -16354,7 +16350,6 @@ anni	án-ni	309
 anni	按呢	308
 ansng	ánsǹg	310
 ansng	án-sǹg	309
-###TODO
 ansng	按算	308
 aplek	aple̍k	310
 aplek	ap-le̍k	309
@@ -16372,12 +16367,14 @@ aupiah	Āupiah	307
 aupiah	Āu-piah	306
 bakchiu	ba̍kchiu	310
 bakchiu	ba̍k-chiu	309
-###TODO
-bakchiu	目睭	308
+bakchiu	目周	308
+bakchiu	目珠	307
 bakchiujin	ba̍kchiujîn	310
 bakchiujin	ba̍k-chiu-jîn	309
 ###TODO
-bakchiujin	目睭仁	308
+bakchiujin	目周仁	308
+bakchiujin	目珠仁	307
+
 bakkiann	ba̍kkiàⁿ	310
 bakkiann	ba̍k-kiàⁿ	309
 bakkiann	目鏡	308
@@ -16513,8 +16510,7 @@ chailiau	châi-liāu	309
 chailiau	材料	308
 chaucheng	cháucheng	310
 chaucheng	cháu-cheng	309
-###TODO
-chaucheng	走精	308
+chaucheng	走爭	308
 chauchhoe	cháuchhōe	310
 chauchhoe	cháu-chhōe	309
 chauchhoe	走尋	308
@@ -16532,7 +16528,6 @@ chektek	chek-tek	309
 chektek	積德	308
 chengam	chéngām	310
 chengam	chéng-ām	309
-###TODO
 chengam	腫頷	308
 chengchha	chengchha	310
 chengchha	cheng-chha	309
@@ -16613,8 +16608,7 @@ chiannpan	chiàⁿ-pán	309
 chiannpan	正版	308
 chiannpan	chiàⁿpān	310
 chiannpan	chiàⁿ-pān	309
-###TODO
-chiannpan	正pān	308
+chiannpan	正範	308
 chiannsit	chiaⁿsi̍t	310
 chiannsit	chiaⁿ-si̍t	309
 chiannsit	正實	308
@@ -16667,6 +16661,9 @@ choanchit	專職	308
 choangiap	choangia̍p	310
 choangiap	choan-gia̍p	309
 choangiap	專業	308
+choanka	choanka	310
+choanka	choan-ka	309
+choanka	專家	308
 choankho	choankho	310
 choankho	choan-kho	309
 choankho	專科	308
@@ -16675,7 +16672,6 @@ choanli	choan-lī	309
 choanli	專利	308
 choanniunn	chóaⁿiūⁿ	310
 choanniunn	chóaⁿ-iūⁿ	309
-###TODO
 choanniunn	盞樣	308
 choanpou	choânpō͘	310
 choanpou	choân-pō͘	309
@@ -16811,7 +16807,6 @@ chhengchi	chhèng-chí	309
 chhengchi	銃子	308
 chhengkhi	chhengkhì	310
 chhengkhi	chheng-khì	309
-###TODO
 chhengkhi	清氣	308
 chhengkiat	chhengkiat	310
 chhengkiat	chheng-kiat	309
@@ -16858,8 +16853,6 @@ chhiulou	chhiú-lō͘	309
 chhiulou	手路	308
 chhiunnkiap	chhiúⁿkiap	310
 chhiunnkiap	chhiúⁿ-kiap	309
-###DONE: 
-###解說躼躼長、另外送
 chhiunnkiap	搶劫	308
 chhiunnkiap	搶刼	307
 chhiunnsiong	chhiúⁿsiong	310
@@ -16927,19 +16920,24 @@ chikau	chí-kàu	309
 chikau	指教	308
 chimchiok	chimchiok	310
 chimchiok	chim-chiok	309
-###TODO
-chimchiok	??	308
+chimchiok	斟酌	308
+chimia	chímiâ	310
+chimia	chí-miâ	309
+chimia	指名	308
 chiteng	chítēng	310
 chiteng	chí-tēng	309
 chiteng	指定	308
+chito	chítō	310
+chito	chí-tō	309
+chito	指導	308
 ehiau	ēhiáu	310
 ehiau	ē-hiáu	309
-###TODO
 ehiau	會曉	308
-ehng	ehng	310
-ehng	e-hng	309
-###TODO
-ehng	??	308
+ehiau	能曉	303
+###DONE: 頭節聲調是第五
+ehng	êhng	310
+ehng	ê-hng	309
+ehng	冥昏	308
 engbun	Engbûn	310
 engbun	Eng-bûn	309
 engbun	英文	308
@@ -16970,10 +16968,10 @@ engkok	英國	308
 engpong	Engpōng	310
 engpong	Eng-pōng	309
 engpong	英磅	308
-epou	epo͘	310
-epou	e-po͘	309
-###TODO
-epou	??	308
+###DONE: 頭節聲調是第七
+epou	ēpo͘	310
+epou	ē-po͘	309
+epou	下晡	308
 esai	ēsái	310
 esai	ē-sái	309
 esai	會使	308
@@ -17008,8 +17006,9 @@ gina	囝仔	308
 ###一、Chit 个問題 chiâⁿ 硬斗﹗
 ###→ 電子批討論
 ###二、Kám 正實有人講「銀角」﹖
-###TODO
+###DONE
 ### Nā ánne leh?
+### Che bēbái (góa kòjîn kámkak…)
 ginkak	gînkak-á	310
 ginkak	gîn-kak-á	309
 ginkak	銀角仔	308
@@ -17239,6 +17238,15 @@ hoattongki	發動機	308
 hoattou	hoattō͘	310
 hoattou	hoat-tō͘	309
 hoattou	法度	308
+hoegi	hōegī	310
+hoegi	hōe-gī	309
+hoegi	會議	308
+hoegoan	hōegoân	310
+hoegoan	hōe-goân	309
+hoegoan	會員	308
+hoeoan	hōeoân	310
+hoeoan	hōe-oân	309
+hoeoan	會員	308
 hoepo	hôepò	310
 hoepo	hôe-pò	309
 hoepo	回報	308
@@ -17526,7 +17534,6 @@ kato	ka-to	309
 kato	鉸刀	308
 kauhia	káuhiā	310
 kauhia	káu-hiā	309
-###TODO
 kauhia	狗蟻	308
 kaukoai	káukoài	310
 kaukoai	káu-koài	309
@@ -17574,13 +17581,14 @@ keek	kèe̍k	310
 keek	kè-e̍k	309
 keek	計劃	308
 ###TODO: m̄ chai `format' ū siáⁿ kónghoat bô...
+###阿天：照講太多—a、咱 nā 去接觸逐途个僻話
+###無定 ētàng 用「pān」（範）：乜乜範、範乜乜
 kehsek	kehsek	310
 kehsek	keh-sek	309
 kehsek	格式	308
 keiann	kéiáⁿ	310
 keiann	ké-iáⁿ	309
-###TODO
-keiann	ké影	308
+keiann	假影	308
 keoe	kèōe	310
 keoe	kè-ōe	309
 keoe	計畫	308
@@ -17592,11 +17600,9 @@ keseng	kè-sêng	309
 keseng	繼承	308
 kesiau	késiáu	310
 kesiau	ké-siáu	309
-###TODO
-kesiau	??	308
+kesiau	假嬲	308
 kesiau	kèsiàu	310
 kesiau	kè-siàu	309
-###TODO
 kesiau	價數	308
 kesiok	kèsio̍k	310
 kesiok	kè-sio̍k	309
@@ -17613,8 +17619,8 @@ khaaukin	kha-āu-kin	309
 khaaukin	脚後筋	308
 khahchoah	khahchoa̍h	310
 khahchoah	khah-choa̍h	309
-###TODO
-khahchoah	??	308
+khahchoah	卡絕	308
+khahchoah	恰絕	307
 khaigiap	khaigia̍p	310
 khaigiap	khai-gia̍p	309
 khaigiap	開業	308
@@ -17664,8 +17670,11 @@ khanthoa	牽拖	308
 khatahchhia	khata̍hchhia	310
 khatahchhia	kha-ta̍h-chhia	309
 ###TODO
+###阿天：建議「腳」字 tī 3XX chit tah
+###lóng 免提供。民貫台文「脚」使用率高過「腳」
+###thiámthiám。使用者 nā PREFER「腳」字、
+###因由百面是『因爲華、所以慣 sì』。
 khatahchhia	脚踏車	308
-khatahchhia	腳踏車	307
 khaucho	kháuchō	310
 khaucho	kháu-chō	309
 khaucho	口座	308
@@ -17689,11 +17698,13 @@ khiamkhoat	khiàm-khoat	309
 khiamkhoat	欠缺	308
 khiamtiam	khiàmtiám	310
 khiamtiam	khiàm-tiám	309
-###TODO
 khiamtiam	欠點	308
 khiansng	khiànsńg	310
 khiansng	khiàn-sńg	309
-khiansng	㩜損	308
+###DONE: 阿天﹕「㩜損」chit 二字是 tó
+###位看着个？
+###TODO: thk: 台日內底 ê 漢字。
+###khiansng	㩜損	308
 khichhng	khíchhn̂g	310
 khichhng	khí-chhn̂g	309
 khichhng	起床	308
@@ -17731,8 +17742,7 @@ khipsiu	khip-siu	309
 khipsiu	吸收	308
 khisiau	khísiáu	310
 khisiau	khí-siáu	309
-###TODO
-khisiau	起siáu	308
+khisiau	起嬲	308
 khoai	khóài	310
 khoai	khó-ài	309
 khoai	可愛	308
@@ -17791,11 +17801,9 @@ kiankou	kian-kò͘	309
 kiankou	堅固	308
 kiannhiann	kiaⁿhiâⁿ	310
 kiannhiann	kiaⁿ-hiâⁿ	309
-###TODO
-kiannhiann	驚hiâⁿ	308
+kiannhiann	驚刑	308
 kiannlou	kiâⁿlō͘	310
 kiannlou	kiâⁿ-lō͘	309
-###TODO
 kiannlou	行路	308
 kiansim	kiansim	310
 kiansim	kian-sim	309
@@ -18050,10 +18058,12 @@ koupan	古板	308
 kouputchiong	ko͘putchiong	310
 kouputchiong	ko͘-put-chiong	309
 kouputchiong	姑不將	308
-###TODO
-kouputjichiong	ko͘putjîchiong	310
-kouputjichiong	ko͘-put-jî-chiong	309
-kouputjichiong	姑不而將	308
+kouputjichiong	ko͘putjīchiong	310
+kouputjichiong	ko͘putjîchiong	309
+kouputjichiong	ko͘-put-jī-chiong	308
+kouputjichiong	ko͘-put-jî-chiong	307
+kouputjichiong	姑不二將	306
+kouputjichiong	姑不而將	305
 kousu	kò͘sū	310
 kousu	kò͘-sū	309
 kousu	故事	308
@@ -18068,7 +18078,6 @@ kuihoan	kui-hoān	309
 kuihoan	規範	308
 kuikhi	kuikhì	310
 kuikhi	kui-khì	309
-###TODO
 kuikhi	歸氣	308
 kuiki	kuikí	310
 kuiki	kui-kí	309
@@ -18163,7 +18172,6 @@ liansip	liān-si̍p	309
 liansip	練習	308
 liansoa	liânsòa	310
 liansoa	liân-sòa	309
-###TODO
 liansoa	連續	308
 liaukai	liáukái	310
 liaukai	liáu-kái	309
@@ -18264,7 +18272,6 @@ mna	m̄nā	310
 mna	m̄-nā	309
 mngkngkhang	mn̂gkńgkhang	310
 mngkngkhang	mn̂g-kńg-khang	309
-###TODO
 mngkngkhang	毛管空	308
 mnglou	mn̂glō͘	310
 mnglou	mn̂g-lō͘	309
@@ -18299,8 +18306,7 @@ ngoukoan	ngó͘-koan	309
 ngoukoan	五官	308
 nngchiann	nńgchiáⁿ	310
 nngchiann	nńg-chiáⁿ	309
-###TODO
-nngchiann	軟chiáⁿ	308
+nngchiann	軟汫	308
 nngthe	nńgthé	310
 nngthe	nńg-thé	309
 nngthe	軟體	308
@@ -18485,7 +18491,6 @@ phinnim	phīⁿ-im	309
 phinnim	鼻音	308
 phinnkhang	phīⁿkhang	310
 phinnkhang	phīⁿ-khang	309
-###TODO
 phinnkhang	鼻空	308
 phinnsai	phīⁿsái	310
 phinnsai	phīⁿ-sái	309
@@ -18515,7 +18520,6 @@ sebin	勢面	308
 sebin	世面	307
 sehan	sèhàn	310
 sehan	sè-hàn	309
-###TODO
 sehan	細漢	308
 sekan	sèkan	310
 sekan	sè-kan	309
@@ -18543,7 +18547,6 @@ sengchit	sèng-chit	309
 sengchit	性質	308
 senghun	sênghun	310
 senghun	sêng-hun	309
-###TODO
 senghun	成份	308
 sengkeng	Sèngkeng	310
 sengkeng	Sèng-keng	309
@@ -18589,8 +18592,7 @@ sennsiunn	seⁿ-siùⁿ	309
 sennsiunn	生相	308
 sennthoann	seⁿthòaⁿ	310
 sennthoann	seⁿ-thòaⁿ	309
-###TODO
-sennthoann	生湠	308
+sennthoann	生炭	308
 siahoe	siāhōe	310
 siahoe	siā-hōe	309
 siahoe	社會	308
@@ -18700,8 +18702,9 @@ sinthe	sin-thé	309
 sinthe	身體	308
 siokhoa	siókhóa	310
 siokhoa	sió-khóa	309
-###TODO
-siokhoa	小許	308
+###TODO: ēkha chit nn̄g tiâu, èngkai póliû tó chi̍t tiâu?
+siokhoa	小可	308
+siokhoa	小許	307
 siongbong	siongbông	310
 siongbong	siong-bông	309
 siongbong	傷亡	308
@@ -18774,7 +18777,6 @@ sitle	sit-lé	309
 sitle	失禮	308
 sitthau	sitthâu	310
 sitthau	sit-thâu	309
-###TODO
 sitthau	穡頭	308
 siuhok	siuho̍k	310
 siuhok	siu-ho̍k	309
@@ -18828,6 +18830,7 @@ suiau	suiàu	310
 suiau	su-iàu	309
 suiau	需要	308
 ###TODO: bô khaktēng chit ê sû ê lâigoân...
+###DONE：歸欉好好
 suibong	suibóng	310
 suibong	sui-bóng	309
 suibong	雖罔	308
@@ -18836,8 +18839,7 @@ suijian	sui-jiân	309
 suijian	雖然	308
 suikhui	súikhùi	310
 suikhui	súi-khùi	309
-###TODO
-suikhui	??	308
+suikhui	水氣	308
 suiong	súiōng	310
 suiong	sú-iōng	309
 suiong	使用	308
@@ -18864,8 +18866,7 @@ sunli	sūn-lī	309
 sunli	順利	308
 sunsoa	sūnsòa	310
 sunsoa	sūn-sòa	309
-###TODO
-sunsoa	順sòa	308
+sunsoa	順續	308
 susiong	susióng	310
 susiong	su-sióng	309
 susiong	思想	308
@@ -18967,7 +18968,6 @@ tetang	tē-tāng	309
 tetang	地動	308
 thoche	thóchè	310
 thoche	thó-chè	309
-###TODO
 thoche	討債	309
 tholun	thólūn	310
 tholun	thó-lūn	309
@@ -18977,8 +18977,7 @@ thongkhou	thòng-khó͘	309
 thongkhou	痛苦	308
 thosiau	thósiàu	310
 thosiau	thó-siàu	309
-###TODO
-thosiau	討賬	309
+thosiau	討數	309
 thoukha	thô͘kha	310
 thoukha	thô͘-kha	309
 thoukha	塗脚	308
@@ -19029,6 +19028,9 @@ tiantong	電動	308
 tiantongki	tiāntōngki	310
 tiantongki	tiān-tōng-ki	309
 tiantongki	電動機	308
+tiaukang	tiaukang	310
+tiaukang	tiau-kang	309
+tiaukang	刁工	308
 tiautau	tiàutâu	310
 tiautau	tiàu-tâu	309
 ###TODO
@@ -19089,8 +19091,7 @@ thamtho	thàm-thó	309
 thamtho	探討	308
 thanhoainn	thánhoâiⁿ	310
 thanhoainn	thán-hoâiⁿ	309
-###TODO
-thanhoainn	thán橫	308
+thanhoainn	坦橫	308
 thanpeh	thánpe̍h	310
 thanpeh	thán-pe̍h	309
 thanpeh	坦白	308
@@ -19102,7 +19103,6 @@ thaukhak	thâu-khah	309
 thaukhak	頭殼	308
 thaulou	thâulō͘	310
 thaulou	thâu-lō͘	309
-###TODO
 thaulou	頭路	308
 thaumng	thâumn̂g	310
 thaumng	thâu-mn̂g	309
@@ -19151,8 +19151,9 @@ thiauchian	thiau-chiàn	309
 thiauchian	挑戰	308
 thiaukang	thiaukang	310
 thiaukang	thiau-kang	309
-###TODO
-thiaukang	刁工	308
+###DONE:我面頂 koh 創一條「tiaukang」
+###詞源方面、.xls 內底有講卡詳細
+thiaukang	挑工	308
 thinnkhi	thiⁿkhì	310
 thinnkhi	thiⁿ-khì	309
 thinnkhi	天氣	308
