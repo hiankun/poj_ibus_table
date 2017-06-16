@@ -16497,6 +16497,9 @@ butli	物理	308
 butlihak	bu̍tlíha̍k	310
 butlihak	bu̍t-lí-ha̍k	309
 butlihak	物理學	308
+butthe	bu̍tthé	310
+butthe	bu̍t-thé	309
+butthe	物體	308
 chabou	chabó͘	310
 chabou	cha-bó͘	309
 chabou	查某	308
@@ -16736,6 +16739,9 @@ chusin	資訊	308
 chusin	chūsìn	310
 chusin	chū-sìn	309
 chusin	自信	308
+chutiunn	chútiuⁿ	310
+chutiunn	chú-tiuⁿ	309
+chutiunn	主張	308
 chutong	chūtōng	310
 chutong	chū-tōng	309
 chutong	自動	308
@@ -16805,6 +16811,9 @@ chhengchho	清楚	308
 chhengchi	chhèngchí	310
 chhengchi	chhèng-chí	309
 chhengchi	銃子	308
+chhenghou	chhengho͘	310
+chhenghou	chheng-ho͘	309
+chhenghou	稱呼	308
 chhengkhi	chhengkhì	310
 chhengkhi	chheng-khì	309
 chhengkhi	清氣	308
@@ -17202,6 +17211,9 @@ hoanek	翻譯	308
 hoaneng	hoánèng	310
 hoaneng	hoán-èng	309
 hoaneng	反應	308
+hoangeng	hoangêng	310
+hoangeng	hoan-gêng	309
+hoangeng	歡迎	308
 hoannhi	hoaⁿhí	310
 hoannhi	hoaⁿ-hí	309
 hoannhi	歡喜	308
@@ -17417,6 +17429,9 @@ jitian	字典	308
 jitchi	ji̍tchí	310
 jitchi	ji̍t-chí	309
 jitchi	日子	308
+jitgi	Ji̍tgí	310
+jitgi	Ji̍t-gí	309
+jitgi	日語	308
 jitki	ji̍tkî	310
 jitki	ji̍t-kî	309
 jitki	日期	308
@@ -17487,6 +17502,9 @@ kanggiap	工業	308
 kanghu	kanghu	310
 kanghu	kang-hu	309
 kanghu	工夫	308
+kangkai	kángkái	310
+kangkai	káng-kái	309
+kangkai	講解	308
 kangkhau	kángkháu	310
 kangkhau	káng-kháu	309
 kangkhau	港口	308
@@ -18188,6 +18206,9 @@ liiong	利用	308
 liiu	líiû	310
 liiu	lí-iû	309
 liiu	理由	308
+likai	líkái	310
+likai	lí-kái	309
+likai	理解	308
 likang	líkang	310
 likang	lí-kang	309
 likang	理工	308
@@ -18988,6 +19009,9 @@ thoukha	塗 kha	307
 tianchun	tiānchú	310
 tianchun	tiān-chú	309
 tianchun	電子	308
+tianchupho	tiānchûpho	310
+tianchupho	tiān-chû-pho	309
+tianchupho	電磁波	308
 tianhun	tiānhûn	310
 tianhun	tiān-hûn	309
 tianhun	電雲	308
