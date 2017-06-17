@@ -16918,6 +16918,9 @@ chiamchhihoat	針刺法	308
 chiamkiu	chiamkiù	310
 chiamkiu	chiah-kiù	309
 chiamkiu	針灸	308
+chiamtui	chiamtùi	310
+chiamtui	chiah-tùi	309
+chiamtui	針對	308
 chianpoe	chiânpòe	310
 chianpoe	chiân-pòe	309
 chianpoe	前輩	308
@@ -17295,6 +17298,10 @@ hongkhi	放棄	308
 hongpoesoa	hongpoesoa	310
 hongpoesoa	hong-poe-soa	309
 hongpoesoa	風飛沙	308
+hongsang	hòngsàng	310
+hongsang	hòng-sàng	309
+###TODO
+hongsang	放送	308
 hongsek	hongsek	310
 hongsek	hong-sek	309
 hongsek	方式	308
@@ -18554,6 +18561,12 @@ sekai	世界	308
 sekhap	sekha̍p	310
 sekhap	sek-ha̍p	309
 sekhap	適合	308
+sekti	sektì	310
+sekti	sek-tì	309
+sekti	sektī	310
+sekti	sek-tī	309
+###TODO
+sekti	色緻	308
 selek	sèle̍k	310
 selek	sè-le̍k	309
 selek	勢力	308
@@ -18781,6 +18794,9 @@ sitbin	殖民	307
 sitbut	si̍tbu̍t	310
 sitbut	si̍t-bu̍t	309
 sitbut	植物	308
+sitchai	si̍tchāi	310
+sitchai	si̍t-chāi	309
+sitchai	實在	308
 sitche	si̍tchè	310
 sitche	si̍t-chè	309
 sitche	實際	308
