@@ -17467,6 +17467,9 @@ kaichong	改裝	307
 kaipian	káipiàn	310
 kaipian	kái-piàn	309
 kaipian	改變	307
+kaisiau	kàisiāu	310
+kaisiau	kài-siāu	309
+kaisiau	介紹	307
 kaisoeh	káisoeh	310
 kaisoeh	kái-soeh	309
 kaisoeh	解說	307
@@ -18700,6 +18703,9 @@ siauhui	消費	308
 siauhuichia	siauhùichiá	310
 siauhuichia	siau-hùi-chiá	309
 siauhuichia	消費者	308
+siaukai	siāukài	310
+siaukai	siāu-kài	309
+siaukai	紹介	307
 siaujin	siáujîn	310
 siaujin	siáu-jîn	309
 siaujin	小人	308
