@@ -19,15 +19,15 @@ BEGIN {OFS=""};
     else if (/[[:alpha:]][ptkh]\t.*\t.*/ && $3 >= start && $3 < stop)
         print $1=$1"f","\t",$2,"\t",$3;
     else if (/[[:alpha:]][5]\t.*\t.*/)
-        print $1=gensub(/5$/,"z",1,$1),"\t",$2,"\t",$3;
+        print $1=gensub(/5$/,"g",1,$1),"\t",$2,"\t",$3;
     else if (/[[:alpha:]][6]\t.*\t.*/)
-        print $1=gensub(/6$/,"x",1,$1),"\t",$2,"\t",$3;
+        print $1=gensub(/6$/,"h",1,$1),"\t",$2,"\t",$3;
     else if (/[[:alpha:]][7]\t.*\t.*/)
-        print $1=gensub(/7$/,"c",1,$1),"\t",$2,"\t",$3;
+        print $1=gensub(/7$/,"j",1,$1),"\t",$2,"\t",$3;
     else if (/[[:alpha:]][8]\t.*\t.*/)
-        print $1=gensub(/8$/,"v",1,$1),"\t",$2,"\t",$3;
+        print $1=gensub(/8$/,"k",1,$1),"\t",$2,"\t",$3;
     else if (/[[:alpha:]][9]\t.*\t.*/)
-        print $1=gensub(/9$/,"b",1,$1),"\t",$2,"\t",$3;
+        print $1=gensub(/9$/,"l",1,$1),"\t",$2,"\t",$3;
     else
         print $0;
     }
