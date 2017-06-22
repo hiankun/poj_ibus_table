@@ -16084,8 +16084,11 @@ asi	ásī	310
 asi	á-sī	309
 aukhakin	āukhakin	310
 aukhakin	āu-kha-kin	309
-###TODO
+###DONE
 aukhakin	後脚筋	308
+aukhakun          āukhakun          310
+aukhakun          āu-kha-kun        309
+aukhakun          後脚筋            308
 aupiah	āupiah	310
 aupiah	āu-piah	309
 aupiah	後壁	308
@@ -18308,8 +18311,9 @@ sehan	sè-hàn	309
 sehan	細漢	308
 seji	sèjī	310
 seji	sè-jī	309
-###TODO
+###DONE
 seji	細膩	308
+seji              細二              307
 sekan	sèkan	310
 sekan	sè-kan	309
 sekan	世間	308
@@ -18323,7 +18327,7 @@ sekti	sektì	310
 sekti	sek-tì	309
 sekti	sektī	310
 sekti	sek-tī	309
-###TODO
+###DONE
 sekti	色緻	308
 selek	sèle̍k	310
 selek	sè-le̍k	309
