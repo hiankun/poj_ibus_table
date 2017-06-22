@@ -8516,7 +8516,7 @@ lian7	鏈	95
 lian7	湅	94
 lian7	僆	93
 liang5	liâng	201
-###TODO
+###DONE
 liang5	涼	101
 liang7	liāng	201
 liang7	亮	100
@@ -16673,9 +16673,11 @@ ehiau	ē-hiáu	309
 ehiau	會曉	308
 ehiau	能曉	303
 ###DONE: 頭節聲調是第五
+###EDIT 「e5」民貫朗寫「下」
 ehng	êhng	310
 ehng	ê-hng	309
-ehng	冥昏	308
+ehng	下昏	308
+ehng              冥昏              302
 engbun	Engbûn	310
 engbun	Eng-bûn	309
 engbun	英文	308
@@ -17032,7 +17034,7 @@ hongpoesoa	hong-poe-soa	309
 hongpoesoa	風飛沙	308
 hongsang	hòngsàng	310
 hongsang	hòng-sàng	309
-###TODO
+###DONE
 hongsang	放送	308
 hongsek	hongsek	310
 hongsek	hong-sek	309
@@ -17381,8 +17383,11 @@ ketatkoan	kè-ta̍t-koan	309
 ketatkoan	價值觀	308
 khaaukin	khaāukin	310
 khaaukin	kha-āu-kin	309
-###TODO
+###DONE／add
 khaaukin	脚後筋	308
+khaaukun          khaāukun          310
+khaaukun          kha-āu-kun        309
+khaaukun          脚後筋            308
 khahchoah	khahchoa̍h	310
 khahchoah	khah-choa̍h	309
 khahchoah	卡絕	308
@@ -17431,11 +17436,11 @@ khanseng	khan-sêng	309
 khanseng	牽成	308
 khanthoa	khanthoa	310
 khanthoa	khan-thoa	309
-###TODO
+###DONE
 khanthoa	牽拖	308
 khatahchhia	khata̍hchhia	310
 khatahchhia	kha-ta̍h-chhia	309
-###TODO
+###DONE
 ###阿天：建議「腳」字 tī 3XX chit tah
 ###lóng 免提供。民貫台文「脚」使用率高過「腳」
 ###thiámthiám。使用者 nā PREFER「腳」字、
@@ -17469,8 +17474,10 @@ khiansng	khiànsńg	310
 khiansng	khiàn-sńg	309
 ###DONE: 阿天﹕「㩜損」chit 二字是 tó
 ###位看着个？
-###TODO: thk: 台日內底 ê 漢字。
-###khiansng	㩜損	308
+### thk: 台日內底 ê 漢字。
+###DONE:阿天：讚成台日个用字「摼損」
+###理由寫帶資料田
+khiansng	摼損	308
 khichhng	khíchhn̂g	310
 khichhng	khí-chhn̂g	309
 khichhng	起床	308
@@ -18493,9 +18500,8 @@ sinthe	sin-thé	309
 sinthe	身體	308
 siokhoa	siókhóa	310
 siokhoa	sió-khóa	309
-###TODO: ēkha chit nn̄g tiâu, èngkai póliû tó chi̍t tiâu?
+###DONE: ēkha chit nn̄g tiâu, èngkai póliû tó chi̍t tiâu?
 siokhoa	小可	308
-siokhoa	小許	307
 siongbong	siongbông	310
 siongbong	siong-bông	309
 siongbong	傷亡	308
