@@ -295,8 +295,10 @@ Aunn5	Âuⁿ	202
 aunn5	âuⁿ	201
 Aunn7	Āuⁿ	202
 aunn7	āuⁿ	201
-Aunnh8	A̍uⁿh	202
-aunnh8	a̍uⁿh	201
+Aunnh8	A̍uhⁿ	202
+aunnh8	a̍uhⁿ	201
+Auhnn8	A̍uhⁿ	202
+auhnn8	a̍uhⁿ	201
 E	E	202
 E2	É	202
 E3	È	202
@@ -319,8 +321,10 @@ enn2	éⁿ	201
 enn3	èⁿ	201
 enn5	êⁿ	201
 enn7	ēⁿ	201
-Ennh8	E̍ⁿh	202
-ennh8	e̍ⁿh	201
+Ennh8	E̍hⁿ	202
+ennh8	e̍hⁿ	201
+Ehnn8	E̍hⁿ	202
+ehnn8	e̍hⁿ	201
 I	I	202
 I2	Í	202
 I3	Ì	202
@@ -361,8 +365,10 @@ Inn2	Íⁿ	202
 Inn3	Ìⁿ	202
 Inn5	Îⁿ	202
 Inn7	Īⁿ	202
-Innh8	I̍ⁿh	202
-innh8	i̍ⁿh	201
+Innh8	I̍hⁿ	202
+innh8	i̍hⁿ	201
+Ihnn8	I̍hⁿ	202
+ihnn8	i̍hⁿ	201
 Mh8	M̍h	202
 mh8	m̍h	201
 Ngh8	N̍gh	202
@@ -377,8 +383,10 @@ Onn5	Ôⁿ	202
 onn5	ôⁿ	201
 Onn7	Ōⁿ	202
 onn7	ōⁿ	201
-Onnh8	O̍ⁿh	202
-onnh8	o̍ⁿh	201
+Onnh8	O̍hⁿ	202
+onnh8	o̍hⁿ	201
+Ohnn8	O̍hⁿ	202
+ohnn8	o̍hⁿ	201
 Uinn2	Úiⁿ	202
 uinn2	úiⁿ	201
 Uinn3	Ùiⁿ	202
@@ -405,16 +413,20 @@ ak6	ăk	201
 ak9	a̋k	201
 ann6	ăⁿ	201
 ann9	a̋ⁿ	201
-annh6	ăⁿh	201
-annh9	a̋ⁿh	201
+annh6	ăhⁿ	201
+ahnn6	ăhⁿ	201
+annh9	a̋hⁿ	201
+ahnn9	a̋hⁿ	201
 au6	ău	201
 au9	a̋u	201
 auh6	ău	201
 auh9	a̋uh	201
 aunn6	ăuⁿ	201
 aunn9	a̋uⁿ	201
-aunnh6	ăuⁿh	201
-aunnh9	a̋uⁿh	201
+aunnh6	ăuhⁿ	201
+auhnn6	ăuhⁿ	201
+aunnh9	a̋uhⁿ	201
+auhnn9	a̋uhⁿ	201
 e6	ĕ	201
 e9	e̋	201
 eh6	ĕh	201
@@ -422,7 +434,9 @@ eh9	e̋h	201
 enn6	ĕⁿ	201
 enn9	e̋ⁿ	201
 ennh6	ĕⁿ	201
-ennh9	e̋ⁿh	201
+ehnn6	ĕⁿ	201
+ennh9	e̋hⁿ	201
+ehnn9	e̋hⁿ	201
 i6	ǐ	201
 i9	i̋	201
 ih6	ǐh	201
@@ -442,7 +456,9 @@ ek9	e̋k	201
 inn6	ǐⁿ	201
 inn9	i̋ⁿ	201
 innh6	ǐⁿ	201
-innh9	i̋ⁿh	201
+ihnn6	ǐⁿ	201
+innh9	i̋hⁿ	201
+ihnn9	i̋hⁿ	201
 iunn6	iŭⁿ	201
 iunn9	iűⁿ	201
 m6	m̌	201
@@ -463,8 +479,10 @@ ok6	ŏng	201
 ok9	ők	201
 onn6	ŏⁿ	201
 onn9	őⁿ	201
-onnh6	ŏⁿh	201
+onnh6	ŏhⁿ	201
+ohnn6	ŏhⁿ	201
 onnh9	őh	201
+ohnn9	őh	201
 ou6	ŏ͘	201
 ou9	ő͘	201
 u6	ŭ	201
@@ -525,7 +543,8 @@ ai3	曖	101
 ai3	爱	12
 ai5	噯	111
 ainn7	āiⁿ	201
-ainnh	aiⁿh	201
+ainnh	aihⁿ	201
+aihnn	aihⁿ	201
 ak	ak	201
 ak	沃	133
 ak	握	112
@@ -2561,7 +2580,7 @@ hang	hang	201
 hang	烘	99
 hang2	háng	201
 hang3	hàng	201
-hang3             巷                111
+hang3	巷	111
 hang5	hâng	201
 hang5	行	123
 hang5	杭	113
@@ -2585,7 +2604,7 @@ hau	嘐	113
 hau	囂	95
 hau2	háu	201
 hau2	吼	91
-hau2              哮                123
+hau2	哮	123
 hau3	hàu	201
 hau3	孝	122
 Hau5	Hâu	202
@@ -2601,7 +2620,7 @@ haunn3	hàuⁿ	201
 haunn5	hâuⁿ	201
 he	he	201
 he	灰	113
-he                彼                123
+he	彼	123
 he	痚	112
 he2	hé	201
 he2	火	131
@@ -2614,8 +2633,8 @@ he5	hê	201
 he5	回	113
 he5	和	112
 he5	蝦	131
-he7	hē	201      
-he7               下                133
+he7	hē	201	
+he7	下	133
 he7	系	122
 he7	係	121
 he7	夏	98
@@ -2630,9 +2649,11 @@ hek8	核	121
 hek8	域	111
 hek8	惑	112
 hek8	獲	91
-hek8              穫                90
-hek8              劾                99
-hennh	heⁿh	100
+hek8	穫	90
+hek8	劾	99
+hennh	hehⁿ	100
+hehnn	hehⁿ	100
+henn3	hèⁿ	100
 henn3	hèⁿ	100
 heng	heng	201
 heng	兄	99
@@ -2661,21 +2682,21 @@ hi	hi	201
 hi	希	122
 hi	稀	121
 hi	墟	123
-hi                虛                131
+hi	虛	131
 hi	熹	90
 hi	羲	89
 hi	曦	86
 hi	犧	112
-hi                熙                77
+hi	熙	77
 hi2	hí	201
 hi2	彼	66
 hi2	喜	131
-hi2               許                113
+hi2	許	113
 hi3	hì	201
 hi3	肺	121
 hi3	戲	123
 hi3	戯	33
-hi3               戱                86
+hi3	戱	86
 hi5	hî	201
 hi5	魚	131
 hi7	hī	201
@@ -2684,9 +2705,9 @@ hia	hia	201
 hia	靴	131
 hia7	hiā	201
 hia7	瓦	123
-hia7              蟻                121
+hia7	蟻	121
 hiah	hiah	201
-hiah              靴                121
+hiah	靴	121
 hiah8	hia̍h	201
 hiah8	額	123
 hiam	hiam	201
@@ -2704,7 +2725,7 @@ hian2	hián	201
 hian2	顯	127
 hian3	hiàn	201
 hian3	憲	121
-hian3             献                131
+hian3	献	131
 hian3	獻	35
 hian5	hiân	201
 hian5	玄	100
@@ -2719,12 +2740,12 @@ hian7	現	124
 hiang	hiang	201
 hiang	香	120
 hiang	鄉	113
-hiang             鄕                43
+hiang	鄕	43
 hiang2	hiáng	201
 hiang2	享	113
 hiang2	響	111
-hiang3            hiàng             201
-hiang3            向                121
+hiang3	hiàng	201
+hiang3	向	121
 hiann	hiaⁿ	201
 hiann	兄	132
 hiann2	hiáⁿ	201
@@ -2734,9 +2755,12 @@ hiann5	刑	111
 hiann5	炾	133
 hiann7	hiāⁿ	201
 hiann7	艾	112
-hiannh	hiaⁿh	201
-hiannh            拀                123
-hiannh            㑆                77
+hiannh	hiahⁿ	201
+hiannh	拀	123
+hiannh	㑆	77
+hiahnn	hiahⁿ	201
+hiahnn	拀	123
+hiahnn	㑆	77
 hiap	hiap	201
 hiap	頰	100
 hiap8	hia̍p	201
@@ -2782,11 +2806,11 @@ hiau5	嫐	130
 hih	hih	201
 him	him	201
 him	欣	123
-him2              hím               201
+him2	hím	201
 him3	hìm	201
 him5	hîm	201
 him5	熊	121
-him7              hīm               201
+him7	hīm	201
 hin5	hîn	201
 hin5	眩	131
 hinn	hiⁿ	201
@@ -2794,9 +2818,10 @@ hinn5	hîⁿ	201
 hinn7	hīⁿ	201
 hinn7	耳	123
 hinn7	硯	113
-hinnh	hiⁿh	201
+hinnh	hihⁿ	201
+hihnn	hihⁿ	201
 hioh	hioh	201
-hioh	宿                130
+hioh	宿	130
 hiouh	hio͘h	201
 hioh8	hio̍h	201
 hioh8	葉	120
@@ -2810,7 +2835,7 @@ hiong	匈	98
 hiong	香	122
 hiong	胸	95
 hiong	鄉	124
-hiong             鄕                33
+hiong	鄕	33
 hiong2	hióng	201
 hiong2	享	119
 hiong2	響	116
@@ -2822,7 +2847,7 @@ hip	hip	201
 hip	翕	130
 hit	hit	201
 hit	彼	120
-hit	許       	113
+hit	許	113
 hit8	hi̍t	201
 hiu	hiu	201
 hiu	休	120
@@ -2836,10 +2861,10 @@ hiu7	hiū	201
 hiunn	hiuⁿ	201
 hiunn	香	130
 hiunn	鄉	119
-hiunn             鄕                33
+hiunn	鄕	33
 hiunn2	hiúⁿ	201
-hiunn3            hiùⁿ              201
-hiunn3            向                121
+hiunn3	hiùⁿ	201
+hiunn3	向	121
 hm2	hḿ	201
 hm5	hm̂	201
 hm5	茅	120
@@ -2878,7 +2903,7 @@ hoa3	hòa	201
 hoa3	化	120
 hoa5	hôa	201
 hoa5	華	116
-hoa5              樺                101
+hoa5	樺	101
 hoa7	hōa	201
 hoa7	畫	99
 hoa7	畵	56
@@ -2952,7 +2977,7 @@ hoe3	廢	115
 hoe3	貨	123
 hoe3	歲	131
 hoe5	hôe	201
-hoe5              和                121
+hoe5	和	121
 hoe5	回	123
 hoe5	徊	99
 hoe5	迴	37
@@ -2961,7 +2986,7 @@ hoe7	hōe	201
 hoe7	會	120
 hoe7	蟹	111
 hoe7	薈	112
-hoe7              匯                113
+hoe7	匯	113
 hoh	hoh	201
 hoh8	ho̍h	201
 hoh8	鶴	120
@@ -2988,13 +3013,13 @@ hong	楓	105
 hong	瘋	83
 hong	鋒	121
 hong	豐	122
-hong              峯                34
+hong	峯	34
 hong2	hóng	201
 hong2	況	113
 hong2	訪	112
-hong2             妨                111
-hong2             仿                88
-hong2             倣                114
+hong2	妨	111
+hong2	仿	88
+hong2	倣	114
 hong3	hòng	201
 hong3	放	120
 hong3	況	111
@@ -3136,7 +3161,8 @@ hounn3	好	100
 hounn3	耗	99
 hounn3	貨	98
 hounn3	秏	97
-hounnh	ho͘ⁿh	201
+hounnh	ho͘hⁿ	201
+houhnn	ho͘hⁿ	201
 hu	hu	201
 hu	夫	100
 hu	灰	99
@@ -5184,8 +5210,10 @@ kenn1	keⁿ	201
 kenn2	kéⁿ	201
 kenn2	骾	100
 kenn2	鯁	99
-kennh8	ke̍ⁿh	201
+kennh8	ke̍hⁿ	201
 kennh8	逆	100
+kehnn8	ke̍hⁿ	201
+kehnn8	逆	100
 kha	kha	201
 kha	脚	102
 kha	腳	101
@@ -5467,9 +5495,12 @@ kheng5	嬛	93
 kheng7	khēng	201
 kheng7	虹	100
 kheng7	涇	99
-khennh8	khe̍ⁿh	201
+khennh8	khe̍hⁿ	201
 khennh8	喀	100
 khennh8	嗄	99
+khehnn8	khe̍hⁿ	201
+khehnn8	喀	100
+khehnn8	嗄	99
 khi	khi	201
 khi	崎	100
 khi	欺	99
@@ -8101,7 +8132,6 @@ lian7	鏈	95
 lian7	湅	94
 lian7	僆	93
 liang5	liâng	201
-###DONE
 liang5	涼	101
 liang7	liāng	201
 liang7	亮	100
@@ -11471,8 +11501,10 @@ sann	相	99
 sann	衫	98
 sann5	sâⁿ	201
 sann5	承	100
-sannh	saⁿh	201
+sannh	sahⁿ	201
 sannh	喢	100
+sahnn	sahⁿ	201
+sahnn	喢	100
 sap	sap	201
 sap	屑	100
 sap	雪	99
@@ -15669,11 +15701,10 @@ asi	ásī	310
 asi	á-sī	309
 aukhakin	āukhakin	310
 aukhakin	āu-kha-kin	309
-###DONE
 aukhakin	後脚筋	308
-aukhakun          āukhakun          310
-aukhakun          āu-kha-kun        309
-aukhakun          後脚筋            308
+aukhakun	āukhakun	310
+aukhakun	āu-kha-kun	309
+aukhakun	後脚筋	308
 aupiah	āupiah	310
 aupiah	āu-piah	309
 aupiah	後壁	308
@@ -16265,7 +16296,7 @@ ehiau	能曉	303
 ehng	êhng	310
 ehng	ê-hng	309
 ehng	下昏	308
-ehng              冥昏              302
+ehng	冥昏	302
 engbun	Engbûn	310
 engbun	Eng-bûn	309
 engbun	英文	308
@@ -16321,7 +16352,7 @@ gina	gíná	310
 gina	gín-á	309
 gina	囝仔	308
 ###: 像 chit 種有「á」做尾liu--ê，
-###      汝有 siáⁿ 建議 bô？
+###汝有 siáⁿ 建議 bô？
 ###DONE 建議 
 ### gînkakgá、gînkak-á
 ### 個人暫時認爲「gînkaká」不可取
@@ -16622,7 +16653,6 @@ hongpoesoa	hong-poe-soa	309
 hongpoesoa	風飛沙	308
 hongsang	hòngsàng	310
 hongsang	hòng-sàng	309
-###DONE
 hongsang	放送	308
 hongsek	hongsek	310
 hongsek	hong-sek	309
@@ -16973,9 +17003,9 @@ khaaukin	khaāukin	310
 khaaukin	kha-āu-kin	309
 ###DONE／add
 khaaukin	脚後筋	308
-khaaukun          khaāukun          310
-khaaukun          kha-āu-kun        309
-khaaukun          脚後筋            308
+khaaukun	khaāukun	310
+khaaukun	kha-āu-kun	309
+khaaukun	脚後筋	308
 khahchoah	khahchoa̍h	310
 khahchoah	khah-choa̍h	309
 khahchoah	卡絕	308
@@ -17024,7 +17054,6 @@ khanseng	khan-sêng	309
 khanseng	牽成	308
 khanthoa	khanthoa	310
 khanthoa	khan-thoa	309
-###DONE
 khanthoa	牽拖	308
 khatahchhia	khata̍hchhia	310
 khatahchhia	kha-ta̍h-chhia	309
@@ -17329,7 +17358,7 @@ kohiong	Kohiông	310
 kohiong	Ko-hiông	309
 kohiong	高雄	308
 ###: che 是 Easter egg;
-###      看汝咁有想 tio̍h
+### 看汝咁有想 tio̍h
 ###siáⁿmih 趣味 ê ētàng khǹg...
 ###DONE: XDDDDD
 ### 我來加 kóa 正經个
@@ -17896,9 +17925,8 @@ sehan	sè-hàn	309
 sehan	細漢	308
 seji	sèjī	310
 seji	sè-jī	309
-###DONE
 seji	細膩	308
-seji              細二              307
+seji	細二	307
 sekan	sèkan	310
 sekan	sè-kan	309
 sekan	世間	308
@@ -17912,7 +17940,6 @@ sekti	sektì	310
 sekti	sek-tì	309
 sekti	sektī	310
 sekti	sek-tī	309
-###DONE
 sekti	色緻	308
 selek	sèle̍k	310
 selek	sè-le̍k	309
@@ -18089,7 +18116,6 @@ sinthe	sin-thé	309
 sinthe	身體	308
 siokhoa	siókhóa	310
 siokhoa	sió-khóa	309
-###DONE: ēkha chit nn̄g tiâu, èngkai póliû tó chi̍t tiâu?
 siokhoa	小可	308
 siongbong	siongbông	310
 siongbong	siong-bông	309
