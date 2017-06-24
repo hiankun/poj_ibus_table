@@ -16090,6 +16090,18 @@ chutiunn	主張	308
 chutong	chūtōng	310
 chutong	chū-tōng	309
 chutong	自動	308
+chhaichhu	chháichhú	310
+chhaichhu	chhái-chhú	309
+chhaichhu	採取	308
+chhaieng	chháiēng	310
+chhaieng	chhái-ēng	309
+chhaieng	採用	308
+chhaihong	chháihóng	310
+chhaihong	chhái-hóng	309
+chhaihong	採訪	308
+chhaiiong	chháiiōng	310
+chhaiiong	chhái-iōng	309
+chhaiiong	採用	308
 chhailiau	chhàiliāu	310
 chhailiau	chhài-liāu	309
 chhailiau	菜料	308
@@ -16870,6 +16882,10 @@ kangkai	講解	308
 kangkhau	kángkháu	310
 kangkhau	káng-kháu	309
 kangkhau	港口	308
+kangkhoan	kāngkhoán	310
+kangkhoan	kāng-khoán	309
+###TODO
+kangkhoan	仝欵	308
 kanglang	kanglâng	310
 kanglang	kang-lâng	309
 kanglang	工人	308
