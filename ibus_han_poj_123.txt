@@ -15572,6 +15572,9 @@ choansim	專心	308
 choekin	chòekīn	310
 choekin	chòe-kīn	309
 choekin	最近	308
+chongthai	chōngthài	310
+chongthai	chōng-thài	309
+chongthai	狀態	308
 chongthong	chóngthóng	310
 chongthong	chóng-thóng	309
 chongthong	總統	308
@@ -16879,6 +16882,9 @@ koanligoan	管理員	308
 koanliam	koanliām	310
 koanliam	koan-liām	309
 koanliam	觀念	308
+koanseng	koànsèng	310
+koanseng	koàn-sèng	309
+koanseng	慣性	308
 koansi	koànsì	310
 koansi	koàn-sì	309
 koansi	慣勢	308
@@ -17267,9 +17273,20 @@ nngchiann	軟汫	308
 nngthe	nńgthé	310
 nngthe	nńg-thé	309
 nngthe	軟體	308
+oanboan	oânboán	310
+oanboan	oân-boán	309
+oanboan	完滿	308
 oanchoan	oânchoân	310
 oanchoan	oân-choân	309
 oanchoan	完全	308
+oanna	oanná	310
+oanna	oan-ná	309
+###TODO
+oanna	??	308
+oanna	oānnā	310
+oanna	oān-nā	309
+###TODO
+oanna	??	308
 oanseng	oânsêng	310
 oanseng	oân-sêng	309
 oanseng	完成	308
@@ -17705,6 +17722,12 @@ siongsim	傷心	308
 siongsin	siongsìn	310
 siongsin	siong-sìn	309
 siongsin	相信	308
+siongsiong	sióngsiōng	310
+siongsiong	sióng-siōng	309
+siongsiong	想像	308
+siongsionglek	sióngsiōngle̍k	310
+siongsionglek	sióng-siōng-le̍k	309
+siongsionglek	想像力	308
 siongsiong	siôngsiông	310
 siongsiong	siông-siông	309
 siongsiong	常常	308
