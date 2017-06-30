@@ -15605,6 +15605,12 @@ chui	注意	308
 chuiu	chūiû	310
 chuiu	chū-iû	309
 chuiu	自由	308
+chuichun	chúichún	310
+chuichun	chúi-chún	309
+chuichun	水準	308
+chuikhou	chúikhò͘	310
+chuikhou	chúi-khò͘	309
+chuikhou	水庫	308
 chujian	chūjiân	310
 chujian	chū-jiân	309
 chujian	自然	308
