@@ -66,9 +66,9 @@ The usage of the phrases' frequencies are listed in the following table.
   
   it means that you need to install `gawk`.
 
-* After the installation, you may be need to log out and in again, and remember to add the POJ input method from the IBus GUI as show above.
+* After the installation, you may be need to log out and in again, and remember to add the POJ input method from the IBus GUI as shown above.
 
-* If your POJ input method didn't adapt the given icon (ibus-poj.svg), try to install `ibus-chewing`, reboot the system, and then add POJ input method from the IBus GUI again. (I don't know the reason, but this work-around works for me.)
+* If your POJ input method fails to adapt the given icon (ibus-poj.svg), try to install `ibus-chewing`, reboot the system, and then add POJ input method from the IBus GUI again. (I don't know the reason, but this work-around works for me.)
 
 * If some of the Han characters won't shown in the selecting list, click the icon on system tray and set **Chinese mode** to be **All Chineese characters**.
 
@@ -93,8 +93,10 @@ The usage of the phrases' frequencies are listed in the following table.
 * print_poj_list.py: Used to print out the unicode list in lomaji.py.
 
 ## TODO
-* To add Lô-má-jī ahead of the Han characters.
+* <s>To add Lô-má-jī ahead of the Han characters.</s>
 * <s>To tune the usage frequency of some Han characters.</s>
+* To add phrases into the table.
+* To adjust the Han characters.
 
 ## Ref.
 * [ibus上安裝大易輸入法](http://120.114.52.240/~T093000298/blog?node=000000103)
