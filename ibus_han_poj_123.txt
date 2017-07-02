@@ -16743,6 +16743,9 @@ kholeng	可能	308
 kholian	khóliân	310
 kholian	khó-liân	309
 kholian	可憐	308
+kholu	khólū	310
+kholu	khó-lū	309
+kholu	考慮	308
 khongche	khòngchè	310
 khongche	khòng-chè	309
 khongche	控制	308
