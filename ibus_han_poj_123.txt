@@ -15061,17 +15061,16 @@ bakchiu	目周	308
 bakchiu	目珠	307
 bakchiujin	ba̍kchiujîn	310
 bakchiujin	ba̍k-chiu-jîn	309
-###TODO
+###DONE
 bakchiujin	目周仁	308
 bakchiujin	目珠仁	307
-
 bakkiann	ba̍kkiàⁿ	310
 bakkiann	ba̍k-kiàⁿ	309
 bakkiann	目鏡	308
 bakkhou	ba̍kkho͘	310
 bakkhou	ba̍k-kho͘	309
-###TODO
-bakkhou	目箍	308
+###DONE
+bakkhou	目篐	308
 baksai	ba̍ksái	310
 baksai	ba̍k-sái	309
 baksai	目屎	308
@@ -16256,8 +16255,9 @@ kangkhau	káng-kháu	309
 kangkhau	港口	308
 kangkhoan	kāngkhoán	310
 kangkhoan	kāng-khoán	309
-###TODO
+###DONE
 kangkhoan	仝欵	308
+kangkhoan         共欵              307
 kanglang	kanglâng	310
 kanglang	kang-lâng	309
 kanglang	工人	308
@@ -17414,7 +17414,7 @@ sengtiong	seng-tióng	309
 sengtiong	生長	308
 sennhun	seⁿhūn	310
 sennhun	seⁿ-hūn	309
-###TODO
+###DONE
 sennhun	生份	308
 sennjit	seⁿji̍t	310
 sennjit	seⁿ-ji̍t	309
@@ -17467,12 +17467,12 @@ siatteng	siat-tēng	309
 siatteng	設定	308
 siaubin	siáubīn	310
 siaubin	siáu-bīn	309
-###TODO
-siaubin	siáu 面	308
+###DONE
+siaubin	嬲面	308
 siaugongsin	siáugōngsîn	310
 siaugongsin	siáu-gōng-sîn	309
-###TODO
-siaugongsin	siáu 戇神	308
+###DONE
+siaugongsin	嬲戇神	308
 siauhui	siauhùi	310
 siauhui	siau-hùi	309
 siauhui	消費	308
