@@ -15050,6 +15050,10 @@ aukhakin	後脚筋	308
 aukhakun	āukhakun	310
 aukhakun	āu-kha-kun	309
 aukhakun	後脚筋	308
+aulai	āulâi	310
+aulai	āu-lâi	309
+aulai	āu--lâi	308
+aulai	後來	307
 aupiah	āupiah	310
 aupiah	āu-piah	309
 aupiah	後壁	308
@@ -16281,6 +16285,9 @@ kanna	kan-na	309
 kanna	干乾	308
 kanna	干礁	307
 kanna	干焦	306
+kansou	kàⁿsò͘	310
+kansou	kàⁿ-sò͘	309
+kansou	酵素	308
 kanta	kanta	310
 kanta	kan-ta	309
 kanta	干乾	308
@@ -17330,6 +17337,11 @@ phitphiak	phi̍tphia̍k	310
 phitphiak	phi̍t-phia̍k	309
 phitphok	phi̍tpho̍k	310
 phitphok	phi̍t-pho̍k	309
+phoanntoan	phòaⁿtoàn	310
+phoanntoan	phòaⁿ-toàn	309
+phoanntoan	判斷	308
+phulouthin	phuló͘thìn	310	#protein
+phulouthin	phu-ló͘-thìn	309
 saipakhou	saipakhō͘	310
 saipakhou	sai-pak-hō͘	309
 saipakhou	西北雨	308
@@ -17799,6 +17811,9 @@ tangsuhoe	董事會	307
 tangsutiunn	tángsūtiúⁿ	310
 tangsutiunn	táng-sū-tiúⁿ	309
 tangsutiunn	董事長	307
+tanpekchit	tānpe̍kchit	310
+tanpekchit	tān-pe̍k-chit	309
+tanpekchit	蛋白質	307
 take	ta̍kê	310
 take	ta̍k-ê	309
 tautin	tàutīn	310
@@ -18037,6 +18052,15 @@ thinnkhi	天氣	308
 thinnteng	thiⁿténg	310
 thinnteng	thiⁿ-téng	309
 thinnteng	天頂	308
+thuichhek	thuichhek	310
+thuichhek	thui-chhek	309
+thuichhek	推測	308
+thuichian	thuichiàn	310
+thuichian	thui-chiàn	309
+thuichian	推薦	308
+thuiheng	thuihêng	310
+thuiheng	thui-hêng	309
+thuiheng	推行	308
 uiann	ūiáⁿ	310
 uiann	ū-iáⁿ	309
 uiann	有影	308
