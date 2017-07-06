@@ -16285,9 +16285,9 @@ kanna	kan-na	309
 kanna	干乾	308
 kanna	干礁	307
 kanna	干焦	306
-kansou	kàⁿsò͘	310
-kansou	kàⁿ-sò͘	309
-kansou	酵素	308
+kannsou	kàⁿsò͘	310
+kannsou	kàⁿ-sò͘	309
+kannsou	酵素	308
 kanta	kanta	310
 kanta	kan-ta	309
 kanta	干乾	308
