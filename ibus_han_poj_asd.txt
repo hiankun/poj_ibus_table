@@ -15124,9 +15124,15 @@ binchiong	民眾	308
 binchu	bînchú	310
 binchu	bîn-chú	309
 binchu	民主	308
+binchu	bīnchú	310
+binchu	bīn-chú	309
+binchu	面子	308
 binkan	bînkan	310
 binkan	bîn-kan	309
 binkan	民間	308
+binsiong	bīnsiòng	310
+binsiong	bīn-siòng	309
+binsiong	面相	308
 bitbe	bi̍tbé	310
 bitbe	bi̍t-bé	309
 bitbe	密碼	308
@@ -15418,6 +15424,9 @@ chuiu	自由	308
 chuichun	chúichún	310
 chuichun	chúi-chún	309
 chuichun	水準	308
+chuikai	chúikái	310
+chuikai	chúi-kái	309
+chuikai	水解	308
 chuikhou	chúikhò͘	310
 chuikhou	chúi-khò͘	309
 chuikhou	水庫	308
@@ -15448,6 +15457,9 @@ chusin	自信	308
 chutiunn	chútiuⁿ	310
 chutiunn	chú-tiuⁿ	309
 chutiunn	主張	308
+chutiunn	chûtiûⁿ	310
+chutiunn	chû-tiûⁿ	309
+chutiunn	磁場	308
 chutong	chūtōng	310
 chutong	chū-tōng	309
 chutong	自動	308
@@ -15612,6 +15624,9 @@ chhongchok	創作	308
 chhongou	chhòngō͘	310
 chhongou	chhò-ngō͘	309
 chhongou	錯誤	308
+chhugoan	chhùgoân	310
+chhugoan	chhù-goân	309
+chhugoan	次元	308
 chhuthian	chhuthiān	310
 chhuthian	chhut-hiān	309
 chhuthian	出現	308
@@ -15682,6 +15697,9 @@ engeng	閑閑	308
 enghiong	énghióng	310
 enghiong	éng-hióng	309
 enghiong	影響	308
+enghoat	ēnghoat	310
+enghoat	ēng-hoat	309
+enghoat	用法	308
 engiong	êngióng	310
 engiong	êng-ióng	309
 engiong	營養	308
@@ -15828,6 +15846,9 @@ goehniu	月娘	308
 goehpeng	goe̍hpêng	310
 goehpeng	goe̍h-pêng	309
 goehpeng	月pêng	308
+goehsiong	goe̍hsiòng	310
+goehsiong	goe̍h-siòng	309
+goehsiong	月相	308
 guihiam	gûihiám	310
 guihiam	gûi-hiám	309
 guihiam	危險	308
@@ -16045,6 +16066,8 @@ hongsia	風邪	308
 hongtian	hòngtiān	310
 hongtian	hòng-tiān	309
 hongtian	放電	308
+houlubong	ho͘lúbóng	310
+houlubong	ho͘-lú-bóng	309
 huho	hûhō	310
 huho	hû-hō	309
 huho	符號	308
@@ -16053,6 +16076,9 @@ hukhi	hùi-khì	309
 hunin	hunin	310
 hunin	hun-in	309
 hunin	婚姻	308
+hunkai	hunkái	310
+hunkai	hun-kái	309
+hunkai	分解	308
 hunlian	hùnliān	310
 hunlian	hùn-liān	309
 hunlian	訓練	308
@@ -16079,6 +16105,9 @@ imtian	陰電	308
 iongchong	ióngchòng	310
 iongchong	ióng-chòng	309
 iongchong	勇壯	308
+ionghoat	iōnghoat	310
+ionghoat	iōng-hoat	309
+ionghoat	用法	308
 iongkam	ióngkám	310
 iongkam	ióng-kám	309
 iongkam	勇敢	308
@@ -17110,6 +17139,10 @@ ngoukim	五金	308
 ngoukoan	ngó͘koan	310
 ngoukoan	ngó͘-koan	309
 ngoukoan	五官	308
+###TODO: ài khakjīn "niû" ê im.
+niuchhek	niûchhek	310
+niuchhek	niû-chhek	309
+niuchhek	量測	308
 nngchiann	nńgchiáⁿ	310
 nngchiann	nńg-chiáⁿ	309
 nngchiann	軟汫	308
@@ -17705,6 +17738,9 @@ suibong	雖罔	308
 suijian	suijiân	310
 suijian	sui-jiân	309
 suijian	雖然	308
+suikai	súikái	310
+suikai	súi-kái	309
+suikai	水解	308
 suikhui	súikhùi	310
 suikhui	súi-khùi	309
 suikhui	水氣	308
@@ -17793,6 +17829,9 @@ taipak	台北	307
 taise	Tâise	310
 taise	Tâi-se	309
 taise	台西	307
+taisia	tāisiā	310
+taisia	tāi-siā	309
+taisia	代謝	307
 taisu	tāisu	310
 taisu	tāi-su	309
 taisu	代書	307
