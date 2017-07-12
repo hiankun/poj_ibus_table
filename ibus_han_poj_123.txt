@@ -5489,7 +5489,7 @@ kiat	桔	116
 kiat	揭	98
 kiat	結	127
 kiat	潔	96
-kiat              㓗                77
+kiat	㓗	77
 kiat	羯	95
 kiat	橘	59
 kiat	偈	85
@@ -7068,9 +7068,9 @@ lian2	輾	93
 lian2	僆	89
 lian2	摙	88
 lian2	璉	86
-lian2             輪                55
-lian3             liàn              201
-lian3             厘                123
+lian2	輪	55
+lian3	liàn	201
+lian3	厘	123
 lian5	liân	201
 lian5	年	99
 lian5	連	129
@@ -9326,9 +9326,9 @@ phiann5	堋	98
 phiat	phiat	201
 phiat	瞥	97
 phiat	蹩	95
-phiat             丿                133
-phiat             撆                88
-phiat             撇                77
+phiat	丿	133
+phiat	撆	88
+phiat	撇	77
 phiau	phiau	201
 phiau	杓	100
 phiau	剽	99
@@ -9760,7 +9760,7 @@ pian3	piàn	201
 pian3	遍	129
 pian3	變	138
 pian3	窆	97
-pian3             変                33
+pian3	変	33
 pian5	piân	201
 pian5	胼	99
 pian5	駢	98
@@ -9773,7 +9773,7 @@ pian7	便	125
 pian7	辨	122
 pian7	辦	91
 pian7	辮	90
-pian7             瓣                93
+pian7	瓣	93
 pian7	辯	121
 pian7	忭	88
 pian7	汳	86
@@ -10783,8 +10783,8 @@ sian	仙	129
 sian	先	128
 sian	鮮	112
 sian	僊	87
-sian              鱻                77
-sian              羴                76
+sian	鱻	77
+sian	羴	76
 sian2	sián	201
 sian2	洗	99
 sian2	銑	98
@@ -10801,7 +10801,7 @@ sian3	扇	99
 sian3	煽	96
 sian3	線	95
 sian3	搧	94
-sian3             綫                55
+sian3	綫	55
 sian3	騸	92
 sian5	siân	201
 sian5	嬋	95
@@ -10812,7 +10812,7 @@ sian7	siān	201
 sian7	單	85
 sian7	善	132
 sian7	羨	56
-sian7             羡                57
+sian7	羡	57
 sian7	擅	95
 sian7	膳	94
 sian7	禪	93
@@ -12696,7 +12696,7 @@ thian3	thiàn	201
 thian3	瑱	99
 thian5	thiân	201
 thian5	填	40
-thian5            塡                113
+thian5	塡	113
 thian5	謄	95
 thian5	嗔	98
 thiann	thiaⁿ	201
@@ -12722,7 +12722,7 @@ thiat	撤	99
 thiat	澈	98
 thiat	餮	97
 thiat	鐵	96
-thiat             鉄                55
+thiat	鉄	55
 thiat	僣	91
 thiat	銕	90
 thiat	驖	89
@@ -13220,10 +13220,10 @@ tiam5	甜	98
 tiam7	tiām	201
 tiam7	沾	126
 tian	tian	201
-tian              顚                131
-tian              顛                44
-tian              巓                123
-tian              巔                43
+tian	顚	131
+tian	顛	44
+tian	巓	123
+tian	巔	43
 tian	癲	99
 tian	傎	88
 tian	瘨	95
@@ -13238,9 +13238,9 @@ tian5	佃	99
 tian5	畋	97
 tian5	鈿	95
 tian5	纏	89
-tian5             纒                91
+tian5	纒	91
 tian5	廛	88
-tian5             㕓                90
+tian5	㕓	90
 tian5	躔	85
 tian7	tiān	201
 tian7	佃	99
@@ -16114,6 +16114,11 @@ kimsiok	金屬	308
 kimtiau	kimtiâu	310
 kimtiau	kim-tiâu	309
 kimtiau	金條	308
+kinajit	kináji̍t	310
+kinajit	kin-á-ji̍t	309
+###TODO
+kinajit	京日	308
+kinajit	今仔日	307
 kionghi	kionghí	310
 kionghi	kiong-hí	309
 kionghi	恭喜	308
@@ -16896,7 +16901,6 @@ sengtiong	seng-tióng	309
 sengtiong	生長	308
 sennhun	seⁿhūn	310
 sennhun	seⁿ-hūn	309
-###DONE
 sennhun	生份	308
 sennjit	seⁿji̍t	310
 sennjit	seⁿ-ji̍t	309
@@ -16949,11 +16953,9 @@ siatteng	siat-tēng	309
 siatteng	設定	308
 siaubin	siáubīn	310
 siaubin	siáu-bīn	309
-###DONE
 siaubin	嬲面	308
 siaugongsin	siáugōngsîn	310
 siaugongsin	siáu-gōng-sîn	309
-###DONE
 siaugongsin	嬲戇神	308
 siauhui	siauhùi	310
 siauhui	siau-hùi	309
@@ -17457,6 +17459,9 @@ tongki	動機	308
 tonglek	tōngle̍k	310
 tonglek	tōng-le̍k	309
 tonglek	動力	308
+tosia	tosiā	310
+tosia	to-siā	309
+tosia	多謝	308
 tuieng	tùièng	310
 tuieng	tùi-èng	309
 tuieng	對應	308
