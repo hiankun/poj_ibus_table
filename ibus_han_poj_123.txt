@@ -45,8 +45,8 @@ DESCRIPTION = This is a template engine table for IBus Table.
 LANGUAGES = zh_CN,zh_SG,zh_TW,zh_HK
 
 ### The authors of this table
-AUTHOR = thk <hiankun@gmail.com> 
-AUTHOR = KIRINPUTRA <3@tawa.asia> 
+AUTHOR = thk <hiankun@gmail.com>
+AUTHOR = KIRINPUTRA <3@tawa.asia>
 
 ### Prompt string to be displayed in the status area, CN will be replaced by
 ### the gettext tools in runtime as 中.
@@ -89,7 +89,7 @@ PINYIN_MODE = FALSE
 ### according your using frequency.
 DYNAMIC_ADJUST = TRUE
 
-### Some characters whose frequencies should be fix all the time, e.g. 
+### Some characters whose frequencies should be fix all the time, e.g.
 ### some punctuations
 ### NO_CHECK_CHARS =
 
@@ -98,8 +98,8 @@ DYNAMIC_ADJUST = TRUE
 ### equal to", thus ce2 -> phrase length equal to 2; and "ca" means "phrase
 ### length equal or above", so ca4 -> phrase length equal or above 4.
 ### p21 -> the 1st key of 2nd character in the phrase, and so on.
-### Each rule separate via ";". 
-### Example below is a complete rule-set, 
+### Each rule separate via ";".
+### Example below is a complete rule-set,
 ### becuase [2,2] ∩ [3,3] ∩ [4,+∞] = [2,+∞], which is the range of length
 ### of phrase. This have to be satisfied if you need ibus-table to build up
 ### your own inputed phrase via your daily using.
@@ -669,7 +669,7 @@ ban7	蔓	102
 ban7	万	22
 ban7	卍	101
 ### Ùi chia khaisí, sī
-### siông’iōngsû tāiseng 
+### siông’iōngsû tāiseng
 ### hoa̍tlo̍h, hósè chiah
 ### hoan thâu bú hán’iōngsû…
 bang	bang	201
@@ -3479,12 +3479,12 @@ jia2	惹	130
 jia7	jiā	201
 jiah	jiah	201
 jiah8	jia̍h	201
-jiak8             jia̍k              201
-jiak8             若                112
-jiak8             弱                113
-jiak8             箬                98
-jiak8             篛                96
-jiak8             溺                94
+jiak8	jia̍k	201
+jiak8	若	112
+jiak8	弱	113
+jiak8	箬	98
+jiak8	篛	96
+jiak8	溺	94
 jiam2	jiám	201
 jiam2	冉	90
 jiam2	染	119
@@ -3495,17 +3495,17 @@ jian5	然	120
 jian5	燃	99
 jiang2	jiáng	201
 jiang2	壤	99
-jiang2            欀                98
-jiang2            嚷                97
-jiang5            jiâng             201
-jiang5            攘                96
-jiang5            瀼                98
-jiang5            穰                97
-jiang5            禳                95
-jiang5            釀                99
-jiang5            勷                94
-jiang7            jiāng             201
-jiang7            讓                112
+jiang2	欀	98
+jiang2	嚷	97
+jiang5	jiâng	201
+jiang5	攘	96
+jiang5	瀼	98
+jiang5	穰	97
+jiang5	禳	95
+jiang5	釀	99
+jiang5	勷	94
+jiang7	jiāng	201
+jiang7	讓	112
 jiap8	jia̍p	201
 jiap8	廿	100
 jiap8	顳	99
@@ -4663,14 +4663,14 @@ khia7	徛	55
 khiah	khiah	201
 khiah	隙	120
 khiak	khiak	201
-khiak             却                113
-khiak             卻                43
-khiak             怯                98
-khiak             埆                96
-khiak             毃                94
-khiak             躩                92
+khiak	却	113
+khiak	卻	43
+khiak	怯	98
+khiak	埆	96
+khiak	毃	94
+khiak	躩	92
 khiak8	khia̍k	201
-khiak8            壆                92
+khiak8	壆	92
 khiam	khiam	201
 khiam	謙	120
 khiam2	khiám	201
@@ -4712,9 +4712,9 @@ khiang	khiang	201
 khiang	腔	98
 khiang	鏗	96
 khiang2	khiáng	201
-khiang3           khiàng            201
-khiang3           慶                113
-khiang3           嗴                88
+khiang3	khiàng	201
+khiang3	慶	113
+khiang3	嗴	88
 khiann	khiaⁿ	201
 khiann	輕	100
 khiap	khiap	201
@@ -5421,13 +5421,13 @@ kiah8	攑	66
 kiah8	舉	33
 kiah8	㩮	32
 kiah8	屐	111
-kiak              kiak              201
-kiak              脚                98
-kiak              腳                45
+kiak	kiak	201
+kiak	脚	98
+kiak	腳	45
 kiak8	kia̍k	201
 kiak8	矍	96
-kiak8             劇                102
-kiak8             臄                92
+kiak8	劇	102
+kiak8	臄	92
 kiam	kiam	201
 kiam	兼	130
 kiam	緘	89
@@ -5473,35 +5473,35 @@ kian7	件	99
 kian7	健	121
 kian7	鍵	96
 kian7	揵	95
-kiang             kiang             201
-kiang             姜                98
-kiang             僵                92
-kiang             傹                82
-kiang             疆                94
-kiang             薑                90
-kiang             韁                86
-kiang             橿                88
-kiang             羌                54
-kiang             羗                96
-kiang             繮                84
-kiang2            kiáng             201
-kiang2            强                123
-kiang2            強                38
-kiang2            襁                94
-kiang2            疆                98
-kiang2            繈                34
-kiang2            繦                96
-kiang3            kiàng             201
-kiang5            kiâng             201
-kiang5            强                123
-kiang5            強                44
-kiang5            疆                98
-kiang7            kiāng             201
-kiang7            倞                84
-kiang7            强                111
-kiang7            強                44
-kiang7            謽                86
-kiang7            彊                88
+kiang	kiang	201
+kiang	姜	98
+kiang	僵	92
+kiang	傹	82
+kiang	疆	94
+kiang	薑	90
+kiang	韁	86
+kiang	橿	88
+kiang	羌	54
+kiang	羗	96
+kiang	繮	84
+kiang2	kiáng	201
+kiang2	强	123
+kiang2	強	38
+kiang2	襁	94
+kiang2	疆	98
+kiang2	繈	34
+kiang2	繦	96
+kiang3	kiàng	201
+kiang5	kiâng	201
+kiang5	强	123
+kiang5	強	44
+kiang5	疆	98
+kiang7	kiāng	201
+kiang7	倞	84
+kiang7	强	111
+kiang7	強	44
+kiang7	謽	86
+kiang7	彊	88
 kiann	kiaⁿ	201
 kiann	京	100
 kiann	驚	108
@@ -7103,11 +7103,11 @@ liah8	lia̍h	201
 liah8	掠	128
 liah8	力	97
 liah8	扐	96
-liak              liak              201
-liak8             lia̍k              201
-liak8             略                113
-liak8             畧                53
-liak8             掠                96
+liak	liak	201
+liak8	lia̍k	201
+liak8	略	113
+liak8	畧	53
+liak8	掠	96
 liam	liam	201
 liam2	liám	201
 liam3	liàm	201
@@ -7151,30 +7151,30 @@ lian7	煉	98
 lian7	練	117
 lian7	鍊	96
 lian7	僆	93
-liang             liang             201
-liang2            liáng             201
-liang2            兩                131
-liang2            两                66
-liang2            倆                98
-liang2            魎                96
-liang3            liàng             201
-liang5            liâng             201
+liang	liang	201
+liang2	liáng	201
+liang2	兩	131
+liang2	两	66
+liang2	倆	98
+liang2	魎	96
+liang3	liàng	201
+liang5	liâng	201
 liang5	涼	131
-liang5            凉                77
-liang5            良                113
-liang5            娘                94
-liang5            俍                92
-liang5            粮                76
-liang5            糧                96
-liang5            量                98
+liang5	凉	77
+liang5	良	113
+liang5	娘	94
+liang5	俍	92
+liang5	粮	76
+liang5	糧	96
+liang5	量	98
 liang7	liāng	201
 liang7	亮	98
-liang7	倞                92
-liang7            兩                96
-liang7            两                66
-liang7            輛                94
-liang7            量                98
-liang7            諒                123
+liang7	倞	92
+liang7	兩	96
+liang7	两	66
+liang7	輛	94
+liang7	量	98
+liang7	諒	123
 liap	liap	201
 liap	拉	100
 liap	捏	99
@@ -10844,8 +10844,8 @@ siah8	sia̍h	201
 siah8	席	128
 siak	siak	201
 siak	鑠	98
-siak              削                96
-siak              屑                94
+siak	削	96
+siak	屑	94
 siam	siam	201
 siam	纖	98
 siam	韱	93
@@ -10901,45 +10901,45 @@ sian7	墠	89
 sian7	墡	88
 sian7	燀	86
 siang	siang	201
-siang             双                133
+siang	双	133
 siang	雙	70
-siang             相                113
-siang             廂                112
-siang             傷                121
-siang             商                123
-siang             湘                98
-siang             緗                94
-siang             箱                96
-siang             湯                92
-siang             殤                90
-siang             觴                88
-siang             襄                86
-siang             驤                84
-siang             讓                82
-siang             勷                80
+siang	相	113
+siang	廂	112
+siang	傷	121
+siang	商	123
+siang	湘	98
+siang	緗	94
+siang	箱	96
+siang	湯	92
+siang	殤	90
+siang	觴	88
+siang	襄	86
+siang	驤	84
+siang	讓	82
+siang	勷	80
 siang2	siáng	201
-siang2            仩                133
-siang2            省人              88
-siang2            賞                111
-siang2            想                113
-siang2            上                98
-siang2            鮝                96
+siang2	仩	133
+siang2	省人	88
+siang2	賞	111
+siang2	想	113
+siang2	上	98
+siang2	鮝	96
 siang3	siàng	201
-siang3            相                121
+siang3	相	121
 siang5	siâng	201
 siang5	同	123
-siang5            仩                133
-siang5            省人              88
-siang5            祥                112
-siang5            詳                113
-siang5            常                115
-siang5            庠                96
-siang5            翔                111
+siang5	仩	133
+siang5	省人	88
+siang5	祥	112
+siang5	詳	113
+siang5	常	115
+siang5	庠	96
+siang5	翔	111
 siang7	siāng	201
 siang7	上	120
 siang7	同	119
-siang7            尚                98
-siang7            象                96
+siang7	尚	98
+siang7	象	96
 siann	siaⁿ	201
 siann	聲	100
 siann2	siáⁿ	201
@@ -12810,8 +12810,8 @@ thian5	填	40
 thian5	塡	113
 thian5	謄	95
 thian5	嗔	98
-thiang3           thiàng            201
-thiang3           暢                123
+thiang3	thiàng	201
+thiang3	暢	123
 thiann	thiaⁿ	201
 thiann	聽	100
 thiann	廳	99
@@ -13362,24 +13362,24 @@ tian7	奠	96
 tian7	殿	105
 tian7	電	123
 tian7	靛	91
-tiang             tiang             201
-tiang             張                98
-tiang2            tiáng             201
-tiang2            長                118
-tiang2            仗                98
-tiang3            帳                96
-tiang3            瘬                90
-tiang3            漲                98
-tiang3            韔                92
-tiang3            悵                94
-tiang5            tiâng             201
-tiang5            長                98
-tiang5            萇                96
-tiang7            tiāng             201
-tiang7            丈                112
-tiang7            仗                98
-tiang7            杖                96
-tiang7            長                94
+tiang	tiang	201
+tiang	張	98
+tiang2	tiáng	201
+tiang2	長	118
+tiang2	仗	98
+tiang3	帳	96
+tiang3	瘬	90
+tiang3	漲	98
+tiang3	韔	92
+tiang3	悵	94
+tiang5	tiâng	201
+tiang5	長	98
+tiang5	萇	96
+tiang7	tiāng	201
+tiang7	丈	112
+tiang7	仗	98
+tiang7	杖	96
+tiang7	長	94
 tiann	tiaⁿ	201
 tiann	朾	100
 tiann2	tiáⁿ	201
@@ -15298,7 +15298,7 @@ gina	gín-á	309
 gina	囝仔	308
 ###: 像 chit 種有「á」做尾liu--ê，
 ###汝有 siáⁿ 建議 bô？
-###DONE 建議 
+###DONE 建議
 ### gînkakgá、gînkak-á
 ### 個人暫時認爲「gînkaká」不可取
 ### 未來个台文﹕gînkakᵃ #眠夢
@@ -16967,6 +16967,9 @@ sebin	世面	307
 sehan	sèhàn	310
 sehan	sè-hàn	309
 sehan	細漢	308
+seiunn	seiûⁿ	310
+seiunn	se-iûⁿ	309
+seiunn	西洋	308
 seji	sèjī	310
 seji	sè-jī	309
 seji	細膩	308
@@ -16988,9 +16991,6 @@ sekti	色緻	308
 selek	sèle̍k	310
 selek	sè-le̍k	309
 selek	勢力	308
-sesu	sèsū	310
-sesu	sè-sū	309
-sesu	世事	308
 sengbut	sengbu̍t	310
 sengbut	seng-bu̍t	309
 sengbut	生物	308
@@ -17047,6 +17047,9 @@ sennsiunn	生相	308
 sennthoann	seⁿthòaⁿ	310
 sennthoann	seⁿ-thòaⁿ	309
 sennthoann	生炭	308
+sesu	sèsū	310
+sesu	sè-sū	309
+sesu	世事	308
 siahoe	siāhōe	310
 siahoe	siā-hōe	309
 siahoe	社會	308
@@ -17408,6 +17411,9 @@ taitang	台東	307
 taitiong	Tâitiong	310
 taitiong	Tâi-tiong	309
 taitiong	台中	307
+tangiunn	tangiûⁿ	310
+tangiunn	tang-iûⁿ	309
+tangiunn	東洋	307
 tangsu	tángsū	310
 tangsu	táng-sū	309
 tangsu	董事	307

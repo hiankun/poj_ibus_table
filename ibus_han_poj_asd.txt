@@ -45,8 +45,8 @@ DESCRIPTION = This is a template engine table for IBus Table.
 LANGUAGES = zh_CN,zh_SG,zh_TW,zh_HK
 
 ### The authors of this table
-AUTHOR = thk <hiankun@gmail.com> 
-AUTHOR = KIRINPUTRA <3@tawa.asia> 
+AUTHOR = thk <hiankun@gmail.com>
+AUTHOR = KIRINPUTRA <3@tawa.asia>
 
 ### Prompt string to be displayed in the status area, CN will be replaced by
 ### the gettext tools in runtime as 中.
@@ -89,7 +89,7 @@ PINYIN_MODE = FALSE
 ### according your using frequency.
 DYNAMIC_ADJUST = TRUE
 
-### Some characters whose frequencies should be fix all the time, e.g. 
+### Some characters whose frequencies should be fix all the time, e.g.
 ### some punctuations
 ### NO_CHECK_CHARS =
 
@@ -98,8 +98,8 @@ DYNAMIC_ADJUST = TRUE
 ### equal to", thus ce2 -> phrase length equal to 2; and "ca" means "phrase
 ### length equal or above", so ca4 -> phrase length equal or above 4.
 ### p21 -> the 1st key of 2nd character in the phrase, and so on.
-### Each rule separate via ";". 
-### Example below is a complete rule-set, 
+### Each rule separate via ";".
+### Example below is a complete rule-set,
 ### becuase [2,2] ∩ [3,3] ∩ [4,+∞] = [2,+∞], which is the range of length
 ### of phrase. This have to be satisfied if you need ibus-table to build up
 ### your own inputed phrase via your daily using.
@@ -669,7 +669,7 @@ banj	蔓	102
 banj	万	22
 banj	卍	101
 ### Ùi chia khaisí, sī
-### siông’iōngsû tāiseng 
+### siông’iōngsû tāiseng
 ### hoa̍tlo̍h, hósè chiah
 ### hoan thâu bú hán’iōngsû…
 banga	bang	201
@@ -3479,6 +3479,12 @@ jias	惹	130
 jiaj	jiā	201
 jiahf	jiah	201
 jiahk	jia̍h	201
+jiakk	jia̍k	201
+jiakk	若	112
+jiakk	弱	113
+jiakk	箬	98
+jiakk	篛	96
+jiakk	溺	94
 jiams	jiám	201
 jiams	冉	90
 jiams	染	119
@@ -3488,7 +3494,18 @@ jiang	jiân	201
 jiang	然	120
 jiang	燃	99
 jiangs	jiáng	201
-jiangs	冗	100
+jiangs	壤	99
+jiangs	欀	98
+jiangs	嚷	97
+jiangg	jiâng	201
+jiangg	攘	96
+jiangg	瀼	98
+jiangg	穰	97
+jiangg	禳	95
+jiangg	釀	99
+jiangg	勷	94
+jiangj	jiāng	201
+jiangj	讓	112
 jiapk	jia̍p	201
 jiapk	廿	100
 jiapk	顳	99
@@ -4646,9 +4663,14 @@ khiaj	徛	55
 khiahf	khiah	201
 khiahf	隙	120
 khiakf	khiak	201
-khiakf	恪	100
-khiakf	瞲	99
+khiakf	却	113
+khiakf	卻	43
+khiakf	怯	98
+khiakf	埆	96
+khiakf	毃	94
+khiakf	躩	92
 khiakk	khia̍k	201
+khiakk	壆	92
 khiama	khiam	201
 khiama	謙	120
 khiams	khiám	201
@@ -4687,10 +4709,12 @@ khiang	khiân	201
 khiang	虔	110
 khiang	乾	119
 khianga	khiang	201
-khianga	腔	100
-khianga	鏗	99
+khianga	腔	98
+khianga	鏗	96
 khiangs	khiáng	201
-khiangs	講	100
+khiangd	khiàng	201
+khiangd	慶	113
+khiangd	嗴	88
 khianna	khiaⁿ	201
 khianna	輕	100
 khiapf	khiap	201
@@ -5397,8 +5421,13 @@ kiahk	攑	66
 kiahk	舉	33
 kiahk	㩮	32
 kiahk	屐	111
+kiakf	kiak	201
+kiakf	脚	98
+kiakf	腳	45
 kiakk	kia̍k	201
-kiakk	矍	100
+kiakk	矍	96
+kiakk	劇	102
+kiakk	臄	92
 kiama	kiam	201
 kiama	兼	130
 kiama	緘	89
@@ -5444,6 +5473,35 @@ kianj	件	99
 kianj	健	121
 kianj	鍵	96
 kianj	揵	95
+kianga	kiang	201
+kianga	姜	98
+kianga	僵	92
+kianga	傹	82
+kianga	疆	94
+kianga	薑	90
+kianga	韁	86
+kianga	橿	88
+kianga	羌	54
+kianga	羗	96
+kianga	繮	84
+kiangs	kiáng	201
+kiangs	强	123
+kiangs	強	38
+kiangs	襁	94
+kiangs	疆	98
+kiangs	繈	34
+kiangs	繦	96
+kiangd	kiàng	201
+kiangg	kiâng	201
+kiangg	强	123
+kiangg	強	44
+kiangg	疆	98
+kiangj	kiāng	201
+kiangj	倞	84
+kiangj	强	111
+kiangj	強	44
+kiangj	謽	86
+kiangj	彊	88
 kianna	kiaⁿ	201
 kianna	京	100
 kianna	驚	108
@@ -7045,6 +7103,11 @@ liahk	lia̍h	201
 liahk	掠	128
 liahk	力	97
 liahk	扐	96
+liakf	liak	201
+liakk	lia̍k	201
+liakk	略	113
+liakk	畧	53
+liakk	掠	96
 liama	liam	201
 liams	liám	201
 liamd	liàm	201
@@ -7088,11 +7151,30 @@ lianj	煉	98
 lianj	練	117
 lianj	鍊	96
 lianj	僆	93
+lianga	liang	201
+liangs	liáng	201
+liangs	兩	131
+liangs	两	66
+liangs	倆	98
+liangs	魎	96
+liangd	liàng	201
 liangg	liâng	201
-liangg	涼	101
+liangg	涼	131
+liangg	凉	77
+liangg	良	113
+liangg	娘	94
+liangg	俍	92
+liangg	粮	76
+liangg	糧	96
+liangg	量	98
 liangj	liāng	201
-liangj	亮	100
-liangj	喨	99
+liangj	亮	98
+liangj	倞	92
+liangj	兩	96
+liangj	两	66
+liangj	輛	94
+liangj	量	98
+liangj	諒	123
 liapf	liap	201
 liapf	拉	100
 liapf	捏	99
@@ -9313,9 +9395,7 @@ phiand	片	120
 phiand	騙	129
 phianj	phiān	201
 phianga	phiang	201
-phianga	脝	100
 phiangj	phiāng	201
-phiangj	棒	100
 phianna	phiaⁿ	201
 phianna	兵	100
 phianna	骿	99
@@ -9781,8 +9861,6 @@ pianj	緶	84
 pianga	piang	201
 piangs	piáng	201
 piangd	piàng	201
-piangd	乓	100
-piangd	併	99
 piangg	piâng	201
 piangj	piāng	201
 pianna	piaⁿ	201
@@ -10765,7 +10843,9 @@ siahf	錫	129
 siahk	sia̍h	201
 siahk	席	128
 siakf	siak	201
-siakf	鑠	100
+siakf	鑠	98
+siakf	削	96
+siakf	屑	94
 siama	siam	201
 siama	纖	98
 siama	韱	93
@@ -10821,14 +10901,45 @@ sianj	墠	89
 sianj	墡	88
 sianj	燀	86
 sianga	siang	201
-sianga	雙	100
+sianga	双	133
+sianga	雙	70
+sianga	相	113
+sianga	廂	112
+sianga	傷	121
+sianga	商	123
+sianga	湘	98
+sianga	緗	94
+sianga	箱	96
+sianga	湯	92
+sianga	殤	90
+sianga	觴	88
+sianga	襄	86
+sianga	驤	84
+sianga	讓	82
+sianga	勷	80
 siangs	siáng	201
+siangs	仩	133
+siangs	省人	88
+siangs	賞	111
+siangs	想	113
+siangs	上	98
+siangs	鮝	96
 siangd	siàng	201
+siangd	相	121
 siangg	siâng	201
-siangg	同	100
+siangg	同	123
+siangg	仩	133
+siangg	省人	88
+siangg	祥	112
+siangg	詳	113
+siangg	常	115
+siangg	庠	96
+siangg	翔	111
 siangj	siāng	201
-siangj	上	100
-siangj	共	99
+siangj	上	120
+siangj	同	119
+siangj	尚	98
+siangj	象	96
 sianna	siaⁿ	201
 sianna	聲	100
 sianns	siáⁿ	201
@@ -12699,6 +12810,8 @@ thiang	填	40
 thiang	塡	113
 thiang	謄	95
 thiang	嗔	98
+thiangd	thiàng	201
+thiangd	暢	123
 thianna	thiaⁿ	201
 thianna	聽	100
 thianna	廳	99
@@ -13249,6 +13362,24 @@ tianj	奠	96
 tianj	殿	105
 tianj	電	123
 tianj	靛	91
+tianga	tiang	201
+tianga	張	98
+tiangs	tiáng	201
+tiangs	長	118
+tiangs	仗	98
+tiangd	帳	96
+tiangd	瘬	90
+tiangd	漲	98
+tiangd	韔	92
+tiangd	悵	94
+tiangg	tiâng	201
+tiangg	長	98
+tiangg	萇	96
+tiangj	tiāng	201
+tiangj	丈	112
+tiangj	仗	98
+tiangj	杖	96
+tiangj	長	94
 tianna	tiaⁿ	201
 tianna	朾	100
 tianns	tiáⁿ	201
@@ -15167,7 +15298,7 @@ gina	gín-á	309
 gina	囝仔	308
 ###: 像 chit 種有「á」做尾liu--ê，
 ###汝有 siáⁿ 建議 bô？
-###DONE 建議 
+###DONE 建議
 ### gînkakgá、gînkak-á
 ### 個人暫時認爲「gînkaká」不可取
 ### 未來个台文﹕gînkakᵃ #眠夢
@@ -16836,6 +16967,9 @@ sebin	世面	307
 sehan	sèhàn	310
 sehan	sè-hàn	309
 sehan	細漢	308
+seiunn	seiûⁿ	310
+seiunn	se-iûⁿ	309
+seiunn	西洋	308
 seji	sèjī	310
 seji	sè-jī	309
 seji	細膩	308
@@ -16857,9 +16991,6 @@ sekti	色緻	308
 selek	sèle̍k	310
 selek	sè-le̍k	309
 selek	勢力	308
-sesu	sèsū	310
-sesu	sè-sū	309
-sesu	世事	308
 sengbut	sengbu̍t	310
 sengbut	seng-bu̍t	309
 sengbut	生物	308
@@ -16916,6 +17047,9 @@ sennsiunn	生相	308
 sennthoann	seⁿthòaⁿ	310
 sennthoann	seⁿ-thòaⁿ	309
 sennthoann	生炭	308
+sesu	sèsū	310
+sesu	sè-sū	309
+sesu	世事	308
 siahoe	siāhōe	310
 siahoe	siā-hōe	309
 siahoe	社會	308
@@ -17277,6 +17411,9 @@ taitang	台東	307
 taitiong	Tâitiong	310
 taitiong	Tâi-tiong	309
 taitiong	台中	307
+tangiunn	tangiûⁿ	310
+tangiunn	tang-iûⁿ	309
+tangiunn	東洋	307
 tangsu	tángsū	310
 tangsu	táng-sū	309
 tangsu	董事	307
