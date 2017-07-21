@@ -3519,8 +3519,6 @@ jiau5	皺	118
 jiau5	饒	94
 jiau7	jiāu	201
 jiaunn2	jiáuⁿ	201
-jiaunn2	爪	100
-jiaunn2	鳥	99
 jih8	ji̍h	201
 jih8	廿	100
 jih8	扼	99
@@ -8270,15 +8268,10 @@ nia7	岭	98
 niah	niah	201
 niah	赫	100
 niau	niau	201
-niau	貓	100
+niau	貓	130
 niau2	niáu	201
-niau2	鳥	100
-niau2	裊	99
-niau2	嬝	98
-niau2	蔦	97
-niau2	褭	96
+niau2	鳥	120
 niau7	niāu	201
-niau7	尿	100
 nih	nih	201
 nih	呢	100
 nih	瞬	99
