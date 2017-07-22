@@ -3470,7 +3470,7 @@ ji7	jī	201
 ji7	二	133
 ji7	字	131
 ji7	貳	96
-ji7               弍                95
+ji7	弍	95
 ji7	餌	115
 ji7	膩	101
 jia	jia	201
@@ -4588,9 +4588,9 @@ khi	欺	119
 khi	犄	88
 khi	敧	43
 khi	欹	122
-khi               區                108
-khi               嶇                95
-khi               驅                96
+khi	區	108
+khi	嶇	95
+khi	驅	96
 khi2	khí	201
 khi2	豈	98
 khi2	起	139
@@ -4601,7 +4601,7 @@ khi3	khì	201
 khi3	去	130
 khi3	企	111
 khi3	氣	127
-khi3              汽                124
+khi3	汽	124
 khi3	棄	112
 khi3	器	113
 khi3	气	52
@@ -5222,14 +5222,14 @@ ki	磯	88
 ki	譏	87
 ki	饑	122
 ki	机	66
-ki                居                83
+ki	居	83
 ki2	kí	201
 ki2	几	100
 ki2	己	135
 ki2	杞	113
-ki2               擧                123
-ki2               舉                42
-ki2               矩                111
+ki2	擧	123
+ki2	舉	42
+ki2	矩	111
 ki2	指	128
 ki2	紀	136
 ki2	幾	95
@@ -5240,9 +5240,9 @@ ki3	記	138
 ki3	寄	94
 ki3	冀	92
 ki3	驥	90
-ki3               據                113
-ki3               据                88
-ki3               句                82
+ki3	據	113
+ki3	据	88
+ki3	句	82
 ki5	kî	201
 ki5	奇	138
 ki5	圻	78
@@ -5275,11 +5275,11 @@ ki7	kī	201
 ki7	妓	96
 ki7	忌	128
 ki7	技	97
-ki7               距                87
-ki7               拒                88
-ki7               巨                89
-ki7               懼                91
-ki7               具                92
+ki7	距	87
+ki7	拒	88
+ki7	巨	89
+ki7	懼	91
+ki7	具	92
 kia	kia	201
 kia	迦	120
 kia3	kià	201
@@ -5393,9 +5393,9 @@ kiann7	健	105
 kiann7	揵	98
 kiap	kiap	201
 kiap	劫	133
-kiap              刧                53
-kiap              刼                111
-kiap              刦                54
+kiap	刧	53
+kiap	刼	111
+kiap	刦	54
 kiap	夾	112
 kiap	俠	110
 kiap	峽	111
@@ -5407,7 +5407,7 @@ kiap	筴	86
 kiap	蛺	85
 kiap	篋	81
 kiap	鋏	80
-kiap8             kia̍p              201
+kiap8	kia̍p	201
 kiat	kiat	201
 kiat	吉	118
 kiat	桔	116
@@ -6875,42 +6875,42 @@ li2	履	91
 li2	鯉	95
 li2	尒	86
 li2	裏	94
-li2               尔                88
-li2               女                113
-li2               旅                112
-li2               履                79
-li2               屢                77
-li2               褸                76
-li2               子                105
+li2	尔	88
+li2	女	113
+li2	旅	112
+li2	履	79
+li2	屢	77
+li2	褸	76
+li2	子	105
 li5	lî	201
-li5               离                122
-li5               漓                121
-li5               釐                98
-li5               厘                101
-li5               狸                113
-li5               籬                123
-li5               驢                102
-li5               而                
-li5               兒                
-li5               児                
+li5	离	122
+li5	漓	121
+li5	釐	98
+li5	厘	101
+li5	狸	113
+li5	籬	123
+li5	驢	102
+li5	而	
+li5	兒	
+li5	児	
 li7	lī	201
 li7	吏	99
 li7	利	139
 li7	俐	118
 li7	莉	116
 li7	離	133
-li7               呂                109
-li7               侶                78
-li7               慮                108
-li7               濾                87
-li7               二                123
-li7               貳                71
-li7               弍                72
-li7               膩                102
-li7               餌                105
-li7               字                121
-lih8              li̍h               201
-lih8              裂                123
+li7	呂	109
+li7	侶	78
+li7	慮	108
+li7	濾	87
+li7	二	123
+li7	貳	71
+li7	弍	72
+li7	膩	102
+li7	餌	105
+li7	字	121
+lih8	li̍h	201
+lih8	裂	123
 liah	liah	201
 liah8	lia̍h	201
 liah8	掠	128
@@ -6991,8 +6991,8 @@ liang7	諒	123
 liap	liap	201
 liap	拉	88
 liap	捏	39
-liap              揑                123
-liap              湼                99
+liap	揑	123
+liap	湼	99
 liap	涅	38
 liap	摺	95
 liap	聶	94
@@ -7010,19 +7010,19 @@ liat8	捩	85
 liat8	裂	94
 liau2	liáu	201
 liau2	了	130
-liau2             爪                119
-liau3             liàu              201
-liau3             抓                118
+liau2	爪	119
+liau3	liàu	201
+liau3	抓	118
 liau5	liâu	201
-liau5             皺                102
-liau5             饒                91
-liau5             條                101
+liau5	皺	102
+liau5	饒	91
+liau5	條	101
 liau5	聊	128
 liau5	僚	97
 liau5	寥	93
 liau5	寮	134
 liau5	遼	95
-liau5             療                131
+liau5	療	131
 liau7	liāu	201
 liau7	料	120
 liau7	廖	119
@@ -9502,7 +9502,7 @@ piau5	piâu	201
 piau7	piāu	201
 pih	pih	201
 pih	鼈	110
-pih               鱉                106
+pih	鱉	106
 pin	pin	201
 pin	份	100
 pin	彬	99
@@ -10347,16 +10347,16 @@ si	書	109
 si	絲	132
 si	詩	139
 si	鷥	101
-si                舒                76
-si                須                77
-si                輸                75
-si                輸                42
-si                需                78
+si	舒	76
+si	須	77
+si	輸	75
+si	輸	42
+si	需	78
 si2	sí	201
 si2	矢	98
 si2	弛	89
-si2               黍                95
-si2               徙                93
+si2	黍	95
+si2	徙	93
 si2	死	138
 si2	豕	97
 si2	始	126
@@ -10365,15 +10365,15 @@ si3	世	130
 si3	四	139
 si3	勢	126
 si3	試	94
-si3               弑                93
-si3               恕                81
-si3               庶                86
+si3	弑	93
+si3	恕	81
+si3	庶	86
 si5	sî	201
 si5	時	130
 si5	蒔	93
-si5	匙                121
-si5               辭                113
-si5               辞                52
+si5	匙	121
+si5	辭	113
+si5	辞	52
 si7	sī	201
 si7	氏	130
 si7	示	129
@@ -10383,11 +10383,11 @@ si7	峙	95
 si7	恃	94
 si7	是	133
 si7	視	120
-si7               豎                76
-si7               逝                105
-si7               序                108
-si7               緒                78
-si7               叙                79
+si7	豎	76
+si7	逝	105
+si7	序	108
+si7	緒	78
+si7	叙	79
 sia	sia	201
 sia	賒	129
 sia2	siá	201
@@ -10526,7 +10526,7 @@ siann7	siāⁿ	201
 siann7	盛	100
 siap	siap	201
 siap	澀	39
-siap              澁                129
+siap	澁	129
 siap8	sia̍p	201
 siap8	涉	119
 siat	siat	201
@@ -10568,9 +10568,9 @@ siau3	肖	98
 siau3	笑	44
 siau3	誚	112
 siau3	數	110
-siau3             数                42
+siau3	数	42
 siau3	賬	129
-siau3             帳                34
+siau3	帳	34
 siau5	siâu	201
 siau5	韶	98
 siau5	屑	127
@@ -10580,8 +10580,8 @@ sih	sih	201
 sih	薛	129
 sih8	si̍h	201
 sih8	蝕	120
-sihnn             sihⁿ              201
-sihnn             薛                119
+sihnn	sihⁿ	201
+sihnn	薛	119
 sim	sim	201
 sim	心	100
 sim	沁	99
@@ -12297,11 +12297,11 @@ thenn3	撐	100
 thi	thi	201
 thi2	thí	201
 thi2	恥	130
-thi2              耻                44
-thi2              宁                86
-thi2              佇                84
-thi2              苧                83
-thi2              貯                82
+thi2	耻	44
+thi2	宁	86
+thi2	佇	84
+thi2	苧	83
+thi2	貯	82
 thi3	thì	201
 thi3	剃	130
 thi3	翅	89
@@ -12372,7 +12372,7 @@ thiau7	thiāu	201
 thiau7	柱	120
 thih	thih	201
 thih	鐵	130
-thih	鉄                109
+thih	鉄	109
 thim	thim	201
 thim	琛	100
 thim	鴆	99
@@ -12731,9 +12731,9 @@ ti	ti	201
 ti	知	113
 ti	蜘	112
 ti	豬	54
-ti                猪                131
-ti                株                82
-ti                誅                81
+ti	猪	131
+ti	株	82
+ti	誅	81
 ti2	tí	201
 ti2	氐	99
 ti2	底	119
@@ -12752,14 +12752,14 @@ ti3	智	123
 ti3	置	113
 ti3	緻	125
 ti3	戴	130
-ti3	著       	101
+ti3	著		101
 ti5	tî	201
 ti5	池	120
 ti5	馳	97
 ti5	遲	93
-ti5               㓾                92
-ti5               除                109
-ti5               儲                75
+ti5	㓾	92
+ti5	除	109
+ti5	儲	75
 ti7	tī	201
 ti7	地	111
 ti7	在	77
@@ -12768,7 +12768,7 @@ ti7	治	137
 ti7	值	105
 ti7	稚	112
 ti7	箸	128
-ti7               著                55
+ti7	著	55
 tia	tia	201
 tia	爹	120
 tiah	tiah	201
@@ -12863,7 +12863,7 @@ tiap8	牒	129
 tiap8	蝶	127
 tiap8	諜	126
 tiap8	疊	94
-tiap8             叠                49
+tiap8	叠	49
 tiap8	渫	90
 tiap8	蹀	87
 tiat	tiat	201
@@ -12894,7 +12894,7 @@ tiau2	tiáu	201
 tiau3	tiàu	201
 tiau3	弔	50
 tiau3	吊	128
-tiau3             召                98
+tiau3	召	98
 tiau5	tiâu	201
 tiau5	條	137
 tiau5	朝	126
@@ -12910,8 +12910,8 @@ tih	tih	201
 tih	滴	129
 tih8	ti̍h	201
 tih8	碟	123
-tihnn8            ti̍hⁿ              201
-tihnn8            碟                113
+tihnn8	ti̍hⁿ	201
+tihnn8	碟	113
 tim	tim	201
 tim	砧	100
 tim	鴆	99
@@ -14030,6 +14030,9 @@ bakkiann	目鏡	308
 bakkhou	ba̍kkho͘	310
 bakkhou	ba̍k-kho͘	309
 bakkhou	目篐	308
+baksek	ba̍ksek	310
+baksek	ba̍k-sek	309
+baksek	目色	308
 baksai	ba̍ksái	310
 baksai	ba̍k-sái	309
 baksai	目屎	308
@@ -14075,6 +14078,9 @@ bilai	未來	308
 binchheh	Bīnchheh	310
 binchheh	Bīn-chheh	309
 binchheh	面冊	308
+binchiat	bínchia̍t	310
+binchiat	bín-chia̍t	309
+binchiat	敏捷	308	#TJT
 binchiong	bînchiòng	310
 binchiong	bîn-chiòng	309
 binchiong	民眾	308
@@ -14269,6 +14275,14 @@ chiannpan	正範	308
 chiannsit	chiaⁿsi̍t	310
 chiannsit	chiaⁿ-si̍t	309
 chiannsit	正實	308
+chiauchng	chiâuchn̂g	310
+chiauchng	chiâu-chn̂g	309
+###TODO
+chiauchng	齊全	308	#TJT
+chiaupi	chiâupī	310
+chiaupi	chiâu-pī	309
+###TODO
+chiaupi	齊備	308	#TJT
 chichhi	chichhî	310
 chichhi	chi-chhî	309
 chichhi	支持	308
@@ -14687,6 +14701,12 @@ esai	ē-sái	309
 esai	會使	308
 etang	ētàng	310
 etang	ē-tàng	309
+gankai	gánkài	310
+gankai	gán-kài	309
+gankai	眼界	308
+gankong	gánkong	310
+gankong	gán-kong	309
+gankong	眼光	308
 gesut	gēsu̍t	310
 gesut	gē-su̍t	309
 gesut	藝術	308
@@ -15182,6 +15202,15 @@ jitsiong	ji̍t-siông	309
 jitsiong	日常	308
 joahthinn	joa̍hthiⁿ	310
 joahthinn	joa̍h-thiⁿ	309
+joahthinn	熱天	309
+juntek	jūnte̍k	310
+juntek	jūn-te̍k	309
+juntek	潤澤	309	#TJT
+kachiong	Kachiòng	310
+kachiong	Ka-chiòng	309
+kachiong	kachiòng	308
+kachiong	ka-chiòng	307
+kachiong	家將	306
 kaichng	káichng	310
 kaichng	kái-chng	309
 kaichng	改裝	307
@@ -15501,6 +15530,10 @@ khinkho	khinkhó	310
 khinkho	khin-khó	309
 ###TODO
 khinkho	輕khó	308
+khinphio	khinphiò	310
+khinphio	khin-phiò	309
+###TODO
+khinphio	輕剽	308	#TJT
 khinsang	khinsang	310
 khinsang	khin-sang	309
 khinsang	輕鬆	308
@@ -15523,6 +15556,9 @@ khisiau	起嬲	308
 khoai	khóài	310
 khoai	khó-ài	309
 khoai	可愛	308
+khoaikhoai	khoàikhoài	310
+khoaikhoai	khoài-khoài	309
+khoaikhoai	快快	308
 khochhi	khóchhì	310
 khochhi	khó-chhì	309
 khochhi	考試	308
@@ -15544,6 +15580,12 @@ kholian	可憐	308
 kholu	khólū	310
 kholu	khó-lū	309
 kholu	考慮	308
+khongbut	khòngbu̍t	310
+khongbut	khòng-bu̍t	309
+khongbut	礦物	308
+khongbutchit	khòngbu̍tchit	310
+khongbutchit	khòng-bu̍t-chit	309
+khongbutchit	礦物質	308
 khongche	khòngchè	310
 khongche	khòng-chè	309
 khongche	控制	308
@@ -15651,6 +15693,10 @@ kimsiok	金屬	308
 kimtiau	kimtiâu	310
 kimtiau	kim-tiâu	309
 kimtiau	金條	308
+kinnna	kìⁿnā	310
+kinnna	kìⁿ-nā	309
+###TODO
+kinnna	??	308
 kinajit	kináji̍t	310
 kinajit	kin-á-ji̍t	309
 ###DONE
@@ -15662,9 +15708,9 @@ kinajit	kin-á-ji̍t	309
 ###Tiō 親像 NOW 免提供「chím-á」
 kinajit	今旦日	308
 ###DONE: ADDED
-kinnajit          kinnáji̍t          310
-kinnajit          kin-ná-ji̍t        309
-kinnajit          今旦日            308
+kinnajit	kinnáji̍t	310
+kinnajit	kin-ná-ji̍t	309
+kinnajit	今旦日	308
 kionghi	kionghí	310
 kionghi	kiong-hí	309
 kionghi	恭喜	308
@@ -15930,6 +15976,9 @@ laite	內底	308
 laulang	lāulâng	310
 laulang	lāu-lâng	309
 laulang	老人	308
+lauoe	lâuōe	310
+lauoe	lâu-ōe	309
+lauoe	留話	308
 lausit	láusi̍t	310
 lausit	láu-si̍t	309
 lausit	老實	308
@@ -16107,6 +16156,20 @@ ngbang	ǹgbāng	310
 ngbang	ǹg-bāng	309
 ngbang	瞈望	308
 ngbang	映望	307
+ngechiann	ngēchiāⁿ	310
+ngechiann	ngē-chiāⁿ	309
+ngichiann	ngīchiāⁿ	310
+ngichiann	ngī-chiāⁿ	309
+###TODO
+ngechiann	硬淨	308
+ngichiann	硬淨	308	#TJT_台日大
+ngetau	ngētáu	310
+ngetau	ngē-táu	309
+ngitau	ngītáu	310
+ngitau	ngī-táu	309
+###TODO
+ngetau	硬 táu	308
+ngitau	硬 táu	308	#TJT_台日大
 ngouheng	ngó͘hêng	310
 ngouheng	ngó͘-hêng	309
 ngouheng	五行	308
@@ -16143,6 +16206,11 @@ oanna	??	308
 oanseng	oânsêng	310
 oanseng	oân-sêng	309
 oanseng	完成	308
+ongia	Ôngiâ	310
+ongia	Ông-iâ	309
+ongia	ôngiâ	308
+ongia	ông-iâ	307
+ongia	王爺	306
 olo	oló	310
 olo	o-ló	309
 olo	呵咾	308
@@ -16409,9 +16477,15 @@ selek	勢力	308
 sengbut	sengbu̍t	310
 sengbut	seng-bu̍t	309
 sengbut	生物	308
+sengbutchit	sengbu̍tchit	310
+sengbutchit	seng-bu̍t-chit	309
+sengbutchit	生物質	308
 sengbuthak	sengbu̍tha̍k	310
 sengbuthak	seng-bu̍t-ha̍k	309
 sengbuthak	生物學	308
+sengchit	sengchit	310
+sengchit	seng-chit	309
+sengchit	生質	308
 sengchit	sèngchit	310
 sengchit	sèng-chit	309
 sengchit	性質	308
@@ -16858,6 +16932,9 @@ tekiu	地球	308
 tekpiat	te̍kpia̍t	310
 tekpiat	te̍k-pia̍t	309
 tekpiat	特別	308
+teksu	te̍ksû	310
+teksu	te̍k-sû	309
+teksu	特殊	308
 tengbin	téngbīn	310
 tengbin	téng-bīn	309
 tengbin	頂面	308
