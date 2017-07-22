@@ -14053,6 +14053,9 @@ banglou	bānglō͘	309
 banglou	網路	308
 bansoukhou	bán-sò͘-khò͘	310
 bansoukhou	bánsò͘khò͘	309
+bengsu	bêngsû	310
+bengsu	bêng-sû	309
+bengsu	名詞	308
 besai	bēsái	310
 besai	bē-sái	309
 besai	袂使	308
@@ -14357,6 +14360,9 @@ choansim	專心	308
 choekin	chòekīn	310
 choekin	chòe-kīn	309
 choekin	最近	308
+chonghu	chōnghú	310
+chonghu	chōng-hú	309
+chonghu	臟腑	308
 chongthai	chōngthài	310
 chongthai	chōng-thài	309
 chongthai	狀態	308
@@ -14575,6 +14581,9 @@ chhiunnsiong	廠商	308
 chhiupio	chhiúpió	310
 chhiupio	chhiú-pió	309
 chhiupio	手錶	308
+chhiuse	chhiúsè	310
+chhiuse	chhiú-sè	309
+chhiuse	手勢	308
 chhiuthau	chhiúthâu	310
 chhiuthau	chhiú-thâu	309
 chhiuthau	手頭	308
@@ -14599,6 +14608,12 @@ chhongchok	創作	308
 chhongou	chhòngō͘	310
 chhongou	chhò-ngō͘	309
 chhongou	錯誤	308
+chhoukang	chho͘kang	310
+chhoukang	chho͘-kang	309
+chhoukang	粗工	308
+chhoutang	chho͘tāng	310
+chhoutang	chho͘-tāng	309
+chhoutang	粗重	308
 chhugoan	chhùgoân	310
 chhugoan	chhù-goân	309
 chhugoan	次元	308
@@ -14687,6 +14702,8 @@ engiongsu	營養師	308
 enggi	Enggí	310
 enggi	Eng-gí	309
 enggi	英語	308
+engkai	engkai	310
+engkai	eng-kai	309
 engkai	èngkai	310
 engkai	èng-kai	309
 engkai	應該	308
@@ -14836,6 +14853,33 @@ gongngiah	昂愕	308
 guihiam	gûihiám	310
 guihiam	gûi-hiám	309
 guihiam	危險	308
+haichhau	háichháu	310
+haichhau	hái-chháu	309
+haichhau	海草	308
+haiang	háiang	310
+haiang	hái-ang	309
+###TODO
+haiang	海翁	308
+haieng	háiéng	310
+haieng	hái-éng	309
+haieng	海湧	308
+haihoann	háihōaⁿ	310
+haihoann	hái-hōaⁿ	309
+haihoann	海岸	308
+haiiunn	háiiûⁿ	310
+haiiunn	hái-iûⁿ	309
+haiiunn	海洋	308
+haisan	háisán	310
+haisan	hái-sán	309
+haisan	海產	308
+haiti	háiti	310
+haiti	hái-ti	309
+###TODO
+haiti	海豬	308
+haitiong	háitiòng	310
+haitiong	hái-tiòng	309
+###TODO
+haitiong	海漲	308
 hakbun	ha̍kbūn	310
 hakbun	ha̍k-būn	309
 hakbun	學問	308
@@ -14891,6 +14935,10 @@ henghah	胸 ha̍h	308	#TJT
 hengiong	hêngiông	310
 hengiong	hêng-iông	309
 hengiong	形容	308
+hengkham	hengkhám	310
+hengkham	heng-khám	309
+###TODO
+hengkham	胸坎	308	#TJT
 hengsek	hêngsek	310
 hengsek	hêng-sek	309
 hengsek	形式	308
@@ -15166,6 +15214,12 @@ ittit	一直	308
 iuengkong	Iúèngkong	310
 iuengkong	Iú-èng-kong	309
 iuengkong	有應公	308
+iukang	iùkang	310
+iukang	iù-kang	309
+iukang	幼工	308
+iulou	iùlō͘	310
+iulou	iù-lō͘	309
+iulou	幼路	308
 iusian	iusian	310
 iusian	iu-sian	309
 iusian	優先	308
@@ -15618,8 +15672,14 @@ khunlantou	困難度	308
 khuthui	khūthûi	310
 khuthui	khū-thûi	309
 khuthui	臼槌	308
+khutse	khutsè	310
+khutse	khut-sè	309
+###TODO
+khutse	屈勢	308
 kiamchhai	kiámchhái	310
 kiamchhai	kiám-chhái	309
+#TODO
+kiamchhai	檢彩	308	#TJT
 kianchhi	kianchhî	310
 kianchhi	kian-chhî	309
 kianchhi	堅持	308
@@ -16242,6 +16302,9 @@ ongia	王爺	306
 olo	oló	310
 olo	o-ló	309
 olo	呵咾	308
+outiap	ô͘tia̍p	310
+outiap	ô͘-tia̍p	309
+outiap	蝴蝶	308
 outoubai	o͘tó͘bái	310
 outoubai	o͘-tó͘-bái	309
 panpun	pánpún	310
@@ -16357,6 +16420,9 @@ poekeng	背景	308
 pohok	pòho̍k	310
 pohok	pò-ho̍k	309
 pohok	報復	308
+pohou	póhō͘	310
+pohou	pó-hō͘	309
+pohou	保護	308
 poko	pòkò	310
 poko	pò-kò	309
 poko	報告	308
@@ -16466,6 +16532,9 @@ saipakhou	西北雨	308
 sangiap	sángia̍p	310
 sangiap	sán-gia̍p	309
 sangiap	產業	308
+sanou	sanô͘	310
+sanou	san-ô͘	309
+sanou	珊瑚	308
 sanpang	sánpâng	310
 sanpang	sán-pâng	309
 sanpang	產房	308
@@ -16673,6 +16742,9 @@ sinkeng	神經	308
 sinkhu	sinkhu	310
 sinkhu	sin-khu	309
 sinkhu	身軀	308
+sinmia	sinmiā	310
+sinmia	sin-miā	309
+sinmia	身命	308
 sinnmia	sìⁿmiā	310
 sinnmia	sìⁿ-miā	309
 sinnmia	性命	308
@@ -16976,6 +17048,12 @@ teksu	特殊	308
 tengbin	téngbīn	310
 tengbin	téng-bīn	309
 tengbin	頂面	308
+tengho	ténghō	310
+tengho	téng-hō	309
+tengho	等號	308	#TJT
+tengkip	téngkip	310
+tengkip	téng-kip	309
+tengkip	等級	308
 tengkoan	téngkoân	310
 tengkoan	téng-koân	309
 tengkoan	頂高	308
