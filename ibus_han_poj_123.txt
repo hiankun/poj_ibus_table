@@ -14215,6 +14215,10 @@ chengkeng	正經	308
 chengkhak	chèngkhak	310
 chengkhak	chèng-khak	309
 chengkhak	正確	308
+chengkhu	chengkhū	310
+chengkhu	cheng-khū	309
+###TODO
+chengkhu	舂臼	308	#TJT
 chenglang	chènglâng	310
 chenglang	chèng-lâng	309
 chenglang	眾人	308
@@ -14880,6 +14884,10 @@ hengbi	興味	308
 hengchhu	hèngchhù	310
 hengchhu	hèng-chhù	309
 hengchhu	興趣	308
+henghah	hengha̍h	310
+henghah	heng-ha̍h	309
+###TODO
+henghah	胸 ha̍h	308	#TJT
 hengiong	hêngiông	310
 hengiong	hêng-iông	309
 hengiong	形容	308
@@ -15607,6 +15615,9 @@ khunlan	困難	308
 khunlantou	khùnlântō͘	310
 khunlantou	khùn-lân-tō͘	309
 khunlantou	困難度	308
+khuthui	khūthûi	310
+khuthui	khū-thûi	309
+khuthui	臼槌	308
 kiamchhai	kiámchhái	310
 kiamchhai	kiám-chhái	309
 kianchhi	kianchhî	310
@@ -15707,6 +15718,12 @@ kinajit	kin-á-ji̍t	309
 ###勿出「-á-」个變體
 ###Tiō 親像 NOW 免提供「chím-á」
 kinajit	今旦日	308
+kinkhoai	kínkhoài	310
+kinkhoai	kín-khoài	309
+kinkhoai	緊快	308	#TJT
+kinkin	kínkín	310
+kinkin	kín-kín	309
+kinkin	緊緊	308	#TJT
 ###DONE: ADDED
 kinnajit	kinnáji̍t	310
 kinnajit	kin-ná-ji̍t	309
@@ -16081,6 +16098,13 @@ langkheh	人客	308
 lantou	lântō͘	310
 lantou	lân-tō͘	309
 lantou	難度	308
+lapo	lapo	310
+lapo	lap-o	309
+lapu	lapu	310
+lapu	lap-u	309
+###TODO
+lapo	凹窩	308	#TJT
+lapu	凹窩	308	#TJT
 lohlai	lo̍hlâi	310
 lohlai	lo̍h-lâi	309
 lohlai	落來	308
@@ -16118,6 +16142,10 @@ longsanphin	農產品	308
 loulat	ló͘la̍t	310
 loulat	ló͘-la̍t	309
 loulat	魯力	308
+lutkhu	lutkhū	310
+lutkhu	lut-khū	309
+###TODO
+lutkhu	lut 臼	308	#TJT
 mahoan	mâhoân	310
 mahoan	mâ-hoân	309
 mahoan	麻煩	308
@@ -16421,6 +16449,10 @@ phitphok	phi̍t-pho̍k	309
 phoanntoan	phòaⁿtoàn	310
 phoanntoan	phòaⁿ-toàn	309
 phoanntoan	判斷	308
+phoasiunn	phòasiùⁿ	310
+phoasiunn	phòa-siùⁿ	309
+###TODO
+phoasiunn	破相	308	#TJT
 phoksu	Phoksū	310
 phoksu	Phok-sū	309
 phoksu	phoksū	308
@@ -16900,6 +16932,12 @@ taitang	台東	307
 taitiong	Tâitiong	310
 taitiong	Tâi-tiong	309
 taitiong	台中	307
+tamtng	tamtng	310
+tamtng	tam-tng	309
+tamtng	擔當	307
+tamtong	tamtong	310
+tamtong	tam-tong	309
+tamtong	擔當	307
 tangiunn	tangiûⁿ	310
 tangiunn	tang-iûⁿ	309
 tangiunn	東洋	307
