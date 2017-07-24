@@ -14192,9 +14192,17 @@ chekchu	積聚	308
 chekjim	chekjīm	310
 chekjim	chek-jīm	309
 chekjim	責任	308
+cheknau	cheknáu	310
+cheknau	chek-náu	309
+###TODO
+cheknau	chek 腦	308	#STL, 身體理
 chektek	chektek	310
 chektek	chek-tek	309
 chektek	積德	308
+chekthiau	chekthiāu	310
+chekthiau	chek-thiāu	309
+###TODO
+chekthiau	chek 柱	308	#STL
 chengam	chéngām	310
 chengam	chéng-ām	309
 chengam	腫頷	308
@@ -16352,6 +16360,12 @@ mthang	不通	308
 muithe	mûithé	310
 muithe	mûi-thé	309
 muithe	媒體	308
+ngkin	náukin	310
+ngkin	náu-kin	309
+ngkin	腦筋	308
+ngsoann	náusòaⁿ	310
+ngsoann	náu-sòaⁿ	309
+ngsoann	腦線	308
 ngbang	ǹgbāng	310
 ngbang	ǹg-bāng	309
 ngbang	瞈望	308
