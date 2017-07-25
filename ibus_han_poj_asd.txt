@@ -13973,7 +13973,7 @@ bangiu	bāngiú	310
 bangiu	bāngiú	309
 bangiu	網友	308
 banglou	bānglō͘	310
-banglou	bānglō͘	309
+banglou	bāng-lō͘	309
 banglou	網路	308
 bansoukhou	bán-sò͘-khò͘	310
 bansoukhou	bánsò͘khò͘	309
@@ -14002,6 +14002,14 @@ bikok	美國	307
 bilai	bīlâi	310
 bilai	bī-lâi	309
 bilai	未來	308
+binachai	bîn-á-chài	310
+binachai	bînáchài	309
+###TODO
+binachai	明仔再	308	#TJT
+binnachai	bîn-ná-chài	310
+binnachai	bînnáchài	309
+###TODO
+binnachai	明仔再	308	#TJT
 binchheh	Bīnchheh	310
 binchheh	Bīn-chheh	309
 binchheh	面冊	308
@@ -15334,6 +15342,12 @@ kamtok	監督	308
 kamtong	kámtōng	310
 kamtong	kám-tōng	309
 kamtong	感動	308
+kangchok	kangchok	310
+kangchok	kang-chok	309
+kangchok	工作	308
+kangchoksek	kangchoksek	310
+kangchoksek	kang-chok-sek	309
+kangchoksek	工作室	308
 kanggiap	kanggia̍p	310
 kanggiap	kang-gia̍p	309
 kanggiap	工業	308
@@ -15407,6 +15421,9 @@ kauhia	狗蟻	308
 kaukoai	káukoài	310
 kaukoai	káu-koài	309
 kaukoai	狡怪	308
+kauliu	kauliû	310
+kauliu	kau-liû	309
+kauliu	交流	308
 kauchai	kàuchâi	310
 kauchai	kàu-châi	309
 kauchai	教材	308
@@ -15425,6 +15442,9 @@ kausek	教室	308
 kausiu	kàusiū	310
 kausiu	kàu-siū	309
 kausiu	教授	308
+kauthong	kauthong	310
+kauthong	kau-thong	309
+kauthong	交通	308
 kengche	kengchè	310
 kengche	keng-chè	309
 kengche	經濟	308
@@ -15682,6 +15702,9 @@ khonggi	抗議	308
 khoounn	khóò͘ⁿ	310
 khoounn	khó-ò͘ⁿ	309
 khoounn	可惡	308
+khotheng	khòthêng	310
+khotheng	khòng-thêng	309
+khotheng	課程	308
 khuilat	khùila̍t	310
 khuilat	khùi-la̍t	309
 khuilat	氣力	308
@@ -16255,6 +16278,8 @@ mahoan	mâ-hoân	309
 mahoan	麻煩	308
 mihkiann	mi̍hkiāⁿ	310
 mihkiann	mi̍h-kiāⁿ	309
+###TODO
+mihkiann	??	308
 mkoh	m̄koh	310
 mkoh	m̄-koh	309
 mkoh	不閣	308
@@ -16625,9 +16650,16 @@ sekan	世間	308
 sekai	sèkài	310
 sekai	sè-kài	309
 sekai	世界	308
+sekchhiu	se̍kchhiú	310
+sekchhiu	se̍k-chhiú	309
+sekchhiu	熟手	308
 sekhap	sekha̍p	310
 sekhap	sek-ha̍p	309
 sekhap	適合	308
+seksai	se̍ksāi	310
+seksai	se̍k-sāi	309
+###TODO
+seksai	熟 sāi	308
 sekti	sektì	310
 sekti	sek-tì	309
 sekti	sektī	310
@@ -16898,6 +16930,9 @@ sitiong	實用	308
 sitle	sitlé	310
 sitle	sit-lé	309
 sitle	失禮	308
+sitthe	si̍tthé	310
+sitthe	si̍t-thé	309
+sitthe	實體	308
 sitthau	sitthâu	310
 sitthau	sit-thâu	309
 sitthau	穡頭	308
@@ -17219,6 +17254,10 @@ tianpothiau	電報柱	308
 tiansi	tiānsī	310
 tiansi	tiān-sī	309
 tiansi	電視	308
+tianto	tiantó	310
+tianto	tian-tó	309
+###TODO
+tianto	顛倒	308	#TJT
 tiantong	tiāntōng	310
 tiantong	tiān-tōng	309
 tiantong	電動	308
