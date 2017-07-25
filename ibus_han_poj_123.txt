@@ -16046,7 +16046,7 @@ laite	內底	308
 lasam	lâsâm	310
 lasam	lâ-sâm	309
 ###TODO
-lasam	??	308	#TJT
+lasam	蚋滲	308	#TJT
 laulang	lāulâng	310
 laulang	lāu-lâng	309
 laulang	老人	308
@@ -17039,8 +17039,8 @@ taitiong	Tâi-tiong	309
 taitiong	台中	307
 tamsip	tâmsip	310
 tamsip	tâm-sip	309
-###TODO
-tamsip	澹濕	307	#TJT
+###DONE
+tamsip	淡濕	307	#TJT
 tamtng	tamtng	310
 tamtng	tam-tng	309
 tamtng	擔當	307
@@ -17173,7 +17173,7 @@ tiannau	tiān-náu	309
 tiannau	電腦	308
 tianntioh	tiāⁿtio̍h	310
 tianntioh	tiāⁿ-tio̍h	309
-###TODO
+###OK
 tianntioh	定着	308	#TJT
 tianpo	tiānpò	310
 tianpo	tiān-pò	309
@@ -17186,8 +17186,9 @@ tiansi	tiān-sī	309
 tiansi	電視	308
 tianto	tiantó	310
 tianto	tian-tó	309
-###TODO
-tianto	顛倒	308	#TJT
+###DONE
+tianto            顚倒              308
+tianto	顛倒	307	#TJT
 tiantong	tiāntōng	310
 tiantong	tiān-tōng	309
 tiantong	電動	308
