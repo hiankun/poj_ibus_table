@@ -16045,7 +16045,7 @@ laite	lāi-té	309
 laite	內底	308
 lasam	lâsâm	310
 lasam	lâ-sâm	309
-###TODO
+###DONE
 lasam	蚋滲	308	#TJT
 laulang	lāulâng	310
 laulang	lāu-lâng	309
