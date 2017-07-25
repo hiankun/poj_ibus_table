@@ -625,9 +625,9 @@ bahf	bah	201
 bahf	肉	133
 bahf	嘛	33
 baia	bai	201
-### Popular ji for bai is 之 minus the dot up top.
-###DONE: itpoaⁿ ê hēthóng kám sī bô chit ê jī?
-###Sī. Góa ê hēthóng māⁿ bô chit jī.
+# Popular ji for bai is 之 minus the dot up top.
+#DONE: itpoaⁿ ê hēthóng kám sī bô chit ê jī?
+# Sī. Góa ê hēthóng māⁿ bô chit jī.
 baia	毴	33
 bais	bái	201
 bais	呆	123
@@ -3522,38 +3522,27 @@ jiauj	jiāu	201
 jiaunns	jiáuⁿ	201
 jihk	ji̍h	201
 jima	jim	201
-jima	肕	100
-jima	恁	99
 jims	jím	201
-jims	忍	100
-jims	涊	99
+jims	忍	120
 jims	荏	98
-jims	衽	97
-jims	飪	96
+jims	恁	97
 jims	稔	95
-jims	拰	94
-jims	恁	93
-jims	荵	92
-jims	棯	91
-jims	腍	90
-jimg	iîm	201
-jimg	壬	100
-jimg	任	99
-jimg	尋	98
-jimg	紝	97
+jimg	jîm	201
+jimg	壬	98
+jimg	任	96
 jimj	jīm	201
-jimj	刃	100
-jimj	仞	99
-jimj	任	98
-jimj	妊	97
-jimj	軔	96
+jimj	刃	60
+jimj	刄	98
+jimj	仭	97
+jimj	仞	59
+jimj	任	128
+jimj	妊	98
+jimj	軔	56
+jimj	軔	96
 jimj	韌	95
-jimj	賃	94
-jimj	認	93
-jimj	潯	92
+jimj	賃	99
+jimj	認	123
 jimj	牣	91
-jimj	訒	90
-jimj	鵀	89
 jing	jîn	201
 jing	人	100
 jing	儿	99
@@ -3636,8 +3625,10 @@ jiongg	鬤	79
 jiongj	jiōng	201
 jiongj	攘	100
 jiongj	讓	99
+jipf	jip	201
+jipf	趇	123
 jipk	ji̍p	201
-jipk	入	100
+jipk	入	130
 jitk	ji̍t	201
 jitk	日	100
 jitk	衵	99
@@ -4709,25 +4700,21 @@ khiauhk	khia̍uh	201
 khihf	khih	201
 khihk	khi̍h	201
 khima	khim	201
-khima	矜	100
-khima	欽	99
+khima	欽	119
 khima	襟	98
 khima	紟	97
 khima	衿	96
 khima	衾	95
 khims	khím	201
-khims	坅	100
-khims	昑	99
-khims	崟	98
-khims	螼	97
+khims	坅	90
+khims	昑	89
+khims	澿	98
+khims	噤	97
 khimg	khîm	201
-khimg	琴	100
+khimg	琴	120
 khimg	禽	99
-khimg	噙	98
 khimg	擒	97
-khimg	庈	96
-khimg	扲	95
-khimg	芩	94
+khimg	芩	84
 khimg	檎	93
 khina	khin	201
 khina	輕	100
@@ -4771,19 +4758,10 @@ khiongd	唴	100
 khiongg	khiông	201
 khiongg	蛩	100
 khipf	khip	201
-khipf	伋	100
-khipf	吸	99
+khipf	吸	119
 khipf	汲	98
 khipf	泣	97
-khipf	級	96
-khipf	給	95
-khipf	趿	94
-khipf	湆	93
-khipf	鈒	92
-khipf	闟	91
 khipk	khi̍p	201
-khipk	笈	100
-khipk	掐	99
 khitf	khit	201
 khitf	乞	100
 khitf	吃	99
@@ -5448,21 +5426,14 @@ kiauhf	kiauh	201
 kihf	kih	201
 kima	kim	201
 kima	今	107
-kima	金	108
+kima	金	128
 kima	禁	98
-kima	嶔	97
-kima	襟	96
-kima	紟	95
-kima	衿	94
-kima	惍	93
 kims	kím	201
 kims	錦	123
-kims	坅	99
 kimd	kìm	201
-kimd	禁	100
+kimd	禁	120
 kimd	噤	99
 kimd	僸	98
-kimd	趛	97
 kimj	kīm	201
 kimj	妗	100
 kina	kin	201
@@ -5609,20 +5580,12 @@ kiongj	弶	97
 kiongj	糨	96
 kiongj	謽	95
 kipf	kip	201
-kipf	伋	100
-kipf	急	107
-kipf	級	108
+kipf	急	117
+kipf	級	128
 kipf	給	97
-kipf	扱	96
-kipf	衱	95
-kipf	跲	94
-kipf	靸	93
 kipk	ki̍p	201
-kipk	及	100
-kipk	岌	99
+kipk	及	110
 kipk	芨	98
-kipk	笈	97
-kipk	馺	96
 kiua	kiu	201
 kiua	鳩	105
 kiua	龜	100
@@ -7029,22 +6992,42 @@ liauj	廖	119
 lihk	li̍h	201
 lihk	裂	100
 lima	lim	201
+lima	飲	123
+lima	啉	55
 lims	lím	201
-lims	僅	100
-lims	稟	99
-lims	懍	98
-lims	菻	97
-lims	檁	96
+lims	稟	57
+lims	禀	97
+lims	凜	85
+lims	懔	93
+lims	廪	90
+lims	檩	91
+lims	懍	53
+lims	檁	51
+lims	忍	102
+lims	恁	67
+lims	荏	66
 limg	lîm	201
-limg	林	100
+limg	任	65
+limg	壬	66
+limg	林	130
 limg	淋	99
-limg	琳	98
+limg	琳	118
 limg	痳	97
-limg	霖	96
-limg	臨	95
-limg	菻	94
-limg	罧	93
-limg	箖	92
+limg	霖	116
+limg	臨	125
+limj	līm	201
+limj	刃	60
+limj	刄	98
+limj	仭	97
+limj	仞	59
+limj	任	108
+limj	妊	98
+limj	軔	56
+limj	軔	96
+limj	韌	95
+limj	賃	99
+limj	認	103
+lim7a	牣	91
 lina	lin	201
 lina	乳	100
 lina	鈴	99
@@ -7174,14 +7157,13 @@ liongj	俍	91
 liongj	倞	90
 liongj	喨	89
 liongj	徿	88
+lipf	lip	201
+lipf	趇	111
 lipk	li̍p	201
-lipk	立	100
+lipk	立	120
 lipk	笠	99
-lipk	粒	98
-lipk	岦	97
+lipk	粒	94
 lipk	苙	96
-lipk	砬	95
-lipk	鴗	94
 liua	liu	201
 liua	抽	100
 liua	鰍	99
@@ -10583,56 +10565,23 @@ sihk	蝕	120
 sihnna	sihⁿ	201
 sihnna	薛	119
 sima	sim	201
-sima	心	100
-sima	沁	99
-sima	身	98
+sima	心	130
 sima	芯	97
 sima	參	96
-sima	森	95
-sima	覃	94
-sima	媳	93
-sima	滲	92
-sima	罧	91
-sima	葠	90
-sima	篸	89
+sima	森	105
 sims	sím	201
-sims	沈	100
-sims	沉	99
-sims	哂	98
-sims	甚	97
-sims	稔	96
-sims	審	95
-sims	瀋	94
-sims	伈	93
-sims	淰	92
-sims	諗	91
+sims	沈	120
+sims	審	115
+sims	省	101
 simd	sìm	201
-simd	沁	100
-simd	滲	99
-simd	槮	98
-simd	趛	97
 simg	sîm	201
-simg	忱	100
+simg	忱	80
 simg	尋	99
-simg	湛	98
 simg	潯	97
-simg	蕈	96
-simg	諶	95
-simg	愖	94
-simg	煁	93
-simg	葚	92
-simg	撏	91
-simg	鄩	90
 simg	燖	89
-simg	蟫	88
 simg	蟳	87
-simg	鬵	86
-simg	鐔	85
-simg	灊	84
-simg	黮	83
-simg	鱘	82
 simj	sīm	201
-simj	甚	100
+simj	甚	120
 simj	侺	99
 sina	sin	201
 sina	申	100
@@ -10828,29 +10777,15 @@ siongj	像	95
 siongj	誦	94
 siongj	橡	93
 sipf	sip	201
-sipf	溼	100
-sipf	霎	99
-sipf	澀	98
-sipf	濕	97
-sipf	穸	96
-sipf	湒	95
-sipf	翜	94
-sipf	濇	93
+sipf	濕	127
 sipf	隰	92
-sipf	霫	91
+sipf	溼	35
 sipk	si̍p	201
-sipk	十	100
-sipk	什	99
-sipk	石	98
+sipk	十	90
+sipk	什	89
 sipk	拾	97
-sipk	習	96
-sipk	褶	95
-sipk	襲	94
-sipk	慴	93
-sipk	槢	92
-sipk	熠	91
-sipk	謺	90
-sipk	霫	89
+sipk	習	126
+sipk	襲	114
 sitf	sit	201
 sitf	失	100
 sitf	式	99
@@ -12374,16 +12309,9 @@ thihf	thih	201
 thihf	鐵	130
 thihf	鉄	109
 thima	thim	201
-thima	琛	100
-thima	鴆	99
-thima	郴	98
-thima	綝	97
-thima	賝	96
+thima	琛	90
 thimd	thìm	201
-thimd	疢	100
-thimd	鴆	99
-thimd	酖	98
-thimd	揕	97
+thimd	鴆	89
 thind	thìn	201
 thind	疢	100
 thind	趁	99
@@ -12913,18 +12841,14 @@ tihk	碟	123
 tihnnk	ti̍hⁿ	201
 tihnnk	碟	113
 tima	tim	201
-tima	砧	100
-tima	鴆	99
-tima	揕	98
 timd	tìm	201
-timd	擲	100
+timd	沉	108
+timd	朕	110
 timg	tîm	201
-timg	沈	100
-timg	沉	99
+timg	沈	40
+timg	沉	119
 timj	tīm	201
-timj	朕	100
-timj	栚	99
-timj	燖	98
+timj	朕	98
 tina	tin	201
 tina	珍	100
 tina	徵	99
@@ -14049,7 +13973,7 @@ bangiu	bāngiú	310
 bangiu	bāngiú	309
 bangiu	網友	308
 banglou	bānglō͘	310
-banglou	bānglō͘	309
+banglou	bāng-lō͘	309
 banglou	網路	308
 bansoukhou	bán-sò͘-khò͘	310
 bansoukhou	bánsò͘khò͘	309
@@ -14078,6 +14002,14 @@ bikok	美國	307
 bilai	bīlâi	310
 bilai	bī-lâi	309
 bilai	未來	308
+binachai	bîn-á-chài	310
+binachai	bînáchài	309
+###TODO
+binachai	明仔再	308	#TJT
+binnachai	bîn-ná-chài	310
+binnachai	bînnáchài	309
+###TODO
+binnachai	明仔再	308	#TJT
 binchheh	Bīnchheh	310
 binchheh	Bīn-chheh	309
 binchheh	面冊	308
@@ -14713,8 +14645,8 @@ ehiau	ēhiáu	310
 ehiau	ē-hiáu	309
 ehiau	會曉	308
 ehiau	能曉	303
-###DONE: 頭節聲調是第五
-###EDIT 「e5」民貫朗寫「下」
+#DONE: 頭節聲調是第五
+#EDIT 「e5」民貫朗寫「下」
 ehng	êhng	310
 ehng	ê-hng	309
 ehng	下昏	308
@@ -14758,7 +14690,7 @@ engkok	英國	308
 engpong	Engpōng	310
 engpong	Eng-pōng	309
 engpong	英磅	308
-###DONE: 頭節聲調是第七
+#DONE: 頭節聲調是第七
 epou	ēpo͘	310
 epou	ē-po͘	309
 epou	下晡	308
@@ -14788,23 +14720,23 @@ gihoat	語法	308
 gina	gíná	310
 gina	gín-á	309
 gina	囝仔	308
-###: 像 chit 種有「á」做尾liu--ê，
-###汝有 siáⁿ 建議 bô？
-###DONE 建議
-### gînkakgá、gînkak-á
-### 個人暫時認爲「gînkaká」不可取
-### 未來个台文﹕gînkakᵃ #眠夢
-### 當然「ᵃ」ē 使 koh 注調號
-###DONE
-### Ánne siáⁿkhoán?
-### Ah 是講 chit khoán 詞 mài 收？
-###DONE:
-###一、Chit 个問題 chiâⁿ 硬斗﹗
-###→ 電子批討論
-###二、Kám 正實有人講「銀角」﹖
-###DONE
-### Nā ánne leh?
-### Che bēbái (góa kòjîn kámkak…)
+#: 像 chit 種有「á」做尾liu--ê，
+#汝有 siáⁿ 建議 bô？
+#DONE 建議
+# gînkakgá、gînkak-á
+# 個人暫時認爲「gînkaká」不可取
+# 未來个台文﹕gînkakᵃ #眠夢
+# 當然「ᵃ」ē 使 koh 注調號
+#DONE
+# Ánne siáⁿkhoán?
+# Ah 是講 chit khoán 詞 mài 收？
+#DONE:
+#一、Chit 个問題 chiâⁿ 硬斗﹗
+#→ 電子批討論
+#二、Kám 正實有人講「銀角」﹖
+#DONE
+# Nā ánne leh?
+# Che bēbái (góa kòjîn kámkak…)
 ginkak	gînkak-á	310
 ginkak	gîn-kak-á	309
 ginkak	銀角仔	308
@@ -15410,6 +15342,12 @@ kamtok	監督	308
 kamtong	kámtōng	310
 kamtong	kám-tōng	309
 kamtong	感動	308
+kangchok	kangchok	310
+kangchok	kang-chok	309
+kangchok	工作	308
+kangchoksek	kangchoksek	310
+kangchoksek	kang-chok-sek	309
+kangchoksek	工作室	308
 kanggiap	kanggia̍p	310
 kanggiap	kang-gia̍p	309
 kanggiap	工業	308
@@ -15483,6 +15421,9 @@ kauhia	狗蟻	308
 kaukoai	káukoài	310
 kaukoai	káu-koài	309
 kaukoai	狡怪	308
+kauliu	kauliû	310
+kauliu	kau-liû	309
+kauliu	交流	308
 kauchai	kàuchâi	310
 kauchai	kàu-châi	309
 kauchai	教材	308
@@ -15501,6 +15442,9 @@ kausek	教室	308
 kausiu	kàusiū	310
 kausiu	kàu-siū	309
 kausiu	教授	308
+kauthong	kauthong	310
+kauthong	kau-thong	309
+kauthong	交通	308
 kengche	kengchè	310
 kengche	keng-chè	309
 kengche	經濟	308
@@ -15563,7 +15507,7 @@ ketatkoan	kè-ta̍t-koan	309
 ketatkoan	價值觀	308
 khaaukin	khaāukin	310
 khaaukin	kha-āu-kin	309
-###DONE／add
+#DONE／add
 khaaukin	脚後筋	308
 khaaukun	khaāukun	310
 khaaukun	kha-āu-kun	309
@@ -15619,11 +15563,11 @@ khanthoa	khan-thoa	309
 khanthoa	牽拖	308
 khatahchhia	khata̍hchhia	310
 khatahchhia	kha-ta̍h-chhia	309
-###DONE
-###阿天：建議「腳」字 tī 3XX chit tah
-###lóng 免提供。民貫台文「脚」使用率高過「腳」
-###thiámthiám。使用者 nā PREFER「腳」字、
-###因由百面是『因爲華、所以慣 sì』。
+#DONE
+#阿天：建議「腳」字 tī 3XX chit tah
+#lóng 免提供。民貫台文「脚」使用率高過「腳」
+#thiámthiám。使用者 nā PREFER「腳」字、
+#因由百面是『因爲華、所以慣 sì』。
 khatahchhia	脚踏車	308
 khaucho	kháuchō	310
 khaucho	kháu-chō	309
@@ -15659,11 +15603,11 @@ khiamtiam	khiàm-tiám	309
 khiamtiam	欠點	308
 khiansng	khiànsńg	310
 khiansng	khiàn-sńg	309
-###DONE: 阿天﹕「㩜損」chit 二字是 tó
-###位看着个？
-### thk: 台日內底 ê 漢字。
-###DONE:阿天：讚成台日个用字「摼損」
-###理由寫帶資料田
+#DONE: 阿天﹕「㩜損」chit 二字是 tó
+#位看着个？
+# thk: 台日內底 ê 漢字。
+#DONE:阿天：讚成台日个用字「摼損」
+#理由寫帶資料田
 khiansng	摼損	308
 khichhng	khíchhn̂g	310
 khichhng	khí-chhn̂g	309
@@ -15758,6 +15702,9 @@ khonggi	抗議	308
 khoounn	khóò͘ⁿ	310
 khoounn	khó-ò͘ⁿ	309
 khoounn	可惡	308
+khotheng	khòthêng	310
+khotheng	khòng-thêng	309
+khotheng	課程	308
 khuilat	khùila̍t	310
 khuilat	khùi-la̍t	309
 khuilat	氣力	308
@@ -15872,13 +15819,13 @@ kinnna	kìⁿ-nā	309
 kinnna	??	308
 kinajit	kináji̍t	310
 kinajit	kin-á-ji̍t	309
-###DONE
-###Kám koh ū «kiaⁿji̍t» ê ho͘-im?
-###手頭詞典無收
-###我是建議拍「kinajit」嗎應該出
-###kinnáji̍t, kin-ná-ji̍t
-###勿出「-á-」个變體
-###Tiō 親像 NOW 免提供「chím-á」
+#DONE
+#Kám koh ū «kiaⁿji̍t» ê ho͘-im?
+#手頭詞典無收
+#我是建議拍「kinajit」嗎應該出
+#kinnáji̍t, kin-ná-ji̍t
+#勿出「-á-」个變體
+#Tiō 親像 NOW 免提供「chím-á」
 kinajit	今旦日	308
 kinkhoai	kínkhoài	310
 kinkhoai	kín-khoài	309
@@ -15886,7 +15833,7 @@ kinkhoai	緊快	308	#TJT
 kinkin	kínkín	310
 kinkin	kín-kín	309
 kinkin	緊緊	308	#TJT
-###DONE: ADDED
+#DONE: ADDED
 kinnajit	kinnáji̍t	310
 kinnajit	kin-ná-ji̍t	309
 kinnajit	今旦日	308
@@ -15995,11 +15942,11 @@ koetheng	過程	308
 kohiong	Kohiông	310
 kohiong	Ko-hiông	309
 kohiong	高雄	308
-###: che 是 Easter egg;
-### 看汝咁有想 tio̍h
-###siáⁿmih 趣味 ê ētàng khǹg...
-###DONE: XDDDDD
-### 我來加 kóa 正經个
+#che 是 Easter egg;
+# 看汝咁有想 tio̍h
+# siáⁿmih 趣味 ê ētàng khǹg...
+#DONE: XDDDDD
+# 我來加 kóa 正經个
 takao	Kohiông	310
 takao	Ko-hiông	309
 takao	高雄	308
@@ -16331,6 +16278,8 @@ mahoan	mâ-hoân	309
 mahoan	麻煩	308
 mihkiann	mi̍hkiāⁿ	310
 mihkiann	mi̍h-kiāⁿ	309
+###TODO
+mihkiann	??	308
 mkoh	m̄koh	310
 mkoh	m̄-koh	309
 mkoh	不閣	308
@@ -16618,13 +16567,13 @@ phiauthau	phiau-thâu	309
 phiauthau	標頭	308
 phiju	phìjū	310
 phiju	phì-jū	309
-###DONE﹕Che 是二个詞。第二个是 choa̍h 音。
-###Hām 卜 khǹg to 有好有呆。
-###日本時代个文献寫「喩、輸、偸」多過「喻、輸、偷」
-###是在來个寫法 á 是 tòe 日本人寫、我不知
-###今電腦 kan-na「俞」系有 chiâu 全
-### → 建議 lóng 用「俞」系
-###＆「喩、輸、偸」kan-na 提供單字
+#DONE﹕Che 是二个詞。第二个是 choa̍h 音。
+# Hām 卜 khǹg to 有好有呆。
+# 日本時代个文献寫「喩、輸、偸」多過「喻、輸、偷」
+# 是在來个寫法 á 是 tòe 日本人寫、我不知
+# 今電腦 kan-na「俞」系有 chiâu 全
+# → 建議 lóng 用「俞」系
+# ＆「喩、輸、偸」kan-na 提供單字
 phiju	譬喻	308
 phiju	phíjū	307
 phiju	phí-jū	306
@@ -16701,9 +16650,16 @@ sekan	世間	308
 sekai	sèkài	310
 sekai	sè-kài	309
 sekai	世界	308
+sekchhiu	se̍kchhiú	310
+sekchhiu	se̍k-chhiú	309
+sekchhiu	熟手	308
 sekhap	sekha̍p	310
 sekhap	sek-ha̍p	309
 sekhap	適合	308
+seksai	se̍ksāi	310
+seksai	se̍k-sāi	309
+###TODO
+seksai	熟 sāi	308
 sekti	sektì	310
 sekti	sek-tì	309
 sekti	sektī	310
@@ -16974,6 +16930,9 @@ sitiong	實用	308
 sitle	sitlé	310
 sitle	sit-lé	309
 sitle	失禮	308
+sitthe	si̍tthé	310
+sitthe	si̍t-thé	309
+sitthe	實體	308
 sitthau	sitthâu	310
 sitthau	sit-thâu	309
 sitthau	穡頭	308
@@ -17037,8 +16996,8 @@ suiann	輸贏	308
 suiau	suiàu	310
 suiau	su-iàu	309
 suiau	需要	308
-###TODO: bô khaktēng chit ê sû ê lâigoân...
-###DONE：歸欉好好
+#TODO: bô khaktēng chit ê sû ê lâigoân...
+#DONE：歸欉好好
 suibong	suibóng	310
 suibong	sui-bóng	309
 suibong	雖罔	308
@@ -17295,6 +17254,10 @@ tianpothiau	電報柱	308
 tiansi	tiānsī	310
 tiansi	tiān-sī	309
 tiansi	電視	308
+tianto	tiantó	310
+tianto	tian-tó	309
+###TODO
+tianto	顛倒	308	#TJT
 tiantong	tiāntōng	310
 tiantong	tiān-tōng	309
 tiantong	電動	308
@@ -17455,8 +17418,8 @@ thiauchian	thiau-chiàn	309
 thiauchian	挑戰	308
 thiaukang	thiaukang	310
 thiaukang	thiau-kang	309
-###DONE:我面頂 koh 創一條「tiaukang」
-###詞源方面、.xls 內底有講卡詳細
+#DONE:我面頂 koh 創一條「tiaukang」
+#詞源方面、.xls 內底有講卡詳細
 thiaukang	挑工	308
 thinnkhi	thiⁿkhì	310
 thinnkhi	thiⁿ-khì	309
