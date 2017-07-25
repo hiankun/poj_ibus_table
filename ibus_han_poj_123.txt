@@ -14225,12 +14225,12 @@ chiannsit	chiaⁿ-si̍t	309
 chiannsit	正實	308
 chiauchng	chiâuchn̂g	310
 chiauchng	chiâu-chn̂g	309
-###TODO
-chiauchng	齊全	308	#TJT
+###DONE
+chiauchng	樵全	308	#TJT
 chiaupi	chiâupī	310
 chiaupi	chiâu-pī	309
-###TODO
-chiaupi	齊備	308	#TJT
+###DONE
+chiaupi	樵備	308	#TJT
 chichhi	chichhî	310
 chichhi	chi-chhî	309
 chichhi	支持	308
@@ -14430,11 +14430,13 @@ chhamu	chham-ú	309
 chhamu	參與	308
 chhangchuibi	chhàngchúibī	310
 chhangchuibi	chhàng-chúi-bī	309
-###TODO
-chhangchuibi	chhàng 水 bī	308
+###DONE
+chhangchuibi	汆水味	308
 chhanthiann	chhanthiaⁿ	310
 chhanthiann	chhan-thiaⁿ	309
 chhanthiann	餐廳	308
+###ADDED
+chhanthiann       餐厛              307
 chhaputto	chhaputto	310
 chhaputto	chha-put-to	309
 chhaputto	差不多	308
@@ -14500,7 +14502,7 @@ chhiahkha	chhiah-kha	309
 chhiahkha	赤脚	308
 chhiahkhasian	chhiahkhasian	310
 chhiahkhasian	chhiah-kha-sian	309
-###TODO
+###OK
 chhiahkhasian	赤脚先	308	#TJT
 chhiahgu	chhiahgû	310
 chhiahgu	chhiah-gû	309
@@ -14843,8 +14845,8 @@ haisan	hái-sán	309
 haisan	海產	308
 haiti	háiti	310
 haiti	hái-ti	309
-###TODO
-haiti	海豬	308
+###DONE
+haiti	海猪	308
 haitiong	háitiòng	310
 haitiong	hái-tiòng	309
 ###TODO
@@ -15557,8 +15559,8 @@ khauhok	kháu-ho̍k	309
 khauhok	口服	308
 khengkhak	khengkhak	310
 khengkhak	kheng-khak	309
-###TODO
-khengkhak	框殼	308	#TJT
+###DONE
+khengkhak	框壳	308	#TJT
 khehchng	khehchng	310
 khehchng	kheh-chng	309
 khehchng	客庄	308
@@ -15573,8 +15575,9 @@ khehoe	kheh-ōe	309
 khehoe	客話	308
 khiakhi	khiākhí	310
 khiakhi	khiā-khí	309
-###TODO
-khiakhi	khiā 起	308
+###DONE
+khiakhi	竪起	308
+khiakhi           立起              307
 khiamkhoat	khiàmkhoat	310
 khiamkhoat	khiàm-khoat	309
 khiamkhoat	欠缺	308
@@ -15700,8 +15703,8 @@ khutse	khut-sè	309
 khutse	屈勢	308
 kiamchhai	kiámchhái	310
 kiamchhai	kiám-chhái	309
-#TODO
-kiamchhai	檢彩	308	#TJT
+#DONE
+kiamchhai	減彩	308	#TJT
 kianchhi	kianchhî	310
 kianchhi	kian-chhî	309
 kianchhi	堅持	308
@@ -16574,7 +16577,7 @@ phoanntoan	phòaⁿ-toàn	309
 phoanntoan	判斷	308
 phoasiunn	phòasiùⁿ	310
 phoasiunn	phòa-siùⁿ	309
-###TODO
+###OK
 phoasiunn	破相	308	#TJT
 phoksu	Phoksū	310
 phoksu	Phok-sū	309
@@ -16583,8 +16586,8 @@ phoksu	phok-sū	307
 phoksu	博士	306
 phongpha	phòngphā	310
 phongpha	phòng-phā	309
-###TODO
-phongpha	凸皰	308	#TJT
+###DONE
+phongpha	凸泡	308	#TJT
 phulouthin	phuló͘thìn	310	#protein
 phulouthin	phu-ló͘-thìn	309
 saipakhou	saipakhō͘	310
