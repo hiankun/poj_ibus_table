@@ -15281,6 +15281,9 @@ kamtok	監督	308
 kamtong	kámtōng	310
 kamtong	kám-tōng	309
 kamtong	感動	308
+kangcho	kángchō	310
+kangcho	káng-chō	309
+kangcho	講座	308	#TJT
 kangchok	kangchok	310
 kangchok	kang-chok	309
 kangchok	工作	308
@@ -15959,6 +15962,9 @@ kongma	公媽	308
 kongleng	konglêng	310
 kongleng	kong-lêng	309
 kongleng	功能	308
+kongoe	kóngōe	310
+kongoe	kóng-ōe	309
+kongoe	講話	308
 kongsan	Kongsan	310
 kongsan	Kong-san	309
 kongsan	岡山	308
@@ -16463,12 +16469,18 @@ pouhun	部份	308
 punchiann	púnchiâⁿ	310
 punchiann	pún-chiâⁿ	309
 punchiann	本成	308
+punhun	púnhūn	310
+punhun	pún-hūn	309
+punhun	本分	308	#TJT
 punjian	púnjiân	310
 punjian	pún-jiân	309
 punjian	本然	308
 punlai	púnlâi	310
 punlai	pún-lâi	309
 punlai	本來	308
+punsin	púnsin	310
+punsin	pún-sin	309
+punsin	本身	308
 punte	púnté	310
 punte	pún-té	309
 punte	本底	308
@@ -17350,6 +17362,10 @@ thengtou	程度	308
 thiahbeng	thiahbêng	310
 thiahbeng	thiah-bêng	309
 thiahbeng	拆明	308
+thiamthau	thiámthâu	310
+thiamthau	thiám-thâug	309
+###TODO
+thiamthau	忝頭	308	#TJT
 thiaubu	thiaubú	310
 thiaubu	thiau-bú	309
 thiaubu	跳舞	308
