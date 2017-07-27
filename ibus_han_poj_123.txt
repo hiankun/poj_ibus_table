@@ -4715,9 +4715,9 @@ khim5	檎	93
 khin	khin	201
 khin	輕	130
 khin2	khín	201
-khin5             khîn              201
-khin5             勤                123
-khin5             芹                97
+khin5	khîn	201
+khin5	勤	123
+khin5	芹	97
 khinn	khiⁿ	201
 khinn	坑	100
 khinn5	khîⁿ	201
@@ -5433,9 +5433,9 @@ kin	今	80
 kin	根	108
 kin	筋	122
 kin	巾	123
-kin               斤                124
-kin               均                105
-kin               跟                107
+kin	斤	124
+kin	均	105
+kin	跟	107
 kin2	kín	201
 kin2	僅	99
 kin2	緊	128
@@ -5567,9 +5567,9 @@ kip	給	97
 kip8	ki̍p	201
 kip8	及	110
 kip8	芨	98
-kit               kit               201
-kit               吉                123
-kit               ki̍t               201
+kit	kit	201
+kit	吉	123
+kit	ki̍t	201
 kiu	kiu	201
 kiu	鳩	105
 kiu	龜	100
@@ -7015,14 +7015,14 @@ lim7	牣	91
 lin	lin	201
 lin	乳	110
 lin2	lín	201
-lin2	恁                130
+lin2	恁	130
 lin2	您	89
 lin2	僯	98
 lin3	lìn	201
-lin3              厘                111
+lin3	厘	111
 lin5	lîn	201
-lin5              人                105
-lin5              仁                103
+lin5	人	105
+lin5	仁	103
 lin5	憐	109
 lin5	鄰	98
 lin5	燐	97
@@ -7037,10 +7037,10 @@ lin5	嶙	88
 lin5	潾	87
 lin7	līn	201
 lin7	吝	99
-lin7              悋                97
+lin7	悋	97
 lin7	遴	88
 lin7	磷	87
-lin7              認                102
+lin7	認	102
 lio2	lió	201
 lio2	瞭	100
 lio2	眽	99
@@ -7139,10 +7139,10 @@ lip8	立	120
 lip8	笠	99
 lip8	粒	94
 lip8	苙	96
-lit8              li̍t               201
-lit8              日                103
-lit8              衵                88
-lit8              馹                87
+lit8	li̍t	201
+lit8	日	103
+lit8	衵	88
+lit8	馹	87
 liu	liu	201
 liu	抽	100
 liu	鰍	99
@@ -9464,16 +9464,16 @@ pih	鼈	110
 pih	鱉	106
 pin	pin	201
 pin	彬	111
-pin	賓                115
+pin	賓	115
 pin	豳	83
 pin	邠	85
 pin	鑌	97
-pin               檳                113 
-pin               濱                99
-pin               獱                94
+pin	檳	113 
+pin	濱	99
+pin	獱	94
 pin2	pín	201
 pin2	稟	68
-pin2              禀                111
+pin2	禀	111
 pin2	箄	97
 pin3	pìn	201
 pin3	篦	90
@@ -9486,7 +9486,7 @@ pin5	貧	118
 pin5	憑	116
 pin5	頻	112
 pin5	瀕	90
-pin5              蘋                88
+pin5	蘋	88
 pin5	顰	89
 pin5	凭	78
 pin5	缾	47
@@ -10553,8 +10553,8 @@ sin5	蠅	113
 sin7	sīn	201
 sin7	腎	96
 sin7	愼	98
-sin7              慎                45
-sin7	剩       	94
+sin7	慎	45
+sin7	剩		94
 sinn	siⁿ	201
 sinn	生	100
 sinn	牲	99
@@ -10712,9 +10712,9 @@ sit	失	130
 sit	式	119
 sit	息	128
 sit	穡	126
-sit               媳                97
-sit               室                103
-sit               悉                94
+sit	媳	97
+sit	室	103
+sit	悉	94
 sit8	si̍t	201
 sit8	食	110
 sit8	植	109
@@ -12233,12 +12233,12 @@ thim	琛	90
 thim3	thìm	201
 thim3	鴆	89
 thin3	thìn	201
-thin3             趂                55
+thin3	趂	55
 thin3	趁	99
 thin5	thîn	201
-thin5	藤       	80
+thin5	藤		80
 thin7	thīn	201
-thin7             陣                101
+thin7	陣	101
 thinn	thiⁿ	201
 thinn	天	100
 thinn	添	99
@@ -12280,13 +12280,13 @@ thiong5	蟲	98
 thiong5	种	97
 thiong5	翀	96
 thiong5	爞	95
-thit              thit              201
-thit              𨑨                123
-thit              勅                94
-thit              敕                92
-thit              飭                85
-thit8             thi̍t              201
-thit8             直                121
+thit	thit	201
+thit	𨑨	123
+thit	勅	94
+thit	敕	92
+thit	飭	85
+thit8	thi̍t	201
+thit8	直	121
 thiu	thiu	201
 thiu	妯	100
 thiu	抽	99
@@ -12784,11 +12784,11 @@ tin	玎	98
 tin2	tín	201
 tin2	振	110
 tin3	tìn	201
-tin3              鎭                123
-tin3              鎮                55
+tin3	鎭	123
+tin3	鎮	55
 tin5	tîn	201
 tin5	塵	119
-tin5              陳                112
+tin5	陳	112
 tin5	藤	117
 tin7	tīn	201
 tin7	陣	130
@@ -12868,7 +12868,7 @@ tit	得	120
 tit8	ti̍t	201
 tit8	直	131
 tit8	姪	123
-tit8              侄                55
+tit8	侄	55
 tit8	蟄	94
 tiu	tiu	201
 tiu	稠	100
@@ -13905,14 +13905,16 @@ bengsu	bêngsû	310
 bengsu	bêng-sû	309
 bengsu	名詞	308
 besai	bēsái	310
-besai	bē-sái	309
-besai	袂使	308
+besai	bē sái	309
+besai	bē-sái	308
+besai	袂使	307
 besin	bêsìn	310
 besin	bê-sìn	309
 besin	迷信	308
 betang	bētàng	310
+betang	bē tàng	309
 betang	bē-tàng	309
-betang	袂凍	308
+betang	袂凍	307
 bibiau	bībiāu	310
 bibiau	bī-biāu	309
 bibiau	微妙	308
@@ -13962,8 +13964,9 @@ bitbe	bi̍tbé	310
 bitbe	bi̍t-bé	309
 bitbe	密碼	308
 boiann	bôiáⁿ	310
-boiann	bô-iáⁿ	309
-boiann	無影	308
+boiann	bô iáⁿ	309
+boiann	bô-iáⁿ	308
+boiann	無影	307
 bokcheng	bo̍kchêng	310
 bokcheng	bo̍k-chêng	309
 bokcheng	目前	308
@@ -14160,12 +14163,10 @@ chiannsit	chiaⁿ-si̍t	309
 chiannsit	正實	308
 chiauchng	chiâuchn̂g	310
 chiauchng	chiâu-chn̂g	309
-###DONE
-chiauchng	樵全	308	#TJT
+chiauchng	樵全	308
 chiaupi	chiâupī	310
 chiaupi	chiâu-pī	309
-###DONE
-chiaupi	樵備	308	#TJT
+chiaupi	樵備	308
 chichhi	chichhî	310
 chichhi	chi-chhî	309
 chichhi	支持	308
@@ -14365,13 +14366,12 @@ chhamu	chham-ú	309
 chhamu	參與	308
 chhangchuibi	chhàngchúibī	310
 chhangchuibi	chhàng-chúi-bī	309
-###DONE
 chhangchuibi	汆水味	308
 chhanthiann	chhanthiaⁿ	310
 chhanthiann	chhan-thiaⁿ	309
 chhanthiann	餐廳	308
 ###ADDED
-chhanthiann       餐厛              307
+chhanthiann	餐厛	307
 chhaputto	chhaputto	310
 chhaputto	chha-put-to	309
 chhaputto	差不多	308
@@ -14580,6 +14580,10 @@ ehng	êhng	310
 ehng	ê-hng	309
 ehng	下昏	308
 ehng	冥昏	302
+ekha	ēkha	310
+ekha	ē-kha	309
+###TODO
+ekha	下脚	308
 engbun	Engbûn	310
 engbun	Eng-bûn	309
 engbun	英文	308
@@ -14624,10 +14628,17 @@ epou	ēpo͘	310
 epou	ē-po͘	309
 epou	下晡	308
 esai	ēsái	310
-esai	ē-sái	309
-esai	會使	308
+esai	ē sái	309
+esai	ē-sái	308
+esai	會使	307
 etang	ētàng	310
-etang	ē-tàng	309
+etang	ē tàng	309
+etang	ē-tàng	308
+###TODO
+etang	會凍	307
+ete	ēté	310
+ete	ē-té	309
+ete	下底	308
 gankai	gánkài	310
 gankai	gán-kài	309
 gankai	眼界	308
@@ -14780,7 +14791,6 @@ haisan	hái-sán	309
 haisan	海產	308
 haiti	háiti	310
 haiti	hái-ti	309
-###DONE
 haiti	海猪	308
 haitiong	háitiòng	310
 haitiong	hái-tiòng	309
@@ -15506,8 +15516,7 @@ khauhok	kháu-ho̍k	309
 khauhok	口服	308
 khengkhak	khengkhak	310
 khengkhak	kheng-khak	309
-###DONE
-khengkhak	框壳	308	#TJT
+khengkhak	框壳	308
 khehchng	khehchng	310
 khehchng	kheh-chng	309
 khehchng	客庄	308
@@ -15522,9 +15531,8 @@ khehoe	kheh-ōe	309
 khehoe	客話	308
 khiakhi	khiākhí	310
 khiakhi	khiā-khí	309
-###DONE
 khiakhi	竪起	308
-khiakhi           立起              307
+khiakhi	立起	307
 khiamkhoat	khiàmkhoat	310
 khiamkhoat	khiàm-khoat	309
 khiamkhoat	欠缺	308
@@ -15653,8 +15661,7 @@ khutse	khut-sè	309
 khutse	屈勢	308
 kiamchhai	kiámchhái	310
 kiamchhai	kiám-chhái	309
-#DONE
-kiamchhai	減彩	308	#TJT
+kiamchhai	減彩	308
 kianchhi	kianchhî	310
 kianchhi	kian-chhî	309
 kianchhi	堅持	308
@@ -15747,8 +15754,6 @@ kinnna	kìⁿnā	310
 kinnna	kìⁿ-nā	309
 ###TODO
 kinnna	??	308
-kinajit	kináji̍t	310
-kinajit	kin-á-ji̍t	309
 #DONE
 #Kám koh ū «kiaⁿji̍t» ê ho͘-im?
 #手頭詞典無收
@@ -15756,17 +15761,19 @@ kinajit	kin-á-ji̍t	309
 #kinnáji̍t, kin-ná-ji̍t
 #勿出「-á-」个變體
 #Tiō 親像 NOW 免提供「chím-á」
+###thk: góa kā 2 cho͘ khǹg chòhóe.
+kinajit	kináji̍t	310
+kinajit	kin-á-ji̍t	309
 kinajit	今旦日	308
+kinnajit	kinnáji̍t	310
+kinnajit	kin-ná-ji̍t	309
+kinnajit	今旦日	308
 kinkhoai	kínkhoài	310
 kinkhoai	kín-khoài	309
 kinkhoai	緊快	308	#TJT
 kinkin	kínkín	310
 kinkin	kín-kín	309
 kinkin	緊緊	308	#TJT
-#DONE: ADDED
-kinnajit	kinnáji̍t	310
-kinnajit	kin-ná-ji̍t	309
-kinnajit	今旦日	308
 kionghi	kionghí	310
 kionghi	kiong-hí	309
 kionghi	恭喜	308
@@ -17039,8 +17046,7 @@ taitiong	Tâi-tiong	309
 taitiong	台中	307
 tamsip	tâmsip	310
 tamsip	tâm-sip	309
-###DONE
-tamsip	淡濕	307	#TJT
+tamsip	淡濕	307
 tamtng	tamtng	310
 tamtng	tam-tng	309
 tamtng	擔當	307
@@ -17059,6 +17065,9 @@ tangsuhoe	董事會	307
 tangsutiunn	tángsūtiúⁿ	310
 tangsutiunn	táng-sū-tiúⁿ	309
 tangsutiunn	董事長	307
+tantok	tanto̍k	310
+tantok	tan-to̍k	309
+tantok	單獨	307
 tanpekchit	tānpe̍kchit	310
 tanpekchit	tān-pe̍k-chit	309
 tanpekchit	蛋白質	307
@@ -17173,7 +17182,7 @@ tiannau	tiān-náu	309
 tiannau	電腦	308
 tianntioh	tiāⁿtio̍h	310
 tianntioh	tiāⁿ-tio̍h	309
-###OK
+#OK
 tianntioh	定着	308	#TJT
 tianpo	tiānpò	310
 tianpo	tiān-pò	309
@@ -17186,8 +17195,8 @@ tiansi	tiān-sī	309
 tiansi	電視	308
 tianto	tiantó	310
 tianto	tian-tó	309
-###DONE
-tianto            顚倒              308
+#DONE
+tianto	顚倒	308
 tianto	顛倒	307	#TJT
 tiantong	tiāntōng	310
 tiantong	tiān-tōng	309
@@ -17368,8 +17377,9 @@ thuiheng	thuihêng	310
 thuiheng	thui-hêng	309
 thuiheng	推行	308
 uiann	ūiáⁿ	310
-uiann	ū-iáⁿ	309
-uiann	有影	308
+uiann	ū iáⁿ	309
+uiann	ū-iáⁿ	308
+uiann	有影	307
 uisng	ūisng	310
 uisng	ūi-sng	309
 uisng	胃酸	308
