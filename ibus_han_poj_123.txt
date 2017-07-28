@@ -7191,6 +7191,7 @@ liu5	鰇	80
 liu5	飀	79
 liu5	鰡	78
 liu5	鶹	77
+liu7	liū	201
 liuh8	liu̍h	201
 liuh8	六	100
 liuh8	略	99
@@ -14068,6 +14069,10 @@ chekthiau	chek 柱	308	#STL
 chengam	chéngām	310
 chengam	chéng-ām	309
 chengam	腫頷	308
+chengbeng	chèngbêng	310
+chengbeng	chèng-bêng	309
+###TODO
+chengbeng	証明	308
 chengchha	chengchha	310
 chengchha	cheng-chha	309
 chengchha	爭差	308
@@ -15257,6 +15262,9 @@ kalauh	ka-la̍uh	309
 kameng	kámèng	310
 kameng	kám-èng	309
 kameng	感應	308
+kamgoan	kamgoān	310
+kamgoan	kam-goān	309
+kamgoan	甘願	308
 kamkak	kámkak	310
 kamkak	kám-kak	309
 kamkak	感覺	308
@@ -16225,7 +16233,8 @@ mihkiann	mi̍h-kiāⁿ	309
 mihkiann	??	308
 mkoh	m̄koh	310
 mkoh	m̄-koh	309
-mkoh	不閣	308
+mkoh	m̄ koh	308
+mkoh	不閣	307
 mna	m̄nā	310
 mna	m̄-nā	309
 mngkngkhang	mn̂gkńgkhang	310
@@ -16248,7 +16257,8 @@ mousut	mô͘-su̍t	309
 mousut	魔術	308
 mthang	m̄thang	310
 mthang	m̄-thang	309
-mthang	不通	308
+mthang	m̄ thang	308
+mthang	不通	307
 muithe	mûithé	310
 muithe	mûi-thé	309
 muithe	媒體	308
@@ -16369,9 +16379,18 @@ piai	悲哀	308
 pianchhian	piànchhian	310
 pianchhian	piàn-chhian	309
 pianchhian	變遷	308
+pianheng	piànhêng	310
+pianheng	piàn-hêng	309
+pianheng	變形	308
 pianhoa	piànhòa	310
 pianhoa	piàn-hòa	309
 pianhoa	變化	308
+piansim	piànsim	310
+piansim	piàn-sim	309
+piansim	變心	308
+pianthai	piànthài	310
+pianthai	piàn-thài	309
+pianthai	變態	308
 piaubin	piáubīn	310
 piaubin	piáu-bīn	309
 piaubin	表面	308
@@ -16892,6 +16911,10 @@ siuhok	修復	306
 siukai	siukái	310
 siukai	siu-kái	309
 siukai	修改	308
+siukhi	siūkhì	310
+siukhi	siū-khì	309
+###TODO
+siukhi	受氣	308
 siuli	siulí	310
 siuli	siu-lí	309
 siuli	修理	308
