@@ -14071,8 +14071,9 @@ chengam	chéng-ām	309
 chengam	腫頷	308
 chengbeng	chèngbêng	310
 chengbeng	chèng-bêng	309
-###TODO
-chengbeng	証明	308
+###DONE
+chengbeng         証明              308
+chengbeng	證明	307
 chengchha	chengchha	310
 chengchha	cheng-chha	309
 chengchha	爭差	308
@@ -14195,7 +14196,7 @@ chinliong	chīn-liōng	309
 chinliong	盡量	308
 chinpong	chīnpōng	310
 chinpong	chīn-pōng	309
-###TODO
+###OK
 chinpong	盡磅	308
 chinpou	chìnpō͘	310
 chinpou	chìn-pō͘	309
@@ -14587,7 +14588,7 @@ ehng	下昏	308
 ehng	冥昏	302
 ekha	ēkha	310
 ekha	ē-kha	309
-###TODO
+###OK
 ekha	下脚	308
 engbun	Engbûn	310
 engbun	Eng-bûn	309
@@ -14638,9 +14639,11 @@ esai	ē-sái	308
 esai	會使	307
 etang	ētàng	310
 etang	ē tàng	309
+### "ē tàng"???
 etang	ē-tàng	308
-###TODO
+###DONE
 etang	會凍	307
+etang             能凍              306
 ete	ēté	310
 ete	ē-té	309
 ete	下底	308
@@ -16229,8 +16232,8 @@ mahoan	mâ-hoân	309
 mahoan	麻煩	308
 mihkiann	mi̍hkiāⁿ	310
 mihkiann	mi̍h-kiāⁿ	309
-###TODO
-mihkiann	??	308
+###DONE
+mihkiann	物件	308
 mkoh	m̄koh	310
 mkoh	m̄-koh	309
 mkoh	m̄ koh	308
@@ -16283,9 +16286,9 @@ ngetau	ngētáu	310
 ngetau	ngē-táu	309
 ngitau	ngītáu	310
 ngitau	ngī-táu	309
-###TODO
-ngetau	硬 táu	308
-ngitau	硬 táu	308	#TJT_台日大
+###DONE
+ngetau	硬斗	308
+ngitau	硬斗	308	#TJT_台日大
 ngouheng	ngó͘hêng	310
 ngouheng	ngó͘-hêng	309
 ngouheng	五行	308
@@ -16626,8 +16629,8 @@ sekhap	sek-ha̍p	309
 sekhap	適合	308
 seksai	se̍ksāi	310
 seksai	se̍k-sāi	309
-###TODO
-seksai	熟 sāi	308
+###DONE
+seksai	熟事	308
 sekti	sektì	310
 sekti	sek-tì	309
 sekti	sektī	310
@@ -16693,7 +16696,7 @@ sennsiann	seⁿ-sian	309
 sennsiann	生sian	308
 sennsiunn	seⁿsiùⁿ	310
 sennsiunn	seⁿ-siùⁿ	309
-###TODO
+###OK
 sennsiunn	生相	308
 sennthoann	seⁿthòaⁿ	310
 sennthoann	seⁿ-thòaⁿ	309
@@ -16789,7 +16792,7 @@ simmih	símmi̍h	310
 simmih	sím-mi̍h	309
 simsek	simsek	310
 simsek	sim-sek	309
-###TODO
+###OK
 simsek	心適	308
 sinchupai	sînchúpâi	310
 sinchupai	sîn-chú-pâi	309
@@ -16913,7 +16916,7 @@ siukai	siu-kái	309
 siukai	修改	308
 siukhi	siūkhì	310
 siukhi	siū-khì	309
-###TODO
+###OK
 siukhi	受氣	308
 siuli	siulí	310
 siuli	siu-lí	309
@@ -17386,8 +17389,8 @@ thiahbeng	thiahbêng	310
 thiahbeng	thiah-bêng	309
 thiahbeng	拆明	308
 thiamthau	thiámthâu	310
-thiamthau	thiám-thâug	309
-###TODO
+thiamthau	thiám-thâu	309
+###OK
 thiamthau	忝頭	308	#TJT
 thiaubu	thiaubú	310
 thiaubu	thiau-bú	309
