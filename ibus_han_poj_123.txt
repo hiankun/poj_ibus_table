@@ -4276,12 +4276,12 @@ keng7	綆	91
 keng7	骾	90
 keng7	鯁	89
 kenn	keⁿ	201
-kenn              更                133
-kenn              庚                122
-kenn              焿                123
-kenn              羹                108
-kenn              耕                103
-kenn              經                113
+kenn	更	133
+kenn	庚	122
+kenn	焿	123
+kenn	羹	108
+kenn	耕	103
+kenn	經	113
 kenn2	kéⁿ	201
 kenn2	骾	110
 kennh8	ke̍hⁿ	201
@@ -4567,8 +4567,8 @@ kheng5	嬛	93
 kheng7	khēng	201
 kheng7	虹	100
 kheng7	涇	99
-khenn             kheⁿ              201
-khenn             坑                131
+khenn	kheⁿ	201
+khenn	坑	131
 khennh8	khe̍hⁿ	201
 khehnn8	khe̍hⁿ	201
 khi	khi	201
@@ -7741,17 +7741,17 @@ me	me	201
 me2	mé	201
 me2	猛	130
 me5	mê	201
-me5               冥                131
-me5               明                123
-me5               盲                113
-me5               鋩                112
-me5               芒                98
+me5	冥	131
+me5	明	123
+me5	盲	113
+me5	鋩	112
+me5	芒	98
 me7	mē	201
 me7	罵	120
-me7               駡                49
+me7	駡	49
 meh8	me̍h	201
 meh8	脈	60
-meh8              脉                121
+meh8	脉	121
 mi	mi	201
 mi	咪	100
 mi	搣	99
@@ -14079,7 +14079,7 @@ chengam	腫頷	308
 chengbeng	chèngbêng	310
 chengbeng	chèng-bêng	309
 ###DONE
-chengbeng         証明              308
+chengbeng	証明	308
 chengbeng	證明	307
 chengchha	chengchha	310
 chengchha	cheng-chha	309
@@ -14647,10 +14647,11 @@ esai	會使	307
 etang	ētàng	310
 etang	ē tàng	309
 ### "ē tàng"???
+### íkeng kià email thólūn
 etang	ē-tàng	308
 ###DONE
 etang	會凍	307
-etang             能凍              306
+etang	能凍	306
 ete	ēté	310
 ete	ē-té	309
 ete	下底	308
@@ -14908,6 +14909,10 @@ hiansiong	現象	308
 hiantai	hiāntāi	310
 hiantai	hiān-tāi	309
 hiantai	現代	308
+hiapgi	hia̍pgī	310
+hiapgi	hia̍p-gī	309
+hiapgi	協議	308
+hiapgi	狹義	307	#LBS (Lîm Bō͘-Seng)
 hibang	hibāng	310
 hibang	hi-bāng	309
 hibang	希望	308
@@ -15953,6 +15958,9 @@ kongbugoan	公務員	308
 konggi	konggī	310
 konggi	kong-gī	309
 konggi	公義	308
+konggi	kónggī	310
+konggi	kóng-gī	309
+konggi	廣義	308
 konghakhau	kongha̍khāu	310
 konghakhau	kong-ha̍k-hāu	309
 konghakhau	公學校	308
@@ -17143,6 +17151,9 @@ teksu	特殊	308
 tengbin	téngbīn	310
 tengbin	téng-bīn	309
 tengbin	頂面	308
+tenggi	tēnggī	310
+tenggi	tēng-gī	309
+tenggi	定義	308	#TJT
 tengho	ténghō	310
 tengho	téng-hō	309
 tengho	等號	308	#TJT
@@ -17301,6 +17312,9 @@ toalang	大人	308
 toalau	tōalâu	310
 toalau	tōa-lâu	309
 toalau	大樓	308
+toklip	to̍kli̍p	310
+toklip	to̍k-li̍p	309
+toklip	獨立	308
 tongan	tòngàn	310
 tongan	tòng-àn	309
 tongan	檔案	308
