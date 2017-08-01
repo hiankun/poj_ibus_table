@@ -4366,7 +4366,7 @@ kham5	khâm	201
 kham5	黔	100
 khan	khan	201
 khan	刊	120
-khan              刋                44
+khan	刋	44
 khan	牽	128
 khan2	khán	201
 khan2	侃	90
@@ -6457,7 +6457,7 @@ lam7	爁	96
 lam7	轞	95
 lam7	灠	94
 lan	lan	201
-lan               鱗                123
+lan	鱗	123
 lan2	lán	201
 lan2	咱	130
 lan2	赧	89
@@ -7886,7 +7886,7 @@ nau7	鬧	100
 ne	ne	201
 ne2	né	201
 ne2	奶	120
-ne3               nè                201
+ne3	nè	201
 neh	neh	201
 neh8	ne̍h	201
 Ng	Ng	202
@@ -8594,8 +8594,8 @@ pan5	瓶	130
 pan7	pān	201
 pan7	扮	120
 pan7	辦	128
-pan7              办                55
-pan7              範                113              
+pan7	办	55
+pan7	範	113	
 pang	pang	201
 pang	方	100
 pang	邦	99
@@ -8836,7 +8836,7 @@ phan	扳	90
 phan	攀	99
 phan2	phán	201
 phan2	眅	90
-phan2             闆                88
+phan2	闆	88
 phan3	phàn	201
 phan3	盼	120
 phan3	盻	49
@@ -8861,7 +8861,7 @@ phann3	帊	98
 phann3	袙	97
 phann7	phāⁿ	201
 phat	phat	201
-phat8             pha̍t              201
+phat8	pha̍t	201
 phau	phau	201
 phau	泡	100
 phau	捊	99
@@ -8973,11 +8973,11 @@ pheng7	phēng	201
 pheng7	并	100
 pheng7	並	99
 pheng7	併	98
-phenn5            phêⁿ              201
-phenn5            彭                123
-phenn5            澎                122
-phenn5            坪                113
-phenn5            平                112
+phenn5	phêⁿ	201
+phenn5	彭	123
+phenn5	澎	122
+phenn5	坪	113
+phenn5	平	112
 phi	phi	201
 phi	丕	99
 phi	呸	97
@@ -9460,7 +9460,7 @@ pinn7	辮	98
 penn	peⁿ	201
 penn5	pêⁿ	201
 penn5	平	123
-penn5             棚                121
+penn5	棚	121
 penn7	pēⁿ	201
 penn7	病	121
 pio	pio	201
@@ -9912,8 +9912,8 @@ san	姍	119
 san	星	108
 san	珊	127
 san	刪	113
-san               删                63
-san               姗                64
+san	删	63
+san	姗	64
 san2	sán	201
 san2	產	130
 san2	散	119
@@ -10120,9 +10120,9 @@ sek8	鼫	89
 senn	seⁿ	201
 senn	生	130
 senn2	séⁿ	201
-senn2             省                98
+senn2	省	98
 senn3	sèⁿ	201
-senn3             姓                131
+senn3	姓	131
 senn5	sêⁿ	201
 senn7	sēⁿ	201
 seng	seng	201
@@ -11789,8 +11789,8 @@ teng7	錠	96
 teng7	蹬	95
 teng7	掟	94
 teng7	椗	93
-tenn              teⁿ               201
-tenn3             tèⁿ               201
+tenn	teⁿ	201
+tenn3	tèⁿ	201
 tenn7	tēⁿ	201
 tenn7	鄭	130
 tha	tha	201
@@ -14008,7 +14008,6 @@ chengam	chéng-ām	309
 chengam	腫頷	308
 chengbeng	chèngbêng	310
 chengbeng	chèng-bêng	309
-###DONE
 chengbeng	証明	308
 chengbeng	證明	307
 chengchha	chengchha	310
@@ -14579,7 +14578,6 @@ etang	ē tàng	309
 ### "ē tàng"???
 ### íkeng kià email thólūn
 etang	ē-tàng	308
-###DONE
 etang	會凍	307
 etang	能凍	306
 ete	ēté	310
@@ -16014,7 +16012,6 @@ laite	lāi-té	309
 laite	內底	308
 lasam	lâsâm	310
 lasam	lâ-sâm	309
-###DONE
 lasam	蚋滲	308	#TJT
 laulang	lāulâng	310
 laulang	lāu-lâng	309
@@ -16177,7 +16174,6 @@ mahoan	mâ-hoân	309
 mahoan	麻煩	308
 mihkiann	mi̍hkiāⁿ	310
 mihkiann	mi̍h-kiāⁿ	309
-###DONE
 mihkiann	物件	308
 mkoh	m̄koh	310
 mkoh	m̄-koh	309
@@ -16229,10 +16225,9 @@ ngechiann	硬淨	308
 ngichiann	硬淨	308	#TJT_台日大
 ngetau	ngētáu	310
 ngetau	ngē-táu	309
+ngetau	硬斗	308
 ngitau	ngītáu	310
 ngitau	ngī-táu	309
-###DONE
-ngetau	硬斗	308
 ngitau	硬斗	308	#TJT_台日大
 ngouheng	ngó͘hêng	310
 ngouheng	ngó͘-hêng	309
@@ -16524,7 +16519,6 @@ phoksu	phok-sū	307
 phoksu	博士	306
 phongpha	phòngphā	310
 phongpha	phòng-phā	309
-###DONE
 phongpha	凸泡	308	#TJT
 phulouthin	phuló͘thìn	310	#protein
 phulouthin	phu-ló͘-thìn	309
@@ -16574,7 +16568,6 @@ sekhap	sek-ha̍p	309
 sekhap	適合	308
 seksai	se̍ksāi	310
 seksai	se̍k-sāi	309
-###DONE
 seksai	熟事	308
 sekti	sektì	310
 sekti	sek-tì	309
