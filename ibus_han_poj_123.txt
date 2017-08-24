@@ -206,8 +206,14 @@ w	w	1
 x	x	1
 y	y	1
 z	z	1
+NN	ᴺ	202
+AA	ᴬ	202
+AA	ᴬ	201
 A	A	202
 A2	Á	202
+nn	ⁿ	202
+aa	ᵃ	202
+aa	ₐ	201
 a	a	202
 a2	á	201
 A3	À	202
@@ -14517,6 +14523,8 @@ gina	囝仔	308
 #DONE
 # Nā ánne leh?
 # Che bēbái (góa kòjîn kámkak…)
+ginkak	gînkakᵃ	312	#chhìgiām
+ginkak	gînkakₐ	311	#chhìgiām
 ginkak	gînkak-á	310
 ginkak	gîn-kak-á	309
 ginkak	銀角仔	308

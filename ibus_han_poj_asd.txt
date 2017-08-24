@@ -206,8 +206,14 @@ w	w	1
 x	x	1
 y	y	1
 z	z	1
+NNa	ᴺ	202
+AAa	ᴬ	202
+AAa	ᴬ	201
 Aa	A	202
 As	Á	202
+nna	ⁿ	202
+aaa	ᵃ	202
+aaa	ₐ	201
 aa	a	202
 as	á	201
 Ad	À	202
@@ -13725,7 +13731,7 @@ bangcham	bāngchām	310
 bangcham	bāngchām	309
 bangcham	網站	308
 bangiah	bāngia̍h	310
-bangiah	bāngia̍h	309
+bangiah	bāng-ia̍h	309
 bangiah	網頁	308
 bangiu	bāngiú	310
 bangiu	bāngiú	309
@@ -14517,6 +14523,8 @@ gina	囝仔	308
 #DONE
 # Nā ánne leh?
 # Che bēbái (góa kòjîn kámkak…)
+ginkak	gînkakᵃ	312	#chhìgiām
+ginkak	gînkakₐ	311	#chhìgiām
 ginkak	gînkak-á	310
 ginkak	gîn-kak-á	309
 ginkak	銀角仔	308
