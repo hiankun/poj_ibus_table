@@ -83,7 +83,7 @@ USER_CAN_DEFINE_PHRASE = FALSE
 ### Whether support PinYin Mode, default is true.
 ### this feature is just for Chinese, set it to False if your IM is not
 ### Chinese.
-PINYIN_MODE = FALSE
+PINYIN_MODE = TRUE
 
 ### If true then the phrases' frequencies will be adjusted dynamically
 ### according your using frequency.
@@ -14081,6 +14081,9 @@ choansim	專心	308
 choekin	chòekīn	310
 choekin	chòe-kīn	309
 choekin	最近	308
+chokka	chokka	310
+chokka	chok-ka	309
+chokka	作家	308
 chonghu	chōnghú	310
 chonghu	chōng-hú	309
 chonghu	臟腑	308
@@ -14138,6 +14141,9 @@ chujian	自然	308
 chujiankai	chūjiânkài	310
 chujiankai	chū-jiân-kài	309
 chujiankai	自然界	308
+chukeh	chukeh	310
+chukeh	chu-keh	309
+chukeh	資格	308
 chuki	chūkí	310
 chuki	chū-kí	309
 chuki	自己	308
@@ -14375,6 +14381,9 @@ chhuttiunn	出張	308
 chhuttong	chhuttōng	310
 chhuttong	chhut-tōng	309
 chhuttong	出動	308
+chiamchhia	chiamchhia	310
+chiamchhia	chiah-chhia	309
+chiamchhia	針車	308
 chiamchhihoat	chiamchhìhoat	310
 chiamchhihoat	chiah-chhì-hoat	309
 chiamchhihoat	針刺法	308
@@ -14384,6 +14393,9 @@ chiamchiam	漸漸	308
 chiamkiu	chiamkiù	310
 chiamkiu	chiah-kiù	309
 chiamkiu	針灸	308
+chiamsi	chiāmsî	310
+chiamsi	chiām-sî	309
+chiamsi	暫時	308
 chiamtui	chiamtùi	310
 chiamtui	chiah-tùi	309
 chiamtui	針對	308
@@ -15504,6 +15516,9 @@ khotheng	課程	308
 khuilat	khùila̍t	310
 khuilat	khùi-la̍t	309
 khuilat	氣力	308
+khunjiau	khùnjiáu	310
+khunjiau	khùn-jiáu	309
+khunjiau	困擾	308
 khunlan	khùnlân	310
 khunlan	khùn-lân	309
 khunlan	困難	308
