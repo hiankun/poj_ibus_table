@@ -13975,6 +13975,9 @@ chiahchhailang	食菜人	308
 chiahhong	chia̍hhong	310
 chiahhong	chia̍h-hong	309
 chiahhong	食風	308	#TJT
+chiahlat	chiahla̍t	310
+chiahlat	chiah-la̍t	309
+chiahlat	食力	308
 chiahnih	chiahni̍h	310
 chiahnih	chiah-ni̍h	309
 chiahnih	隻哖	308
@@ -14912,6 +14915,14 @@ hunkai	分解	308
 hunlian	hùnliān	310
 hunlian	hùn-liān	309
 hunlian	訓練	308
+huikhi	hùikhì	310
+huikhi	hùi-khì	309
+###TODO
+huikhi	費氣	308
+huikhi	廢氣	307
+huinntit	hûiⁿti̍t	310
+huinntit	hûiⁿ-ti̍t	309
+huinntit	橫直	308
 iahsi	ia̍hsī	310
 iahsi	ia̍h-sī	309
 ianhun	iânhūn	310
