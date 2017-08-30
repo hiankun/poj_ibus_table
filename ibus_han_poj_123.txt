@@ -3724,8 +3724,8 @@ ka	傀	111
 ka	嘉	122
 ka	鉸	129
 ka	膠	127
-ka                咖                121
-ka                珈                113
+ka	咖	121
+ka	珈	113
 ka2	ká	201
 ka2	假	113
 ka2	絞	128
@@ -3735,12 +3735,12 @@ ka3	假	99
 ka3	教	128
 ka3	價	93
 ka3	駕	101
-ka3               敎                66
-ka3               較                113
+ka3	敎	66
+ka3	較	113
 ka5	kâ	201
 ka7	kā	201
 ka7	咬	131
-ka7               共                133
+ka7	共	133
 kah	kah	201
 kah	甲	130
 kah	較	106
@@ -4157,8 +4157,8 @@ kehnn8	ke̍hⁿ	201
 kha	kha	201
 kha	脚	122
 kha	腳	41
-kha	尻                110
-kha               足                66
+kha	尻	110
+kha	足	66
 kha2	khá	201
 kha2	巧	130
 kha3	khà	201
@@ -4166,7 +4166,7 @@ kha3	敲	119
 kha7	khā	201
 khah	khah	201
 khah	卡	123
-khah              恰                122
+khah	恰	122
 khah	籱	99
 khai	khai	201
 khai	抬	100
@@ -4638,7 +4638,7 @@ khoa	khoa	201
 khoa	誇	98
 khoa	跨	97
 khoa2	khóa	201
-khoa2	可		119
+khoa2	可	119
 khoa3	khòa	201
 khoa3	掛	120
 khoa3	跨	109
@@ -5386,20 +5386,12 @@ koa3	挂	49
 koa3	掛	128
 koa3	過	111
 koa3	蓋	121
-koa3	盖	44	
+koa3	盖	44
 koa3	芥	113
 koa5	koâ	201
 koah	koah	201
-<<<<<<< HEAD
-koah              刈                133 
-koah	割	74
-||||||| merged common ancestors
-koah              刈                133 
-koah	割	104
-=======
 koah	刈	133 
 koah	割	104
->>>>>>> dc387d713beed2a84d68a189dcd65ace614ca290
 koah	葛	113
 koai	koai	201
 koai	乖	100
@@ -6054,19 +6046,19 @@ kut8	堀	94
 kut8	鶻	93
 l2	禰	100
 la	la	201
-la                啦                123
+la	啦	123
 la	拉	90
-la                蚋                102
+la	蚋	102
 la2	lá	201
 la3	là	201
 la5	lâ	201
 la5	蜊	129
-la5               鯪                111
-la5               蚋                103
+la5	鯪	111
+la5	蚋	103
 la7	lā	201
 la7	撈	100
 lah	lah	201
-lah               啦                123
+lah	啦	123
 lah8	la̍h	201
 lah8	蚋	105
 lah8	曆	113
@@ -6706,7 +6698,7 @@ liok8	辱	107
 liok8	褥	76
 liong2	lióng	201
 liong2	兩	120
-liong2	两		75
+liong2	两	75
 liong2	壤	98
 liong3	liòng	201
 liong5	liông	201
@@ -6757,7 +6749,7 @@ liuh8	liu̍h	201
 liuh8	六	100
 liuh8	略	99
 lo	lo	201
-lo	羅		99
+lo	羅	99
 lo	囉	113
 lo2	ló	201
 lo2	老	120
@@ -6768,7 +6760,7 @@ lo3	lò	201
 lo3	躼	130
 lo5	lô	201
 lo5	牢	119
-lo5	哪		94
+lo5	哪	94
 lo5	勞	113
 lo5	濁	80
 lo5	邏	89
@@ -7650,7 +7642,7 @@ o2	ó	201
 o2	襖	117
 O3	Ò	202
 o3	ò	201
-o3	奧		120
+o3	奧	120
 o3	澳	128
 O5	Ô	202
 o5	ô	201
@@ -7976,7 +7968,7 @@ ounn7	ō͘ⁿ	201
 pa	pa	201
 pa	巴	120
 pa	芭	118
-pa                爸                115
+pa	爸	115
 pa2	pá	201
 pa2	把	113
 pa2	飽	132
@@ -8254,10 +8246,10 @@ penn7	pēⁿ	201
 penn7	病	121
 ha	pha	201
 pha	葩	110
-pha	抛                128
+pha	抛	128
 pha3	phà	201
 pha7	phā	201
-pha7              泡                113
+pha7	泡	113
 pha7	皰	60
 phah	phah	201
 phah	拍	121
@@ -9237,7 +9229,7 @@ sa	sa	201
 sa	沙	90
 sa	柵	129
 sa	砂	89
-sa                紗                88
+sa	紗	88
 sa2	sá	201
 sa2	灑	38
 sa2	洒	97
@@ -10551,7 +10543,7 @@ ta	乾	89
 ta	礁	117
 ta2	tá	201
 ta2	叨	90
-ta2               打                101
+ta2	打	101
 ta3	tà	201
 ta3	罩	129
 ta5	tâ	201
@@ -13760,13 +13752,16 @@ gongngiah	昂愕	308
 guihiam	gûihiám	310
 guihiam	gûi-hiám	309
 guihiam	危險	308
-haichhau	háichháu	310
-haichhau	hái-chháu	309
-haichhau	海草	308
 haiang	háiang	310
 haiang	hái-ang	309
 ###TODO
 haiang	海翁	308
+haichhau	háichháu	310
+haichhau	hái-chháu	309
+haichhau	海草	308
+haichui	háichúi	310
+haichui	hái-chúi	309
+haichui	海水	308
 haieng	háiéng	310
 haieng	hái-éng	309
 haieng	海湧	308
@@ -14005,6 +14000,13 @@ honghoat	方法	308
 honghu	honghù	310
 honghu	hong-hù	309
 honghu	豐富	308
+honghun	hônghun	310
+honghun	hông-hun	309
+honghun	黃昏	308
+honghunam	hônghunàm	310
+honghunam	hông-hun-àm	309
+###TODO
+honghunam	黃昏暗	308	#TJT
 hongkhi	hòngkhì	310
 hongkhi	hòng-khì	309
 hongkhi	放棄	308
@@ -14350,6 +14352,9 @@ kantann	kan-taⁿ	309
 kantann	干乾	308
 kantann	干礁	307
 kantann	干焦	306
+kapi	kapi	310
+kapi	ka-pi	309
+kapi	珈琲	308
 kapou	kapò͘	310
 kapou	ka-pò͘	309
 ###TODO
@@ -15470,6 +15475,9 @@ pohou	保護	308
 poko	pòkò	310
 poko	pò-kò	309
 poko	報告	308
+pole	polê	310
+pole	po-lê	309
+pole	玻璃	308
 poliu	póliû	310
 poliu	pó-liû	309
 poliu	保留	308
@@ -16286,6 +16294,10 @@ tiongsim	中心	308
 tiongsim	tiōngsim	310
 tiongsim	tiōng-sim	309
 tiongsim	重心	308
+tiongtau	tiongtàu	310
+tiongtau	tiong-tàu	309
+###TODO
+tiongtau	中 tàu	308
 tisek	tìsek	310
 tisek	tì-sek	309
 tisek	智識	308
@@ -16295,6 +16307,9 @@ titchiap	直接	308
 tittit	ti̍tti̍t	310
 tittit	ti̍t-ti̍t	309
 tittit	直直	308
+toahai	tōahái	310
+toahai	tōa-hái	309
+toahai	大海	308
 toalang	tōalâng	310
 toalang	tōa-lâng	309
 toalang	大人	308
@@ -16368,6 +16383,13 @@ thauphou	thâupho͘	310
 thauphou	thâu-pho͘	309
 ###TODO
 thauphou	頭麩	308	#TJT
+thausu	thâusū	310
+thausu	thâu-sū	309
+thausu	頭序	308
+thautiongtau	thàutiongtàu	310
+thautiongtau	thàu-tiong-tàu	309
+###TODO
+thautiongtau	透中 tàu	308
 thebian	thébiān	310
 thebian	thé-biān	309
 thebian	體面	308
