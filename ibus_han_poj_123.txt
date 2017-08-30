@@ -5257,16 +5257,8 @@ koa3	盖	44
 koa3	芥	113
 koa5	koâ	201
 koah	koah	201
-<<<<<<< HEAD
 koah              刈                133 
 koah	割	74
-||||||| merged common ancestors
-koah              刈                133 
-koah	割	104
-=======
-koah	刈	133 
-koah	割	104
->>>>>>> dc387d713beed2a84d68a189dcd65ace614ca290
 koah	葛	113
 koai	koai	201
 koai	乖	100
