@@ -2059,6 +2059,10 @@ chok8	cho̍k	201
 chok8	昨	99
 chok8	族	123
 chok8	濁	95
+chom              chom              201
+chom              箴                88
+chom2             chóm              201
+chom2             怎                88
 chong	chong	201
 chong	妝	99
 chong	宗	122
@@ -5663,6 +5667,8 @@ long5	聾	87
 long7	lōng	201
 long7	弄	90
 long7	浪	119
+lop               lop               201
+lop               凹                111
 lou2	ló͘	201
 lou2	鹵	118
 lou2	虜	97
@@ -7989,7 +7995,8 @@ sok	速	118
 sok	宿	111
 sok	縮	110
 som	som	201
-som	參	100
+som               森                113
+som	參	112
 song	song	201
 song	桑	90
 song	喪	119
@@ -8708,6 +8715,10 @@ thok	拓	99
 thok	託	116
 thok8	tho̍k	201
 thok8	讀	99
+thom              thom              201
+thom              丼                111
+thom5             thôm              201
+thom5             丼                111
 thong	thong	201
 thong	通	117
 thong	湯	96
@@ -9170,9 +9181,11 @@ tok8	獨	117
 tok8              独                55
 tok8	牘	85
 tom	tom	201
-tom	丼	100
+tom	丼	111
+tom3              tòm               201
+tom3              朕                103
 tom5	tôm	201
-tom5	丼	100
+tom5	丼	111
 tong	tong	201
 tong	冬	99
 tong	東	118
