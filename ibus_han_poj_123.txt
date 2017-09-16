@@ -9445,8 +9445,8 @@ bikok	美國	307
 bilai	bīlâi	310
 bilai	bī-lâi	309
 bilai	未來	308
-binachai	bîn-á-chài	310
-binachai	bînáchài	309
+binachai	bîn-ná-chài	310
+binachai	bînnáchài	309
 ###DONE
 ###我 mā 是建議將 binachai 个 OUTPUT
 ###chhiâu 做「bînnáchài / bîn-ná-chài」
@@ -9504,8 +9504,8 @@ bukhi	bú-khì	309
 bukhi	武器	308
 buto	bútō	310
 buto	bú-tō	309
-buto	舞蹈	308
-buto	武道	307
+buto	武道	308
+buto	舞蹈	307
 bunbeng	bûnbêng	310
 bunbeng	bûn-bêng	309
 bunbeng	文明	308
@@ -9520,7 +9520,8 @@ bunhak	bûn-ha̍k	309
 bunhak	文學	308
 bunhian	bûnhiàn	310
 bunhian	bûn-hiàn	309
-bunhian	文獻	308
+bunhian           文献              308
+bunhian	文獻	307
 bunhoa	bûnhòa	310
 bunhoa	bûn-hòa	309
 bunhoa	文化	308
@@ -9655,9 +9656,14 @@ chiahhong	食風	308	#TJT
 chiahlat	chiahla̍t	310
 chiahlat	chiah-la̍t	309
 chiahlat	食力	308
+chiahni	chiahnī	310
+chiahni	chiah-nī	309
+chiahni           者哖              308
+chiahni	隻哖	307
 chiahnih	chiahni̍h	310
 chiahnih	chiah-ni̍h	309
-chiahnih	隻哖	308
+chiahnih          者哖              308
+chiahnih	隻哖	307
 chiahpng	chia̍hpn̄g	310
 chiahpng	chia̍h-pn̄g	309
 chiahpng	食飯	308
@@ -9702,7 +9708,8 @@ chincheng	chìn-chêng	309
 chincheng	進前	308
 chinchiann	chinchiàⁿ	310
 chinchiann	chin-chiàⁿ	309
-chinchiann	真正	308
+chinchiann	眞正	308
+chinchiann        真正              307
 chinheng	chìnhêng	310
 chinheng	chìn-hêng	309
 chinheng	進行	308
@@ -9774,7 +9781,7 @@ chongthong	chóng-thóng	309
 chongthong	總統	308
 chohoe	chòhóe	310
 chohoe	chò-hóe	309
-chohoe	??	308
+chohoe	做伙	308
 choukong	chó͘kong	310
 choukong	chó͘-kong	309
 choukong	祖公	308
@@ -9807,7 +9814,7 @@ chuiu	chū-iû	309
 chuiu	自由	308
 chuichun	chúichún	310
 chuichun	chúi-chún	309
-chuichun	水準	308
+chuichun	水凖	308
 chuikai	chúikái	310
 chuikai	chúi-kái	309
 chuikai	水解	308
@@ -9831,11 +9838,11 @@ chuliau	chu-liāu	309
 chuliau	資料	308
 chunchat	chúnchat	310
 chunchat	chún-chat	309
-###TODO
-chunchat	準節	308	#TJT
+###DONE
+chunchat	凖節	308	#TJT
 chunpi	chúnpī	310
 chunpi	chún-pī	309
-chunpi	準備	308
+chunpi	凖備	308
 chuntiong	chuntiōng	310
 chuntiong	chun-tiōng	309
 chuntiong	尊重	308
@@ -9874,7 +9881,8 @@ chhailiau	chhâi-liāu	309
 chhailiau	材料	308
 chhaithang	chhàithâng	310
 chhaithang	chhài-thâng	309
-chhaithang	菜蟲	308
+chhaithang        菜虫              308
+chhaithang	菜蟲	307
 chhaithau	chhàithâu	310
 chhaithau	chhài-thâu	309
 chhaithau	菜頭	308
@@ -9898,9 +9906,9 @@ chhangchuibi	chhàng-chúi-bī	309
 chhangchuibi	汆水味	308
 chhanthiann	chhanthiaⁿ	310
 chhanthiann	chhan-thiaⁿ	309
-chhanthiann	餐廳	308
+chhanthiann	餐廳	307
 ###ADDED
-chhanthiann	餐厛	307
+chhanthiann	餐厛	308
 chhaputto	chhaputto	310
 chhaputto	chha-put-to	309
 chhaputto	差不多	308
@@ -9998,6 +10006,7 @@ chhiulou	chhiú-lō͘	309
 chhiulou	手路	308
 chhiunnkiap	chhiúⁿkiap	310
 chhiunnkiap	chhiúⁿ-kiap	309
+#TODO: PROGRESS MARKER
 chhiunnkiap	搶劫	308
 chhiunnkiap	搶刼	307
 chhiunnsiong	chhiúⁿsiong	310
