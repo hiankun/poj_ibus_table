@@ -9454,7 +9454,6 @@ besin	bêsìn	310
 besin	bê-sìn	309
 besin	迷信	308
 betang	bētàng	310
-betang	bē tàng	309
 betang	bē-tàng	309
 betang	袂凍	307
 bibiau	bībiāu	310
@@ -9644,7 +9643,8 @@ chengkhu	cheng-khū	309
 chengkhu	舂臼	308	#TJT
 chenglang	chènglâng	310
 chenglang	chèng-lâng	309
-chenglang	眾人	308
+chenglang	衆人	308
+chenglang	眾人	307
 chengli	chénglí	310
 chengli	chéng-lí	309
 chengli	整理	308
@@ -9804,6 +9804,10 @@ chongthai	狀態	308
 chongthong	chóngthóng	310
 chongthong	chóng-thóng	309
 chongthong	總統	308
+chongsi	chóngsī	310
+chongsi	chóng-sī	309
+chongsi	chóng--sī	308
+chongsi	總是	307
 chohoe	chòhóe	310
 chohoe	chò-hóe	309
 chohoe	做伙	308
@@ -10067,6 +10071,9 @@ chhongchok	創作	308
 chhongou	chhòngō͘	310
 chhongou	chhò-ngō͘	309
 chhongou	錯誤	308
+chhouhak	chho͘ha̍k	310
+chhouhak	chho͘-ha̍k	309
+chhouhak	初學	308
 chhoukang	chho͘kang	310
 chhoukang	chho͘-kang	309
 chhoukang	粗工	308
@@ -10632,9 +10639,15 @@ hunin	婚姻	308
 hunkai	hunkái	310
 hunkai	hun-kái	309
 hunkai	分解	308
+hunkhui	hunkhui	310
+hunkhui	hun-khui	309
+hunkhui	分開	308
 hunlian	hùnliān	310
 hunlian	hùn-liān	309
 hunlian	訓練	308
+hunpiat	hunpiat	310
+hunpiat	hun-piat	309
+hunpiat	分別	308
 huikhi	hùikhì	310
 huikhi	hùi-khì	309
 ###TODO
@@ -10904,6 +10917,9 @@ kangkhoan	kāngkhoán	310
 kangkhoan	kāng-khoán	309
 kangkhoan	仝欵	308
 kangkhoan	共欵	307
+kangkiu	kángkiù	310
+kangkiu	káng-kiù	309
+kangkiu	講究	308
 kanglang	kanglâng	310
 kanglang	kang-lâng	309
 kanglang	工人	308
@@ -11830,10 +11846,14 @@ mihkiann	mi̍h-kiāⁿ	309
 mihkiann	物件	308
 mkoh	m̄koh	310
 mkoh	m̄-koh	309
-mkoh	m̄ koh	308
-mkoh	不閣	307
+mkoh	不閣	308
 mna	m̄nā	310
 mna	m̄-nā	309
+###TODO
+mna	??	308
+msi	m̄sī	310
+msi	m̄-sī	309
+msi	不是	308
 mngkngkhang	mn̂gkńgkhang	310
 mngkngkhang	mn̂g-kńg-khang	309
 mngkngkhang	毛管空	308
@@ -11859,6 +11879,10 @@ mthang	不通	307
 muithe	mûithé	310
 muithe	mûi-thé	309
 muithe	媒體	308
+nasi	nāsī	310
+nasi	nā-sī	309
+###TODO
+nasi	那是	308
 ngkin	náukin	310
 ngkin	náu-kin	309
 ngkin	腦筋	308
@@ -11969,6 +11993,9 @@ pengcheng	平靜	308
 pengiu	pêngiú	310
 pengiu	pêng-iú	309
 pengiu	朋友	308
+pengsi	pêngsî	310
+pengsi	pêng-sî	309
+pengsi	平時	308
 penntai	pêⁿtâi	310
 penntai	pêⁿ-tâi	309
 penntai	平台	308
@@ -12105,6 +12132,9 @@ punsin	本身	308
 punte	púnté	310
 punte	pún-té	309
 punte	本底	308
+puntiunn	puntiuⁿ	310
+puntiunn	pun-tiuⁿ	309
+puntiunn	分張	308
 putchou	Pu̍tchó͘	310
 putchou	Pu̍t-chó͘	309
 putchou	佛祖	308
@@ -12530,9 +12560,19 @@ siunnhoat	想法	308
 snghai	sńghāi	310
 snghai	sńg-hāi	309
 snghai	損害	308
+sngpoann	sǹgpôaⁿ	310
+sngpoann	sǹg-pôaⁿ	309
+sngpoann	算盤	308
+sngsiau	sǹgsiàu	310
+sngsiau	sǹg-siàu	309
+###TODO
+sngsiau	算數	308
 soannteng	sòaⁿténg	310
 soannteng	sòaⁿ-téng	309
 soannteng	線頂	308
+soanhoat	soànhoat	310
+soanhoat	soàn-hoat	309
+soanhoat	算法	308
 soatbeng	soatbêng	310
 soatbeng	soat-bêng	309
 soatbeng	說明	308
@@ -12551,6 +12591,12 @@ soktou	速度	308
 songkhoai	sóngkhoài	310
 songkhoai	sóng-khoài	309
 songkhoai	爽快	308
+soubak	sò͘ba̍k	310
+soubak	sò͘-ba̍k	309
+soubak	數目	308
+soubok	sò͘bo̍k	310
+soubok	sò͘-bo̍k	309
+soubok	數目	308
 souhak	sò͘ha̍k	310
 souhak	sò͘-ha̍k	309
 souhak	數學	308
@@ -12824,9 +12870,11 @@ tiankong	電光	308
 tiannau	tiānnáu	310
 tiannau	tiān-náu	309
 tiannau	電腦	308
+tianntiann	tiāⁿtiāⁿ	310
+tianntiann	tiāⁿ-tiāⁿ	309
+tianntiann	定定	308	#TJT
 tianntioh	tiāⁿtio̍h	310
 tianntioh	tiāⁿ-tio̍h	309
-#OK
 tianntioh	定着	308	#TJT
 tianpo	tiānpò	310
 tianpo	tiān-pò	309
