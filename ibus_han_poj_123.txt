@@ -10217,6 +10217,9 @@ etang	能凍	306
 ete	ēté	310
 ete	ē-té	309
 ete	下底	308
+gasuh	gásuh	310
+gasuh	gá-suh	309
+gasuh	瓦斯	308	#TJ
 gankai	gánkài	310
 gankai	gán-kài	309
 gankai	眼界	308
