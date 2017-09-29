@@ -1,4 +1,4 @@
-## File header must not be modified
+## File uheader must not be modified
 ### This file must be encoded into UTF-8.
 ### This table under LGPL
 ### comments start with ### not single #
@@ -12967,15 +12967,30 @@ tongan	檔案	308
 tongbut	tōngbu̍t	310
 tongbut	tōng-bu̍t	309
 tongbut	動物	308
+tongchhong	tôngchhong	310
+tongchhong	tông-chhong	309
+tongchhong	同窗	308
+tongchhonghoe	tôngchhonghōe	310
+tongchhonghoe	tông-chhong-hōe	309
+tongchhonghoe	同窗會	308
 tongchok	tōngchok	310
 tongchok	tōng-chok	309
 tongchok	動作	308
+tongi	tôngì	310
+tongi	tông-ì	309
+tongi	同意	308
 tongki	tōngki	310
 tongki	tōng-ki	309
 tongki	動機	308
 tonglek	tōngle̍k	310
 tonglek	tōng-le̍k	309
 tonglek	動力	308
+tongoh	tôngo̍h	310
+tongoh	tông-o̍h	309
+tongoh	同學	308
+tongsu	tôngsū	310
+tongsu	tông-sū	309
+tongsu	同事	308
 tosia	tosiā	310
 tosia	to-siā	309
 tosia	多謝	308
@@ -13003,8 +13018,8 @@ thaucheng	頭前	308
 thauke	thâuke	310
 thauke	thâu-ke	309
 thauke	頭家	308
-thaukhak	thâukhah	310
-thaukhak	thâu-khah	309
+thaukhak	thâukhak	310
+thaukhak	thâu-khak	309
 thaukhak	頭殼	308
 thaulou	thâulō͘	310
 thaulou	thâu-lō͘	309
