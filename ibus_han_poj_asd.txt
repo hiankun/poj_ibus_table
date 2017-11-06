@@ -11278,6 +11278,9 @@ khunlan	困難	308
 khunlantou	khùnlântō͘	310
 khunlantou	khùn-lân-tō͘	309
 khunlantou	困難度	308
+khutchiat	khutchiat	310
+khutchiat	khut-chiat	309
+khutchiat	屈折	308
 khuthui	khūthûi	310
 khuthui	khū-thûi	309
 khuthui	臼槌	308
