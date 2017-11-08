@@ -10357,6 +10357,9 @@ haiang	háiang	310
 haiang	hái-ang	309
 ###TODO
 haiang	海翁	308
+haichhat	háichha̍t	310
+haichhat	hái-chha̍t	309
+haichhat	海賊	308
 haichhau	háichháu	310
 haichhau	hái-chháu	309
 haichhau	海草	308
@@ -10791,6 +10794,9 @@ jiaiam	遮掩	308
 jibo	jībó	310
 jibo	jī-bó	309
 jibo	字母	308
+jinbut	jînbu̍t	310
+jinbut	jîn-bu̍t	309
+jinbut	人物	308
 jintong	jīntông	310
 jintong	jīn-tông	309
 jintong	認同	308
