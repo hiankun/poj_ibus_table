@@ -5763,11 +5763,13 @@ lutk	律	119
 lutk	率	77
 Ma	M	202
 Ms	Ḿ	202
+Md	M̀	202
 Mg	M̂	202
 Mj	M̄	202
 ma	m	201
 ms	ḿ	201
 ms	姆	129
+md	m̀	202
 mg	m̂	201
 mg	梅	120
 mj	m̄	201

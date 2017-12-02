@@ -5763,11 +5763,13 @@ lut8	律	119
 lut8	率	77
 M	M	202
 M2	Ḿ	202
+M3	M̀	202
 M5	M̂	202
 M7	M̄	202
 m	m	201
 m2	ḿ	201
 m2	姆	129
+m3	m̀	202
 m5	m̂	201
 m5	梅	120
 m7	m̄	201
@@ -9007,6 +9009,7 @@ tng7	丈	120
 tng7	撞	119
 tng7	断	48
 tng7	斷	127
+to2	tó	201
 to2	島	127
 to3	tò	201
 to3	到	90
@@ -12512,6 +12515,9 @@ siongte	上帝	308
 siongtian	siongtián	310
 siongtian	siong-tián	309
 siongtian	商展	308
+siotian	siótiān	310
+siotian	siótiān	309
+siotian	小電	308
 sisiong	sîsiông	310
 sisiong	sî-siông	309
 sisiong	時常	308
@@ -12860,6 +12866,9 @@ tianhun	電雲	308
 tianhoe	tiānhóe	310
 tianhoe	tiān-hóe	309
 tianhoe	電火	308
+tianhoepou	tiānhóepò͘	310
+tianhoepou	tiān-hóe-pò͘	309
+tianhoepou	電火布	308
 tianhong	tiānhong	310
 tianhong	tiān-hong	309
 tianhong	電風	308
@@ -12879,6 +12888,9 @@ tiankng	電光	308
 tiankong	tiānkong	310
 tiankong	tiān-kong	309
 tiankong	電光	308
+tianlou	tiānlō͘	310
+tianlou	tiān-lō͘	309
+tianlou	電路	308
 tiannau	tiānnáu	310
 tiannau	tiān-náu	309
 tiannau	電腦	308
@@ -12897,6 +12909,9 @@ tianpothiau	電報柱	308
 tiansi	tiānsī	310
 tiansi	tiān-sī	309
 tiansi	電視	308
+tiansoann	tiānsòaⁿ	310
+tiansoann	tiān-sòaⁿ	309
+tiansoann	電線	308
 tianto	tiantó	310
 tianto	tian-tó	309
 #DONE
@@ -12967,6 +12982,9 @@ toalang	大人	308
 toalau	tōalâu	310
 toalau	tōa-lâu	309
 toalau	大樓	308
+toatian	tōatiān	310
+toatian	tōa-tiān	309
+toatian	大電	308
 toklip	to̍kli̍p	310
 toklip	to̍k-li̍p	309
 toklip	獨立	308
