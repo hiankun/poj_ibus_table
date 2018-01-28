@@ -10021,6 +10021,9 @@ chhiahsng	赤酸	308
 chhiammia	chhiammiâ	310
 chhiammia	chhiam-miâ	309
 chhiammia	簽名	308
+chhianhian	chhiánhiān	310
+chhianhian	chhián-hiān	309
+chhianhian	淺現	308	#TJT
 chhiaukoe	chhiaukòe	310
 chhiaukoe	chhiau-kòe	309
 chhiaukoe	超過	308
