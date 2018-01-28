@@ -10436,6 +10436,10 @@ hausoanjin	候選人	308
 hengbi	hèngbī	310
 hengbi	hèng-bī	309
 hengbi	興味	308
+hengchhinn	hêngchhiⁿ	310
+hengchhinn	hêng-chhiⁿ	309
+hengchhinn	恒星	308
+hengchhinn	行星	307 #kiàngī iōng ``iû-chhiⁿ/遊星''
 hengchhu	hèngchhù	310
 hengchhu	hèng-chhù	309
 hengchhu	興趣	308
@@ -10776,6 +10780,9 @@ itteng	一定	308
 ittit	itti̍t	310
 ittit	it-ti̍t	309
 ittit	一直	308
+iuchhinn	iûchhiⁿ	310
+iuchhinn	iû-chhiⁿ	309
+iuchhinn	遊星	308
 iuengkong	Iúèngkong	310
 iuengkong	Iú-èng-kong	309
 iuengkong	有應公	308
@@ -12216,8 +12223,8 @@ phoasiunn	phòasiùⁿ	310
 phoasiunn	phòa-siùⁿ	309
 ###OK
 phoasiunn	破相	308	#TJT
-phoksu	Phoksū	310
-phoksu	Phok-sū	309
+Phoksu	Phoksū	310
+Phoksu	Phok-sū	309
 phoksu	phoksū	308
 phoksu	phok-sū	307
 phoksu	博士	306
@@ -12355,6 +12362,13 @@ sesu	世事	308
 siahoe	siāhōe	310
 siahoe	siā-hōe	309
 siahoe	社會	308
+sianjin	sianjîn	310
+sianjin	sian-jîn	309
+sianjin	先人	308
+Siansinn	Siansiⁿ	310
+siansinn	siansiⁿ	310
+siansinn	sian-siⁿ	309
+siansinn	先生	308
 siannim	siaⁿim	310
 siannim	siaⁿ-im	309
 siannim	聲音	308
@@ -13154,4 +13168,7 @@ uiti	位置	308
 untou	untō͘	310
 untou	un-tō͘	309
 untou	溫度	308
+utiu	útiū	310
+utiu	ú-tiū	309
+utiu	宇宙	308
 END_TABLE
