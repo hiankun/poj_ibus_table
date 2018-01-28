@@ -10439,7 +10439,7 @@ hengbi	興味	308
 hengchhinn	hêngchhiⁿ	310
 hengchhinn	hêng-chhiⁿ	309
 hengchhinn	恒星	308
-hengchhinn	行星	307 #kiàngī iōng ``iû-chhiⁿ/遊星''
+hengchhinn	行星	307	#kiàngī iōng ``iû-chhiⁿ/遊星''
 hengchhu	hèngchhù	310
 hengchhu	hèng-chhù	309
 hengchhu	興趣	308
