@@ -9009,6 +9009,7 @@ tngj	丈	120
 tngj	撞	119
 tngj	断	48
 tngj	斷	127
+tos	tó	201
 tos	島	127
 tod	tò	201
 tod	到	90
@@ -10435,6 +10436,10 @@ hausoanjin	候選人	308
 hengbi	hèngbī	310
 hengbi	hèng-bī	309
 hengbi	興味	308
+hengchhinn	hêngchhiⁿ	310
+hengchhinn	hêng-chhiⁿ	309
+hengchhinn	恒星	308
+hengchhinn	行星	307 #kiàngī iōng ``iû-chhiⁿ/遊星''
 hengchhu	hèngchhù	310
 hengchhu	hèng-chhù	309
 hengchhu	興趣	308
@@ -10775,6 +10780,9 @@ itteng	一定	308
 ittit	itti̍t	310
 ittit	it-ti̍t	309
 ittit	一直	308
+iuchhinn	iûchhiⁿ	310
+iuchhinn	iû-chhiⁿ	309
+iuchhinn	遊星	308
 iuengkong	Iúèngkong	310
 iuengkong	Iú-èng-kong	309
 iuengkong	有應公	308
@@ -12215,8 +12223,8 @@ phoasiunn	phòasiùⁿ	310
 phoasiunn	phòa-siùⁿ	309
 ###OK
 phoasiunn	破相	308	#TJT
-phoksu	Phoksū	310
-phoksu	Phok-sū	309
+Phoksu	Phoksū	310
+Phoksu	Phok-sū	309
 phoksu	phoksū	308
 phoksu	phok-sū	307
 phoksu	博士	306
@@ -12354,6 +12362,13 @@ sesu	世事	308
 siahoe	siāhōe	310
 siahoe	siā-hōe	309
 siahoe	社會	308
+sianjin	sianjîn	310
+sianjin	sian-jîn	309
+sianjin	先人	308
+Siansinn	Siansiⁿ	310
+siansinn	siansiⁿ	310
+siansinn	sian-siⁿ	309
+siansinn	先生	308
 siannim	siaⁿim	310
 siannim	siaⁿ-im	309
 siannim	聲音	308
@@ -12514,6 +12529,9 @@ siongte	上帝	308
 siongtian	siongtián	310
 siongtian	siong-tián	309
 siongtian	商展	308
+siotian	siótiān	310
+siotian	siótiān	309
+siotian	小電	308
 sisiong	sîsiông	310
 sisiong	sî-siông	309
 sisiong	時常	308
@@ -12862,6 +12880,9 @@ tianhun	電雲	308
 tianhoe	tiānhóe	310
 tianhoe	tiān-hóe	309
 tianhoe	電火	308
+tianhoepou	tiānhóepò͘	310
+tianhoepou	tiān-hóe-pò͘	309
+tianhoepou	電火布	308
 tianhong	tiānhong	310
 tianhong	tiān-hong	309
 tianhong	電風	308
@@ -12881,6 +12902,9 @@ tiankng	電光	308
 tiankong	tiānkong	310
 tiankong	tiān-kong	309
 tiankong	電光	308
+tianlou	tiānlō͘	310
+tianlou	tiān-lō͘	309
+tianlou	電路	308
 tiannau	tiānnáu	310
 tiannau	tiān-náu	309
 tiannau	電腦	308
@@ -12899,6 +12923,9 @@ tianpothiau	電報柱	308
 tiansi	tiānsī	310
 tiansi	tiān-sī	309
 tiansi	電視	308
+tiansoann	tiānsòaⁿ	310
+tiansoann	tiān-sòaⁿ	309
+tiansoann	電線	308
 tianto	tiantó	310
 tianto	tian-tó	309
 #DONE
@@ -12969,6 +12996,9 @@ toalang	大人	308
 toalau	tōalâu	310
 toalau	tōa-lâu	309
 toalau	大樓	308
+toatian	tōatiān	310
+toatian	tōa-tiān	309
+toatian	大電	308
 toklip	to̍kli̍p	310
 toklip	to̍k-li̍p	309
 toklip	獨立	308
@@ -13138,4 +13168,7 @@ uiti	位置	308
 untou	untō͘	310
 untou	un-tō͘	309
 untou	溫度	308
+utiu	útiū	310
+utiu	ú-tiū	309
+utiu	宇宙	308
 END_TABLE
