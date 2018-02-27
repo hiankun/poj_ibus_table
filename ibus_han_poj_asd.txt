@@ -9009,6 +9009,9 @@ tngj	丈	120
 tngj	撞	119
 tngj	断	48
 tngj	斷	127
+toa	to	201
+toa	刀	120
+toa	都	119
 tos	tó	201
 tos	島	127
 tod	tò	201
