@@ -10430,6 +10430,7 @@ hauko	效果	308
 hauleng	hāulêng	310
 hauleng	hāu-lêng	309
 hauleng	效能	308
+# bô kiàngī iōng "lu̍t=率", m̄-koh chiāmsî bô kái-hong...
 haulut	hāulu̍t	310
 haulut	hāu-lu̍t	309
 haulut	效率	308
