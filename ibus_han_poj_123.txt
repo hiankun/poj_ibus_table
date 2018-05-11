@@ -8728,6 +8728,8 @@ tiah	摘	120
 tiah8	tia̍h	201
 tiah8	糴	120
 tiah8	籴	55
+tiak	tiak	201
+tiak8	tia̍k	201
 tiam	tiam	201
 tiam	砧	120
 tiam	沾	99
@@ -11474,6 +11476,9 @@ koanchiong	觀眾	308
 koanhe	koanhē	310
 koanhe	koan-hē	309
 koanhe	關係	308
+koankian	koankiān	310
+koankian	koan-kiān	309
+koankian	關鍵	308
 koankong	Koankong	310
 koankong	Koan-kong	309
 koankong	關公	308
