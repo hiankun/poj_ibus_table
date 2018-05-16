@@ -10187,6 +10187,9 @@ engia	engia	310
 engia	eng-ia	309
 ###TODO
 engia	揚埃	308	#TJT
+engiong	èngiōng	310
+engiong	èng-iōng	309
+engiong	應用	308
 engiong	êngióng	310
 engiong	êng-ióng	309
 engiong	營養	308
@@ -10492,6 +10495,9 @@ hianbeng	顯名	307	#TJT
 hiangsiu	hiángsiū	310
 hiangsiu	hiáng-siū	309
 hiangsiu	享受	308
+hiansi	hiānsî	310
+hiansi	hiān-sî	309
+hiansi	現時	308
 hiansiong	hiānsiōng	310
 hiansiong	hiān-siōng	309
 hiansiong	現象	308
@@ -10698,6 +10704,21 @@ iaukoh	夭閣	308
 imtian	imtiān	310
 imtian	im-tiān	309
 imtian	陰電	308
+iohchui	io̍hchúi	310
+iohchui	io̍h-chúi	309
+iohchui	藥水	308
+iohkiok	io̍hkio̍k	310
+iohkiok	io̍h-kio̍k	309
+iohkiok	藥局	308
+iohoan	io̍hoân	310
+iohoan	io̍h-oân	309
+iohoan	藥丸	308
+iohpang	io̍hpâng	310
+iohpang	io̍h-pâng	309
+iohpang	藥房	308
+iohphin	io̍hphín	310
+iohphin	io̍h-phín	309
+iohphin	藥品	308
 iongchong	ióngchòng	310
 iongchong	ióng-chòng	309
 iongchong	勇壯	308
@@ -11428,6 +11449,9 @@ kinkhoai	緊快	308	#TJT
 kinkin	kínkín	310
 kinkin	kín-kín	309
 kinkin	緊緊	308	#TJT
+kintai	kīntāi	310
+kintai	kīntāi	309
+kintai	近代	308	#TJT
 kionghi	kionghí	310
 kionghi	kiong-hí	309
 kionghi	恭喜	308
@@ -11966,6 +11990,8 @@ nngjun	軟 jūn	308	#TJT
 nngthe	nńgthé	310
 nngthe	nńg-thé	309
 nngthe	軟體	308
+oakho	óakhò	310
+oakho	óa-khò	309
 oanboan	oânboán	310
 oanboan	oân-boán	309
 oanboan	完滿	308
@@ -12109,6 +12135,9 @@ pobea	報馬仔	308
 pochhi	póchhî	310
 pochhi	pó-chhî	309
 pochhi	保持	308
+pochoa	pòchóa	310
+pochoa	pò-chóa	309
+pochoa	報紙	308
 pochun	póchûn	310
 pochun	pó-chûn	309
 pochun	保存	308
@@ -12184,6 +12213,9 @@ phainnlang	歹人	308
 phainnse	pháiⁿsè	310
 phainnse	pháiⁿ-sè	309
 phainnse	歹世	308
+phangliau	phangliāu	310
+phangliau	phang-liāu	309
+phangliau	香料	308
 phiauchun	phiauchún	310
 phiauchun	phiau-chún	309
 phiauchun	標準	308
@@ -12243,6 +12275,12 @@ phoksu	博士	306
 phongpha	phòngphā	310
 phongpha	phòng-phā	309
 phongpha	凸泡	308	#TJT
+phouphian	phó͘tō͘	310
+phouphian	phó͘-tō͘	309
+phouphian	普度	308
+phouthong	phó͘thong	310
+phouthong	phó͘-thong	309
+phouthong	普通	308
 phulouthin	phuló͘thìn	310	#protein
 phulouthin	phu-ló͘-thìn	309
 saipakhou	saipakhō͘	310
@@ -12535,6 +12573,9 @@ siongsionglek	想像力	308
 siongsiong	siôngsiông	310
 siongsiong	siông-siông	309
 siongsiong	常常	308
+siongsek	siôngsek	310
+siongsek	siông-sek	309
+siongsek	常識	308
 siongte	Siōngtè	310
 siongte	Siōng-tè	309
 siongte	上帝	308
@@ -12742,6 +12783,10 @@ taike	大家	308
 tailam	Tâilâm	310
 tailam	Tâi-lâm	309
 tailam	台南	307
+tailiok	tāilio̍k	310
+tailiok	tāi-lio̍k	309
+tailiok	大略	307
+tailiok	大陸	306
 taioan	Tâioân	310
 taioan	Tâi-oân	309
 taioan	台員	307
@@ -13134,6 +13179,9 @@ thiamthau	thiámthâu	310
 thiamthau	thiám-thâu	309
 ###OK
 thiamthau	忝頭	308	#TJT
+thianjian	thianjiân	310
+thianjian	thian-jiân	309
+thianjian	天然	308
 thiaubu	thiaubú	310
 thiaubu	thiau-bú	309
 thiaubu	跳舞	308
