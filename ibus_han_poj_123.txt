@@ -12865,6 +12865,9 @@ tekhi	地氣	308
 tekiu	tēkiû	310
 tekiu	tē-kiû	309
 tekiu	地球	308
+tekkhak	tekkhak	310
+tekkhak	tek-khak	309
+tekkhak	的確	308
 tekpiat	te̍kpia̍t	310
 tekpiat	te̍k-pia̍t	309
 tekpiat	特別	308
