@@ -13047,6 +13047,10 @@ titchiap	直接	308
 tittit	ti̍tti̍t	310
 tittit	ti̍t-ti̍t	309
 tittit	直直	308
+Tiunnlo	Tiúⁿló	310
+tiunnlo	tiúⁿló	309
+tiunnlo	tiúⁿ-ló	308
+tiunnlo	長老	307
 toahai	tōahái	310
 toahai	tōa-hái	309
 toahai	大海	308
