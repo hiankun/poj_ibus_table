@@ -5145,6 +5145,7 @@ lang	欄	113
 lang	蘭	122
 lang	鱗	130
 lanj	lān	201
+lanj	玍	131
 lanj	難	119
 lanj	爛	97
 langa	lang	201
@@ -10369,7 +10370,7 @@ guihiam	gûi-hiám	309
 guihiam	危險	308
 haiang	háiang	310
 haiang	hái-ang	309
-###TODO
+###DONE, OK
 haiang	海翁	308
 haichhat	háichha̍t	310
 haichhat	hái-chha̍t	309
