@@ -5,43 +5,43 @@ The purpose of the project is to create an IBus table for POJ users.
 The table was modified from one of the cin-tables ([poj-holo.cin](https://github.com/chinese-opendesktop/cin-tables)).
 
 ## Test Environment
-The table has been created and tested in Ubuntu 16.04. 
+The table has been created and tested in Ubuntu 16.04.
 
 ## Steps
 
-1. The (optional) pre-processes to create poj.db from the cin table 
+1. The (optional) pre-processes to create poj.db from the cin table
 
-    * Go to you working directory.
-    * Prepare the cin table `poj-holo.cin`
-    * Copy the file for editing:
-      `$cp /usr/share/ibus-table/table/template.txt <ibus_han_poj_123.txt>`
-    * Convert the cin table to meet the ibus format by using:
-      `$awk '/\%chardef begin/{f=1;next}/\%chardef end/{exit}f' poj-holo.cin | awk '{count[$1]++}{print $1"\t"$2"\t"101-count[$1]}' | tr '[A-Z]' '[a-z]' >> ibus_han_poj_123.txt`
-    * Edit `ibus_han_poj_123.txt` to fit your need
+  * Go to you working directory.
+  * Prepare the cin table `poj-holo.cin`
+  * Copy the file for editing:
+    `$cp /usr/share/ibus-table/table/template.txt <ibus_han_poj_123.txt>`
+  * Convert the cin table to meet the ibus format by using:
+    `$awk '/\%chardef begin/{f=1;next}/\%chardef end/{exit}f' poj-holo.cin | awk '{count[$1]++}{print $1"\t"$2"\t"101-count[$1]}' | tr '[A-Z]' '[a-z]' >> ibus_han_poj_123.txt`
+  * Edit `ibus_han_poj_123.txt` to fit your need
 
 2. (a) Create/update the poj.db and add it to you system (long version)
 
-    * Create the table:
-      `$ibus-table-createdb -s ibus_han_poj_123.txt -n poj.db`
-    * Copy the table to its working directory:
-      `$sudo cp poj.db /usr/share/ibus-table/tables/`
-    * Add the icon:
-      `sudo cp pics/ibus-poj.svg /usr/share/ibus-table/icons/`
-    * Restart IBus:
+  * Create the table:
+    `$ibus-table-createdb -s ibus_han_poj_123.txt -n poj.db`
+  * Copy the table to its working directory:
+    `$sudo cp poj.db /usr/share/ibus-table/tables/`
+  * Add the icon:
+    `sudo cp pics/ibus-poj.svg /usr/share/ibus-table/icons/`
+  * Restart IBus:
       `$ibus-daemon -x -r -d`
-    * Add POJ input method in the setup of IBus.
+  * Add POJ input method in the setup of IBus.
       ![add poj in ibus](pics/add_poj_in_ibus.png)
 
 2. (b) Create/update the poj.db and add it to you system (short version)
 
-    * Run `$bash update_poj_db.sh`, which will do the above steps for you.
-    * Add POJ input method in the setup of IBus as mentioned above.
+  * Run `$bash update_poj_db.sh`, which will do the above steps for you.
+  * Add POJ input method in the setup of IBus as mentioned above.
 
 3. To update your own poj.db
 
-    * Edit `ibus_han_poj_123.txt` to fit your need
-    * Run `$bash update_poj_db.sh`
- 
+  * Edit `ibus_han_poj_123.txt` to fit your need
+  * Run `$bash update_poj_db.sh`
+
 ## Note
 
 In `table_converter.sh`, the phrases' frequencies less than 10 have been preserved for punctuations, digits, and letters.
@@ -62,8 +62,8 @@ The usage of the phrases' frequencies are listed in the following table.
 
 * If you encounter the following message as running the update_poj_db.sh script:
 
-  `awk: line 29: function gensub never defined` 
-  
+  `awk: line 29: function gensub never defined`
+
   it means that you need to install `gawk`.
 
 * After the installation, you may be need to log out and in again, and remember to add the POJ input method from the IBus GUI as shown above.
