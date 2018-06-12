@@ -16,10 +16,10 @@ Create `poj.db` from the cin table
 * Prepare the cin table `poj-holo.cin`
 * Copy the file for editing:
 
-  `$cp /usr/share/ibus-table/table/template.txt <ibus_han_poj_123.txt>`
+    `$cp /usr/share/ibus-table/table/template.txt <ibus_han_poj_123.txt>`
 * Convert the cin table to IBus format by using:
 
-  `$awk '/\%chardef begin/{f=1;next}/\%chardef end/{exit}f' poj-holo.cin | awk '{count[$1]++}{print $1"\t"$2"\t"101-count[$1]}' | tr '[A-Z]' '[a-z]' >> ibus_han_poj_123.txt`
+    `$awk '/\%chardef begin/{f=1;next}/\%chardef end/{exit}f' poj-holo.cin | awk '{count[$1]++}{print $1"\t"$2"\t"101-count[$1]}' | tr '[A-Z]' '[a-z]' >> ibus_han_poj_123.txt`
 * Edit `ibus_han_poj_123.txt` to fit your need
 
 ### Installation/Setup (for first-time users)
