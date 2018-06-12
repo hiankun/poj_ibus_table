@@ -34,7 +34,7 @@ Create/update the `poj.db` and add it to you system (long version)
 * Restart IBus:
   `$ibus-daemon -x -r -d`
 * Add POJ input method in the setup of IBus.
-  ![add poj in ibus](pics/add_poj_in_ibus.png)
+    ![add poj in ibus](pics/add_poj_in_ibus.png)
 
 Create/update the poj.db and add it to you system (short version)
 
@@ -76,9 +76,9 @@ The usage of the phrases' frequencies are listed in the following table.
 
 * If some of the Han characters won't shown in the selecting list, click the icon on system tray and set **Chinese mode** to be **All Chinese characters**.
 
-  ![click the icon](pics/ibus_tray.png)
+    ![click the icon](pics/ibus_tray.png)
 
-  ![select chinese mode](pics/poj_settings.png)
+    ![select chinese mode](pics/poj_settings.png)
 
 ## Known bugs
 
