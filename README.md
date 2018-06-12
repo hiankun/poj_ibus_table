@@ -10,18 +10,20 @@ The table has been created and tested in Ubuntu 16.04.
 ## Usage
 
 ### Pre-processing (optional)
-Create poj.db from the cin table
+Create `poj.db` from the cin table
 
 * Go to you working directory.
 * Prepare the cin table `poj-holo.cin`
 * Copy the file for editing:
+
   `$cp /usr/share/ibus-table/table/template.txt <ibus_han_poj_123.txt>`
-* Convert the cin table to meet the ibus format by using:
+* Convert the cin table to IBus format by using:
+
   `$awk '/\%chardef begin/{f=1;next}/\%chardef end/{exit}f' poj-holo.cin | awk '{count[$1]++}{print $1"\t"$2"\t"101-count[$1]}' | tr '[A-Z]' '[a-z]' >> ibus_han_poj_123.txt`
 * Edit `ibus_han_poj_123.txt` to fit your need
 
 ### Installation/Setup (for first-time users)
-Create/update the poj.db and add it to you system (long version)
+Create/update the `poj.db` and add it to you system (long version)
 
 * Create the table:
   `$ibus-table-createdb -s ibus_han_poj_123.txt -n poj.db`
@@ -64,9 +66,9 @@ The usage of the phrases' frequencies are listed in the following table.
 
 * If you encounter the following message as running the update_poj_db.sh script:
 
-  `awk: line 29: function gensub never defined`
+    `awk: line 29: function gensub never defined`
 
-  it means that you need to install `gawk`.
+    it means that you need to install `gawk`.
 
 * After the installation, you may be need to log out and in again, and remember to add the POJ input method from the IBus GUI as shown above.
 
@@ -74,9 +76,9 @@ The usage of the phrases' frequencies are listed in the following table.
 
 * If some of the Han characters won't shown in the selecting list, click the icon on system tray and set **Chinese mode** to be **All Chinese characters**.
 
-![click the icon](pics/ibus_tray.png)
+  ![click the icon](pics/ibus_tray.png)
 
-![select chinese mode](pics/poj_settings.png)
+  ![select chinese mode](pics/poj_settings.png)
 
 ## Known bugs
 
