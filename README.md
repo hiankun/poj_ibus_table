@@ -7,46 +7,48 @@ The table was modified from one of the cin-tables ([poj-holo.cin](https://github
 ## Test Environment
 The table has been created and tested in Ubuntu 16.04.
 
-## Steps
+## Usage
 
-1. The (optional) pre-processes to create poj.db from the cin table
+### Pre-processing (optional)
+Create poj.db from the cin table
 
-  * Go to you working directory.
-  * Prepare the cin table `poj-holo.cin`
-  * Copy the file for editing:
-    `$cp /usr/share/ibus-table/table/template.txt <ibus_han_poj_123.txt>`
-  * Convert the cin table to meet the ibus format by using:
-    `$awk '/\%chardef begin/{f=1;next}/\%chardef end/{exit}f' poj-holo.cin | awk '{count[$1]++}{print $1"\t"$2"\t"101-count[$1]}' | tr '[A-Z]' '[a-z]' >> ibus_han_poj_123.txt`
-  * Edit `ibus_han_poj_123.txt` to fit your need
+* Go to you working directory.
+* Prepare the cin table `poj-holo.cin`
+* Copy the file for editing:
+  `$cp /usr/share/ibus-table/table/template.txt <ibus_han_poj_123.txt>`
+* Convert the cin table to meet the ibus format by using:
+  `$awk '/\%chardef begin/{f=1;next}/\%chardef end/{exit}f' poj-holo.cin | awk '{count[$1]++}{print $1"\t"$2"\t"101-count[$1]}' | tr '[A-Z]' '[a-z]' >> ibus_han_poj_123.txt`
+* Edit `ibus_han_poj_123.txt` to fit your need
 
-2. (a) Create/update the poj.db and add it to you system (long version)
+### Installation/Setup (for first-time users)
+Create/update the poj.db and add it to you system (long version)
 
-  * Create the table:
-    `$ibus-table-createdb -s ibus_han_poj_123.txt -n poj.db`
-  * Copy the table to its working directory:
-    `$sudo cp poj.db /usr/share/ibus-table/tables/`
-  * Add the icon:
-    `sudo cp pics/ibus-poj.svg /usr/share/ibus-table/icons/`
-  * Restart IBus:
-      `$ibus-daemon -x -r -d`
-  * Add POJ input method in the setup of IBus.
-      ![add poj in ibus](pics/add_poj_in_ibus.png)
+* Create the table:
+  `$ibus-table-createdb -s ibus_han_poj_123.txt -n poj.db`
+* Copy the table to its working directory:
+  `$sudo cp poj.db /usr/share/ibus-table/tables/`
+* Add the icon:
+  `sudo cp pics/ibus-poj.svg /usr/share/ibus-table/icons/`
+* Restart IBus:
+  `$ibus-daemon -x -r -d`
+* Add POJ input method in the setup of IBus.
+  ![add poj in ibus](pics/add_poj_in_ibus.png)
 
-2. (b) Create/update the poj.db and add it to you system (short version)
+Create/update the poj.db and add it to you system (short version)
 
-  * Run `$bash update_poj_db.sh`, which will do the above steps for you.
-  * Add POJ input method in the setup of IBus as mentioned above.
+* Run `$bash update_poj_db.sh`, which will do the above steps for you.
+* Add POJ input method in the setup of IBus as mentioned above.
 
-3. To update your own poj.db
+### Update your own poj.db
 
-  * Edit `ibus_han_poj_123.txt` to fit your need
-  * Run `$bash update_poj_db.sh`
+* Edit `ibus_han_poj_123.txt` to fit your need
+* Run `$bash update_poj_db.sh`
 
 ## Note
 
 In `table_converter.sh`, the phrases' frequencies less than 10 have been preserved for punctuations, digits, and letters.
 For words/phrases (i.e., combinations of single syllables), the frequencies have been set to be 300 or more.
-Therefore, when you edit `ibus_han_poj_123.txt` to add your own characters, please note that the frequencies should be in the range of `10-299` or they won't be converted.
+Therefore, when you edit `ibus_han_poj_123.txt` to add your own characters, please note __that the frequencies should be in the range of `10-299` or they won't be converted__.
 
 The usage of the phrases' frequencies are listed in the following table.
 
@@ -70,7 +72,7 @@ The usage of the phrases' frequencies are listed in the following table.
 
 * If your POJ input method fails to adapt the given icon (ibus-poj.svg), try to install `ibus-chewing`, reboot the system, and then add POJ input method from the IBus GUI again. (I don't know the reason, but this work-around works for me.)
 
-* If some of the Han characters won't shown in the selecting list, click the icon on system tray and set **Chinese mode** to be **All Chineese characters**.
+* If some of the Han characters won't shown in the selecting list, click the icon on system tray and set **Chinese mode** to be **All Chinese characters**.
 
 ![click the icon](pics/ibus_tray.png)
 
