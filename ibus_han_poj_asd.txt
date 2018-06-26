@@ -125,6 +125,7 @@ END_DEFINITION
 BEGIN_TABLE
 ,	，	1
 ,	,	2
+,	　	3
 ,	、	0
 .	。	2
 .	.	1
