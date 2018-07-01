@@ -10748,6 +10748,9 @@ iamjit	炎日	308
 iau	íāu	310
 iau	í-āu	309
 iau	以後	308
+iaukin	iàukín	310
+iaukin	iàu-kín	309
+iaukin	要緊	308
 icha	íchá	310
 icha	í-chá	309
 icha	以早	308
@@ -10839,6 +10842,9 @@ jibo	字母	308
 jinbut	jînbu̍t	310
 jinbut	jîn-bu̍t	309
 jinbut	人物	308
+jinchin	jīnchin	310
+jinchin	jīn-chin	309
+jinchin	認眞	308
 jintong	jīntông	310
 jintong	jīn-tông	309
 jintong	認同	308
@@ -11091,6 +11097,10 @@ kehsek	格式	308
 keiann	kéiáⁿ	310
 keiann	ké-iáⁿ	309
 keiann	假影	308
+kelang	Kelâng	310
+kelang	Ke-lâng	309
+kelang	鷄籠	308
+kelang	基隆	307
 keoe	kèōe	310
 keoe	kè-ōe	309
 keoe	計畫	308
@@ -11308,6 +11318,9 @@ khongcheng	抗爭	308
 khonggi	khònggī	310
 khonggi	khòng-gī	309
 khonggi	抗議	308
+khongkan	khongkan	310
+khongkan	khong-kan	309
+khongkan	空間	308
 khoounn	khóò͘ⁿ	310
 khoounn	khó-ò͘ⁿ	309
 khoounn	可惡	308
@@ -11385,6 +11398,9 @@ kibiau	奇妙	308
 kiche	kichè	310
 kiche	ki-chè	309
 kiche	機制	308
+kichhou	kichhó͘	310
+kichhou	ki-chhó͘	309
+kichhou	基礎	308	#TODO
 kihai	kihâi	310
 kihai	ki-hâi	309
 kihai	機械	308
@@ -11460,6 +11476,9 @@ kionghi	恭喜	308
 kiongtiau	kiôngtiāu	310
 kiongtiau	kiông-tiāu	309
 kiongtiau	強調	308
+kiongtong	kiōngtông	310
+kiongtong	kiōng-tông	309
+kiongtong	共同	308
 kipseng	kipsèng	310
 kipseng	kip-sèng	309
 kipseng	急性	308
@@ -11469,6 +11488,9 @@ kisit	其實	308
 kisut	kisu̍t	310
 kisut	ki-su̍t	309
 kisut	技術	308
+kite	kité	310
+kite	ki-té	309
+kite	基底	308
 kiti	kìtî	310
 kiti	kì-tî	309
 kiti	記池	308
@@ -11939,6 +11961,7 @@ mthang	不通	307
 muithe	mûithé	310
 muithe	mûi-thé	309
 muithe	媒體	308
+muithe媒体	307
 nasi	nāsī	310
 nasi	nā-sī	309
 ###TODO
@@ -11992,6 +12015,7 @@ nngjun	軟 jūn	308	#TJT
 nngthe	nńgthé	310
 nngthe	nńg-thé	309
 nngthe	軟體	308
+nngthe軟体	307
 oakho	óakhò	310
 oakho	óa-khò	309
 oanboan	oânboán	310
@@ -12035,10 +12059,10 @@ pangbou	pang-bô͘	309
 pangbou	枋模	308
 pangchan	pangchān	310
 pangchan	pang-chān	309
-pangchan	幫贊	308
+pangchan	帮贈	308
 pangchou	pangchō͘	310
 pangchou	pang-chō͘	309
-pangchou	幫助	308
+pangchou	帮助	308
 patkoa	patkòa	310
 patkoa	pat-kòa	309
 patkoa	八卦	308
@@ -12123,7 +12147,7 @@ pisiong	pi-siong	309
 pisiong	悲傷	308
 pisu	pìsu	310
 pisu	pì-su	309
-pisu	祕書	308
+pisu	秘書	308
 poj	Pe̍hōejī	310
 poj	Pe̍h-ōe-jī	309
 poj	POJ	308
@@ -12205,10 +12229,11 @@ putchou	Pu̍t-chó͘	309
 putchou	佛祖	308
 puttoh	pu̍ttoh	310
 puttoh	pu̍t-toh	309
-puttoh	佛桌	308
+puttoh	佛棹	308
 phahji	phahjī	310
 phahji	phah-jī	309
-phahji	拍字	308
+phahji	打字	308
+phahji	拍字	307
 phainnlang	pháiⁿlâng	310
 phainnlang	pháiⁿ-lâng	309
 phainnlang	歹人	308
@@ -12220,7 +12245,7 @@ phangliau	phang-liāu	309
 phangliau	香料	308
 phiauchun	phiauchún	310
 phiauchun	phiau-chún	309
-phiauchun	標準	308
+phiauchun	標凖	308
 phiaupun	phiaupún	310
 phiaupun	phiau-pún	309
 phiaupun	標本	308
@@ -12590,6 +12615,9 @@ siotian	小電	308
 sisiong	sîsiông	310
 sisiong	sî-siông	309
 sisiong	時常	308
+sitai	sîtāi	310
+sitai	sî-tāi	309
+sitai	時代	308
 sitbin	sitbîn	310
 sitbin	sit-bîn	309
 sitbin	失眠	308
