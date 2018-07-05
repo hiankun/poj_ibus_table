@@ -11634,6 +11634,9 @@ kongbu	公務	308
 kongbugoan	kongbūgoân	310
 kongbugoan	kong-bū-goân	309
 kongbugoan	公務員	308
+kongchhia	kongchhia	310
+kongchhia	kong-chhia	309
+kongchhia	公車	308
 konggi	konggī	310
 konggi	kong-gī	309
 konggi	公義	308
@@ -11655,6 +11658,9 @@ kongke	公家	308
 kongkek	kongkek	310
 kongkek	kong-kek	309
 kongkek	攻擊	308
+kongkiong	kongkiōng	310
+kongkiong	kong-kiōng	309
+kongkiong	公共	308
 kongkou	kóngkó͘	310
 kongkou	kóng-kó͘	309
 kongkou	講古	308
@@ -11673,9 +11679,15 @@ kongoe	講話	308
 kongsan	Kongsan	310
 kongsan	Kong-san	309
 kongsan	岡山	308
+kongsi	kongsi	310
+kongsi	kong-si	309
+kongsi	公司	308
 kongsou	kongsó͘	310
 kongsou	kong-só͘	309
 kongsou	公所	308
+kongthau	kongtâu	310
+kongthau	kong-tâu	309
+kongthau	公投	308
 koucha	kó͘chá	310
 koucha	kó͘-chá	309
 koucha	古早	308
@@ -12874,7 +12886,7 @@ tangsutiunn	董事長	307
 tantok	tanto̍k	310
 tantok	tan-to̍k	309
 tantok	單獨	307
-tanpekchit	tānpe̍kchit	310
+tanpekchit	tānpe̍kchit	310	#TJT
 tanpekchit	tān-pe̍k-chit	309
 tanpekchit	蛋白質	307
 take	ta̍kê	310
@@ -12883,6 +12895,9 @@ tauhtauh	ta̍uhta̍uh	310
 tauhtauh	ta̍uh-ta̍uh	309
 ###TODO
 tauhtauh	??	308
+tauphio	tâuphiò	310
+tauphio	tâu-phiò	309
+tauphio	投票	308
 tautin	tàutīn	310
 tautin	tàu-tīn	309
 tautin	鬥陣	308
