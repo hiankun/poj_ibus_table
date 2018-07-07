@@ -5001,10 +5001,10 @@ ku7	舅	124
 ku7	舊	129
 ku7	旧	38
 kui	kui	201
-kui	規	116
 kui	帰	41
 kui	歸	120
 kui	归	44
+kui	規	116
 kui2	kúi	201
 kui2	鬼	129
 kui2	几	48
@@ -5631,6 +5631,7 @@ lok8	lo̍k	201
 lok8	洛	99
 lok8	鹿	133
 lok8	絡	121
+lok8	錄	112
 lok8	碌	88
 lok8	祿	111
 lok8	落	95
@@ -6514,8 +6515,8 @@ pha7	phā	201
 pha7	泡	113
 pha7	皰	60
 phah	phah	201
-phah	拍	121
-phah	打	103
+phah	拍	101
+phah	打	123
 phai2	phái	201
 phai2	歹	123
 phai2	呆	66
@@ -10075,6 +10076,7 @@ chhinchhiunn	親像	308
 chhittho	chhitthô	310
 chhittho	chhit-thô	309
 chhittho	𨑨迌	308
+chhoh	chhoh	310
 chhongcho	chhòngchō	310
 chhongcho	chhòng-chō	309
 chhongcho	創造	308
@@ -11419,6 +11421,9 @@ kiliam	記念	308
 kiliok	kìlio̍k	310
 kiliok	kì-lio̍k	309
 kiliok	記錄	308
+kilok	kìlo̍k	310
+kilok	kì-lo̍k	309
+kilok	記錄	308
 kilut	kilu̍t	310
 kilut	ki-lu̍t	309
 kilut	機率	308
