@@ -28,6 +28,8 @@ BEGIN {OFS=""};
         print $1=gensub(/8$/,"k",1,$1),"\t",$2,"\t",$3;
     else if (/[[:alpha:]][9]\t.*\t.*/)
         print $1=gensub(/9$/,"l",1,$1),"\t",$2,"\t",$3;
+    else if (/[[:alpha:]][0]\t.*\t.*/)
+        print $1=gensub(/0$/,";",1,$1),"\t",$2,"\t",$3;
     else
         print $0;
     }
