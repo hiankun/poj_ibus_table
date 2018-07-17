@@ -6557,7 +6557,7 @@ penng	坪	122
 penng	棚	121
 pennj	pēⁿ	201
 pennj	病	121
-haa	pha	201
+phaa	pha	201
 phaa	葩	110
 phaa	抛	128
 phad	phà	201
@@ -11686,6 +11686,10 @@ kongbeng	光明	308
 kongbu	kongbū	310
 kongbu	kong-bū	309
 kongbu	公務	308
+kongbun	kongbûn	310
+kongbun	kong-bûn	309
+kongbun	公文	308
+kongbun	肛門	307
 kongbugoan	kongbūgoân	310
 kongbugoan	kong-bū-goân	309
 kongbugoan	公務員	308
