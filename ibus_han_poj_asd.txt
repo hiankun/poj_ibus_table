@@ -11197,6 +11197,9 @@ khaihoat	開發	308
 khaihak	khaiha̍k	310
 khaihak	khai-ha̍k	309
 khaihak	開學	308
+khaihong	khaihòng	310
+khaihong	khai-hòng	309
+khaihong	開放	308
 khaikang	khaikang	310
 khaikang	khai-kang	309
 khaikang	開工	308
@@ -12213,6 +12216,9 @@ pipan	備辦	308
 piphi	piphí	310
 piphi	pi-phí	309
 piphi	卑鄙	308
+pisai	písài	310
+pisai	pí-sài	309
+pisai	比賽	308
 pisiong	pisiong	310
 pisiong	pi-siong	309
 pisiong	悲傷	308
