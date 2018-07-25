@@ -12088,10 +12088,18 @@ nngjun	nńg-jūn	309
 nngjun	軟 jūn	308	#TJT
 nngthe	nńgthé	310
 nngthe	nńg-thé	309
-nngthe	軟體	308
-nngthe軟体	307
+nngthe	軟体	308
+nngthe	軟體	307
+oahtang	oa̍htāng	310
+oahtang	oa̍h-tāng	309
+oahtang	活動	308
+oahtong	oa̍htōng	310
+oahtong	oa̍h-tōng	309
+oahtong	活動	308
 oakho	óakhò	310
 oakho	óa-khò	309
+###TODO
+oakho	??	308
 oanboan	oânboán	310
 oanboan	oân-boán	309
 oanboan	完滿	308
