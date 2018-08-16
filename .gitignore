@@ -1,3 +1,5 @@
 poj.db
 tmp/
-
+reassign_tone_keys.py
+table_converter_telex.sh
+update_poj_db_telex.sh
