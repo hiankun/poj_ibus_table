@@ -9802,7 +9802,7 @@ chinheng	進行	308
 chinlek	chīnle̍k	310
 chinlek	chīn-le̍k	309
 chinlek	盡力	308
-chinpong	chīnliōng	310
+chinliong	chīnliōng	310
 chinliong	chīn-liōng	309
 chinliong	盡量	308
 chinpong	chīnpōng	310
@@ -10085,6 +10085,9 @@ chhianhian	淺現	308	#TJT
 chhiaukoe	chhiaukòe	310
 chhiaukoe	chhiau-kòe	309
 chhiaukoe	超過	308
+chhigiam	chhìgiām	310
+chhigiam	chhì-giām	309
+chhigiam	試驗	308
 chhimchan	chhimchân	310
 chhimchan	chhim-chân	309
 chhimchan	深層	308
@@ -10620,6 +10623,12 @@ hoathian	發現	308
 hoatim	hoatim	310
 hoatim	hoat-im	309
 hoatim	發音	308
+hoatinn	hoatīⁿ	310
+hoatinn	hoat-īⁿ	309
+hoatinn	法院	308
+hoatkoann	hoatkoaⁿ	310
+hoatkoann	hoat-koaⁿ	309
+hoatkoann	法官	308
 hoatpiau	hoatpiáu	310
 hoatpiau	hoat-piáu	309
 hoatpiau	發表	308
@@ -12581,6 +12590,9 @@ siaukai	紹介	307
 siaujin	siáujîn	310
 siaujin	siáu-jîn	309
 siaujin	小人	308
+siausit	siausi	310
+siausit	siau-sit	309
+siausit	消息	308
 siausoat	siáusoat	310
 siausoat	siáu-soat	309
 siausoat	小說	308
