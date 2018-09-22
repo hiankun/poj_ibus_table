@@ -8559,6 +8559,7 @@ thiau7	柱	120
 thih	thih	201
 thih	鐵	130
 thih	鉄	109
+thih8	thi̍h	201
 thim	thim	201
 thim	琛	90
 thim3	thìm	201
@@ -11343,6 +11344,12 @@ khoai	可愛	308
 khoaikhoai	khoàikhoài	310
 khoaikhoai	khoài-khoài	309
 khoaikhoai	快快	308
+khoankeng	khoânkéng	310
+khoankeng	khoân-kéng	309
+khoankeng	環境	308
+khoanpo	khoânpó	310
+khoanpo	khoân-pó	309
+khoanpo	環保	308
 khochhi	khóchhì	310
 khochhi	khó-chhì	309
 khochhi	考試	308
