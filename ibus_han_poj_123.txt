@@ -1901,7 +1901,7 @@ chiok	酌	123
 chiok	粥	91
 chiok	燭	89
 chiok	爵	111
-chiok	chio̍k	201
+chiok8	chio̍k	201
 chiong	chiong	201
 chiong	漳	88
 chiong	章	112
@@ -10907,6 +10907,9 @@ jinbut	人物	308
 jinchin	jīnchin	310
 jinchin	jīn-chin	309
 jinchin	認眞	308
+jinkang	jînkang	310
+jinkang	jîn-kang	309
+jinkang	人工	308
 jintong	jīntông	310
 jintong	jīn-tông	309
 jintong	認同	308
@@ -11302,6 +11305,9 @@ khichhu	起厝	308
 khicho	khíchō	310
 khicho	khí-chō	309
 khicho	起造	308
+khihau	khìhāu	310
+khihau	khì-hāu	309
+khihau	氣候	308
 khikhi	khíkhì	310
 khikhi	khí-khì	309
 khikhi	起去	308
@@ -11338,6 +11344,12 @@ khipsiu	吸收	308
 khisiau	khísiáu	310
 khisiau	khí-siáu	309
 khisiau	起嬲	308
+khisiong	khìsiōng	310
+khisiong	khì-siōng	309
+khisiong	氣象	308
+khisiongkiok	Khìsiōngkio̍k	310
+khisiongkiok	Khì-siōng-kio̍k	309
+khisiongkiok	氣象局	308
 khoai	khóài	310
 khoai	khó-ài	309
 khoai	可愛	308
