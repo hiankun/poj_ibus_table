@@ -12609,7 +12609,7 @@ siaukai	紹介	307
 siaujin	siáujîn	310
 siaujin	siáu-jîn	309
 siaujin	小人	308
-siausit	siausi	310
+siausit	siausit	310
 siausit	siau-sit	309
 siausit	消息	308
 siausoat	siáusoat	310
