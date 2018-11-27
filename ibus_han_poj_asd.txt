@@ -2865,6 +2865,7 @@ hinnj	耳	123
 hinnj	硯	113
 hinnhf	hihⁿ	201
 hihnna	hihⁿ	201
+hioj	hiō	201
 hiohf	hioh	201
 hiohf	宿	130
 hiouhf	hio͘h	201
@@ -10581,6 +10582,9 @@ hihoe	漁會	308
 hiohkhun	hiohkhùn	310
 hiohkhun	hioh-khùn	309
 hiohkhun	宿困	308
+hiohoe	hiōhóe	310
+hiohoe	hiō-hóe	309
+hiohoe	後悔	308	#TJT
 hiohsian	hiohsiān	310
 hiohsian	hioh-siān	309
 ###TODO
