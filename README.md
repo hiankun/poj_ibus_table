@@ -57,7 +57,7 @@ The usage of the phrases' frequencies are listed in the following table.
 | Frequency range | Usage | Example |
 | --- | --- | --- |
 | 0-9 | punctuations, digits, and letters. | ,.;123abcABC |
-| 10-99 | seldom used Han characters | |
+| 10-99 | seldom used Han characters and emoji | |
 | 100-199 | general Han characters | |
 | 200-299 | LMJ/POJ | tâi, gí, ...|
 | 300- | Words/Phrases | Tâigí, Tâi-gí, 台語, ... |

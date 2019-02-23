@@ -229,6 +229,7 @@ Ais	Ái	202
 ais	ái	201
 Aid	Ài	202
 aid	ài	201
+aid	❤️	99
 Aig	Âi	202
 aig	âi	201
 Aij	Āi	202
@@ -1350,6 +1351,7 @@ chhenna	chheⁿ	201
 chhenna	生	131
 chhenna	青	133
 chhenna	星	123
+chhenna	⭐	99
 chhenns	chhéⁿ	201
 chhenns	醒	132
 chhia	chhi	201
@@ -1465,6 +1467,7 @@ chhinna	chhiⁿ	201
 chhinna	生	131
 chhinna	青	132
 chhinna	星	123
+chhinna	⭐	99
 chhinna	鮮	133
 chhinns	chhíⁿ	201
 chhinns	醒	132
@@ -1476,7 +1479,7 @@ chhioa	chhio	201
 chhios	chhió	201
 chhiod	chhiò	201
 chhiod	笑	132
-chhiog	chhiô	201
+chhiod	😀	99
 chhioj	chhiō	201
 chhiohf	chhioh	201
 chhiohf	尺	132
@@ -7217,6 +7220,7 @@ sais	sái	201
 sais	使	119
 sais	屎	118
 sais	駛	127
+sais	💩	99
 said	sài	201
 said	使	120
 said	婿	128
@@ -10066,7 +10070,6 @@ chhiahkha	chhiah-kha	309
 chhiahkha	赤脚	308
 chhiahkhasian	chhiahkhasian	310
 chhiahkhasian	chhiah-kha-sian	309
-###OK
 chhiahkhasian	赤脚先	308	#TJT
 chhiahgu	chhiahgû	310
 chhiahgu	chhiah-gû	309
@@ -10228,7 +10231,6 @@ ehng	下昏	308
 ehng	冥昏	302
 ekha	ēkha	310
 ekha	ē-kha	309
-###OK
 ekha	下脚	308
 engbun	Engbûn	310
 engbun	Eng-bûn	309
@@ -10428,7 +10430,6 @@ guihiam	gûi-hiám	309
 guihiam	危險	308
 haiang	háiang	310
 haiang	hái-ang	309
-###DONE, OK
 haiang	海翁	308
 haichhat	háichha̍t	310
 haichhat	hái-chha̍t	309
@@ -10941,6 +10942,7 @@ jitki	日期	308
 jitthau	ji̍tthâu	310
 jitthau	ji̍t-thâu	309
 jitthau	日頭	308
+jitthaua	☀️	99
 jitpun	Ji̍tpún	310
 jitpun	Ji̍t-pún	309
 jitpun	日本	308
@@ -12409,7 +12411,6 @@ phoanntoan	phòaⁿ-toàn	309
 phoanntoan	判斷	308
 phoasiunn	phòasiùⁿ	310
 phoasiunn	phòa-siùⁿ	309
-###OK
 phoasiunn	破相	308	#TJT
 Phoksu	Phoksū	310
 Phoksu	Phok-sū	309
@@ -12539,7 +12540,6 @@ sennsiann	seⁿ-sian	309
 sennsiann	生sian	308
 sennsiunn	seⁿsiùⁿ	310
 sennsiunn	seⁿ-siùⁿ	309
-###OK
 sennsiunn	生相	308
 sennthoann	seⁿthòaⁿ	310
 sennthoann	seⁿ-thòaⁿ	309
@@ -12651,7 +12651,6 @@ simmih	símmi̍h	310
 simmih	sím-mi̍h	309
 simsek	simsek	310
 simsek	sim-sek	309
-###OK
 simsek	心適	308
 sinchupai	sînchúpâi	310
 sinchupai	sîn-chú-pâi	309
@@ -12784,8 +12783,9 @@ siukai	siu-kái	309
 siukai	修改	308
 siukhi	siūkhì	310
 siukhi	siū-khì	309
-###OK
 siukhi	受氣	308
+siukhia	😠	99
+siukhia	😡	89
 siuli	siulí	310
 siuli	siu-lí	309
 siuli	修理	308
@@ -13337,7 +13337,6 @@ thiahbeng	thiah-bêng	309
 thiahbeng	拆明	308
 thiamthau	thiámthâu	310
 thiamthau	thiám-thâu	309
-###OK
 thiamthau	忝頭	308	#TJT
 thianjian	thianjiân	310
 thianjian	thian-jiân	309
