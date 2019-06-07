@@ -8834,14 +8834,6 @@ tian7	甸	108
 tian7	奠	96
 tian7	殿	105
 tian7	電	123
-tian5	㕓	90
-tian5	躔	85
-tian7	tiān	201
-tian7	佃	99
-tian7	甸	108
-tian7	奠	96
-tian7	殿	105
-tian7	電	123
 tian7	靛	91
 tiang	tiang	201
 tiang	張	98
@@ -13121,12 +13113,9 @@ tianlou	電路	308
 tiannau	tiānnáu	310
 tiannau	tiān-náu	309
 tiannau	電腦	308
-tianntiann	tiāⁿtiāⁿ	310
-tianntiann	tiāⁿ-tiāⁿ	309
-tianntiann	定定	308	#TJT
-tianntioh	tiāⁿtio̍h	310
-tianntioh	tiāⁿ-tio̍h	309
-tianntioh	定着	308	#TJT
+tianoe	tiānōe	310
+tianoe	tiān-ōe	309
+tianoe	電話	308
 tianpo	tiānpò	310
 tianpo	tiān-pò	309
 tianpo	電報	308
@@ -13141,7 +13130,6 @@ tiansoann	tiān-sòaⁿ	309
 tiansoann	電線	308
 tianto	tiantó	310
 tianto	tian-tó	309
-#DONE
 tianto	顚倒	308
 tianto	顛倒	307	#TJT
 tiantong	tiāntōng	310
@@ -13150,6 +13138,12 @@ tiantong	電動	308
 tiantongki	tiāntōngki	310
 tiantongki	tiān-tōng-ki	309
 tiantongki	電動機	308
+tianntiann	tiāⁿtiāⁿ	310
+tianntiann	tiāⁿ-tiāⁿ	309
+tianntiann	定定	308	#TJT
+tianntioh	tiāⁿtio̍h	310
+tianntioh	tiāⁿ-tio̍h	309
+tianntioh	定着	308	#TJT
 tiaukang	tiaukang	310
 tiaukang	tiau-kang	309
 tiaukang	刁工	308
