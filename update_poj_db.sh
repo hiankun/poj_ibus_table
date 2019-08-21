@@ -1,4 +1,4 @@
-echo -e "converting ibus_han_poj_123.txt to ibus_han_poj_asd.tex ..."
+echo -e "converting ibus_han_poj_123.txt to ibus_han_poj_asd.txt ..."
 bash table_converter.sh > ibus_han_poj_asd.txt
 
 echo -e "creating poj.db ..."

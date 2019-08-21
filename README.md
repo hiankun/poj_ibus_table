@@ -1,52 +1,79 @@
-# poj_ibus_table
+# About the poj_ibus_table
 
-## Purpose
 The purpose of the project is to create an IBus table for POJ users.
 The table was modified from one of the cin-tables ([poj-holo.cin](https://github.com/chinese-opendesktop/cin-tables)).
 
 ## Test Environment
-The table has been created and tested in Ubuntu 16.04.
+The table has been created and tested in Ubuntu 18.04.
+All the following setup steps __run in CLI__  (command line interface) are also valid in Ubuntu 16.04.
+For more detailed (and not-so-easy-to follow) steps, see `./repo/old_README.md`.
 
-## Usage
+## Setup
+* Make sure you have `zh_TW.UTF-8` locale enabled.
+  Or you can just run `sudo locale-gen zh_TW.UTF-8` to generate it.
+  * (Optional) Check the file of `/etc/locale.gen`,
+    the line of `zh_TW.UTF-8 UTF-8` (it's located near the bottom of the file)
+    should has been uncommented.
+* Install [Gawk](https://www.gnu.org/software/gawk/): `sudo apt install gawk`
+* Clone the repo and `cd ./poj_ibus_table`.
+  * <s>(Optional, for first time setup) Add the icon by `sudo cp pics/ibus-poj.svg /usr/share/ibus-table/icons/`.</s>
+    (This step has no effect now, and I cannot find method to solve it... Orz)
+* Run `bash update_poj_db.sh` and the script will do all the setup works for you.
+  * If you want, just check the script to see all the setup steps,
+    and manually run them one by one.
 
-### Pre-processing (optional)
-Create `poj.db` from the cin table
+* In system `Settings`, select `Region & Language`.
 
-* Go to you working directory.
-* Prepare the cin table `poj-holo.cin`
-* Copy the file for editing:
+  ![](pics/region_language.png)
 
-    `$cp /usr/share/ibus-table/table/template.txt <ibus_han_poj_123.txt>`
-* Convert the cin table to IBus format by using:
+* Click the `+` button to add input resources.
 
-    `$awk '/\%chardef begin/{f=1;next}/\%chardef end/{exit}f' poj-holo.cin | awk '{count[$1]++}{print $1"\t"$2"\t"101-count[$1]}' | tr '[A-Z]' '[a-z]' >> ibus_han_poj_123.txt`
+  ![](pics/add_input_sources.png)
+
+* Choose `Chinese (Taiwan)`... (Aargh... All are under Chinese... ಠ_ಠ
+
+  ![](pics/add_an_input_source.png)
+
+* Choose `Chinese (POJ)`...
+
+  ![](pics/add_poj.png)
+
+* Then you can see that POJ has been added.
+
+  ![](pics/poj_added.png)
+
+* Finally, use `Super(Win)+Space` to toggle between input methods.
+
+  ![](pics/switch_im.png)
+
+
+## Trouble shooting
+
+* If some of the Han characters won't shown in the selecting list, click the icon on system tray and set **Chinese mode** to be **All Chinese characters**.
+
+    ![click the icon](pics/ibus_tray.png)
+
+    ![select chinese mode](pics/poj_settings.png)
+
+## Known bugs
+
+* <s>The dynamic adjust function don't work as expected.</s>
+* <s>In some situations (e.g., after selecting Han characters) the input method might switch to full-width mode, and you need to press `Shift+Space` key once to back to normal input mode.</s>
+* The system does not show the icon (`pics/ibus-poj.svg`). If you know how to solve it, let me know please.
+
+---
+
+# Change table to fit your need
+
+If you want to modify the table content, read on.
+
+## Update your own poj.db
+
 * Edit `ibus_han_poj_123.txt` to fit your need
+  * __NOTE__: Use `TAB` as the separator for the items. `SPACE` will not work.
+* Run `bash update_poj_db.sh`
 
-### Installation/Setup (for first-time users)
-Create/update the `poj.db` and add it to you system (long version)
-
-* Create the table:
-  `$ibus-table-createdb -s ibus_han_poj_123.txt -n poj.db`
-* Copy the table to its working directory:
-  `$sudo cp poj.db /usr/share/ibus-table/tables/`
-* Add the icon:
-  `sudo cp pics/ibus-poj.svg /usr/share/ibus-table/icons/`
-* Restart IBus:
-  `$ibus-daemon -x -r -d`
-* Add POJ input method in the setup of IBus.
-    ![add poj in ibus](pics/add_poj_in_ibus.png)
-
-Create/update the poj.db and add it to you system (short version)
-
-* Run `$bash update_poj_db.sh`, which will do the above steps for you.
-* Add POJ input method in the setup of IBus as mentioned above.
-
-### Update your own poj.db
-
-* Edit `ibus_han_poj_123.txt` to fit your need
-* Run `$bash update_poj_db.sh`
-
-## Note
+### The frequency ranges
 
 In `table_converter.sh`, the phrases' frequencies less than 10 have been preserved for punctuations, digits, and letters.
 For words/phrases (i.e., combinations of single syllables), the frequencies have been set to be 300 or more.
@@ -62,39 +89,20 @@ The usage of the phrases' frequencies are listed in the following table.
 | 200-299 | LMJ/POJ | tâi, gí, ...|
 | 300- | Words/Phrases | Tâigí, Tâi-gí, 台語, ... |
 
-## Trouble shooting
+### File list
+| File name | Description |
+|---|---|
+| poj-holo.cin | The original cin table, which contains only Han characters. |
+| **ibus_han_poj_123.txt** | This is the `<your_ibus_table.txt>` file, which you should edit to create your own ibus table. |
+| ibus_han_poj_asd.txt | Using **asdfghjkl** instead of **123456789** as the input keys, so that the number keys can be used to select between listed words. It is generated by `table_converter.sh`. |
+| poj.db | The ibus table generated from `ibus_poj.txt`. |
+| **update_poj_db.sh** | Use this to create/update the poj.db and add it to your system. |
+| table_converter.sh | Use it to convert `ibus_han_poj_123.txt` to `ibus_han_poj_asd.txt`; it has been included in `update_poj_db.sh`. |
+| ./pics/ibus-poj.svg | The icon file. |
+| lomaji.py | The original file which contains the (incomplete) POJ unicode list. |
+| print_poj_list.py | Used to print out the Unicode list in `lomaji.py`. |
 
-* If you encounter the following message as running the update_poj_db.sh script:
-
-    `awk: line 29: function gensub never defined`
-
-    it means that you need to install `gawk`.
-
-* After the installation, you may be need to log out and in again, and remember to add the POJ input method from the IBus GUI as shown above.
-
-* If your POJ input method fails to adapt the given icon (ibus-poj.svg), try to install `ibus-chewing`, reboot the system, and then add POJ input method from the IBus GUI again. (I don't know the reason, but this work-around works for me.)
-
-* If some of the Han characters won't shown in the selecting list, click the icon on system tray and set **Chinese mode** to be **All Chinese characters**.
-
-    ![click the icon](pics/ibus_tray.png)
-
-    ![select chinese mode](pics/poj_settings.png)
-
-## Known bugs
-
-* <s>The dynamic adjust function don't work as expected.</s>
-* <s>In some situations (e.g., after selecting Han characters) the input method might switch to full-width mode, and you need to press `Shift+Space` key once to back to normal input mode.</s>
-
-## File list
-* poj-holo.cin: The original cin table, which contains only Han characters.
-* **ibus_han_poj_123.txt**: This is the `<your_ibus_table.txt>` file, which you should edit to create your own ibus table.
-* ibus_han_poj_asd.txt: Using **asdfghjkl** instead of **123456789** as the input keys, so that the number keys can be used to select between listed words. It is generated by table_converter.sh.
-* poj.db: The ibus table generated from ibus_poj.txt.
-* **update_poj_db.sh**: Use this to create/update the poj.db and add it to your system
-* table_converter.sh: Use it to convert ibus_han_poj_123.txt to ibus_han_poj_asd.txt; it has been included in update_poj_db.sh.
-* ibus-poj.svg: The icon file.
-* lomaji.py: The original file which contains the (incomplete) POJ unicode list.
-* print_poj_list.py: Used to print out the unicode list in lomaji.py.
+---
 
 ## TODO
 * <s>To add Lô-má-jī ahead of the Han characters.</s>
