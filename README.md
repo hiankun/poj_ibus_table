@@ -14,10 +14,13 @@ For more detailed (and not-so-easy-to follow) steps, see `./repo/old_README.md`.
   * (Optional) Check the file of `/etc/locale.gen`,
     the line of `zh_TW.UTF-8 UTF-8` (it's located near the bottom of the file)
     should has been uncommented.
+
 * Install [Gawk](https://www.gnu.org/software/gawk/): `sudo apt install gawk`
+
 * Clone the repo and `cd ./poj_ibus_table`.
   * <s>(Optional, for first time setup) Add the icon by `sudo cp pics/ibus-poj.svg /usr/share/ibus-table/icons/`.</s>
     (This step has no effect now, and I cannot find method to solve it... Orz)
+
 * Run `bash update_poj_db.sh` and the script will do all the setup works for you.
   * If you want, just check the script to see all the setup steps,
     and manually run them one by one.
@@ -49,11 +52,13 @@ For more detailed (and not-so-easy-to follow) steps, see `./repo/old_README.md`.
 
 ## Trouble shooting
 
+__NOTE__: The following screenshots were captured in Ubuntu 16.04.
+
 * If some of the Han characters won't shown in the selecting list, click the icon on system tray and set **Chinese mode** to be **All Chinese characters**.
 
-    ![click the icon](pics/ibus_tray.png)
+    ![click the icon](repo/pics/ibus_tray.png)
 
-    ![select chinese mode](pics/poj_settings.png)
+    ![select chinese mode](repo/pics/poj_settings.png)
 
 ## Known bugs
 
