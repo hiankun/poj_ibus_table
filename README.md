@@ -8,7 +8,7 @@ The table has been created and tested in Ubuntu/Lubuntu 16.04 and 18.04.
 All the following setup steps __run in CLI__  (command line interface) are also valid in Ubuntu 16.04.
 For more detailed (and not-so-easy-to follow) steps, see `./repo/old_README.md`.
 
-## Setup (Lbuntu 18.04)
+## Setup (Lubuntu 18.04)
 * Install [Gawk](https://www.gnu.org/software/gawk/): `sudo apt install gawk`
 
 * Install `ibus-table` by `sudo apt install ibus-table`.
@@ -34,6 +34,7 @@ For more detailed (and not-so-easy-to follow) steps, see `./repo/old_README.md`.
 
   ![](pics/lubuntu_add_poj_04.png)
 
+* __Congrats!__: You should be abale to use POJ input method now.
 
 ## Setup (Ubuntu 18.04; not confirmed, yet...)
 * (I need to check this step...) <s>Make sure you have `zh_TW.UTF-8` locale enabled.
