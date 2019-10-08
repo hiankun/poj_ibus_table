@@ -12,7 +12,7 @@ For more detailed (and not-so-easy-to follow) steps, see `./repo/old_README.md`.
 * Install [Gawk](https://www.gnu.org/software/gawk/): `sudo apt install gawk`
 
 * Install `ibus-table` by `sudo apt install ibus-table`.
-  * After the istallation, we will have the path of `/usr/share/ibus-table/icons/` for later usage.
+  * After the installation, we will have the path of `/usr/share/ibus-table/icons/` for later usage.
 
 * Clone the repo and `cd ./poj_ibus_table`.
   * (Optional, for first time setup) Add the icon by `sudo cp pics/ibus-poj.svg /usr/share/ibus-table/icons/`.
@@ -34,7 +34,7 @@ For more detailed (and not-so-easy-to follow) steps, see `./repo/old_README.md`.
 
   ![](pics/lubuntu_add_poj_04.png)
 
-* __Congrats!__: You should be abale to use POJ input method now.
+* __Congrats!__: You should be able to use POJ input method now.
 
 ## Setup (Ubuntu 18.04; not confirmed, yet...)
 * (I need to check this step...) <s>Make sure you have `zh_TW.UTF-8` locale enabled.
