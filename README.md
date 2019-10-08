@@ -34,7 +34,7 @@ For more detailed (and not-so-easy-to follow) steps, see `./repo/old_README.md`.
 
   ![](pics/lubuntu_add_poj_04.png)
 
-* __Congrats!__: You should be able to use POJ input method now.
+* __Congrats!__ You should be able to use POJ input method now.
 
 ## Setup (Ubuntu 18.04; not confirmed, yet...)
 * (I need to check this step...) <s>Make sure you have `zh_TW.UTF-8` locale enabled.
