@@ -4,16 +4,43 @@ The purpose of the project is to create an IBus table for POJ users.
 The table was modified from one of the cin-tables ([poj-holo.cin](https://github.com/chinese-opendesktop/cin-tables)).
 
 ## Test Environment
-The table has been created and tested in Ubuntu 18.04.
+The table has been created and tested in Ubuntu/Lubuntu 16.04 and 18.04.
 All the following setup steps __run in CLI__  (command line interface) are also valid in Ubuntu 16.04.
 For more detailed (and not-so-easy-to follow) steps, see `./repo/old_README.md`.
 
-## Setup
-* Make sure you have `zh_TW.UTF-8` locale enabled.
+## Setup (Lbuntu 18.04)
+* Install [Gawk](https://www.gnu.org/software/gawk/): `sudo apt install gawk`
+
+* Install `ibus-table` by `sudo apt install ibus-table`.
+  * After the istallation, we will have the path of `/usr/share/ibus-table/icons/` for later usage.
+
+* Clone the repo and `cd ./poj_ibus_table`.
+  * (Optional, for first time setup) Add the icon by `sudo cp pics/ibus-poj.svg /usr/share/ibus-table/icons/`.
+
+* Run `bash update_poj_db.sh` and the script will do all the setup works for you.
+  * If you want, just check the script to see all the setup steps,
+    and manually run them one by one.
+
+* Add the POJ input method via
+  `Preferences -> IBus Preferences -> Input Method -> Add -> Chinese -> POJ`.
+
+  ![](pics/lubuntu_add_poj_01.png)
+
+  ![](pics/lubuntu_add_poj_02.png)
+
+* Select IBus as the `Keyboard input method system`.
+
+  ![](pics/lubuntu_add_poj_03.png)
+
+  ![](pics/lubuntu_add_poj_04.png)
+
+
+## Setup (Ubuntu 18.04; not confirmed, yet...)
+* (I need to check this step...) <s>Make sure you have `zh_TW.UTF-8` locale enabled.
   Or you can just run `sudo locale-gen zh_TW.UTF-8` to generate it.
   * (Optional) Check the file of `/etc/locale.gen`,
     the line of `zh_TW.UTF-8 UTF-8` (it's located near the bottom of the file)
-    should has been uncommented.
+    should has been uncommented.</s>
 
 * Install [Gawk](https://www.gnu.org/software/gawk/): `sudo apt install gawk`
 
