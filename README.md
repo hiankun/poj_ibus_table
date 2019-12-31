@@ -80,19 +80,31 @@ For more detailed (and not-so-easy-to follow) steps, see `./repo/old_README.md`.
 
 ## Trouble shooting
 
-__NOTE__: The following screenshots were captured in Ubuntu 16.04.
+* If some of the Han characters won't shown in the selecting list, 
+  click the icon on system tray and set **Chinese mode** to be **All Chinese characters**.
 
-* If some of the Han characters won't shown in the selecting list, click the icon on system tray and set **Chinese mode** to be **All Chinese characters**.
+  __NOTE__: The following screenshots were captured in Ubuntu 16.04.
 
-    ![click the icon](repo/pics/ibus_tray.png)
+  ![click the icon](repo/pics/ibus_tray.png)
 
-    ![select chinese mode](repo/pics/poj_settings.png)
+  ![select chinese mode](repo/pics/poj_settings.png)
+
+* If you get only Han characters but no POJ showing up, click the icon on system 
+  tray and set **Onechar mode** to be **Multiple character match** 
+  (Thank Achèng for reporting this issue).
+
+  __NOTE__: The following screenshot was captured in Lubuntu 18.04.
+
+  ![set onechar mode](pics/onechar_mode.png)
+
 
 ## Known bugs
 
 * <s>The dynamic adjust function don't work as expected.</s>
 * <s>In some situations (e.g., after selecting Han characters) the input method might switch to full-width mode, and you need to press `Shift+Space` key once to back to normal input mode.</s>
-* The system does not show the icon (`pics/ibus-poj.svg`). If you know how to solve it, let me know please.
+* The system does not show the icon (`pics/ibus-poj.svg`) in Ubuntu 18.04,
+  but everything is okay in Lubuntu 18.04...
+  If you know how to solve it, let me know please.
 
 ---
 
