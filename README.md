@@ -80,20 +80,16 @@ For more detailed (and not-so-easy-to follow) steps, see `./repo/old_README.md`.
 
 ## Trouble shooting
 
-* If some of the Han characters won't shown in the selecting list, 
+__NOTE__: The following screenshot was captured in Lubuntu 18.04.
+
+* If you find there're some Han characters missing in the selecting list, 
   click the icon on system tray and set **Chinese mode** to be **All Chinese characters**.
 
-  __NOTE__: The following screenshots were captured in Ubuntu 16.04.
-
-  ![click the icon](repo/pics/ibus_tray.png)
-
-  ![select chinese mode](repo/pics/poj_settings.png)
+  ![set chinese mode](pics/chinese_mode.png)
 
 * If you get only Han characters but no POJ showing up, click the icon on system 
   tray and set **Onechar mode** to be **Multiple character match** 
   (Thank Achèng for reporting this issue).
-
-  __NOTE__: The following screenshot was captured in Lubuntu 18.04.
 
   ![set onechar mode](pics/onechar_mode.png)
 
