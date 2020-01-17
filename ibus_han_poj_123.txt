@@ -56,8 +56,6 @@ STATUS_PROMPT = 台
 #VALID_INPUT_CHARS = -_\|/+,.:;`'"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 VALID_INPUT_CHARS = -,.:;?![]()0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 
-
-
 ### Layout
 LAYOUT = us
 
@@ -2056,6 +2054,7 @@ choa2	chóa	201
 choa2	紙	123
 choa5	chôa	201
 choa5	蛇	131
+choa5	🐍	99
 choa7	chōa	201
 choa7	咀	131
 choa7	誓	113
@@ -2678,6 +2677,7 @@ hau	hau	201
 hau	嘐	113
 hau	囂	95
 hau2	háu	201
+hau2	😢	99
 hau2	吼	91
 hau2	哮	123
 hau3	hàu	201
@@ -3852,6 +3852,7 @@ kau3	敎	66
 kau3	較	112
 kau5	kâu	201
 kau5	猴	129
+kau5	🐒	99
 kau7	kāu	201
 kau7	厚	130
 kauh	kauh	201
@@ -4022,6 +4023,7 @@ khau2	巧	119
 khau3	khàu	201
 khau3	叩	96
 khau3	扣	99
+khau3	😢	99
 khau3	哭	128
 khauh8	kha̍uh	201
 khe	khe	201
@@ -7653,6 +7655,7 @@ sihnn	sihⁿ	201
 sihnn	薛	119
 sim	sim	201
 sim	心	130
+sim	❤️	99
 sim	芯	97
 sim	參	96
 sim	森	105
@@ -8743,6 +8746,7 @@ ti	知	113
 ti	蜘	112
 ti	豬	54
 ti	猪	131
+ti	🐖	99
 ti	株	82
 ti	誅	81
 ti2	tí	201
@@ -9411,903 +9415,1179 @@ ut8	鷸	92
 ### gisu: set the freq >= 300
 amkun	āmkún	310
 amkun	ām-kún	309
-amkun	頷滾	308
+amkun	ām kún	308
+amkun	頷滾	307
 anchoann	ánchóaⁿ	310
 anchoann	án-chóaⁿ	309
-anchoann	按盞	308
+anchoann	án chóaⁿ	308
+anchoann	按盞	307
 angachheh	angáchheh	310
 angachheh	ang-á-chheh	309
-angachheh	尫仔冊	308
+angachheh	ang á chheh	308
+angachheh	尫仔冊	307
 angaphiau	angáphiau	310
 angaphiau	ang-á-phiau	309
-angaphiau	尫仔標	308
+angaphiau	ang á phiau	308
+angaphiau	尫仔標	307
 angathau	angáthâu	310
 angathau	ang-á-thâu	309
-angathau	尫仔頭	308
+angathau	ang á thâu	308
+angathau	尫仔頭	307
 angatou	angátô͘	310
 angatou	ang-á-tô͘	309
-angatou	尫仔圖	308
+angatou	ang á tô͘	308
+angatou	尫仔圖	307
 angphinn	àngphīⁿ	310
 angphinn	àng-phīⁿ	309
+angphinn	àng phīⁿ	308
 ###TODO
-angphinn	àng鼻	308
+angphinn	àng鼻	307
 anime	ánīmè	310
-anime	ánīmè	309
-anime	アニメ	308
+anime	á-nī-mè	309
+anime	á nī mè	308
+anime	アニメ	307
 annoa	ánnóa	310
 annoa	án-nóa	309
+annoa	án nóa	308
 anne	ánne	310
 anne	án-ne	309
-anne	按呢	308
+anne	án ne	308
+anne	按呢	307
 anni	ánni	310
 anni	án-ni	309
-anni	按呢	308
+anni	án ni	308
+anni	按呢	307
 ansng	ànsǹg	310
 ansng	àn-sǹg	309
-ansng	按算	308
+ansng	àn sǹg	308
+ansng	按算	307
 aplek	aple̍k	310
 aplek	ap-le̍k	309
-aplek	壓力	308
+aplek	ap le̍k	308
+aplek	壓力	307
 asi	ásī	310
 asi	á-sī	309
+asi	á sī	308
 aukhakin	āukhakin	310
 aukhakin	āu-kha-kin	309
-aukhakin	後脚筋	308
+aukhakin	āu kha kin	308
+aukhakin	後脚筋	307
 aukhakun	āukhakun	310
 aukhakun	āu-kha-kun	309
-aukhakun	後脚筋	308
+aukhakun	āu kha kun	308
+aukhakun	後脚筋	307
 aulai	āulâi	310
 aulai	āu-lâi	309
-aulai	āu--lâi	308
-aulai	後來	307
+aulai	āu lâi	308
+aulai	āu--lâi	307
+aulai	後來	306
 aupiah	āupiah	310
 aupiah	āu-piah	309
-aupiah	後壁	308
-aupiah	Āupiah	307
-aupiah	Āu-piah	306
+aupiah	āu piah	308
+aupiah	後壁	307
+aupiah	Āupiah	306
+aupiah	Āu-piah	305
 bakchiu	ba̍kchiu	310
 bakchiu	ba̍k-chiu	309
-bakchiu	目周	308
-bakchiu	目珠	307
+bakchiu	ba̍k chiu	308
+bakchiu	目周	307
+bakchiu	目珠	306
 bakchiujin	ba̍kchiujîn	310
 bakchiujin	ba̍k-chiu-jîn	309
-bakchiujin	目周仁	308
-bakchiujin	目珠仁	307
+bakchiujin	ba̍k chiu jîn	308
+bakchiujin	目周仁	307
+bakchiujin	目珠仁	306
 bakkiann	ba̍kkiàⁿ	310
 bakkiann	ba̍k-kiàⁿ	309
-bakkiann	目鏡	308
+bakkiann	ba̍k kiàⁿ	308
+bakkiann	目鏡	307
 bakkhou	ba̍kkho͘	310
 bakkhou	ba̍k-kho͘	309
-bakkhou	目篐	308
+bakkhou	ba̍k kho͘	308
+bakkhou	目篐	307
 baksek	ba̍ksek	310
 baksek	ba̍k-sek	309
-baksek	目色	308
+baksek	ba̍k sek	308
+baksek	目色	307
 baksai	ba̍ksái	310
 baksai	ba̍k-sái	309
-baksai	目屎	308
+baksai	ba̍k sái	308
+baksai	目屎	307
 banengkong	Bānèngkong	310
 banengkong	Bān-èng-kong	309
-banengkong	萬應公	308
+banengkong	Bān èng kong	308
+banengkong	萬應公	307
 bangcham	bāngchām	310
 bangcham	bāngchām	309
-bangcham	網站	308
+bangcham	bāngchām	308
+bangcham	網站	307
 bangiah	bāngia̍h	310
 bangiah	bāng-ia̍h	309
-bangiah	網頁	308
+bangiah	bāng ia̍h	308
+bangiah	網頁	307
 bangiu	bāngiú	310
 bangiu	bāngiú	309
-bangiu	網友	308
+bangiu	bāngiú	308
+bangiu	網友	307
 banglou	bānglō͘	310
 banglou	bāng-lō͘	309
-banglou	網路	308
+banglou	bāng lō͘	308
+banglou	網路	307
 bansoukhou	bán-sò͘-khò͘	310
 bansoukhou	bánsò͘khò͘	309
+bansoukhou	bánsò͘khò͘	308
 bengsu	bêngsû	310
 bengsu	bêng-sû	309
-bengsu	名詞	308
+bengsu	bêng sû	308
+bengsu	名詞	307
 besai	bēsái	310
-besai	bē sái	309
-besai	bē-sái	308
-besai	袂使	307
+besai	bē-sái	307
+besai	袂使	306
 besin	bêsìn	310
 besin	bê-sìn	309
-besin	迷信	308
+besin	bê sìn	308
+besin	迷信	307
 betang	bētàng	310
 betang	bē-tàng	309
-betang	袂凍	307
+betang	bē tàng	308
+betang	袂凍	306
 bibiau	bībiāu	310
 bibiau	bī-biāu	309
-bibiau	微妙	308
+bibiau	bī biāu	308
+bibiau	微妙	307
 bihun	bíhún	310
 bihun	bí-hún	309
-bihun	米粉	308
+bihun	bí hún	308
+bihun	米粉	307
 bikok	Bíkok	310
 bikok	Bí-kok	309
-bikok	米國	308
-bikok	美國	307
+bikok	Bí kok	308
+bikok	米國	307
+bikok	美國	306
 bilai	bīlâi	310
 bilai	bī-lâi	309
-bilai	未來	308
+bilai	bī lâi	308
+bilai	未來	307
 binachai	bîn-ná-chài	310
 binachai	bînnáchài	309
+binachai	bînnáchài	308
 ###DONE
 ###我 mā 是建議將 binachai 个 OUTPUT
 ###chhiâu 做「bînnáchài / bîn-ná-chài」
 ###既然語源是 -tòaⁿ-、koh 二式仝音
-binachai	明旦再	308	#TJT
+binachai	明旦再	307	#TJT
 binnachai	bîn-ná-chài	310
 binnachai	bînnáchài	309
+binnachai	bînnáchài	308
 ###DONE
-binnachai	明旦再	308	#TJT
+binnachai	明旦再	307	#TJT
 binchheh	Bīnchheh	310
 binchheh	Bīn-chheh	309
-binchheh	面冊	308
+binchheh	Bīn chheh	308
+binchheh	面冊	307
 binchiat	bínchia̍t	310
 binchiat	bín-chia̍t	309
-binchiat	敏捷	308	#TJT
+binchiat	bín chia̍t	308
+binchiat	敏捷	307	#TJT
 binchiong	bînchiòng	310
 binchiong	bîn-chiòng	309
-binchiong	民眾	308
+binchiong	bîn chiòng	308
+binchiong	民眾	307
 binchu	bînchú	310
 binchu	bîn-chú	309
-binchu	民主	308
+binchu	bîn chú	308
+binchu	民主	307
 binchu	bīnchú	310
 binchu	bīn-chú	309
-binchu	面子	308
+binchu	bīn chú	308
+binchu	面子	307
 binkan	bînkan	310
 binkan	bîn-kan	309
-binkan	民間	308
+binkan	bîn kan	308
+binkan	民間	307
 binsiong	bīnsiòng	310
 binsiong	bīn-siòng	309
-binsiong	面相	308
+binsiong	bīn siòng	308
+binsiong	面相	307
 bitbe	bi̍tbé	310
 bitbe	bi̍t-bé	309
-bitbe	密碼	308
+bitbe	bi̍t bé	308
+bitbe	密碼	307
 boiann	bôiáⁿ	310
-boiann	bô iáⁿ	309
-boiann	bô-iáⁿ	308
-boiann	無影	307
+boiann	bô-iáⁿ	307
+boiann	無影	306
 bokcheng	bo̍kchêng	310
 bokcheng	bo̍k-chêng	309
-bokcheng	目前	308
+bokcheng	bo̍k chêng	308
+bokcheng	目前	307
 bokphiau	bo̍kphiau	310
 bokphiau	bo̍k-phiau	309
-bokphiau	目標	308
+bokphiau	bo̍k phiau	308
+bokphiau	目標	307
 boktek	bo̍ktek	310
 boktek	bo̍k-tek	309
-boktek	目的	308
+boktek	bo̍k tek	308
+boktek	目的	307
 buchong	búchong	310
 buchong	bú-chong	309
-buchong	武裝	308
+buchong	bú chong	308
+buchong	武裝	307
 bulek	búle̍k	310
 bulek	bú-le̍k	309
-bulek	武力	308
+bulek	bú le̍k	308
+bulek	武力	307
 bukhi	búkhì	310
 bukhi	bú-khì	309
-bukhi	武器	308
+bukhi	bú khì	308
+bukhi	武器	307
 buto	bútō	310
 buto	bú-tō	309
-buto	武道	308
-buto	舞蹈	307
+buto	bú tō	308
+buto	武道	307
+buto	舞蹈	306
 bunbeng	bûnbêng	310
 bunbeng	bûn-bêng	309
-bunbeng	文明	308
+bunbeng	bûn bêng	308
+bunbeng	文明	307
 bunchiunn	bûnchiuⁿ	310
 bunchiunn	bûn-chiuⁿ	309
-bunchiunn	文章	308
+bunchiunn	bûn chiuⁿ	308
+bunchiunn	文章	307
 bunge	bûngē	310
 bunge	bûn-gē	309
-bunge	文藝	308
+bunge	bûn gē	308
+bunge	文藝	307
 bunhak	bûnha̍k	310
 bunhak	bûn-ha̍k	309
-bunhak	文學	308
+bunhak	bûn ha̍k	308
+bunhak	文學	307
 bunhian	bûnhiàn	310
 bunhian	bûn-hiàn	309
-bunhian	文献	308
-bunhian	文獻	307
+bunhian	bûn hiàn	308
+bunhian	文献	307
+bunhian	文獻	306
 bunhoa	bûnhòa	310
 bunhoa	bûn-hòa	309
-bunhoa	文化	308
+bunhoa	bûn hòa	308
+bunhoa	文化	307
 bunji	bûnjī	310
 bunji	bûn-jī	309
-bunji	文字	308
+bunji	bûn jī	308
+bunji	文字	307
 bunpit	bûnpit	310
 bunpit	bûn-pit	309
-bunpit	文筆	308
+bunpit	bûn pit	308
+bunpit	文筆	307
 bunte	būntê	310
 bunte	būn-tê	309
-bunte	問題	308
+bunte	būn tê	308
+bunte	問題	307
 butli	bu̍tlí	310
 butli	bu̍t-lí	309
-butli	物理	308
+butli	bu̍t lí	308
+butli	物理	307
 butlihak	bu̍tlíha̍k	310
 butlihak	bu̍t-lí-ha̍k	309
-butlihak	物理學	308
+butlihak	bu̍t lí ha̍k	308
+butlihak	物理學	307
 butthe	bu̍tthé	310
 butthe	bu̍t-thé	309
-butthe	物體	308
+butthe	bu̍t thé	308
+butthe	物體	307
 chabou	chabó͘	310
 chabou	cha-bó͘	309
-chabou	查某	308
+chabou	cha bó͘	308
+chabou	查某	307
 chaiiann	chaiiáⁿ	310
 chaiiann	chai-iáⁿ	309
-chaiiann	知影	308
+chaiiann	chai iáⁿ	308
+chaiiann	知影	307
 chainniunn	cháiⁿiūⁿ	310
 chainniunn	cháiⁿ-iūⁿ	309
+chainniunn	cháiⁿ iūⁿ	308
 chailiau	châiliāu	310
 chailiau	châi-liāu	309
-chailiau	材料	308
+chailiau	châi liāu	308
+chailiau	材料	307
 chaucheng	cháucheng	310
 chaucheng	cháu-cheng	309
-chaucheng	走爭	308
+chaucheng	cháu cheng	308
+chaucheng	走爭	307
 chauchhoe	cháuchhōe	310
 chauchhoe	cháu-chhōe	309
-chauchhoe	走尋	308
+chauchhoe	cháu chhōe	308
+chauchhoe	走尋	307
 checho	chèchō	310
 checho	chèchō	309
-checho	製造	308
+checho	chèchō	308
+checho	製造	307
 chechok	chèchok	310
 chechok	chèchok	309
-chechok	製作	308
+chechok	chèchok	308
+chechok	製作	307
 chekchu	chekchū	310
 chekchu	chek-chū	309
-chekchu	積聚	308
+chekchu	chek chū	308
+chekchu	積聚	307
 chekjim	chekjīm	310
 chekjim	chek-jīm	309
-chekjim	責任	308
+chekjim	chek jīm	308
+chekjim	責任	307
 cheknau	cheknáu	310
 cheknau	chek-náu	309
+cheknau	chek náu	308
 ###TODO
-cheknau	chek 腦	308	#STL, 身體理
+cheknau	chek 腦	307	#STL, 身體理
 chektek	chektek	310
 chektek	chek-tek	309
-chektek	積德	308
+chektek	chek tek	308
+chektek	積德	307
 chekthiau	chekthiāu	310
 chekthiau	chek-thiāu	309
+chekthiau	chek thiāu	308
 ###TODO
-chekthiau	chek 柱	308	#STL
+chekthiau	chek 柱	307	#STL
 chengam	chéngām	310
 chengam	chéng-ām	309
-chengam	腫頷	308
+chengam	chéng ām	308
+chengam	腫頷	307
 chengbeng	chèngbêng	310
 chengbeng	chèng-bêng	309
-chengbeng	証明	308
-chengbeng	證明	307
+chengbeng	chèng bêng	308
+chengbeng	証明	307
+chengbeng	證明	306
 chengchha	chengchha	310
 chengchha	cheng-chha	309
-chengchha	爭差	308
+chengchha	cheng chha	308
+chengchha	爭差	307
 chengchong	chengchông	310
 chengchong	cheng-chông	309
+chengchong	cheng chông	308
 ###TODO
-chengchong	??	308
-chengchong	精裝	307
+chengchong	??	307
+chengchong	精裝	306
 chenggi	chènggī	310
 chenggi	chèng-gī	309
-chenggi	正義	308
+chenggi	chèng gī	308
+chenggi	正義	307
 chenghu	chènghú	310
 chenghu	chèng-hú	309
-chenghu	政府	308
+chenghu	chèng hú	308
+chenghu	政府	307
 chengka	chengka	310
 chengka	cheng-ka	309
-chengka	增加	308
+chengka	cheng ka	308
+chengka	增加	307
 chengkeng	chèngkeng	310
 chengkeng	chèng-keng	309
-chengkeng	正經	308
+chengkeng	chèng keng	308
+chengkeng	正經	307
 chengkhak	chèngkhak	310
 chengkhak	chèng-khak	309
-chengkhak	正確	308
+chengkhak	chèng khak	308
+chengkhak	正確	307
 chengkhu	chengkhū	310
 chengkhu	cheng-khū	309
+chengkhu	cheng khū	308
 ###TODO
-chengkhu	舂臼	308	#TJT
+chengkhu	舂臼	307	#TJT
 chenglang	chènglâng	310
 chenglang	chèng-lâng	309
-chenglang	衆人	308
-chenglang	眾人	307
+chenglang	chèng lâng	308
+chenglang	衆人	307
+chenglang	眾人	306
 chengli	chénglí	310
 chengli	chéng-lí	309
-chengli	整理	308
+chengli	chéng lí	308
+chengli	整理	307
 chengsin	chengsîn	310
 chengsin	cheng-sîn	309
-chengsin	精神	308
+chengsin	cheng sîn	308
+chengsin	精神	307
 chengsek	chèngsek	310
 chengsek	chèng-sek	309
-chengsek	正式	308
+chengsek	chèng sek	308
+chengsek	正式	307
 chengsenn	chengseⁿ	310
 chengsenn	cheng-seⁿ	309
-chengsenn	精生	308
+chengsenn	cheng seⁿ	308
+chengsenn	精生	307
 chengsinn	chengsiⁿ	310
 chengsinn	cheng-siⁿ	309
-chengsinn	精生	308
+chengsinn	cheng siⁿ	308
+chengsinn	精生	307
 chengthau	chéngthâu	310
 chengthau	chéng-thâu	309
-chengthau	指頭	308
+chengthau	chéng thâu	308
+chengthau	指頭	307
 chengti	chèngtī	310
 chengti	chèng-tī	309
-chengti	政治	308
+chengti	chèng tī	308
+chengti	政治	307
 chetou	chètō͘	310
 chetou	chè-tō͘	309
-chetou	制度	308
+chetou	chè tō͘	308
+chetou	制度	307
 chiahchhai	chia̍hchhài	310
 chiahchhai	chia̍h-chhài	309
-chiahchhai	食菜	308
+chiahchhai	chia̍h chhài	308
+chiahchhai	食菜	307
 chiahchhailang	chia̍hchhàilâng	310
 chiahchhailang	chia̍h-chhài-lâng	309
-chiahchhailang	食菜人	308
+chiahchhailang	chia̍h chhài lâng	308
+chiahchhailang	食菜人	307
 chiahhong	chia̍hhong	310
 chiahhong	chia̍h-hong	309
-chiahhong	食風	308	#TJT
+chiahhong	chia̍h hong	308
+chiahhong	食風	307	#TJT
 chiahlat	chiahla̍t	310
 chiahlat	chiah-la̍t	309
-chiahlat	食力	308
+chiahlat	chiah la̍t	308
+chiahlat	食力	307
 chiahni	chiahnī	310
 chiahni	chiah-nī	309
-chiahni	者哖	308
-chiahni	隻哖	307
+chiahni	chiah nī	308
+chiahni	者哖	307
+chiahni	隻哖	306
 chiahnih	chiahni̍h	310
 chiahnih	chiah-ni̍h	309
-chiahnih	者哖	308
-chiahnih	隻哖	307
+chiahnih	chiah ni̍h	308
+chiahnih	者哖	307
+chiahnih	隻哖	306
 chiahpng	chia̍hpn̄g	310
 chiahpng	chia̍h-pn̄g	309
-chiahpng	食飯	308
+chiahpng	chia̍h pn̄g	308
+chiahpng	食飯	307
 chiancheng	chiàncheng	310
 chiancheng	chiàn-cheng	309
-chiancheng	戰爭	308
+chiancheng	chiàn cheng	308
+chiancheng	戰爭	307
 chianchhia	chiànchhia	310
 chianchhia	chiàn-chhia	309
-chianchhia	戰車	308
+chianchhia	chiàn chhia	308
+chianchhia	戰車	307
 chianchun	chiànchûn	310
 chianchun	chiàn-chûn	309
-chianchun	戰船	308
+chianchun	chiàn chûn	308
+chianchun	戰船	307
 chiantau	chiàntàu	310
 chiantau	chiàn-tàu	309
-chiantau	戰鬥	308
+chiantau	chiàn tàu	308
+chiantau	戰鬥	307
 chiantauki	chiàntàuki	310
 chiantauki	chiàn-tàu-ki	309
-chiantauki	戰鬥機	308
+chiantauki	chiàn tàu ki	308
+chiantauki	戰鬥機	307
 chiannpan	chiàⁿpán	310
 chiannpan	chiàⁿ-pán	309
-chiannpan	正版	308
+chiannpan	chiàⁿ pán	308
+chiannpan	正版	307
 chiannpan	chiàⁿpān	310
 chiannpan	chiàⁿ-pān	309
-chiannpan	正範	308
+chiannpan	chiàⁿ pān	308
+chiannpan	正範	307
 chiannsit	chiaⁿsi̍t	310
 chiannsit	chiaⁿ-si̍t	309
-chiannsit	正實	308
+chiannsit	chiaⁿ si̍t	308
+chiannsit	正實	307
 chiauchng	chiâuchn̂g	310
 chiauchng	chiâu-chn̂g	309
-chiauchng	樵全	308
+chiauchng	chiâu chn̂g	308
+chiauchng	樵全	307
 chiaupi	chiâupī	310
 chiaupi	chiâu-pī	309
-chiaupi	樵備	308
+chiaupi	chiâu pī	308
+chiaupi	樵備	307
 chichhi	chichhî	310
 chichhi	chi-chhî	309
-chichhi	支持	308
+chichhi	chi chhî	308
+chichhi	支持	307
 china	Chiná	310
 china	Chi-ná	309
-china	支那	308
+china	Chi ná	308
+china	支那	307
 chincheng	chìnchêng	310
 chincheng	chìn-chêng	309
-chincheng	進前	308
+chincheng	chìn chêng	308
+chincheng	進前	307
 chinchiann	chinchiàⁿ	310
 chinchiann	chin-chiàⁿ	309
-chinchiann	眞正	308
-chinchiann	真正	307
+chinchiann	chin chiàⁿ	308
+chinchiann	眞正	307
+chinchiann	真正	306
 chinheng	chìnhêng	310
 chinheng	chìn-hêng	309
-chinheng	進行	308
+chinheng	chìn hêng	308
+chinheng	進行	307
 chinlek	chīnle̍k	310
 chinlek	chīn-le̍k	309
-chinlek	盡力	308
+chinlek	chīn le̍k	308
+chinlek	盡力	307
 chinliong	chīnliōng	310
 chinliong	chīn-liōng	309
-chinliong	盡量	308
+chinliong	chīn liōng	308
+chinliong	盡量	307
 chinpong	chīnpōng	310
 chinpong	chīn-pōng	309
-chinpong	盡磅	308
+chinpong	chīn pōng	308
+chinpong	盡磅	307
 chinpou	chìnpō͘	310
 chinpou	chìn-pō͘	309
-chinpou	進步	308
+chinpou	chìn pō͘	308
+chinpou	進步	307
 chitma	chitmá	310
 chitma	chit-má	309
-chitma	只馬	308
+chitma	chit má	308
+chitma	只馬	307
 chiuchoa	chiùchōa	310
 chiuchoa	chiù-chōa	309
-chiuchoa	咒咀	308
+chiuchoa	chiù chōa	308
+chiuchoa	咒咀	307
 choaiunn	chóaiūⁿ	310
 choaiunn	chóa-iūⁿ	309
-choaiunn	紙樣	308
+choaiunn	chóa iūⁿ	308
+choaiunn	紙樣	307
 choanbun	choanbûn	310
 choanbun	choan-bûn	309
-choanbun	專門	308
+choanbun	choan bûn	308
+choanbun	專門	307
 choanche	choanchè	310
 choanche	choan-chè	309
-choanche	專制	308
+choanche	choan chè	308
+choanche	專制	307
 choanchit	choanchit	310
 choanchit	choan-chit	309
-choanchit	專職	308
+choanchit	choan chit	308
+choanchit	專職	307
 choangiap	choangia̍p	310
 choangiap	choan-gia̍p	309
-choangiap	專業	308
+choangiap	choan gia̍p	308
+choangiap	專業	307
 choanka	choanka	310
 choanka	choan-ka	309
-choanka	專家	308
+choanka	choan ka	308
+choanka	專家	307
 choankho	choankho	310
 choankho	choan-kho	309
-choankho	專科	308
+choankho	choan kho	308
+choankho	專科	307
 choanli	choanlī	310
 choanli	choan-lī	309
-choanli	專利	308
+choanli	choan lī	308
+choanli	專利	307
 choanniunn	chóaⁿiūⁿ	310
 choanniunn	chóaⁿ-iūⁿ	309
-choanniunn	盞樣	308
+choanniunn	chóaⁿ iūⁿ	308
+choanniunn	盞樣	307
 choanpou	choânpō͘	310
 choanpou	choân-pō͘	309
-choanpou	全部	308
+choanpou	choân pō͘	308
+choanpou	全部	307
 choansim	choansim	310
 choansim	choan-sim	309
-choansim	專心	308
+choansim	choan sim	308
+choansim	專心	307
 choekin	chòekīn	310
 choekin	chòe-kīn	309
-choekin	最近	308
+choekin	chòe kīn	308
+choekin	最近	307
 chokka	chokka	310
 chokka	chok-ka	309
-chokka	作家	308
+chokka	chok ka	308
+chokka	作家	307
 chonghu	chōnghú	310
 chonghu	chōng-hú	309
-chonghu	臟腑	308
+chonghu	chōng hú	308
+chonghu	臟腑	307
 chongthai	chōngthài	310
 chongthai	chōng-thài	309
-chongthai	狀態	308
+chongthai	chōng thài	308
+chongthai	狀態	307
 chongthong	chóngthóng	310
 chongthong	chóng-thóng	309
-chongthong	總統	308
+chongthong	chóng thóng	308
+chongthong	總統	307
 chongsi	chóngsī	310
 chongsi	chóng-sī	309
-chongsi	chóng--sī	308
-chongsi	總是	307
+chongsi	chóng sī	308
+chongsi	chóng--sī	307
+chongsi	總是	306
 chohoe	chòhóe	310
 chohoe	chò-hóe	309
-chohoe	做伙	308
+chohoe	chò hóe	308
+chohoe	做伙	307
 choukong	chó͘kong	310
 choukong	chó͘-kong	309
-choukong	祖公	308
+choukong	chó͘ kong	308
+choukong	祖公	307
 chouma	chó͘má	310
 chouma	chó͘-má	309
-chouma	祖媽	308
+chouma	chó͘ má	308
+chouma	祖媽	307
 chousian	chó͘sian	310
 chousian	chó͘-sian	309
-chousian	祖先	308
+chousian	chó͘ sian	308
+chousian	祖先	307
 chophiau	chōphiau	310
 chophiau	chō-phiau	309
-chophiau	座標	308
+chophiau	chō phiau	308
+chophiau	座標	307
 chophiauhe	chōphiauhē	310
 chophiauhe	chō-phiau-hē	309
-chophiauhe	座標系	308
+chophiauhe	chō phiau hē	308
+chophiauhe	座標系	307
 choseng	chōsêng	310
 choseng	chō-sêng	309
-choseng	造成	308
+choseng	chō sêng	308
+choseng	造成	307
 chuchai	chūchāi	310
 chuchai	chū-chāi	309
-chuchai	自在	308
+chuchai	chū chāi	308
+chuchai	自在	307
 chuchun	chūchun	310
 chuchun	chū-chun	309
-chuchun	自尊	308
+chuchun	chū chun	308
+chuchun	自尊	307
 chui	chùì	310
 chui	chù-ì	309
-chui	注意	308
+chui	chù ì	308
+chui	注意	307
 chuiu	chūiû	310
 chuiu	chū-iû	309
-chuiu	自由	308
+chuiu	chū iû	308
+chuiu	自由	307
 chuichun	chúichún	310
 chuichun	chúi-chún	309
-chuichun	水凖	308
+chuichun	chúi chún	308
+chuichun	水凖	307
 chuikai	chúikái	310
 chuikai	chúi-kái	309
-chuikai	水解	308
+chuikai	chúi kái	308
+chuikai	水解	307
 chuikhou	chúikhò͘	310
 chuikhou	chúi-khò͘	309
-chuikhou	水庫	308
+chuikhou	chúi khò͘	308
+chuikhou	水庫	307
 chujian	chūjiân	310
 chujian	chū-jiân	309
-chujian	自然	308
+chujian	chū jiân	308
+chujian	自然	307
 chujiankai	chūjiânkài	310
 chujiankai	chū-jiân-kài	309
-chujiankai	自然界	308
+chujiankai	chū jiân kài	308
+chujiankai	自然界	307
 chukeh	chukeh	310
 chukeh	chu-keh	309
-chukeh	資格	308
+chukeh	chu keh	308
+chukeh	資格	307
 chuki	chūkí	310
 chuki	chū-kí	309
-chuki	自己	308
+chuki	chū kí	308
+chuki	自己	307
 chuliau	chuliāu	310
 chuliau	chu-liāu	309
-chuliau	資料	308
+chuliau	chu liāu	308
+chuliau	資料	307
 chunchat	chúnchat	310
 chunchat	chún-chat	309
+chunchat	chún chat	308
 ###DONE
-chunchat	凖節	308	#TJT
+chunchat	凖節	307	#TJT
 chunpi	chúnpī	310
 chunpi	chún-pī	309
-chunpi	凖備	308
+chunpi	chún pī	308
+chunpi	凖備	307
 chuntiong	chuntiōng	310
 chuntiong	chun-tiōng	309
-chuntiong	尊重	308
+chuntiong	chun tiōng	308
+chuntiong	尊重	307
 chusin	chusìn	310
 chusin	chu-sìn	309
-chusin	資訊	308
+chusin	chu sìn	308
+chusin	資訊	307
 chusin	chūsìn	310
 chusin	chū-sìn	309
-chusin	自信	308
+chusin	chū sìn	308
+chusin	自信	307
 chutiunn	chútiuⁿ	310
 chutiunn	chú-tiuⁿ	309
-chutiunn	主張	308
+chutiunn	chú tiuⁿ	308
+chutiunn	主張	307
 chutiunn	chûtiûⁿ	310
 chutiunn	chû-tiûⁿ	309
-chutiunn	磁場	308
+chutiunn	chû tiûⁿ	308
+chutiunn	磁場	307
 chutong	chūtōng	310
 chutong	chū-tōng	309
-chutong	自動	308
+chutong	chū tōng	308
+chutong	自動	307
 chhaichhu	chháichhú	310
 chhaichhu	chhái-chhú	309
-chhaichhu	採取	308
+chhaichhu	chhái chhú	308
+chhaichhu	採取	307
 chhaieng	chháiēng	310
 chhaieng	chhái-ēng	309
-chhaieng	採用	308
+chhaieng	chhái ēng	308
+chhaieng	採用	307
 chhaihong	chháihóng	310
 chhaihong	chhái-hóng	309
-chhaihong	採訪	308
+chhaihong	chhái hóng	308
+chhaihong	採訪	307
 chhaiiong	chháiiōng	310
 chhaiiong	chhái-iōng	309
-chhaiiong	採用	308
+chhaiiong	chhái iōng	308
+chhaiiong	採用	307
 chhailiau	chhàiliāu	310
 chhailiau	chhài-liāu	309
-chhailiau	菜料	308
+chhailiau	chhài liāu	308
+chhailiau	菜料	307
 chhailiau	chhâiliāu	310
 chhailiau	chhâi-liāu	309
-chhailiau	材料	308
+chhailiau	chhâi liāu	308
+chhailiau	材料	307
 chhaithang	chhàithâng	310
 chhaithang	chhài-thâng	309
-chhaithang	菜虫	308
-chhaithang	菜蟲	307
+chhaithang	chhài thâng	308
+chhaithang	菜虫	307
+chhaithang	菜蟲	306
 chhaithau	chhàithâu	310
 chhaithau	chhài-thâu	309
-chhaithau	菜頭	308
+chhaithau	chhài thâu	308
+chhaithau	菜頭	307
 chhakho	chhâkhó	310
 chhakho	chhâ-khó	309
-chhakho	查考	308
+chhakho	chhâ khó	308
+chhakho	查考	307
 chhamka	chhamka	310
 chhamka	chham-ka	309
-chhamka	參加	308
+chhamka	chham ka	308
+chhamka	參加	307
 chhamkho	chhamkhó	310
 chhamkho	chham-khó	309
-chhamkho	參考	308
+chhamkho	chham khó	308
+chhamkho	參考	307
 chhamsiong	chhamsiông	310
 chhamsiong	chham-siông	309
-chhamsiong	參詳	308
+chhamsiong	chham siông	308
+chhamsiong	參詳	307
 chhamu	chhamú	310
 chhamu	chham-ú	309
-chhamu	參與	308
+chhamu	chham ú	308
+chhamu	參與	307
 chhangchuibi	chhàngchúibī	310
 chhangchuibi	chhàng-chúi-bī	309
-chhangchuibi	汆水味	308
+chhangchuibi	chhàng chúi bī	308
+chhangchuibi	汆水味	307
 chhanthiann	chhanthiaⁿ	310
 chhanthiann	chhan-thiaⁿ	309
-chhanthiann	餐廳	307
+chhanthiann	chhan thiaⁿ	308
+chhanthiann	餐廳	306
 ###ADDED
-chhanthiann	餐厛	308
+chhanthiann	餐厛	307
 chhaputto	chhaputto	310
 chhaputto	chha-put-to	309
-chhaputto	差不多	308
+chhaputto	chha put to	308
+chhaputto	差不多	307
 chhatthau	chha̍tthâu	310
 chhatthau	chha̍t-thâu	309
-chhatthau	賊頭	308
+chhatthau	chha̍t thâu	308
+chhatthau	賊頭	307
 chhauta	chhàuta	310
 chhauta	chhàu-ta	309
-chhauta	臭 ta	308
-chhauta	臭乾	307
-chhauta	臭礁	306
-chhauta	臭焦	305
+chhauta	chhàu ta	308
+chhauta	臭 ta	307
+chhauta	臭乾	306
+chhauta	臭礁	305
+chhauta	臭焦	304
 chhauhoeta	chhàuhóeta	310
 chhauhoeta	chhàu-hóe-ta	309
-chhauhoeta	臭火 ta	308
-chhauhoeta	臭火乾	307
-chhauhoeta	臭火礁	306
-chhauhoeta	臭火焦	305
+chhauhoeta	chhàu hóe ta	308
+chhauhoeta	臭火 ta	307
+chhauhoeta	臭火乾	306
+chhauhoeta	臭火礁	305
+chhauhoeta	臭火焦	304
 chhekgiam	chhekgiām	310
 chhekgiam	chhek-giām	309
-chhekgiam	測驗	308
+chhekgiam	chhek giām	308
+chhekgiam	測驗	307
 chhekliang	chhekliâng	310
 chhekliang	chhek-liâng	309
-chhekliang	測量	308
+chhekliang	chhek liâng	308
+chhekliang	測量	307
 chhekliong	chhekliông	310
 chhekliong	chhek-liông	309
-chhekliong	測量	308
+chhekliong	chhek liông	308
+chhekliong	測量	307
 chhekliong	chhekliōng	310
 chhekliong	chhek-liōng	309
-chhekliong	測量	308
+chhekliong	chhek liōng	308
+chhekliong	測量	307
 chhengchho	chhengchhó	310
 chhengchho	chheng-chhó	309
-chhengchho	清楚	308
+chhengchho	chheng chhó	308
+chhengchho	清楚	307
 chhengchi	chhèngchí	310
 chhengchi	chhèng-chí	309
-chhengchi	銃子	308
+chhengchi	chhèng chí	308
+chhengchi	銃子	307
 chhengeng	chhengêng	310
 chhengeng	chheng-êng	309
-chhengeng	清閑	308
+chhengeng	chheng êng	308
+chhengeng	清閑	307
 chhenghou	chhengho͘	310
 chhenghou	chheng-ho͘	309
-chhenghou	稱呼	308
+chhenghou	chheng ho͘	308
+chhenghou	稱呼	307
 chhengkhi	chhengkhì	310
 chhengkhi	chheng-khì	309
-chhengkhi	清氣	308
+chhengkhi	chheng khì	308
+chhengkhi	清氣	307
 chhengkiat	chhengkiat	310
 chhengkiat	chheng-kiat	309
-chhengkiat	清潔	308
+chhengkiat	chheng kiat	308
+chhengkiat	清潔	307
 chhengkiatche	chhengkiatche	310
 chhengkiatche	chheng-kiat-che	309
-chhengkiatche	清潔劑	308
+chhengkiatche	chheng kiat che	308
+chhengkiatche	清潔劑	307
 chhengsong	chhengsóng	310
 chhengsong	chheng-sóng	309
-chhengsong	清爽	308
+chhengsong	chheng sóng	308
+chhengsong	清爽	307
 chhengtu	chhengtû	310
 chhengtu	chheng-tû	309
-chhengtu	清除	308
+chhengtu	chheng tû	308
+chhengtu	清除	307
 chhengtuchia	chhengtûchiá	310
 chhengtuchia	chheng-tû-chiá	309
-chhengtuchia	清除者	308
+chhengtuchia	chheng tû chiá	308
+chhengtuchia	清除者	307
 chhiahkha	chhiahkha	310
 chhiahkha	chhiah-kha	309
-chhiahkha	赤脚	308
+chhiahkha	chhiah kha	308
+chhiahkha	赤脚	307
 chhiahkhasian	chhiahkhasian	310
 chhiahkhasian	chhiah-kha-sian	309
-chhiahkhasian	赤脚先	308	#TJT
+chhiahkhasian	chhiah kha sian	308
+chhiahkhasian	赤脚先	307	#TJT
 chhiahgu	chhiahgû	310
 chhiahgu	chhiah-gû	309
-chhiahgu	赤牛	308
+chhiahgu	chhiah gû	308
+chhiahgu	赤牛	307
 chhiahji	chhiahjī	310
 chhiahji	chhiah-jī	309
-chhiahji	刺字	308
-chhiahji	赤字	307
+chhiahji	chhiah jī	308
+chhiahji	刺字	307
+chhiahji	赤字	306
 chhiahsng	chhiahsng	310
 chhiahsng	chhiah-sng	309
-chhiahsng	赤酸	308
+chhiahsng	chhiah sng	308
+chhiahsng	赤酸	307
 chhiammia	chhiammiâ	310
 chhiammia	chhiam-miâ	309
-chhiammia	簽名	308
+chhiammia	chhiam miâ	308
+chhiammia	簽名	307
 chhianhian	chhiánhiān	310
 chhianhian	chhián-hiān	309
-chhianhian	淺現	308	#TJT
+chhianhian	chhián hiān	308
+chhianhian	淺現	307	#TJT
 chhiaukoe	chhiaukòe	310
 chhiaukoe	chhiau-kòe	309
-chhiaukoe	超過	308
+chhiaukoe	chhiau kòe	308
+chhiaukoe	超過	307
 chhigiam	chhìgiām	310
 chhigiam	chhì-giām	309
-chhigiam	試驗	308
+chhigiam	chhì giām	308
+chhigiam	試驗	307
 chhimchan	chhimchân	310
 chhimchan	chhim-chân	309
-chhimchan	深層	308
+chhimchan	chhim chân	308
+chhimchan	深層	307
 chhimtou	chhimtō͘	310
 chhimtou	chhim-tō͘	309
-chhimtou	深度	308
+chhimtou	chhim tō͘	308
+chhimtou	深度	307
 chhiuchheng	chhiúchhèng	310
 chhiuchheng	chhiú-chhèng	309
-chhiuchheng	手銃	308
+chhiuchheng	chhiú chhèng	308
+chhiuchheng	手銃	307
 chhiulou	chhiúlō͘	310
 chhiulou	chhiú-lō͘	309
-chhiulou	手路	308
+chhiulou	chhiú lō͘	308
+chhiulou	手路	307
 chhiunnkiap	chhiúⁿkiap	310
 chhiunnkiap	chhiúⁿ-kiap	309
+chhiunnkiap	chhiúⁿ kiap	308
 #TODO: PROGRESS MARKER
-chhiunnkiap	搶劫	308
-chhiunnkiap	搶刼	307
+chhiunnkiap	搶劫	307
+chhiunnkiap	搶刼	306
 chhiunnsiong	chhiúⁿsiong	310
 chhiunnsiong	chhiúⁿ-siong	309
-chhiunnsiong	廠商	308
+chhiunnsiong	chhiúⁿ siong	308
+chhiunnsiong	廠商	307
 chhiupio	chhiúpió	310
 chhiupio	chhiú-pió	309
-chhiupio	手錶	308
+chhiupio	chhiú pió	308
+chhiupio	手錶	307
 chhiuse	chhiúsè	310
 chhiuse	chhiú-sè	309
-chhiuse	手勢	308
+chhiuse	chhiú sè	308
+chhiuse	手勢	307
 chhiuthau	chhiúthâu	310
 chhiuthau	chhiú-thâu	309
-chhiuthau	手頭	308
+chhiuthau	chhiú thâu	308
+chhiuthau	手頭	307
 chhubi	chhùbī	310
 chhubi	chhù-bī	309
-chhubi	趣味	308
+chhubi	chhù bī	308
+chhubi	趣味	307
 chhuli	chhúlí	310
 chhuli	chhú-lí	309
-chhuli	處理	308
+chhuli	chhú lí	308
+chhuli	處理	307
 chhinchhiunn	chhinchhiūⁿ	310
 chhinchhiunn	chhin-chhiūⁿ	309
-chhinchhiunn	親像	308
+chhinchhiunn	chhin chhiūⁿ	308
+chhinchhiunn	親像	307
 chhittho	chhitthô	310
 chhittho	chhit-thô	309
-chhittho	𨑨迌	308
+chhittho	chhit thô	308
+chhittho	𨑨迌	307
 chhoh	chhoh	310
 chhongcho	chhòngchō	310
 chhongcho	chhòng-chō	309
-chhongcho	創造	308
+chhongcho	chhòng chō	308
+chhongcho	創造	307
 chhongchok	chhòngchok	310
 chhongchok	chhòng-chok	309
-chhongchok	創作	308
+chhongchok	chhòng chok	308
+chhongchok	創作	307
 chhongou	chhòngō͘	310
 chhongou	chhò-ngō͘	309
-chhongou	錯誤	308
+chhongou	chhò ngō͘	308
+chhongou	錯誤	307
 chhouhak	chho͘ha̍k	310
 chhouhak	chho͘-ha̍k	309
-chhouhak	初學	308
+chhouhak	chho͘ ha̍k	308
+chhouhak	初學	307
 chhoukang	chho͘kang	310
 chhoukang	chho͘-kang	309
-chhoukang	粗工	308
+chhoukang	chho͘ kang	308
+chhoukang	粗工	307
 chhoutang	chho͘tāng	310
 chhoutang	chho͘-tāng	309
-chhoutang	粗重	308
+chhoutang	chho͘ tāng	308
+chhoutang	粗重	307
 chhugoan	chhùgoân	310
 chhugoan	chhù-goân	309
-chhugoan	次元	308
+chhugoan	chhù goân	308
+chhugoan	次元	307
 chhuthian	chhuthiān	310
 chhuthian	chhut-hiān	309
-chhuthian	出現	308
+chhuthian	chhut hiān	308
+chhuthian	出現	307
 chhutlai	chhutlâi	310
 chhutlai	chhut-lâi	309
-chhutlai	出來	308
+chhutlai	chhut lâi	308
+chhutlai	出來	307
 chhutpan	chhutpán	310
 chhutpan	chhut-pán	309
-chhutpan	出版	308
+chhutpan	chhut pán	308
+chhutpan	出版	307
 chhutsoann	chhutsoaⁿ	310
 chhutsoann	chhut-soaⁿ	309
-chhutsoann	出山	308
+chhutsoann	chhut soaⁿ	308
+chhutsoann	出山	307
 chhuttiunn	chhuttiuⁿ	310
 chhuttiunn	chhut-tiuⁿ	309
-chhuttiunn	出張	308
+chhuttiunn	chhut tiuⁿ	308
+chhuttiunn	出張	307
 chhuttong	chhuttōng	310
 chhuttong	chhut-tōng	309
-chhuttong	出動	308
+chhuttong	chhut tōng	308
+chhuttong	出動	307
 chiamchhia	chiamchhia	310
 chiamchhia	chiah-chhia	309
-chiamchhia	針車	308
+chiamchhia	chiah chhia	308
+chiamchhia	針車	307
 chiamchhihoat	chiamchhìhoat	310
 chiamchhihoat	chiah-chhì-hoat	309
-chiamchhihoat	針刺法	308
+chiamchhihoat	chiah chhì hoat	308
+chiamchhihoat	針刺法	307
 chiamchiam	chiāmchiām	310
 chiamchiam	chiām-chiām	309
-chiamchiam	漸漸	308
+chiamchiam	chiām chiām	308
+chiamchiam	漸漸	307
 chiamkiu	chiamkiù	310
 chiamkiu	chiah-kiù	309
-chiamkiu	針灸	308
+chiamkiu	chiah kiù	308
+chiamkiu	針灸	307
 chiamsi	chiāmsî	310
 chiamsi	chiām-sî	309
-chiamsi	暫時	308
+chiamsi	chiām sî	308
+chiamsi	暫時	307
 chiamtui	chiamtùi	310
 chiamtui	chiah-tùi	309
-chiamtui	針對	308
+chiamtui	chiah tùi	308
+chiamtui	針對	307
 chianpoe	chiânpòe	310
 chianpoe	chiân-pòe	309
-chianpoe	前輩	308
+chianpoe	chiân pòe	308
+chianpoe	前輩	307
 chiapsiu	chiapsiū	310
 chiapsiu	chiap-siū	309
-chiapsiu	接受	308
+chiapsiu	chiap siū	308
+chiapsiu	接受	307
 chihui	chíhui	310
 chihui	chí-hui	309
-chihui	指揮	308
+chihui	chí hui	308
+chihui	指揮	307
 chikau	chíkàu	310
 chikau	chí-kàu	309
-chikau	指教	308
+chikau	chí kàu	308
+chikau	指教	307
 chimchiok	chimchiok	310
 chimchiok	chim-chiok	309
-chimchiok	斟酌	308
+chimchiok	chim chiok	308
+chimchiok	斟酌	307
 chimia	chímiâ	310
 chimia	chí-miâ	309
-chimia	指名	308
+chimia	chí miâ	308
+chimia	指名	307
 chiteng	chítēng	310
 chiteng	chí-tēng	309
-chiteng	指定	308
+chiteng	chí tēng	308
+chiteng	指定	307
 chito	chítō	310
 chito	chí-tō	309
-chito	指導	308
+chito	chí tō	308
+chito	指導	307
 chngthau	chńgthâu	310
 chngthau	chńg-thâu	309
-chngthau	指頭	308
+chngthau	chńg thâu	308
+chngthau	指頭	307
 ehiau	ēhiáu	310
 ehiau	ē-hiáu	309
-ehiau	會曉	308
+ehiau	ē hiáu	308
+ehiau	會曉	307
 ehiau	能曉	303
 #DONE: 頭節聲調是第五
 #EDIT 「e5」民貫朗寫「下」
 ehng	êhng	310
 ehng	ê-hng	309
-ehng	下昏	308
+ehng	ê hng	308
+ehng	下昏	307
 ehng	冥昏	302
 ekha	ēkha	310
 ekha	ē-kha	309
-ekha	下脚	308
+ekha	ē kha	308
+ekha	下脚	307
 engbun	Engbûn	310
 engbun	Eng-bûn	309
-engbun	英文	308
+engbun	Eng bûn	308
+engbun	英文	307
 engeng	êngêng	310
 engeng	êng-êng	309
-engeng	閑閑	308
+engeng	êng êng	308
+engeng	閑閑	307
 enghiong	énghióng	310
 enghiong	éng-hióng	309
-enghiong	影響	308
+enghiong	éng hióng	308
+enghiong	影響	307
 enghoat	ēnghoat	310
 enghoat	ēng-hoat	309
-enghoat	用法	308
+enghoat	ēng hoat	308
+enghoat	用法	307
 engia	engia	310
 engia	eng-ia	309
+engia	eng ia	308
 ###TODO
-engia	揚埃	308	#TJT
+engia	揚埃	307	#TJT
 engiong	èngiōng	310
 engiong	èng-iōng	309
-engiong	應用	308
+engiong	èng iōng	308
+engiong	應用	307
 engiong	êngióng	310
 engiong	êng-ióng	309
-engiong	營養	308
+engiong	êng ióng	308
+engiong	營養	307
 engionghak	êngiónghak	310
 engionghak	êng-ióng-hak	309
-engionghak	營養學	308
+engionghak	êng ióng hak	308
+engionghak	營養學	307
 engiongsu	êngióngsu	310
 engiongsu	êng-ióng-su	309
-engiongsu	營養師	308
+engiongsu	êng ióng su	308
+engiongsu	營養師	307
 enggi	Enggí	310
 enggi	Eng-gí	309
-enggi	英語	308
+enggi	Eng gí	308
+enggi	英語	307
 engkai	engkai	310
 engkai	eng-kai	309
+engkai	eng kai	308
 engkai	èngkai	310
 engkai	èng-kai	309
-engkai	應該	308
+engkai	èng kai	308
+engkai	應該	307
 engkok	Engkok	310
 engkok	Eng-kok	309
-engkok	英國	308
+engkok	Eng kok	308
+engkok	英國	307
 engpong	Engpōng	310
 engpong	Eng-pōng	309
-engpong	英磅	308
+engpong	Eng pōng	308
+engpong	英磅	307
 #DONE: 頭節聲調是第七
 epou	ēpo͘	310
 epou	ē-po͘	309
-epou	下晡	308
+epou	ē po͘	308
+epou	下晡	307
 esai	ēsái	310
-esai	ē sái	309
-esai	ē-sái	308
-esai	會使	307
+esai	ē-sái	307
+esai	會使	306
 etang	ētàng	310
-etang	ē tàng	309
 ### "ē tàng"???
 ### íkeng kià email thólūn
-etang	ē-tàng	308
-etang	會凍	307
-etang	能凍	306
+etang	ē-tàng	307
+etang	會凍	306
+etang	能凍	305
 ete	ēté	310
 ete	ē-té	309
-ete	下底	308
+ete	ē té	308
+ete	下底	307
 gasuh	gásuh	310
 gasuh	gá-suh	309
-gasuh	瓦斯	308	#TJ
+gasuh	gá suh	308
+gasuh	瓦斯	307	#TJ
 gankai	gánkài	310
 gankai	gán-kài	309
-gankai	眼界	308
+gankai	gán kài	308
+gankai	眼界	307
 gankong	gánkong	310
 gankong	gán-kong	309
-gankong	眼光	308
+gankong	gán kong	308
+gankong	眼光	307
 gesut	gēsu̍t	310
 gesut	gē-su̍t	309
-gesut	藝術	308
+gesut	gē su̍t	308
+gesut	藝術	307
 giankiu	giánkiù	310
 giankiu	gián-kiù	309
-giankiu	研究	308
+giankiu	gián kiù	308
+giankiu	研究	307
 gigian	gígiân	310
 gigian	gí-giân	309
-gigian	語言	308
+gigian	gí giân	308
+gigian	語言	307
 gihoat	gíhoat	310
 gihoat	gí-hoat	309
-gihoat	語法	308
+gihoat	gí hoat	308
+gihoat	語法	307
 gina	gíná	310
 gina	gín-á	309
-gina	囝仔	308
+gina	gín á	308
+gina	囝仔	307
 #: 像 chit 種有「á」做尾liu--ê，
 #汝有 siáⁿ 建議 bô？
 #DONE 建議
@@ -10329,1208 +10609,1595 @@ ginkak	gînkakᵃ	312	#chhìgiām
 ginkak	gînkakₐ	311	#chhìgiām
 ginkak	gînkak-á	310
 ginkak	gîn-kak-á	309
-ginkak	銀角仔	308
+ginkak	gîn kak á	308
+ginkak	銀角仔	307
 ginhang	gînhâng	310
 ginhang	gîn-hâng	309
-ginhang	銀行	308
+ginhang	gîn hâng	308
+ginhang	銀行	307
 ginphio	gînphiò	310
 ginphio	gîn-phiò	309
-ginphio	銀票	308
+ginphio	gîn phiò	308
+ginphio	銀票	307
 ginna	gínná	310
 ginna	gín-ná	309
-ginna	囝仔	308
+ginna	gín ná	308
+ginna	囝仔	307
 gisu	gísû	310
 gisu	gí-sû	309
-gisu	語詞	308
+gisu	gí sû	308
+gisu	語詞	307
 goabin	gōabīn	310
 goabin	gōa-bīn	309
-goabin	外面	308
+goabin	gōa bīn	308
+goabin	外面	307
 goaiong	gōaiōng	310
 goaiong	gōa-iōng	309
-goaiong	外用	308
+goaiong	gōa iōng	308
+goaiong	外用	307
 goakhau	gōakháu	310
 goakhau	gōa-kháu	309
-goakhau	外口	308
+goakhau	gōa kháu	308
+goakhau	外口	307
 goasiau	gōasiau	310
 goasiau	gōa-siau	309
-goasiau	外銷	308
+goasiau	gōa siau	308
+goasiau	外銷	307
 goanbun	goânpún	310
 goanbun	goân-pún	309
-goanbun	原本	308
+goanbun	goân pún	308
+goanbun	原本	307
 goanchai	goânchāi	310
 goanchai	goân-chāi	309
-goanchai	原在	308
+goanchai	goân chāi	308
+goanchai	原在	307
 goanchu	goânchú	310
 goanchu	goân-chú	309
-goanchu	原子	308
+goanchu	goân chú	308
+goanchu	原子	307
 goanchubin	goânchūbîn	310
 goanchubin	goân-chū-bîn	309
-goanchubin	原住民	308
+goanchubin	goân chū bîn	308
+goanchubin	原住民	307
 goanchubichok	goânchūbîncho̍k	310
 goanchubichok	goân-chū-bîn-cho̍k	309
-goanchubichok	原住民族	308
+goanchubichok	goân chū bîn cho̍k	308
+goanchubichok	原住民族	307
 goanchuhek	goânchúhe̍k	310
 goanchuhek	goân-chú-he̍k	309
-goanchuhek	原子核	308
+goanchuhek	goân chú he̍k	308
+goanchuhek	原子核	307
 goanchulou	goânchúlô͘	310
 goanchulou	goân-chú-lô͘	309
-goanchulou	原子爐	308
+goanchulou	goân chú lô͘	308
+goanchulou	原子爐	307
 goani	goānì	310
 goani	goān-ì	309
-goani	願意	308
+goani	goān ì	308
+goani	願意	307
 goanin	goânin	310
 goanin	goân-in	309
-goanin	原因	308
+goanin	goân in	308
+goanin	原因	307
 goanlai	goânlâi	310
 goanlai	goân-lâi	309
-goanlai	原來	308
+goanlai	goân lâi	308
+goanlai	原來	307
 goanli	goânlí	310
 goanli	goân-lí	309
-goanli	原理	308
+goanli	goân lí	308
+goanli	原理	307
 goanliau	goânliāu	310
 goanliau	goân-liāu	309
-goanliau	原料	308
+goanliau	goân liāu	308
+goanliau	原料	307
 goansou	goânsò͘	310
 goansou	goân-sò͘	309
-goansou	元素	308
+goansou	goân sò͘	308
+goansou	元素	307
 goante	goânté	310
 goante	goân-té	309
-goante	原底	308
+goante	goân té	308
+goante	原底	307
 goanthau	goânthâu	310
 goanthau	goân-thâu	309
-goanthau	源頭	308
+goanthau	goân thâu	308
+goanthau	源頭	307
 goehbai	goe̍hbâi	310
 goehbai	goe̍h-bâi	309
-goehbai	月眉	308
+goehbai	goe̍h bâi	308
+goehbai	月眉	307
 goehinn	goe̍hîⁿ	310
 goehinn	goe̍h-îⁿ	309
-goehinn	月圓	308
+goehinn	goe̍h îⁿ	308
+goehinn	月圓	307
 goehniu	goe̍hniû	310
 goehniu	goe̍h-niû	309
-goehniu	月娘	308
+goehniu	goe̍h niû	308
+goehniu	月娘	307
 goehpeng	goe̍hpêng	310
 goehpeng	goe̍h-pêng	309
-goehpeng	月pêng	308
+goehpeng	goe̍h pêng	308
+goehpeng	月pêng	307
 goehsiong	goe̍hsiòng	310
 goehsiong	goe̍h-siòng	309
-goehsiong	月相	308
+goehsiong	goe̍h siòng	308
+goehsiong	月相	307
 gongngiah	gôngngia̍h	310
 gongngiah	gông-ngia̍h	309
-gongngiah	昂愕	308
+gongngiah	gông ngia̍h	308
+gongngiah	昂愕	307
 guihiam	gûihiám	310
 guihiam	gûi-hiám	309
-guihiam	危險	308
+guihiam	gûi hiám	308
+guihiam	危險	307
 haiang	háiang	310
 haiang	hái-ang	309
-haiang	海翁	308
+haiang	hái ang	308
+haiang	海翁	307
 haichhat	háichha̍t	310
 haichhat	hái-chha̍t	309
-haichhat	海賊	308
+haichhat	hái chha̍t	308
+haichhat	海賊	307
 haichhau	háichháu	310
 haichhau	hái-chháu	309
-haichhau	海草	308
+haichhau	hái chháu	308
+haichhau	海草	307
 haichui	háichúi	310
 haichui	hái-chúi	309
-haichui	海水	308
+haichui	hái chúi	308
+haichui	海水	307
 haieng	háiéng	310
 haieng	hái-éng	309
-haieng	海湧	308
+haieng	hái éng	308
+haieng	海湧	307
 haihoann	háihōaⁿ	310
 haihoann	hái-hōaⁿ	309
-haihoann	海岸	308
+haihoann	hái hōaⁿ	308
+haihoann	海岸	307
 haiiunn	háiiûⁿ	310
 haiiunn	hái-iûⁿ	309
-haiiunn	海洋	308
+haiiunn	hái iûⁿ	308
+haiiunn	海洋	307
 haisan	háisán	310
 haisan	hái-sán	309
-haisan	海產	308
+haisan	hái sán	308
+haisan	海產	307
 haiti	háiti	310
 haiti	hái-ti	309
-haiti	海猪	308
+haiti	hái ti	308
+haiti	海猪	307
 haitiong	háitiòng	310
 haitiong	hái-tiòng	309
+haitiong	hái tiòng	308
 ###TODO
-haitiong	海漲	308
+haitiong	海漲	307
 hakbun	ha̍kbūn	310
 hakbun	ha̍k-būn	309
-hakbun	學問	308
+hakbun	ha̍k būn	308
+hakbun	學問	307
 hakchia	ha̍kchiá	310
 hakchia	ha̍k-chiá	309
-hakchia	學者	308
+hakchia	ha̍k chiá	308
+hakchia	學者	307
 hakhau	ha̍khāu	310
 hakhau	ha̍k-hāu	309
-hakhau	學校	308
+hakhau	ha̍k hāu	308
+hakhau	學校	307
 hakmia	ha̍kmiâ	310
 hakmia	ha̍k-miâ	309
-hakmia	學名	308
+hakmia	ha̍k miâ	308
+hakmia	學名	307
 hakseng	ha̍kseng	310
 hakseng	ha̍k-seng	309
-hakseng	學生	308
+hakseng	ha̍k seng	308
+hakseng	學生	307
 haksip	ha̍ksi̍p	310
 haksip	ha̍k-si̍p	309
-haksip	學習	308
+haksip	ha̍k si̍p	308
+haksip	學習	307
 hamhai	hāmhāi	310
 hamhai	hām-hāi	309
-hamhai	陷害	308
+hamhai	hām hāi	308
+hamhai	陷害	307
 hanche	hānchè	310
 hanche	hān-chè	309
-hanche	限制	308
+hanche	hān chè	308
+hanche	限制	307
 hanji	Hànjī	310
 hanji	Hàn-jī	309
-hanji	漢字	308
+hanji	Hàn jī	308
+hanji	漢字	307
 hanliong	hānliōng	310
 hanliong	hān-liōng	309
-hanliong	限量	308
+hanliong	hān liōng	308
+hanliong	限量	307
 hauko	hāukó	310
 hauko	hāu-kó	309
-hauko	效果	308
+hauko	hāu kó	308
+hauko	效果	307
 hauleng	hāulêng	310
 hauleng	hāu-lêng	309
-hauleng	效能	308
+hauleng	hāu lêng	308
+hauleng	效能	307
 # bô kiàngī iōng "lu̍t=率", m̄-koh chiāmsî bô kái-hong...
 haulut	hāulu̍t	310
 haulut	hāu-lu̍t	309
-haulut	效率	308
+haulut	hāu lu̍t	308
+haulut	效率	307
 hausoan	hāusoán	310
 hausoan	hāu-soán	309
-hausoan	候選	308
+hausoan	hāu soán	308
+hausoan	候選	307
 hausoanjin	hāusoánjîn	310
 hausoanjin	hāu-soán-jîn	309
-hausoanjin	候選人	308
+hausoanjin	hāu soán jîn	308
+hausoanjin	候選人	307
 hengbi	hèngbī	310
 hengbi	hèng-bī	309
-hengbi	興味	308
+hengbi	hèng bī	308
+hengbi	興味	307
 hengchhinn	hêngchhiⁿ	310
 hengchhinn	hêng-chhiⁿ	309
-hengchhinn	恒星	308
-hengchhinn	行星	307	#kiàngī iōng ``iû-chhiⁿ/遊星''
+hengchhinn	hêng chhiⁿ	308
+hengchhinn	恒星	307
+hengchhinn	行星	306	#kiàngī iōng ``iû-chhiⁿ/遊星''
 hengchhu	hèngchhù	310
 hengchhu	hèng-chhù	309
-hengchhu	興趣	308
+hengchhu	hèng chhù	308
+hengchhu	興趣	307
 henghah	hengha̍h	310
 henghah	heng-ha̍h	309
+henghah	heng ha̍h	308
 ###TODO
-henghah	胸 ha̍h	308	#TJT
+henghah	胸 ha̍h	307	#TJT
 hengiong	hêngiông	310
 hengiong	hêng-iông	309
-hengiong	形容	308
+hengiong	hêng iông	308
+hengiong	形容	307
 hengkham	hengkhám	310
 hengkham	heng-khám	309
+hengkham	heng khám	308
 ###TODO
-hengkham	胸坎	308	#TJT
+hengkham	胸坎	307	#TJT
 hengsek	hêngsek	310
 hengsek	hêng-sek	309
-hengsek	形式	308
+hengsek	hêng sek	308
+hengsek	形式	307
 hengseng	hêngsêng	310
 hengseng	hêng-sêng	309
-hengseng	形成	308
+hengseng	hêng sêng	308
+hengseng	形成	307
 hengthe	hêngthé	310
 hengthe	hêng-thé	309
-hengthe	形體	308
+hengthe	hêng thé	308
+hengthe	形體	307
 hengtong	hêngtōng	310
 hengtong	hêng-tōng	309
-hengtong	行動	308
+hengtong	hêng tōng	308
+hengtong	行動	307
 hengui	hêngûi	310
 hengui	hêng-ûi	309
-hengui	行爲	308
-hengui	行為	307
+hengui	hêng ûi	308
+hengui	行爲	307
+hengui	行為	306
 hethong	hēthóng	310
 hethong	hē-thóng	309
-hethong	系統	308
+hethong	hē thóng	308
+hethong	系統	307
 hiahnih	hiahni̍h	310
 hiahnih	hiah-ni̍h	309
-hiahnih	靴哖	308
+hiahnih	hiah ni̍h	308
+hiahnih	靴哖	307
 hianbeng	hiánbêng	310
 hianbeng	hián-bêng	309
-hianbeng	顯明	308
-hianbeng	顯名	307	#TJT
+hianbeng	hián bêng	308
+hianbeng	顯明	307
+hianbeng	顯名	306	#TJT
 hiangsiu	hiángsiū	310
 hiangsiu	hiáng-siū	309
-hiangsiu	享受	308
+hiangsiu	hiáng siū	308
+hiangsiu	享受	307
 hiansi	hiānsî	310
 hiansi	hiān-sî	309
-hiansi	現時	308
+hiansi	hiān sî	308
+hiansi	現時	307
 hiansiong	hiānsiōng	310
 hiansiong	hiān-siōng	309
-hiansiong	現象	308
+hiansiong	hiān siōng	308
+hiansiong	現象	307
 hiantai	hiāntāi	310
 hiantai	hiān-tāi	309
-hiantai	現代	308
+hiantai	hiān tāi	308
+hiantai	現代	307
 hiapgi	hia̍pgī	310
 hiapgi	hia̍p-gī	309
-hiapgi	協議	308
-hiapgi	狹義	307	#LBS (Lîm Bō͘-Seng)
+hiapgi	hia̍p gī	308
+hiapgi	協議	307
+hiapgi	狹義	306	#LBS (Lîm Bō͘-Seng)
 hibang	hibāng	310
 hibang	hi-bāng	309
-hibang	希望	308
+hibang	hi bāng	308
+hibang	希望	307
 hibang	hîbāng	310
 hibang	hî-bāng	309
-hibang	漁網	308
+hibang	hî bāng	308
+hibang	漁網	307
 hibin	hîbîn	310
 hibin	hî-bîn	309
-hibin	漁民	308
+hibin	hî bîn	308
+hibin	漁民	307
 hihoe	hîhōe	310
 hihoe	hî-hōe	309
-hihoe	漁會	308
+hihoe	hî hōe	308
+hihoe	漁會	307
 hiohkhun	hiohkhùn	310
 hiohkhun	hioh-khùn	309
-hiohkhun	宿困	308
+hiohkhun	hioh khùn	308
+hiohkhun	宿困	307
 hiohoe	hiōhóe	310
 hiohoe	hiō-hóe	309
-hiohoe	後悔	308	#TJT
+hiohoe	hiō hóe	308
+hiohoe	後悔	307	#TJT
 hiohsian	hiohsiān	310
 hiohsian	hioh-siān	309
+hiohsian	hioh siān	308
 ###TODO
-hiohsian	宿 siān	308
+hiohsian	宿 siān	307
 hionghiong	hiônghiông	310
 hionghiong	hiông-hiông	309
-hionghiong	雄雄	308
+hionghiong	hiông hiông	308
+hionghiong	雄雄	307
 hoachioh	hòachio̍h	310
 hoachioh	hòa-chio̍h	309
-hoachioh	化石	308
+hoachioh	hòa chio̍h	308
+hoachioh	化石	307
 hoagi	Hôagí	310
 hoagi	Hôa-gí	309
-hoagi	華語	308
+hoagi	Hôa gí	308
+hoagi	華語	307
 hoahak	hòaha̍k	310
 hoahak	hòa-ha̍k	309
-hoahak	化學	308
+hoahak	hòa ha̍k	308
+hoahak	化學	307
 hoanek	hoane̍k	310
 hoanek	hoan-e̍k	309
-hoanek	翻譯	308
+hoanek	hoan e̍k	308
+hoanek	翻譯	307
 hoaneng	hoánèng	310
 hoaneng	hoán-èng	309
-hoaneng	反應	308
+hoaneng	hoán èng	308
+hoaneng	反應	307
 hoangeng	hoangêng	310
 hoangeng	hoan-gêng	309
-hoangeng	歡迎	308
+hoangeng	hoan gêng	308
+hoangeng	歡迎	307
 hoanlo	hoânló	310
 hoanlo	hoân-ló	309
-hoanlo	煩惱	308
+hoanlo	hoân ló	308
+hoanlo	煩惱	307
 hoannhi	hoaⁿhí	310
 hoannhi	hoaⁿ-hí	309
-hoannhi	歡喜	308
+hoannhi	hoaⁿ hí	308
+hoannhi	歡喜	307
 hoatbeng	hoatbêng	310
 hoatbeng	hoat-bêng	309
-hoatbeng	發明	308
+hoatbeng	hoat bêng	308
+hoatbeng	發明	307
 hoatchai	hoatchâi	310
 hoatchai	hoat-châi	309
-hoatchai	發財	308
+hoatchai	hoat châi	308
+hoatchai	發財	307
 hoathian	hoathiān	310
 hoathian	hoat-hiān	309
-hoathian	發現	308
+hoathian	hoat hiān	308
+hoathian	發現	307
 hoatim	hoatim	310
 hoatim	hoat-im	309
-hoatim	發音	308
+hoatim	hoat im	308
+hoatim	發音	307
 hoatinn	hoatīⁿ	310
 hoatinn	hoat-īⁿ	309
-hoatinn	法院	308
+hoatinn	hoat īⁿ	308
+hoatinn	法院	307
 hoatkoann	hoatkoaⁿ	310
 hoatkoann	hoat-koaⁿ	309
-hoatkoann	法官	308
+hoatkoann	hoat koaⁿ	308
+hoatkoann	法官	307
 hoatpiau	hoatpiáu	310
 hoatpiau	hoat-piáu	309
-hoatpiau	發表	308
+hoatpiau	hoat piáu	308
+hoatpiau	發表	307
 hoatseng	hoatseng	310
 hoatseng	hoat-seng	309
-hoatseng	發生	308
+hoatseng	hoat seng	308
+hoatseng	發生	307
 hoatsut	hoatsu̍t	310
 hoatsut	hoat-su̍t	309
-hoatsut	法術	308
+hoatsut	hoat su̍t	308
+hoatsut	法術	307
 hoattat	hoatta̍t	310
 hoattat	hoat-ta̍t	309
-hoattat	發達	308
+hoattat	hoat ta̍t	308
+hoattat	發達	307
 hoattong	hoattōng	310
 hoattong	hoat-tōng	309
-hoattong	發動	308
+hoattong	hoat tōng	308
+hoattong	發動	307
 hoattongki	hoattōngki	310
 hoattongki	hoat-tōng-ki	309
-hoattongki	發動機	308
+hoattongki	hoat tōng ki	308
+hoattongki	發動機	307
 hoattou	hoattō͘	310
 hoattou	hoat-tō͘	309
-hoattou	法度	308
+hoattou	hoat tō͘	308
+hoattou	法度	307
 hoegi	hōegī	310
 hoegi	hōe-gī	309
-hoegi	會議	308
+hoegi	hōe gī	308
+hoegi	會議	307
 hoegoan	hōegoân	310
 hoegoan	hōe-goân	309
-hoegoan	會員	308
+hoegoan	hōe goân	308
+hoegoan	會員	307
 hoeoan	hōeoân	310
 hoeoan	hōe-oân	309
-hoeoan	會員	308
+hoeoan	hōe oân	308
+hoeoan	會員	307
 hoepo	hôepò	310
 hoepo	hôe-pò	309
-hoepo	回報	308
+hoepo	hôe pò	308
+hoepo	回報	307
 hoethoann	hóethòaⁿ	310
 hoethoann	hóe-thòaⁿ	309
-hoethoann	火炭	308
+hoethoann	hóe thòaⁿ	308
+hoethoann	火炭	307
 hokchap	ho̍kcha̍p	310
 hokchap	ho̍k-cha̍p	309
-hokchap	複雜	308
+hokchap	ho̍k cha̍p	308
+hokchap	複雜	307
 hokgoan	ho̍kgoân	310
 hokgoan	ho̍k-goân	309
-hokgoan	復原	308
+hokgoan	ho̍k goân	308
+hokgoan	復原	307
 hoksai	ho̍ksāi	310
 hoksai	ho̍k-sāi	309
-hoksai	服事	308
+hoksai	ho̍k sāi	308
+hoksai	服事	307
 hoksip	ho̍ksi̍p	310
 hoksip	ho̍k-si̍p	309
-hoksip	復習	308
+hoksip	ho̍k si̍p	308
+hoksip	復習	307
 hoksou	ho̍ksò͘	310	#complex_number
 hoksou	ho̍k-sò͘	309
-hoksou	複數	308
+hoksou	ho̍k sò͘	308
+hoksou	複數	307
 hongbin	hongbīn	310
 hongbin	hong-bīn	309
-hongbin	方面	308
+hongbin	hong bīn	308
+hongbin	方面	307
 honghoat	honghoat	310
 honghoat	hong-hoat	309
-honghoat	方法	308
+honghoat	hong hoat	308
+honghoat	方法	307
 honghu	honghù	310
 honghu	hong-hù	309
-honghu	豐富	308
+honghu	hong hù	308
+honghu	豐富	307
 honghun	hônghun	310
 honghun	hông-hun	309
-honghun	黃昏	308
+honghun	hông hun	308
+honghun	黃昏	307
 honghunam	hônghunàm	310
 honghunam	hông-hun-àm	309
+honghunam	hông hun àm	308
 ###TODO
-honghunam	黃昏暗	308	#TJT
+honghunam	黃昏暗	307	#TJT
 hongkhi	hòngkhì	310
 hongkhi	hòng-khì	309
-hongkhi	放棄	308
+hongkhi	hòng khì	308
+hongkhi	放棄	307
 hongpoesoa	hongpoesoa	310
 hongpoesoa	hong-poe-soa	309
-hongpoesoa	風飛沙	308
+hongpoesoa	hong poe soa	308
+hongpoesoa	風飛沙	307
 hongsang	hòngsàng	310
 hongsang	hòng-sàng	309
-hongsang	放送	308
+hongsang	hòng sàng	308
+hongsang	放送	307
 hongsek	hongsek	310
 hongsek	hong-sek	309
-hongsek	方式	308
+hongsek	hong sek	308
+hongsek	方式	307
 hongsia	hongsiâ	310
 hongsia	hong-siâ	309
-hongsia	風邪	308
+hongsia	hong siâ	308
+hongsia	風邪	307
 hongsiok	hongsio̍k	310
 hongsiok	hong-sio̍k	309
-hongsiok	風俗	308
+hongsiok	hong sio̍k	308
+hongsiok	風俗	307
 hongtian	hòngtiān	310
 hongtian	hòng-tiān	309
-hongtian	放電	308
+hongtian	hòng tiān	308
+hongtian	放電	307
 houlubong	ho͘lúbóng	310
 houlubong	ho͘-lú-bóng	309
+houlubong	ho͘ lú bóng	308
 huho	hûhō	310
 huho	hû-hō	309
-huho	符號	308
+huho	hû hō	308
+huho	符號	307
 hukhi	hùikhì	310
 hukhi	hùi-khì	309
+hukhi	hùi khì	308
 hunin	hunin	310
 hunin	hun-in	309
-hunin	婚姻	308
+hunin	hun in	308
+hunin	婚姻	307
 hunkai	hunkái	310
 hunkai	hun-kái	309
-hunkai	分解	308
+hunkai	hun kái	308
+hunkai	分解	307
 hunkhui	hunkhui	310
 hunkhui	hun-khui	309
-hunkhui	分開	308
+hunkhui	hun khui	308
+hunkhui	分開	307
 hunlian	hùnliān	310
 hunlian	hùn-liān	309
-hunlian	訓練	308
+hunlian	hùn liān	308
+hunlian	訓練	307
 hunpiat	hunpiat	310
 hunpiat	hun-piat	309
-hunpiat	分別	308
+hunpiat	hun piat	308
+hunpiat	分別	307
 huikhi	hùikhì	310
 huikhi	hùi-khì	309
+huikhi	hùi khì	308
 ###TODO
-huikhi	費氣	308
-huikhi	廢氣	307
+huikhi	費氣	307
+huikhi	廢氣	306
 huinntit	hûiⁿti̍t	310
 huinntit	hûiⁿ-ti̍t	309
-huinntit	橫直	308
+huinntit	hûiⁿ ti̍t	308
+huinntit	橫直	307
 iahsi	ia̍hsī	310
 iahsi	ia̍h-sī	309
+iahsi	ia̍h sī	308
 ianhun	iânhūn	310
 ianhun	iân-hūn	309
-ianhun	緣份	308
+ianhun	iân hūn	308
+ianhun	緣份	307
 iankou	iânkò͘	310
 iankou	iân-kò͘	309
-iankou	緣故	308
+iankou	iân kò͘	308
+iankou	緣故	307
 iannin	iáⁿìn	310
 iannin	iáⁿ-ìn	309
-iannin	影印	308
+iannin	iáⁿ ìn	308
+iannin	影印	307
 iannphinn	iáⁿphìⁿ	310
 iannphinn	iáⁿ-phìⁿ	309
-iannphinn	影片	308
+iannphinn	iáⁿ phìⁿ	308
+iannphinn	影片	307
 iaukoh	iáukoh	310
 iaukoh	iáu-koh	309
-iaukoh	夭閣	308
+iaukoh	iáu koh	308
+iaukoh	夭閣	307
 imtian	imtiān	310
 imtian	im-tiān	309
-imtian	陰電	308
+imtian	im tiān	308
+imtian	陰電	307
 iohchui	io̍hchúi	310
 iohchui	io̍h-chúi	309
-iohchui	藥水	308
+iohchui	io̍h chúi	308
+iohchui	藥水	307
 iohkiok	io̍hkio̍k	310
 iohkiok	io̍h-kio̍k	309
-iohkiok	藥局	308
+iohkiok	io̍h kio̍k	308
+iohkiok	藥局	307
 iohoan	io̍hoân	310
 iohoan	io̍h-oân	309
-iohoan	藥丸	308
+iohoan	io̍h oân	308
+iohoan	藥丸	307
 iohpang	io̍hpâng	310
 iohpang	io̍h-pâng	309
-iohpang	藥房	308
+iohpang	io̍h pâng	308
+iohpang	藥房	307
 iohphin	io̍hphín	310
 iohphin	io̍h-phín	309
-iohphin	藥品	308
+iohphin	io̍h phín	308
+iohphin	藥品	307
 iongchong	ióngchòng	310
 iongchong	ióng-chòng	309
-iongchong	勇壯	308
+iongchong	ióng chòng	308
+iongchong	勇壯	307
 ionghoat	iōnghoat	310
 ionghoat	iōng-hoat	309
-ionghoat	用法	308
+ionghoat	iōng hoat	308
+ionghoat	用法	307
 iongkam	ióngkám	310
 iongkam	ióng-kám	309
-iongkam	勇敢	308
+iongkam	ióng kám	308
+iongkam	勇敢	307
 iongkhi	ióngkhì	310
 iongkhi	ióng-khì	309
-iongkhi	勇氣	308
+iongkhi	ióng khì	308
+iongkhi	勇氣	307
 iongkiann	ióngkiāⁿ	310
 iongkiann	ióng-kiāⁿ	309
-iongkiann	勇健	308
+iongkiann	ióng kiāⁿ	308
+iongkiann	勇健	307
 iongtian	iôngtiān	310
 iongtian	iông-tiān	309
-iongtian	陽電	308
+iongtian	iông tiān	308
+iongtian	陽電	307
 iai	ìài	310
 iai	ì-ài	309
-iai	意愛	308
+iai	ì ài	308
+iai	意愛	307
 iamjit	iāmji̍t	310
 iamjit	iām-ji̍t	309
-iamjit	炎日	308
+iamjit	iām ji̍t	308
+iamjit	炎日	307
 iau	íāu	310
 iau	í-āu	309
-iau	以後	308
+iau	í āu	308
+iau	以後	307
 iaukin	iàukín	310
 iaukin	iàu-kín	309
-iaukin	要緊	308
+iaukin	iàu kín	308
+iaukin	要緊	307
 icha	íchá	310
 icha	í-chá	309
-icha	以早	308
+icha	í chá	308
+icha	以早	307
 ichhi	îchhî	310
 ichhi	îchhî	309
-ichhi	維持	308
+ichhi	îchhî	308
+ichhi	維持	307
 ichhi	ìmī	310
 imi	ì-mī	309
-imi	意麵	308
+imi	ì mī	308
+imi	意麵	307
 igi	ìgī	310
 igi	ì-gī	309
-igi	意義	308
+igi	ì gī	308
+igi	意義	307
 igoan	ìgoān	310
 igoan	ì-goān	309
-igoan	意願	308
+igoan	ì goān	308
+igoan	意願	307
 ikeng	íkeng	310
 ikeng	í-keng	309
-ikeng	已經	308
+ikeng	í keng	308
+ikeng	已經	307
 ikian	ìkiàn	310
 ikian	ì-kiàn	309
-ikian	意見	308
+ikian	ì kiàn	308
+ikian	意見	307
 inkam	ìnkàm	310
 inkam	ìn-kàm	309
-inkam	印鑑	308
+inkam	ìn kàm	308
+inkam	印鑑	307
 insiong	ìnsiōng	310
 insiong	ìn-siōng	309
-insiong	印象	308
+insiong	ìn siōng	308
+insiong	印象	307
 intoan	intoan	310
 intoan	in-toan	309
-intoan	因端	308
+intoan	in toan	308
+intoan	因端	307
 inui	inūi	310
 inui	in-ūi	309
-inui	因爲	308
-inui	因為	307
+inui	in ūi	308
+inui	因爲	307
+inui	因為	306
 iseng	iseng	310
 iseng	i-seng	309
-iseng	醫生	308
+iseng	i seng	308
+iseng	醫生	307
 isengkoan	isengkoán	310
 isengkoan	i-seng-koán	309
-isengkoan	醫生館	308
+isengkoan	i seng koán	308
+isengkoan	醫生館	307
 isengniu	isengniu	310
 isengniu	i-seng-niû	309
-isengniu	醫生娘	308
+isengniu	i seng niû	308
+isengniu	醫生娘	307
 isu	isu	310
 isu	i-su	309
-isu	醫師	308
+isu	i su	308
+isu	醫師	307
 isu	ìsù	310
 isu	ì-sù	309
-isu	意思	308
+isu	ì sù	308
+isu	意思	307
 iti	itī	310
 iti	i-tī	309
-iti	醫治	308
+iti	i tī	308
+iti	醫治	307
 itou	ìtô͘	310
 itou	ì-tô͘	309
-itou	意圖	308
+itou	ì tô͘	308
+itou	意圖	307
 itpoann	itpoaⁿ	310
 itpoann	it-poaⁿ	309
-itpoann	一般	308
+itpoann	it poaⁿ	308
+itpoann	一般	307
 itteng	ittēng	310
 itteng	it-tēng	309
-itteng	一定	308
+itteng	it tēng	308
+itteng	一定	307
 ittit	itti̍t	310
 ittit	it-ti̍t	309
-ittit	一直	308
+ittit	it ti̍t	308
+ittit	一直	307
 iuchhinn	iûchhiⁿ	310
 iuchhinn	iû-chhiⁿ	309
-iuchhinn	遊星	308
+iuchhinn	iû chhiⁿ	308
+iuchhinn	遊星	307
 iuengkong	Iúèngkong	310
 iuengkong	Iú-èng-kong	309
-iuengkong	有應公	308
+iuengkong	Iú èng kong	308
+iuengkong	有應公	307
 iukang	iùkang	310
 iukang	iù-kang	309
-iukang	幼工	308
+iukang	iù kang	308
+iukang	幼工	307
 iulou	iùlō͘	310
 iulou	iù-lō͘	309
-iulou	幼路	308
+iulou	iù lō͘	308
+iulou	幼路	307
 iusian	iusian	310
 iusian	iu-sian	309
-iusian	優先	308
+iusian	iu sian	308
+iusian	優先	307
 iusiu	iusiù	310
 iusiu	iu-siù	309
-iusiu	優秀	308
+iusiu	iu siù	308
+iusiu	優秀	307
 jiaiam	jiaiám	310
 jiaiam	jia-iám	309
-jiaiam	遮掩	308
+jiaiam	jia iám	308
+jiaiam	遮掩	307
 jibo	jībó	310
 jibo	jī-bó	309
-jibo	字母	308
+jibo	jī bó	308
+jibo	字母	307
 jinbut	jînbu̍t	310
 jinbut	jîn-bu̍t	309
-jinbut	人物	308
+jinbut	jîn bu̍t	308
+jinbut	人物	307
 jinchin	jīnchin	310
 jinchin	jīn-chin	309
-jinchin	認眞	308
+jinchin	jīn chin	308
+jinchin	認眞	307
 jinkang	jînkang	310
 jinkang	jîn-kang	309
-jinkang	人工	308
+jinkang	jîn kang	308
+jinkang	人工	307
 jintong	jīntông	310
 jintong	jīn-tông	309
-jintong	認同	308
+jintong	jīn tông	308
+jintong	認同	307
 jinui	jīnûi	310
 jinui	jīn-ûi	309
-jinui	認爲	308
+jinui	jīn ûi	308
+jinui	認爲	307
 jipkhi	ji̍pkhì	310
 jipkhi	ji̍p-khì	309
-jipkhi	入去	308
+jipkhi	ji̍p khì	308
+jipkhi	入去	307
 jisu	jīsû	310
 jisu	jī-sû	309
-jisu	字詞	308
+jisu	jī sû	308
+jisu	字詞	307
 jitian	jītián	310
 jitian	jī-tián	309
-jitian	字典	308
+jitian	jī tián	308
+jitian	字典	307
 jitchi	ji̍tchí	310
 jitchi	ji̍t-chí	309
-jitchi	日子	308
+jitchi	ji̍t chí	308
+jitchi	日子	307
 jitgi	Ji̍tgí	310
 jitgi	Ji̍t-gí	309
-jitgi	日語	308
+jitgi	Ji̍t gí	308
+jitgi	日語	307
 jitki	ji̍tkî	310
 jitki	ji̍t-kî	309
-jitki	日期	308
+jitki	ji̍t kî	308
+jitki	日期	307
 jitthau	ji̍tthâu	310
 jitthau	ji̍t-thâu	309
-jitthau	日頭	308
+jitthau	ji̍t thâu	308
+jitthau	日頭	307
 jitthau	☀️	99
 jitpun	Ji̍tpún	310
 jitpun	Ji̍t-pún	309
-jitpun	日本	308
+jitpun	Ji̍t pún	308
+jitpun	日本	307
 jitsiong	ji̍tsiông	310
 jitsiong	ji̍t-siông	309
-jitsiong	日常	308
+jitsiong	ji̍t siông	308
+jitsiong	日常	307
 joahthinn	joa̍hthiⁿ	310
 joahthinn	joa̍h-thiⁿ	309
-joahthinn	熱天	309
+joahthinn	joa̍h thiⁿ	308
+joahthinn	熱天	308
 juntek	jūnte̍k	310
 juntek	jūn-te̍k	309
+juntek	jūn te̍k	308
 juntek	潤澤	300	#TJT
-kachak	kacha̍k	308
-kachak	ka-cha̍k	307
+kachak	kacha̍k	307
+kachak	ka-cha̍k	306
 ###TODO
-kachak	咳逆	309	#TJT
+kachak	咳逆	308	#TJ9
+kachak	咳逆	308	#TJT
 kachiong	Kachiòng	310
 kachiong	Ka-chiòng	309
-kachiong	kachiòng	308
-kachiong	ka-chiòng	307
-kachiong	家將	306
+kachiong	Ka chiòng	308
+kachiong	kachiòng	307
+kachiong	ka-chiòng	306
+kachiong	家將	305
 kaichng	káichng	310
 kaichng	kái-chng	309
-kaichng	改裝	307
+kaichng	kái chng	308
+kaichng	改裝	306
 kaichong	káichong	310
 kaichong	kái-chong	309
-kaichong	改裝	307
+kaichong	kái chong	308
+kaichong	改裝	306
 kaipian	káipiàn	310
 kaipian	kái-piàn	309
-kaipian	改變	307
+kaipian	kái piàn	308
+kaipian	改變	306
 kaisiau	kàisiāu	310
 kaisiau	kài-siāu	309
-kaisiau	介紹	307
+kaisiau	kài siāu	308
+kaisiau	介紹	306
 kaisoeh	káisoeh	310
 kaisoeh	kái-soeh	309
-kaisoeh	解說	307
+kaisoeh	kái soeh	308
+kaisoeh	解說	306
 kaitoann	kaitōaⁿ	310
 kaitoann	kai-tōaⁿ	309
-kaitoann	階段	307
+kaitoann	kai tōaⁿ	308
+kaitoann	階段	306
 kaki	kakī	310
 kaki	ka-kī	309
-kaki	加忌	308
+kaki	ka kī	308
+kaki	加忌	307
 kaksek	kaksek	310
 kaksek	kak-sek	309
-kaksek	角色	308
+kaksek	kak sek	308
+kaksek	角色	307
 kalauh	kala̍uh	310
 kalauh	ka-la̍uh	309
+kalauh	ka la̍uh	308
 kameng	kámèng	310
 kameng	kám-èng	309
-kameng	感應	308
+kameng	kám èng	308
+kameng	感應	307
 kamgoan	kamgoān	310
 kamgoan	kam-goān	309
-kamgoan	甘願	308
+kamgoan	kam goān	308
+kamgoan	甘願	307
 kamkak	kámkak	310
 kamkak	kám-kak	309
-kamkak	感覺	308
+kamkak	kám kak	308
+kamkak	感覺	307
 kamkek	kámkek	310
 kamkek	kám-kek	309
-kamkek	感激	308
+kamkek	kám kek	308
+kamkek	感激	307
 kammou	kámmō͘	310
 kammou	kám-mō͘	309
-kammou	感冒	308
+kammou	kám mō͘	308
+kammou	感冒	307
 kamun	kámun	310
 kamun	kám-un	309
-kamun	感恩	308
+kamun	kám un	308
+kamun	感恩	307
 kamsia	kámsiā	310
 kamsia	kám-siā	309
-kamsia	感謝	308
+kamsia	kám siā	308
+kamsia	感謝	307
 kamsiong	kámsióng	310
 kamsiong	kám-sióng	309
-kamsiong	感想	308
+kamsiong	kám sióng	308
+kamsiong	感想	307
 kamtok	kàmtok	310
 kamtok	kàm-tok	309
-kamtok	監督	308
+kamtok	kàm tok	308
+kamtok	監督	307
 kamtong	kámtōng	310
 kamtong	kám-tōng	309
-kamtong	感動	308
+kamtong	kám tōng	308
+kamtong	感動	307
 kangcho	kángchō	310
 kangcho	káng-chō	309
-kangcho	講座	308	#TJT
+kangcho	káng chō	308
+kangcho	講座	307	#TJT
 kangchok	kangchok	310
 kangchok	kang-chok	309
-kangchok	工作	308
+kangchok	kang chok	308
+kangchok	工作	307
 kangchoksek	kangchoksek	310
 kangchoksek	kang-chok-sek	309
-kangchoksek	工作室	308
+kangchoksek	kang chok sek	308
+kangchoksek	工作室	307
 kanggiap	kanggia̍p	310
 kanggiap	kang-gia̍p	309
-kanggiap	工業	308
+kanggiap	kang gia̍p	308
+kanggiap	工業	307
 kanghu	kanghu	310
 kanghu	kang-hu	309
-kanghu	工夫	308
+kanghu	kang hu	308
+kanghu	工夫	307
 kangkai	kángkái	310
 kangkai	káng-kái	309
-kangkai	講解	308
+kangkai	káng kái	308
+kangkai	講解	307
 kangkhau	kángkháu	310
 kangkhau	káng-kháu	309
-kangkhau	港口	308
+kangkhau	káng kháu	308
+kangkhau	港口	307
 kangkhoan	kāngkhoán	310
 kangkhoan	kāng-khoán	309
-kangkhoan	仝欵	308
-kangkhoan	共欵	307
+kangkhoan	kāng khoán	308
+kangkhoan	仝欵	307
+kangkhoan	共欵	306
 kangkiu	kángkiù	310
 kangkiu	káng-kiù	309
-kangkiu	講究	308
+kangkiu	káng kiù	308
+kangkiu	講究	307
 kanglang	kanglâng	310
 kanglang	kang-lâng	309
-kanglang	工人	308
+kanglang	kang lâng	308
+kanglang	工人	307
 kangte	kangtē	310
 kangte	kang-tē	309
-kangte	工地	308
+kangte	kang tē	308
+kangte	工地	307
 kangtiunn	kangtiûⁿ	310
 kangtiunn	kang-tiûⁿ	309
-kangtiunn	工場	308
+kangtiunn	kang tiûⁿ	308
+kangtiunn	工場	307
 kangtheng	kangthêng	310
 kangtheng	kang-thêng	309
-kangtheng	工程	308
+kangtheng	kang thêng	308
+kangtheng	工程	307
 kangthengchhia	kangthêngchhia	310
 kangthengchhia	kang-thêng-chhia	309
-kangthengchhia	工程車	308
+kangthengchhia	kang thêng chhia	308
+kangthengchhia	工程車	307
 kangthengsu	kangthêngsu	310
 kangthengsu	kang-thêng-su	309
-kangthengsu	工程師	308
+kangthengsu	kang thêng su	308
+kangthengsu	工程師	307
 kanna	kanna	310
 kanna	kan-na	309
-kanna	干乾	308
-kanna	干礁	307
-kanna	干焦	306
+kanna	kan na	308
+kanna	干乾	307
+kanna	干礁	306
+kanna	干焦	305
 kannsou	kàⁿsò͘	310
 kannsou	kàⁿ-sò͘	309
-kannsou	酵素	308
+kannsou	kàⁿ sò͘	308
+kannsou	酵素	307
 kanta	kanta	310
 kanta	kan-ta	309
-kanta	干乾	308
-kanta	干礁	307
-kanta	干焦	306
+kanta	kan ta	308
+kanta	干乾	307
+kanta	干礁	306
+kanta	干焦	305
 kantan	kántan	310
 kantan	kán-tan	309
-kantan	簡單	307
+kantan	kán tan	308
+kantan	簡單	306
 kantann	kantaⁿ	310
 kantann	kan-taⁿ	309
-kantann	干乾	308
-kantann	干礁	307
-kantann	干焦	306
+kantann	kan taⁿ	308
+kantann	干乾	307
+kantann	干礁	306
+kantann	干焦	305
 kapi	kapi	310
 kapi	ka-pi	309
-kapi	珈琲	308
+kapi	ka pi	308
+kapi	珈琲	307
 kapou	kapò͘	310
 kapou	ka-pò͘	309
+kapou	ka pò͘	308
 ###TODO
-kapou	膠布	308
+kapou	膠布	307
 kasoktou	kasoktō͘	310
 kasoktou	ka-sok-tō͘	309
-kasoktou	加速度	308
+kasoktou	ka sok tō͘	308
+kasoktou	加速度	307
 kati	katī	310
 kati	ka-tī	309
+kati	ka tī	308
 kato	kato	310
 kato	ka-to	309
-kato	鉸刀	308
+kato	ka to	308
+kato	鉸刀	307
 kauhia	káuhiā	310
 kauhia	káu-hiā	309
-kauhia	狗蟻	308
+kauhia	káu hiā	308
+kauhia	狗蟻	307
 kaukoai	káukoài	310
 kaukoai	káu-koài	309
-kaukoai	狡怪	308
+kaukoai	káu koài	308
+kaukoai	狡怪	307
 kauliu	kauliû	310
 kauliu	kau-liû	309
-kauliu	交流	308
+kauliu	kau liû	308
+kauliu	交流	307
 kauchai	kàuchâi	310
 kauchai	kàu-châi	309
-kauchai	教材	308
+kauchai	kàu châi	308
+kauchai	教材	307
 kaugoan	kàugoân	310
 kaugoan	kàu-goân	309
-kaugoan	教員	308
+kaugoan	kàu goân	308
+kaugoan	教員	307
 kauhoe	kàuhōe	310
 kauhoe	kàu-hōe	309
-kauhoe	教會	308
+kauhoe	kàu hōe	308
+kauhoe	教會	307
 kauiok	kàuio̍k	310
 kauiok	kàu-io̍k	309
-kauiok	教育	308
+kauiok	kàu io̍k	308
+kauiok	教育	307
 kausek	kàusek	310
 kausek	kàu-sek	309
-kausek	教室	308
+kausek	kàu sek	308
+kausek	教室	307
 kausiu	kàusiū	310
 kausiu	kàu-siū	309
-kausiu	教授	308
+kausiu	kàu siū	308
+kausiu	教授	307
 kauthong	kauthong	310
 kauthong	kau-thong	309
-kauthong	交通	308
+kauthong	kau thong	308
+kauthong	交通	307
 kengche	kengchè	310
 kengche	keng-chè	309
-kengche	經濟	308
+kengche	keng chè	308
+kengche	經濟	307
 kengchhia	kéngchhia	310
 kengchhia	kéng-chhia	309
-kengchhia	警車	308
+kengchhia	kéng chhia	308
+kengchhia	警車	307
 kengchhat	kéngchhat	310
 kengchhat	kéng-chhat	309
-kengchhat	警察	308
+kengchhat	kéng chhat	308
+kengchhat	警察	307
 kengchhatkiok	kéngchhatkio̍k	310
 kengchhatkiok	kéng-chhat-kio̍k	309
-kengchhatkiok	警察局	308
+kengchhatkiok	kéng chhat kio̍k	308
+kengchhatkiok	警察局	307
 kenggiam	kenggiām	310
 kenggiam	keng-giām	309
-kenggiam	經驗	308
+kenggiam	keng giām	308
+kenggiam	經驗	307
 kengli	kenglí	310
 kengli	keng-lí	309
-kengli	經理	308
+kengli	keng lí	308
+kengli	經理	307
 kebou	kèbô͘	310
 kebou	kè-bô͘	309
-kebou	計謀	308
+kebou	kè bô͘	308
+kebou	計謀	307
 kechhek	kèchhek	310
 kechhek	kè-chhek	309
-kechhek	計策	308
+kechhek	kè chhek	308
+kechhek	計策	307
 keek	kèe̍k	310
 keek	kè-e̍k	309
-keek	計劃	308
+keek	kè e̍k	308
+keek	計劃	307
 ###TODO: m̄ chai `format' ū siáⁿ kónghoat bô...
 ###阿天：照講太多—a、咱 nā 去接觸逐途个僻話
 ###無定 ētàng 用「pān」（範）：乜乜範、範乜乜
 kehsek	kehsek	310
 kehsek	keh-sek	309
-kehsek	格式	308
+kehsek	keh sek	308
+kehsek	格式	307
 keiann	kéiáⁿ	310
 keiann	ké-iáⁿ	309
-keiann	假影	308
+keiann	ké iáⁿ	308
+keiann	假影	307
 kelang	Kelâng	310
 kelang	Ke-lâng	309
-kelang	鷄籠	308
-kelang	基隆	307
+kelang	Ke lâng	308
+kelang	鷄籠	307
+kelang	基隆	306
 keoe	kèōe	310
 keoe	kè-ōe	309
-keoe	計畫	308
+keoe	kè ōe	308
+keoe	計畫	307
 kepo	kepô	310
 kepo	ke-pô	309
-kepo	家婆	308
+kepo	ke pô	308
+kepo	家婆	307
 keseng	kèsêng	310
 keseng	kè-sêng	309
-keseng	繼承	308
+keseng	kè sêng	308
+keseng	繼承	307
 kesiau	késiáu	310
 kesiau	ké-siáu	309
-kesiau	假嬲	308
+kesiau	ké siáu	308
+kesiau	假嬲	307
 kesiau	kèsiàu	310
 kesiau	kè-siàu	309
-kesiau	價數	308
+kesiau	kè siàu	308
+kesiau	價數	307
 kesiok	kèsio̍k	310
 kesiok	kè-sio̍k	309
-kesiok	繼續	308
+kesiok	kè sio̍k	308
+kesiok	繼續	307
 ketat	kèta̍t	310
 ketat	kè-ta̍t	309
-ketat	價值	308
+ketat	kè ta̍t	308
+ketat	價值	307
 ketatkoan	kèta̍tkoan	310
 ketatkoan	kè-ta̍t-koan	309
-ketatkoan	價值觀	308
+ketatkoan	kè ta̍t koan	308
+ketatkoan	價值觀	307
 khaaukin	khaāukin	310
 khaaukin	kha-āu-kin	309
+khaaukin	kha āu kin	308
 #DONE／add
-khaaukin	脚後筋	308
+khaaukin	脚後筋	307
 khaaukun	khaāukun	310
 khaaukun	kha-āu-kun	309
-khaaukun	脚後筋	308
+khaaukun	kha āu kun	308
+khaaukun	脚後筋	307
 khahchoah	khahchoa̍h	310
 khahchoah	khah-choa̍h	309
-khahchoah	卡絕	308
-khahchoah	恰絕	307
+khahchoah	khah choa̍h	308
+khahchoah	卡絕	307
+khahchoah	恰絕	306
 khaigiap	khaigia̍p	310
 khaigiap	khai-gia̍p	309
-khaigiap	開業	308
+khaigiap	khai gia̍p	308
+khaigiap	開業	307
 khaihoat	khaihoat	310
 khaihoat	khai-hoat	309
-khaihoat	開發	308
+khaihoat	khai hoat	308
+khaihoat	開發	307
 khaihak	khaiha̍k	310
 khaihak	khai-ha̍k	309
-khaihak	開學	308
+khaihak	khai ha̍k	308
+khaihak	開學	307
 khaihong	khaihòng	310
 khaihong	khai-hòng	309
-khaihong	開放	308
+khaihong	khai hòng	308
+khaihong	開放	307
 khaikang	khaikang	310
 khaikang	khai-kang	309
-khaikang	開工	308
+khaikang	khai kang	308
+khaikang	開工	307
 khaisi	khaisí	310
 khaisi	khai-sí	309
-khaisi	開始	308
+khaisi	khai sí	308
+khaisi	開始	307
 khakjin	khakjīn	310
 khakjin	khak-jīn	309
-khakjin	確認	308
+khakjin	khak jīn	308
+khakjin	確認	307
 khakteng	khaktēng	310
 khakteng	khak-tēng	309
-khakteng	確定	308
+khakteng	khak tēng	308
+khakteng	確定	307
 khaksit	khaksi̍t	310
 khaksit	khak-si̍t	309
-khaksit	確實	308
+khaksit	khak si̍t	308
+khaksit	確實	307
 khanbong	khanbông	310
 khanbong	khan-bông	309
-khanbong	牽亡	308
+khanbong	khan bông	308
+khanbong	牽亡	307
 khanchhiu	khanchhiú	310
 khanchhiu	khan-chhiú	309
-khanchhiu	牽手	308
+khanchhiu	khan chhiú	308
+khanchhiu	牽手	307
 khangkhoe	khangkhòe	310
 khangkhoe	khang-khòe	309
-khangkhoe	工課	308
+khangkhoe	khang khòe	308
+khangkhoe	工課	307
 khangphang	khangphāng	310
 khangphang	khang-phāng	309
-khangphang	空縫	308
+khangphang	khang phāng	308
+khangphang	空縫	307
 khanlian	khanliân	310
 khanlian	khan-liân	309
-khanlian	牽連	308
+khanlian	khan liân	308
+khanlian	牽連	307
 khanseng	khansêng	310
 khanseng	khan-sêng	309
-khanseng	牽成	308
+khanseng	khan sêng	308
+khanseng	牽成	307
 khanthoa	khanthoa	310
 khanthoa	khan-thoa	309
-khanthoa	牽拖	308
+khanthoa	khan thoa	308
+khanthoa	牽拖	307
 khatahchhia	khata̍hchhia	310
 khatahchhia	kha-ta̍h-chhia	309
+khatahchhia	kha ta̍h chhia	308
 #DONE
 #阿天：建議「腳」字 tī 3XX chit tah
 #lóng 免提供。民貫台文「脚」使用率高過「腳」
 #thiámthiám。使用者 nā PREFER「腳」字、
 #因由百面是『因爲華、所以慣 sì』。
-khatahchhia	脚踏車	308
+khatahchhia	脚踏車	307
 khaucho	kháuchō	310
 khaucho	kháu-chō	309
-khaucho	口座	308
+khaucho	kháu chō	308
+khaucho	口座	307
 khauhok	kháuho̍k	310
 khauhok	kháu-ho̍k	309
-khauhok	口服	308
+khauhok	kháu ho̍k	308
+khauhok	口服	307
 khengkhak	khengkhak	310
 khengkhak	kheng-khak	309
-khengkhak	框壳	308
+khengkhak	kheng khak	308
+khengkhak	框壳	307
 khehchng	khehchng	310
 khehchng	kheh-chng	309
-khehchng	客庄	308
+khehchng	kheh chng	308
+khehchng	客庄	307
 khehgi	khehgí	310
 khehgi	kheh-gí	309
-khehgi	客語	308
+khehgi	kheh gí	308
+khehgi	客語	307
 khehlang	khehlâng	310
 khehlang	kheh-lâng	309
-khehlang	客人	308
+khehlang	kheh lâng	308
+khehlang	客人	307
 khehoe	khehōe	310
 khehoe	kheh-ōe	309
-khehoe	客話	308
+khehoe	kheh ōe	308
+khehoe	客話	307
 khiakhi	khiākhí	310
 khiakhi	khiā-khí	309
-khiakhi	竪起	308
-khiakhi	立起	307
+khiakhi	khiā khí	308
+khiakhi	竪起	307
+khiakhi	立起	306
 khiamkhoat	khiàmkhoat	310
 khiamkhoat	khiàm-khoat	309
-khiamkhoat	欠缺	308
+khiamkhoat	khiàm khoat	308
+khiamkhoat	欠缺	307
 khiamtiam	khiàmtiám	310
 khiamtiam	khiàm-tiám	309
-khiamtiam	欠點	308
+khiamtiam	khiàm tiám	308
+khiamtiam	欠點	307
 khiansng	khiànsńg	310
 khiansng	khiàn-sńg	309
+khiansng	khiàn sńg	308
 #DONE: 阿天﹕「㩜損」chit 二字是 tó
 #位看着个？
 # thk: 台日內底 ê 漢字。
 #DONE:阿天：讚成台日个用字「摼損」
 #理由寫帶資料田
-khiansng	摼損	308
+khiansng	摼損	307
 khichhng	khíchhn̂g	310
 khichhng	khí-chhn̂g	309
-khichhng	起床	308
+khichhng	khí chhn̂g	308
+khichhng	起床	307
 khichhu	khíchhù	310
 khichhu	khí-chhù	309
-khichhu	起厝	308
+khichhu	khí chhù	308
+khichhu	起厝	307
 khicho	khíchō	310
 khicho	khí-chō	309
-khicho	起造	308
+khicho	khí chō	308
+khicho	起造	307
 khihau	khìhāu	310
 khihau	khì-hāu	309
-khihau	氣候	308
+khihau	khì hāu	308
+khihau	氣候	307
 khikhi	khíkhì	310
 khikhi	khí-khì	309
-khikhi	起去	308
+khikhi	khí khì	308
+khikhi	起去	307
 khilai	khílâi	310
 khilai	khí-lâi	309
-khilai	起來	308
+khilai	khí lâi	308
+khilai	起來	307
 khinkho	khinkhó	310
 khinkho	khin-khó	309
+khinkho	khin khó	308
 ###TODO
-khinkho	輕khó	308
+khinkho	輕khó	307
 khinphio	khinphiò	310
 khinphio	khin-phiò	309
+khinphio	khin phiò	308
 ###TODO
-khinphio	輕剽	308	#TJT
+khinphio	輕剽	307	#TJT
 khinsang	khinsang	310
 khinsang	khin-sang	309
-khinsang	輕鬆	308
+khinsang	khin sang	308
+khinsang	輕鬆	307
 khintang	khintāng	310
 khintang	khin-tāng	309
-khintang	輕重	308
+khintang	khin tāng	308
+khintang	輕重	307
 khiongpou	khióngpò͘	310
 khiongpou	khióng-pò͘	309
-khiongpou	恐怖	308
+khiongpou	khióng pò͘	308
+khiongpou	恐怖	307
 khipin	khipín	310
 khipin	khip-ín	309
-khipin	吸引	308
+khipin	khip ín	308
+khipin	吸引	307
 khipong	khípōng	310
 khipong	khí-pōng	309
+khipong	khí pōng	308
 ###TODO
-khipong	起磅	308
+khipong	起磅	307
 khipsiu	khipsiu	310
 khipsiu	khip-siu	309
-khipsiu	吸收	308
+khipsiu	khip siu	308
+khipsiu	吸收	307
 khisiau	khísiáu	310
 khisiau	khí-siáu	309
-khisiau	起嬲	308
+khisiau	khí siáu	308
+khisiau	起嬲	307
 khisiong	khìsiōng	310
 khisiong	khì-siōng	309
-khisiong	氣象	308
+khisiong	khì siōng	308
+khisiong	氣象	307
 khisiongkiok	Khìsiōngkio̍k	310
 khisiongkiok	Khì-siōng-kio̍k	309
-khisiongkiok	氣象局	308
+khisiongkiok	Khì siōng kio̍k	308
+khisiongkiok	氣象局	307
 khoai	khóài	310
 khoai	khó-ài	309
-khoai	可愛	308
+khoai	khó ài	308
+khoai	可愛	307
 khoaikhoai	khoàikhoài	310
 khoaikhoai	khoài-khoài	309
-khoaikhoai	快快	308
+khoaikhoai	khoài khoài	308
+khoaikhoai	快快	307
 khoankeng	khoânkéng	310
 khoankeng	khoân-kéng	309
-khoankeng	環境	308
+khoankeng	khoân kéng	308
+khoankeng	環境	307
 khoanpo	khoânpó	310
 khoanpo	khoân-pó	309
-khoanpo	環保	308
+khoanpo	khoân pó	308
+khoanpo	環保	307
 khochhi	khóchhì	310
 khochhi	khó-chhì	309
-khochhi	考試	308
+khochhi	khó chhì	308
+khochhi	考試	307
 khogiam	khógiām	310
 khogiam	khó-giām	309
-khogiam	考驗	308
+khogiam	khó giām	308
+khogiam	考驗	307
 khohak	khoha̍k	310
 khohak	kho-ha̍k	309
-khohak	科學	308
+khohak	kho ha̍k	308
+khohak	科學	307
 khoi	khóí	310
 khoi	khó-í	309
-khoi	可以	308
+khoi	khó í	308
+khoi	可以	307
 khoki	khoki	310
 khoki	kho-ki	309
-khoki	科技	308
+khoki	kho ki	308
+khoki	科技	307
 kholeng	khólêng	310
 kholeng	khó-lêng	309
-kholeng	可能	308
+kholeng	khó lêng	308
+kholeng	可能	307
 kholian	khóliân	310
 kholian	khó-liân	309
-kholian	可憐	308
+kholian	khó liân	308
+kholian	可憐	307
 kholu	khólū	310
 kholu	khó-lū	309
-kholu	考慮	308
+kholu	khó lū	308
+kholu	考慮	307
 khongbut	khòngbu̍t	310
 khongbut	khòng-bu̍t	309
-khongbut	礦物	308
+khongbut	khòng bu̍t	308
+khongbut	礦物	307
 khongbutchit	khòngbu̍tchit	310
 khongbutchit	khòng-bu̍t-chit	309
-khongbutchit	礦物質	308
+khongbutchit	khòng bu̍t chit	308
+khongbutchit	礦物質	307
 khongche	khòngchè	310
 khongche	khòng-chè	309
-khongche	控制	308
+khongche	khòng chè	308
+khongche	控制	307
 khongcheng	khòngcheng	310
 khongcheng	khòng-cheng	309
-khongcheng	抗爭	308
+khongcheng	khòng cheng	308
+khongcheng	抗爭	307
 khonggi	khònggī	310
 khonggi	khòng-gī	309
-khonggi	抗議	308
+khonggi	khòng gī	308
+khonggi	抗議	307
 khongkan	khongkan	310
 khongkan	khong-kan	309
-khongkan	空間	308
+khongkan	khong kan	308
+khongkan	空間	307
 khoounn	khóò͘ⁿ	310
 khoounn	khó-ò͘ⁿ	309
-khoounn	可惡	308
+khoounn	khó ò͘ⁿ	308
+khoounn	可惡	307
 khotheng	khòthêng	310
 khotheng	khòng-thêng	309
-khotheng	課程	308
+khotheng	khòng thêng	308
+khotheng	課程	307
 khuilat	khùila̍t	310
 khuilat	khùi-la̍t	309
-khuilat	氣力	308
+khuilat	khùi la̍t	308
+khuilat	氣力	307
 khunjiau	khùnjiáu	310
 khunjiau	khùn-jiáu	309
-khunjiau	困擾	308
+khunjiau	khùn jiáu	308
+khunjiau	困擾	307
 khunlan	khùnlân	310
 khunlan	khùn-lân	309
-khunlan	困難	308
+khunlan	khùn lân	308
+khunlan	困難	307
 khunlantou	khùnlântō͘	310
 khunlantou	khùn-lân-tō͘	309
-khunlantou	困難度	308
+khunlantou	khùn lân tō͘	308
+khunlantou	困難度	307
 khutchiat	khutchiat	310
 khutchiat	khut-chiat	309
-khutchiat	屈折	308
+khutchiat	khut chiat	308
+khutchiat	屈折	307
 khuthui	khūthûi	310
 khuthui	khū-thûi	309
-khuthui	臼槌	308
+khuthui	khū thûi	308
+khuthui	臼槌	307
 khutse	khutsè	310
 khutse	khut-sè	309
+khutse	khut sè	308
 ###TODO
-khutse	屈勢	308
+khutse	屈勢	307
 kiamchhai	kiámchhái	310
 kiamchhai	kiám-chhái	309
-kiamchhai	減彩	308
+kiamchhai	kiám chhái	308
+kiamchhai	減彩	307
 kianchhi	kianchhî	310
 kianchhi	kian-chhî	309
-kianchhi	堅持	308
+kianchhi	kian chhî	308
+kianchhi	堅持	307
 kiangi	kiàngī	310
 kiangi	kiàn-gī	309
-kiangi	建議	308
+kiangi	kiàn gī	308
+kiangi	建議	307
 kiankok	kiànkok	310
 kiankok	kiàn-kok	309
-kiankok	建國	308
+kiankok	kiàn kok	308
+kiankok	建國	307
 kiankou	kiankò͘	310
 kiankou	kian-kò͘	309
-kiankou	堅固	308
+kiankou	kian kò͘	308
+kiankou	堅固	307
 kiannhiann	kiaⁿhiâⁿ	310
 kiannhiann	kiaⁿ-hiâⁿ	309
-kiannhiann	驚刑	308
+kiannhiann	kiaⁿ hiâⁿ	308
+kiannhiann	驚刑	307
 kiannlou	kiâⁿlō͘	310
 kiannlou	kiâⁿ-lō͘	309
-kiannlou	行路	308
+kiannlou	kiâⁿ lō͘	308
+kiannlou	行路	307
 kianphi	kianphí	310
 kianphi	kian-phí	309
+kianphi	kian phí	308
 ###TODO
-kianphi	堅庀	308	#TJT
+kianphi	堅庀	307	#TJT
 kiansim	kiansim	310
 kiansim	kian-sim	309
-kiansim	堅心	308
+kiansim	kian sim	308
+kiansim	堅心	307
 kianteng	kiantēng	310
 kianteng	kian-tēng	309
-kianteng	堅定	308
+kianteng	kian tēng	308
+kianteng	堅定	307
 kiathap	kiatha̍p	310
 kiathap	kiat-ha̍p	309
-kiathap	結合	308
+kiathap	kiat ha̍p	308
+kiathap	結合	307
 kiatko	kiatkó	310
 kiatko	kiat-kó	309
-kiatko	結果	308
+kiatko	kiat kó	308
+kiatko	結果	307
 kiatlun	kiatlūn	310
 kiatlun	kiat-lūn	309
-kiatlun	結論	308
+kiatlun	kiat lūn	308
+kiatlun	結論	307
 kiatsok	kiatsok	310
 kiatsok	kiat-sok	309
-kiatsok	結束	308
+kiatsok	kiat sok	308
+kiatsok	結束	307
 kibiau	kîbiāu	310
 kibiau	kî-biāu	309
-kibiau	奇妙	308
+kibiau	kî biāu	308
+kibiau	奇妙	307
 kiche	kichè	310
 kiche	ki-chè	309
-kiche	機制	308
+kiche	ki chè	308
+kiche	機制	307
 kichhou	kichhó͘	310
 kichhou	ki-chhó͘	309
-kichhou	基礎	308	#TODO
+kichhou	ki chhó͘	308
+kichhou	基礎	307	#TODO
 kihai	kihâi	310
 kihai	ki-hâi	309
-kihai	機械	308
+kihai	ki hâi	308
+kihai	機械	307
 kihoe	kihōe	310
 kihoe	ki-hōe	309
-kihoe	機會	308
+kihoe	ki hōe	308
+kihoe	機會	307
 kikhi	kikhì	310
 kikhi	ki-khì	309
-kikhi	機器	308
+kikhi	ki khì	308
+kikhi	機器	307
 kikhilang	kikhìlâng	310
 kikhilang	ki-khì-lâng	309
-kikhilang	機器人	308
+kikhilang	ki khì lâng	308
+kikhilang	機器人	307
 kiliam	kìliām	310
 kiliam	kì-liām	309
-kiliam	記念	308
+kiliam	kì liām	308
+kiliam	記念	307
 kiliok	kìlio̍k	310
 kiliok	kì-lio̍k	309
-kiliok	記錄	308
+kiliok	kì lio̍k	308
+kiliok	記錄	307
 kilok	kìlo̍k	310
 kilok	kì-lo̍k	309
-kilok	記錄	308
+kilok	kì lo̍k	308
+kilok	記錄	307
 kilut	kilu̍t	310
 kilut	ki-lu̍t	309
-kilut	機率	308
+kilut	ki lu̍t	308
+kilut	機率	307
 kimchoa	kimchóa	310
 kimchoa	kim-chóa	309
-kimchoa	金紙	308
+kimchoa	kim chóa	308
+kimchoa	金紙	307
 kimchu	kimchú	310
 kimchu	kim-chú	309
-kimchu	金主	308
+kimchu	kim chú	308
+kimchu	金主	307
 kimlou	kimlô͘	310
 kimlou	kim-lô͘	309
-kimlou	金爐	308
+kimlou	kim lô͘	308
+kimlou	金爐	307
 kimpai	kimpâi	310
 kimpai	kim-pâi	309
-kimpai	金牌	308
+kimpai	kim pâi	308
+kimpai	金牌	307
 kimsin	kimsin	310
 kimsin	kim-sin	309
-kimsin	金身	308
+kimsin	kim sin	308
+kimsin	金身	307
 kimsiok	kimsio̍k	310
 kimsiok	kim-sio̍k	309
-kimsiok	金屬	308
+kimsiok	kim sio̍k	308
+kimsiok	金屬	307
 kimtiau	kimtiâu	310
 kimtiau	kim-tiâu	309
-kimtiau	金條	308
+kimtiau	kim tiâu	308
+kimtiau	金條	307
 kinnna	kìⁿnā	310
 kinnna	kìⁿ-nā	309
+kinnna	kìⁿ nā	308
 ###TODO
-kinnna	??	308
+kinnna	??	307
 #DONE
 #Kám koh ū «kiaⁿji̍t» ê ho͘-im?
 #手頭詞典無收
@@ -11541,133 +12208,176 @@ kinnna	??	308
 ###thk: góa kā 2 cho͘ khǹg chòhóe.
 kinajit	kináji̍t	310
 kinajit	kin-á-ji̍t	309
-kinajit	今旦日	308
+kinajit	kin á ji̍t	308
+kinajit	今旦日	307
 kinnajit	kinnáji̍t	310
 kinnajit	kin-ná-ji̍t	309
-kinnajit	今旦日	308
+kinnajit	kin ná ji̍t	308
+kinnajit	今旦日	307
 kinkhoai	kínkhoài	310
 kinkhoai	kín-khoài	309
-kinkhoai	緊快	308	#TJT
+kinkhoai	kín khoài	308
+kinkhoai	緊快	307	#TJT
 kinkin	kínkín	310
 kinkin	kín-kín	309
-kinkin	緊緊	308	#TJT
+kinkin	kín kín	308
+kinkin	緊緊	307	#TJT
 kintai	kīntāi	310
 kintai	kīntāi	309
-kintai	近代	308	#TJT
+kintai	kīntāi	308
+kintai	近代	307	#TJT
 kionghi	kionghí	310
 kionghi	kiong-hí	309
-kionghi	恭喜	308
+kionghi	kiong hí	308
+kionghi	恭喜	307
 kiongtiau	kiôngtiāu	310
 kiongtiau	kiông-tiāu	309
-kiongtiau	強調	308
+kiongtiau	kiông tiāu	308
+kiongtiau	強調	307
 kiongtong	kiōngtông	310
 kiongtong	kiōng-tông	309
-kiongtong	共同	308
+kiongtong	kiōng tông	308
+kiongtong	共同	307
 kipseng	kipsèng	310
 kipseng	kip-sèng	309
-kipseng	急性	308
+kipseng	kip sèng	308
+kipseng	急性	307
 kisit	kîsi̍t	310
 kisit	kî-si̍t	309
-kisit	其實	308
+kisit	kî si̍t	308
+kisit	其實	307
 kisut	kisu̍t	310
 kisut	ki-su̍t	309
-kisut	技術	308
+kisut	ki su̍t	308
+kisut	技術	307
 kite	kité	310
 kite	ki-té	309
-kite	基底	308
+kite	ki té	308
+kite	基底	307
 kiti	kìtî	310
 kiti	kì-tî	309
-kiti	記池	308
+kiti	kì tî	308
+kiti	記池	307
 kitok	Kitok	310
 kitok	Ki-tok	309
-kitok	基督	308
+kitok	Ki tok	308
+kitok	基督	307
 kitokkau	Kitokkàu	310
 kitokkau	Ki-tok-kàu	309
-kitokkau	基督教	308
+kitokkau	Ki tok kàu	308
+kitokkau	基督教	307
 koaachheh	koaáchheh	310
 koaachheh	koa-á-chheh	309
-koaachheh	歌仔冊	308
+koaachheh	koa á chheh	308
+koaachheh	歌仔冊	307
 koabu	koabú	310
 koabu	koa-bú	309
-koabu	歌舞	308
+koabu	koa bú	308
+koabu	歌舞	307
 koabutiunn	koabútiûⁿ	310
 koabutiunn	koa-bú-tiûⁿ	309
-koabutiunn	歌舞場	308
+koabutiunn	koa bú tiûⁿ	308
+koabutiunn	歌舞場	307
 koaho	kòahō	310
 koaho	kòa-hō	309
-koaho	掛號	308
+koaho	kòa hō	308
+koaho	掛號	307
 koahochhu	kòahōchhù	310
 koahochhu	kòa-hō-chhù	309
-koahochhu	掛號處	308
+koahochhu	kòa hō chhù	308
+koahochhu	掛號處	307
 koakhek	koakhek	310
 koakhek	koa-khek	309
-koakhek	歌曲	308
+koakhek	koa khek	308
+koakhek	歌曲	307
 koanchiong	koanchiòng	310
 koanchiong	koan-chiòng	309
-koanchiong	觀眾	308
+koanchiong	koan chiòng	308
+koanchiong	觀眾	307
 koanhe	koanhē	310
 koanhe	koan-hē	309
-koanhe	關係	308
+koanhe	koan hē	308
+koanhe	關係	307
 koankian	koankiān	310
 koankian	koan-kiān	309
-koankian	關鍵	308
+koankian	koan kiān	308
+koankian	關鍵	307
 koankong	Koankong	310
 koankong	Koan-kong	309
-koankong	關公	308
+koankong	Koan kong	308
+koankong	關公	307
 koanli	koánlí	310
 koanli	koán-lí	309
-koanli	管理	308
+koanli	koán lí	308
+koanli	管理	307
 koanligoan	koánlígoân	310
 koanligoan	koán-lí-goân	309
-koanligoan	管理員	308
+koanligoan	koán lí goân	308
+koanligoan	管理員	307
 koanliam	koanliām	310
 koanliam	koan-liām	309
-koanliam	觀念	308
+koanliam	koan liām	308
+koanliam	觀念	307
 koanseng	koànsèng	310
 koanseng	koàn-sèng	309
-koanseng	慣性	308
+koanseng	koàn sèng	308
+koanseng	慣性	307
 koansi	koànsì	310
 koansi	koàn-sì	309
-koansi	慣勢	308
+koansi	koàn sì	308
+koansi	慣勢	307
 koansim	koansim	310
 koansim	koan-sim	309
-koansim	關心	308
+koansim	koan sim	308
+koansim	關心	307
 koantiam	koantiám	310
 koantiam	koan-tiám	309
-koantiam	觀點	308
+koantiam	koan tiám	308
+koantiam	觀點	307
 koasu	koasû	310
 koasu	koa-sû	309
-koasu	歌詞	308
+koasu	koa sû	308
+koasu	歌詞	307
 koatsim	koatsim	310
 koatsim	koat-sim	309
-koatsim	決心	308
+koatsim	koat sim	308
+koatsim	決心	307
 koattau	koattàu	310
 koattau	koat-tàu	309
-koattau	決鬥	308
+koattau	koat tàu	308
+koattau	決鬥	307
 koatteng	koattēng	310
 koatteng	koat-tēng	309
-koatteng	決定	308
+koatteng	koat tēng	308
+koatteng	決定	307
 koeke	kòekè	310
 koeke	kòe-kè	309
-koeke	會計	308
+koeke	kòe kè	308
+koeke	會計	307
 koekhi	kòekhì	310
 koekhi	kòe-khì	309
-koekhi	過去	308
+koekhi	kòe khì	308
+koekhi	過去	307
 koeli	kòelī	310
 koeli	kòe-lī	309
-koeli	過濾	308
+koeli	kòe lī	308
+koeli	過濾	307
 koesin	kòesin	310
 koesin	kòe-sin	309
-koesin	過身	308
+koesin	kòe sin	308
+koesin	過身	307
 koesit	kòesit	310
 koesit	kòe-sit	309
-koesit	過失	308
+koesit	kòe sit	308
+koesit	過失	307
 koetheng	kòethêng	310
 koetheng	kòe-thêng	309
-koetheng	過程	308
+koetheng	kòe thêng	308
+koetheng	過程	307
 kohiong	Kohiông	310
 kohiong	Ko-hiông	309
-kohiong	高雄	308
+kohiong	Ko hiông	308
+kohiong	高雄	307
 #che 是 Easter egg;
 # 看汝咁有想 tio̍h
 # siáⁿmih 趣味 ê ētàng khǹg...
@@ -11675,702 +12385,926 @@ kohiong	高雄	308
 # 我來加 kóa 正經个
 takao	Kohiông	310
 takao	Ko-hiông	309
-takao	高雄	308
+takao	Ko hiông	308
+takao	高雄	307
 takau	Tákáu	310
 takau	Táⁿkáu	309
-takau	Tá-káu	308
-takau	Táⁿ-káu	307
-takau	打狗	306
+takau	Táⁿkáu	308
+takau	Tá-káu	307
+takau	Táⁿ-káu	306
+takau	打狗	305
 kngle	kńglê	310
 kngle	kńg-lê	309
+kngle	kńg lê	308
 ###TODO
-kngle	捲螺	308	#TJT
+kngle	捲螺	307	#TJT
 kngliang	kngliāng	310
 kngliang	kng-liāng	309
-kngliang	光亮	308
+kngliang	kng liāng	308
+kngliang	光亮	307
 kngsoann	kngsòaⁿ	310
 kngsoann	kng-sòaⁿ	309
-kngsoann	光線	308
+kngsoann	kng sòaⁿ	308
+kngsoann	光線	307
 kojin	kòjîn	310
 kojin	kò-jîn	309
-kojin	個人	308
+kojin	kò jîn	308
+kojin	個人	307
 kokip	kokip	310
 kokip	ko-kip	309
-kokip	高級	308
+kokip	ko kip	308
+kokip	高級	307
 kokbin	kokbîn	310
 kokbin	kok-bîn	309
-kokbin	國民	308
+kokbin	kok bîn	308
+kokbin	國民	307
 kokche	kokchè	310
 kokche	kok-chè	309
-kokche	國際	308
+kokche	kok chè	308
+kokche	國際	307
 kokhong	kokhông	310
 kokhong	kok-hông	309
-kokhong	國防	308
+kokhong	kok hông	308
+kokhong	國防	307
 kokka	kokka	310
 kokka	kok-ka	309
-kokka	國家	308
+kokka	kok ka	308
+kokka	國家	307
 kongbeng	kongbêng	310
 kongbeng	kong-bêng	309
-kongbeng	光明	308
+kongbeng	kong bêng	308
+kongbeng	光明	307
 kongbu	kongbū	310
 kongbu	kong-bū	309
-kongbu	公務	308
+kongbu	kong bū	308
+kongbu	公務	307
 kongbun	kongbûn	310
 kongbun	kong-bûn	309
-kongbun	公文	308
-kongbun	肛門	307
+kongbun	kong bûn	308
+kongbun	公文	307
+kongbun	肛門	306
 kongbugoan	kongbūgoân	310
 kongbugoan	kong-bū-goân	309
-kongbugoan	公務員	308
+kongbugoan	kong bū goân	308
+kongbugoan	公務員	307
 kongchhia	kongchhia	310
 kongchhia	kong-chhia	309
-kongchhia	公車	308
+kongchhia	kong chhia	308
+kongchhia	公車	307
 konggi	konggī	310
 konggi	kong-gī	309
-konggi	公義	308
+konggi	kong gī	308
+konggi	公義	307
 konggi	kónggī	310
 konggi	kóng-gī	309
-konggi	廣義	308
+konggi	kóng gī	308
+konggi	廣義	307
 konghakhau	kongha̍khāu	310
 konghakhau	kong-ha̍k-hāu	309
-konghakhau	公學校	308
+konghakhau	kong ha̍k hāu	308
+konghakhau	公學校	307
 konghng	konghn̂g	310
 konghng	kong-hn̂g	309
-konghng	公園	308
+konghng	kong hn̂g	308
+konghng	公園	307
 kongka	kongka	310
 kongka	kong-ka	309
-kongka	公家	308
+kongka	kong ka	308
+kongka	公家	307
 kongke	kongke	310
 kongke	kong-ke	309
-kongke	公家	308
+kongke	kong ke	308
+kongke	公家	307
 kongkek	kongkek	310
 kongkek	kong-kek	309
-kongkek	攻擊	308
+kongkek	kong kek	308
+kongkek	攻擊	307
 kongkiong	kongkiōng	310
 kongkiong	kong-kiōng	309
-kongkiong	公共	308
+kongkiong	kong kiōng	308
+kongkiong	公共	307
 kongkou	kóngkó͘	310
 kongkou	kóng-kó͘	309
-kongkou	講古	308
+kongkou	kóng kó͘	308
+kongkou	講古	307
 kongli	konglí	310
 kongli	kong-lí	309
-kongli	公理	308
+kongli	kong lí	308
+kongli	公理	307
 kongma	kongmá	310
 kongma	kong-má	309
-kongma	公媽	308
+kongma	kong má	308
+kongma	公媽	307
 kongleng	konglêng	310
 kongleng	kong-lêng	309
-kongleng	功能	308
+kongleng	kong lêng	308
+kongleng	功能	307
 kongoe	kóngōe	310
 kongoe	kóng-ōe	309
-kongoe	講話	308
+kongoe	kóng ōe	308
+kongoe	講話	307
 kongsan	Kongsan	310
 kongsan	Kong-san	309
-kongsan	岡山	308
+kongsan	Kong san	308
+kongsan	岡山	307
 kongsi	kongsi	310
 kongsi	kong-si	309
-kongsi	公司	308
+kongsi	kong si	308
+kongsi	公司	307
 kongsou	kongsó͘	310
 kongsou	kong-só͘	309
-kongsou	公所	308
+kongsou	kong só͘	308
+kongsou	公所	307
 kongthau	kongtâu	310
 kongthau	kong-tâu	309
-kongthau	公投	308
+kongthau	kong tâu	308
+kongthau	公投	307
 koucha	kó͘chá	310
 koucha	kó͘-chá	309
-koucha	古早	308
+koucha	kó͘ chá	308
+koucha	古早	307
 koui	kó͘ì	310
 koui	kó͘-ì	309
-koui	古意	308
+koui	kó͘ ì	308
+koui	古意	307
 koulu	kò͘lū	310
 koulu	kò͘-lū	309
-koulu	顧慮	308
+koulu	kò͘ lū	308
+koulu	顧慮	307
 koupan	kó͘pán	310
 koupan	kó͘-pán	309
-koupan	古板	308
+koupan	kó͘ pán	308
+koupan	古板	307
 kouputchiong	ko͘putchiong	310
 kouputchiong	ko͘-put-chiong	309
-kouputchiong	姑不將	308
+kouputchiong	ko͘ put chiong	308
+kouputchiong	姑不將	307
 kouputjichiong	ko͘putjīchiong	310
 kouputjichiong	ko͘putjîchiong	309
-kouputjichiong	ko͘-put-jī-chiong	308
-kouputjichiong	ko͘-put-jî-chiong	307
-kouputjichiong	姑不二將	306
-kouputjichiong	姑不而將	305
+kouputjichiong	ko͘putjîchiong	308
+kouputjichiong	ko͘-put-jī-chiong	307
+kouputjichiong	ko͘-put-jî-chiong	306
+kouputjichiong	姑不二將	305
+kouputjichiong	姑不而將	304
 kousu	kò͘sū	310
 kousu	kò͘-sū	309
-kousu	故事	308
+kousu	kò͘ sū	308
+kousu	故事	307
 koutong	kó͘tóng	310
 koutong	kó͘-tóng	309
-koutong	古董	308
+koutong	kó͘ tóng	308
+koutong	古董	307
 kuibou	kuibô͘	310
 kuibou	kui-bô͘	309
-kuibou	規模	308
+kuibou	kui bô͘	308
+kuibou	規模	307
 kuihoan	kuihoān	310
 kuihoan	kui-hoān	309
-kuihoan	規範	308
+kuihoan	kui hoān	308
+kuihoan	規範	307
 kuikhi	kuikhì	310
 kuikhi	kui-khì	309
-kuikhi	歸氣	308
+kuikhi	kui khì	308
+kuikhi	歸氣	307
 kuiki	kuikí	310
 kuiki	kui-kí	309
-kuiki	規矩	308
+kuiki	kui kí	308
+kuiki	規矩	307
 kuiteng	kuitēng	310
 kuiteng	kui-tēng	309
-kuiteng	規定	308
+kuiteng	kui tēng	308
+kuiteng	規定	307
 kunchui	kúnchúi	310
 kunchui	kún-chúi	309
-kunchui	滾水	308
+kunchui	kún chúi	308
+kunchui	滾水	307
 kunliong	kúniòng	310
 kunliong	kún-liòng	309
+kunliong	kún liòng	308
 kunhoat	kunhoat	310
 kunhoat	kun-hoat	309
-kunhoat	軍法	308
+kunhoat	kun hoat	308
+kunhoat	軍法	307
 kunlam	kunlām	310
 kunlam	kun-lām	309
-kunlam	軍艦	308
+kunlam	kun lām	308
+kunlam	軍艦	307
 kunlek	kunle̍k	310
 kunlek	kun-le̍k	309
-kunlek	軍力	308
+kunlek	kun le̍k	308
+kunlek	軍力	307
 kuntui	kuntūi	310
 kuntui	kun-tūi	309
-kuntui	軍隊	308
+kuntui	kun tūi	308
+kuntui	軍隊	307
 laibin	lāibīn	310
 laibin	lāi-bīn	309
-laibin	內面	308
+laibin	lāi bīn	308
+laibin	內面	307
 laichai	lāichâi	310
 laichai	lāi-châi	309
-laichai	內才	308
+laichai	lāi châi	308
+laichai	內才	307
 laigoan	lâigoân	310
 laigoan	lâi-goân	309
-laigoan	來源	308
+laigoan	lâi goân	308
+laigoan	來源	307
 laihok	lāiho̍k	310
 laihok	lāi-ho̍k	309
-laihok	內服	308
+laihok	lāi ho̍k	308
+laihok	內服	307
 laikhou	lāikhò͘	310
 laikhou	lāi-khò͘	309
-laikhou	內褲	308
+laikhou	lāi khò͘	308
+laikhou	內褲	307
 laili	lāilí	310
 laili	lāi-lí	309
-laili	內裡	308
+laili	lāi lí	308
+laili	內裡	307
 lailipou	lāilípò͘	310
 lailipou	lāi-lí-pò͘	309
+lailipou	lāi lí pò͘	308
 laisann	lāisaⁿ	310
 laisann	lāi-saⁿ	309
-laisann	內衫	308
+laisann	lāi saⁿ	308
+laisann	內衫	307
 laite	lāité	310
 laite	lāi-té	309
-laite	內底	308
+laite	lāi té	308
+laite	內底	307
 laam	lâsâm	310
 lasam	lâ-sâm	309
-lasam	蚋滲	308	#TJT
+lasam	lâ sâm	308
+lasam	蚋滲	307	#TJT
 laulang	lāulâng	310
 laulang	lāu-lâng	309
-laulang	老人	308
+laulang	lāu lâng	308
+laulang	老人	307
 lauoe	lâuōe	310
 lauoe	lâu-ōe	309
-lauoe	留話	308
+lauoe	lâu ōe	308
+lauoe	留話	307
 lausit	láusi̍t	310
 lausit	láu-si̍t	309
-lausit	老實	308
+lausit	láu si̍t	308
+lausit	老實	307
 lausu	lāusu	310
 lausu	lāu-su	309
-lausu	老師	308
+lausu	lāu su	308
+lausu	老師	307
 leksu	le̍ksú	310
 leksu	le̍k-sú	309
-leksu	歷史	308
+leksu	le̍k sú	308
+leksu	歷史	307
 lenggoa	lēnggōa	310
 lenggoa	lēng-gōa	309
-lenggoa	另外	308
+lenggoa	lēng gōa	308
+lenggoa	另外	307
 lengkam	lêngkám	310
 lengkam	lêng-kám	309
-lengkam	靈感	308
+lengkam	lêng kám	308
+lengkam	靈感	307
 lengkhi	léngkhì	310
 lengkhi	léng-khì	309
-lengkhi	冷氣	308
+lengkhi	léng khì	308
+lengkhi	冷氣	307
 lengkhiki	léngkhìki	310
 lengkhiki	léng-khì-ki	309
-lengkhiki	冷氣機	308
+lengkhiki	léng khì ki	308
+lengkhiki	冷氣機	307
 lenglek	lêngle̍k	310
 lenglek	lêng-le̍k	309
-lenglek	能力	308
+lenglek	lêng le̍k	308
+lenglek	能力	307
 lengmui	léngmûi	310
 lengmui	léng-mûi	309
-lengmui	冷媒	308
+lengmui	léng mûi	308
+lengmui	冷媒	307
 lengsiann	lêngsiàⁿ	310
 lengsiann	lêng-siàⁿ	309
-lengsiann	靈聖	308
+lengsiann	lêng siàⁿ	308
+lengsiann	靈聖	307
 lepai	lépài	310
 lepai	lé-pài	309
-lepai	禮拜	308
+lepai	lé pài	308
+lepai	禮拜	307
 liampou	liâmpò͘	310
 liampou	liâm-pò͘	309
+liampou	liâm pò͘	308
 ###TODO
-liampou	黏布	308
+liampou	黏布	307
 liansip	liānsi̍p	310
 liansip	liān-si̍p	309
-liansip	練習	308
+liansip	liān si̍p	308
+liansip	練習	307
 liansoa	liânsòa	310
 liansoa	liân-sòa	309
-liansoa	連續	308
+liansoa	liân sòa	308
+liansoa	連續	307
 liaukai	liáukái	310
 liaukai	liáu-kái	309
-liaukai	了解	308
+liaukai	liáu kái	308
+liaukai	了解	307
 liek	līek	310
 liek	lī-ek	309
-liek	利益	308
+liek	lī ek	308
+liek	利益	307
 lihai	līhāi	310
 lihai	lī-hāi	309
-lihai	利害	308
+lihai	lī hāi	308
+lihai	利害	307
 liiong	līiōng	310
 liiong	lī-iōng	309
-liiong	利用	308
+liiong	lī iōng	308
+liiong	利用	307
 liiu	líiû	310
 liiu	lí-iû	309
-liiu	理由	308
+liiu	lí iû	308
+liiu	理由	307
 likai	líkái	310
 likai	lí-kái	309
-likai	理解	308
+likai	lí kái	308
+likai	理解	307
 likang	líkang	310
 likang	lí-kang	309
-likang	理工	308
+likang	lí kang	308
+likang	理工	307
 likho	líkho	310
 likho	lí-kho	309
-likho	理科	308
+likho	lí kho	308
+likho	理科	307
 lilou	lílō͘	310
 lilou	lí-lō͘	309
-lilou	理路	308
+lilou	lí lō͘	308
+lilou	理路	307
 lilun	lílūn	310
 lilun	lí-lūn	309
-lilun	理論	308
+lilun	lí lūn	308
+lilun	理論	307
 liseng	lísèng	310
 liseng	lí-sèng	309
-liseng	理性	308
+liseng	lí sèng	308
+liseng	理性	307
 lisiong	lísióng	310
 lisiong	lí-sióng	309
-lisiong	理想	308
+lisiong	lí sióng	308
+lisiong	理想	307
 liokte	lio̍ktē	310
 liokte	lio̍k-tē	309
-liokte	陸地	308
+liokte	lio̍k tē	308
+liokte	陸地	307
 liukiu	Liûkiû	310
 liukiu	Liû-kiû	309
-liukiu	琉球	308
+liukiu	Liû kiû	308
+liukiu	琉球	307
 liuliah	liúlia̍h	310
 liuliah	liú-lia̍h	309
+liuliah	liú lia̍h	308
 ###TODO
-liuliah	??	308
-lmj	LMJ	308
+liuliah	??	307
+lmj	LMJ	307
 lmj	Lômájī	310
 lmj	Lô-má-jī	309
-lmj	羅馬字	307
+lmj	Lô má jī	308
+lmj	羅馬字	306
 langian	lângiân	310
 langian	lâng-iân	309
-langian	人緣	308
+langian	lâng iân	308
+langian	人緣	307
 langkheh	lângkheh	310
 langkheh	lâng-kheh	309
-langkheh	人客	308
+langkheh	lâng kheh	308
+langkheh	人客	307
 lantou	lântō͘	310
 lantou	lân-tō͘	309
-lantou	難度	308
+lantou	lân tō͘	308
+lantou	難度	307
 lapo	lapo	310
 lapo	lap-o	309
+lapo	lap o	308
 lapu	lapu	310
 lapu	lap-u	309
+lapu	lap u	308
 ###TODO
-lapo	凹窩	308	#TJT
-lapu	凹窩	308	#TJT
+lapo	凹窩	307	#TJT
+lapu	凹窩	307	#TJT
 lohlai	lo̍hlâi	310
 lohlai	lo̍h-lâi	309
-lohlai	落來	308
+lohlai	lo̍h lâi	308
+lohlai	落來	307
 lohlui	lo̍hlûi	310
 lohlui	lo̍h-lûi	309
-lohlui	落雷	308
+lohlui	lo̍h lûi	308
+lohlui	落雷	307
 lohkhi	lo̍hkhì	310
 lohkhi	lo̍h-khì	309
-lohkhi	落去	308
-lomaji	LMJ	308
+lohkhi	lo̍h khì	308
+lohkhi	落去	307
+lomaji	LMJ	307
 lomaji	Lômájī	310
 lomaji	Lô-má-jī	309
-lomaji	羅馬字	307
+lomaji	Lô má jī	308
+lomaji	羅馬字	306
 longbin	lôngbîn	310
 longbin	lông-bîn	309
-longbin	農民	308
+longbin	lông bîn	308
+longbin	農民	307
 longchhoan	lôngchhoan	310
 longchhoan	lông-chhoan	309
-longchhoan	農村	308
+longchhoan	lông chhoan	308
+longchhoan	農村	307
 longgaip	lônggia̍p	310
 longgaip	lông-gia̍p	309
-longgaip	農業	308
+longgaip	lông gia̍p	308
+longgaip	農業	307
 longioh	lôngio̍h	310
 longioh	lông-io̍h	309
-longioh	農藥	308
+longioh	lông io̍h	308
+longioh	農藥	307
 longhoe	lônghōe	310
 longhoe	lông-hōe	309
-longhoe	農會	308
+longhoe	lông hōe	308
+longhoe	農會	307
 longsan	lôngsán	310
 longsan	lông-sán	309
-longsan	農產	308
+longsan	lông sán	308
+longsan	農產	307
 longsanphin	lôngsánphín	310
 longsanphin	lông-sán-phín	309
-longsanphin	農產品	308
+longsanphin	lông sán phín	308
+longsanphin	農產品	307
 loulat	ló͘la̍t	310
 loulat	ló͘-la̍t	309
-loulat	魯力	308
+loulat	ló͘ la̍t	308
+loulat	魯力	307
 lutkhu	lutkhū	310
 lutkhu	lut-khū	309
+lutkhu	lut khū	308
 ###TODO
-lutkhu	lut 臼	308	#TJT
+lutkhu	lut 臼	307	#TJT
 mahoan	mâhoân	310
 mahoan	mâ-hoân	309
-mahoan	麻煩	308
+mahoan	mâ hoân	308
+mahoan	麻煩	307
 mihkiann	mi̍hkiāⁿ	310
 mihkiann	mi̍h-kiāⁿ	309
-mihkiann	物件	308
+mihkiann	mi̍h kiāⁿ	308
+mihkiann	物件	307
 mkoh	m̄koh	310
 mkoh	m̄-koh	309
-mkoh	不閣	308
+mkoh	m̄ koh	308
+mkoh	不閣	307
 mna	m̄nā	310
 mna	m̄-nā	309
+mna	m̄ nā	308
 ###TODO
-mna	??	308
+mna	??	307
 msi	m̄sī	310
 msi	m̄-sī	309
-msi	不是	308
+msi	m̄ sī	308
+msi	不是	307
 mngkngkhang	mn̂gkńgkhang	310
 mngkngkhang	mn̂g-kńg-khang	309
-mngkngkhang	毛管空	308
+mngkngkhang	mn̂g kńg khang	308
+mngkngkhang	毛管空	307
 mnglou	mn̂glō͘	310
 mnglou	mn̂g-lō͘	309
-mnglou	門路	308
+mnglou	mn̂g lō͘	308
+mnglou	門路	307
 mouchhatlek	mô͘chhatle̍k	310
 mouchhatlek	mô͘-chhat-le̍k	309
-mouchhatlek	摩擦力	308
+mouchhatlek	mô͘ chhat le̍k	308
+mouchhatlek	摩擦力	307
 mouhiam	mō͘hiám	310
 mouhiam	mō͘-hiám	309
-mouhiam	冒險	308
+mouhiam	mō͘ hiám	308
+mouhiam	冒險	307
 mousina	mô͘sîná	310
 mousina	mô͘-sîn-á	309
-mousina	魔神仔	308
+mousina	mô͘ sîn á	308
+mousina	魔神仔	307
 mousut	mô͘su̍t	310
 mousut	mô͘-su̍t	309
-mousut	魔術	308
+mousut	mô͘ su̍t	308
+mousut	魔術	307
 mthang	m̄thang	310
 mthang	m̄-thang	309
 mthang	m̄ thang	308
-mthang	不通	307
+mthang	m̄ thang	307
+mthang	不通	306
 muithe	mûithé	310
 muithe	mûi-thé	309
-muithe	媒體	308
-muithe媒体	307
+muithe	mûi thé	308
+muithe	媒體	307
+muithe媒体	306
 nasi	nāsī	310
 nasi	nā-sī	309
+nasi	nā sī	308
 ###TODO
-nasi	那是	308
+nasi	那是	307
 ngkin	náukin	310
 ngkin	náu-kin	309
-ngkin	腦筋	308
+ngkin	náu kin	308
+ngkin	腦筋	307
 ngsoann	náusòaⁿ	310
 ngsoann	náu-sòaⁿ	309
-ngsoann	腦線	308
+ngsoann	náu sòaⁿ	308
+ngsoann	腦線	307
 ngbang	ǹgbāng	310
 ngbang	ǹg-bāng	309
-ngbang	瞈望	308
-ngbang	映望	307
+ngbang	ǹg bāng	308
+ngbang	瞈望	307
+ngbang	映望	306
 ngechiann	ngēchiāⁿ	310
 ngechiann	ngē-chiāⁿ	309
+ngechiann	ngē chiāⁿ	308
 ngichiann	ngīchiāⁿ	310
 ngichiann	ngī-chiāⁿ	309
+ngichiann	ngī chiāⁿ	308
 ###TODO
-ngechiann	硬淨	308
-ngichiann	硬淨	308	#TJT_台日大
+ngechiann	硬淨	307
+ngichiann	硬淨	307	#TJT_台日大
 ngetau	ngētáu	310
 ngetau	ngē-táu	309
-ngetau	硬斗	308
+ngetau	ngē táu	308
+ngetau	硬斗	307
 ngitau	ngītáu	310
 ngitau	ngī-táu	309
-ngitau	硬斗	308	#TJT_台日大
+ngitau	ngī táu	308
+ngitau	硬斗	307	#TJT_台日大
 ngouheng	ngó͘hêng	310
 ngouheng	ngó͘-hêng	309
-ngouheng	五行	308
+ngouheng	ngó͘ hêng	308
+ngouheng	五行	307
 ngoukim	ngó͘kim	310
 ngoukim	ngó͘-kim	309
-ngoukim	五金	308
+ngoukim	ngó͘ kim	308
+ngoukim	五金	307
 ngoukoan	ngó͘koan	310
 ngoukoan	ngó͘-koan	309
-ngoukoan	五官	308
+ngoukoan	ngó͘ koan	308
+ngoukoan	五官	307
 nisekthe	nísekthé	310
 nisekthe	ní-sek-thé	309
-nisekthe	染色體	308
+nisekthe	ní sek thé	308
+nisekthe	染色體	307
 ###TODO: ài khakjīn "niû" ê im.
 niuchhek	niûchhek	310
 niuchhek	niû-chhek	309
-niuchhek	量測	308
+niuchhek	niû chhek	308
+niuchhek	量測	307
 nngchiann	nńgchiáⁿ	310
 nngchiann	nńg-chiáⁿ	309
-nngchiann	軟汫	308
+nngchiann	nńg chiáⁿ	308
+nngchiann	軟汫	307
 nngjun	nńgjūn	310
 nngjun	nńg-jūn	309
+nngjun	nńg jūn	308
 ###TODO
-nngjun	軟 jūn	308	#TJT
+nngjun	軟 jūn	307	#TJT
 nngthe	nńgthé	310
 nngthe	nńg-thé	309
-nngthe	軟体	308
-nngthe	軟體	307
+nngthe	nńg thé	308
+nngthe	軟体	307
+nngthe	軟體	306
 oahtang	oa̍htāng	310
 oahtang	oa̍h-tāng	309
-oahtang	活動	308
+oahtang	oa̍h tāng	308
+oahtang	活動	307
 oahtong	oa̍htōng	310
 oahtong	oa̍h-tōng	309
-oahtong	活動	308
+oahtong	oa̍h tōng	308
+oahtong	活動	307
 oakho	óakhò	310
 oakho	óa-khò	309
+oakho	óa khò	308
 ###TODO
-oakho	??	308
+oakho	??	307
 oanboan	oânboán	310
 oanboan	oân-boán	309
-oanboan	完滿	308
+oanboan	oân boán	308
+oanboan	完滿	307
 oanchoan	oânchoân	310
 oanchoan	oân-choân	309
-oanchoan	完全	308
+oanchoan	oân choân	308
+oanchoan	完全	307
 oanna	oanná	310
 oanna	oan-ná	309
+oanna	oan ná	308
 ###TODO
-oanna	??	308
+oanna	??	307
 oanna	oānnā	310
 oanna	oān-nā	309
+oanna	oān nā	308
 ###TODO
-oanna	??	308
+oanna	??	307
 oanseng	oânsêng	310
 oanseng	oân-sêng	309
-oanseng	完成	308
+oanseng	oân sêng	308
+oanseng	完成	307
 ongia	Ôngiâ	310
 ongia	Ông-iâ	309
-ongia	ôngiâ	308
-ongia	ông-iâ	307
-ongia	王爺	306
+ongia	Ông iâ	308
+ongia	ôngiâ	307
+ongia	ông-iâ	306
+ongia	王爺	305
 olo	oló	310
 olo	o-ló	309
-olo	呵咾	308
+olo	o ló	308
+olo	呵咾	307
 outiap	ô͘tia̍p	310
 outiap	ô͘-tia̍p	309
-outiap	蝴蝶	308
+outiap	ô͘ tia̍p	308
+outiap	蝴蝶	307
 outoubai	o͘tó͘bái	310
 outoubai	o͘-tó͘-bái	309
+outoubai	o͘ tó͘ bái	308
 panpun	pánpún	310
 panpun	pán-pún	309
-panpun	版本	308
+panpun	pán pún	308
+panpun	版本	307
 pangbang	pangbâng	310
 pangbang	pang-bâng	309
-pangbang	幫忙	308
+pangbang	pang bâng	308
+pangbang	幫忙	307
 pangbou	pangbô͘	310
 pangbou	pang-bô͘	309
-pangbou	枋模	308
+pangbou	pang bô͘	308
+pangbou	枋模	307
 pangchan	pangchān	310
 pangchan	pang-chān	309
-pangchan	帮贈	308
+pangchan	pang chān	308
+pangchan	帮贈	307
 pangchou	pangchō͘	310
 pangchou	pang-chō͘	309
-pangchou	帮助	308
+pangchou	pang chō͘	308
+pangchou	帮助	307
 patkoa	patkòa	310
 patkoa	pat-kòa	309
-patkoa	八卦	308
+patkoa	pat kòa	308
+patkoa	八卦	307
 pehoeji	Pe̍hōejī	310
 pehoeji	Pe̍h-ōe-jī	309
-pehoeji	POJ	308
-pehoeji	白話字	307
+pehoeji	Pe̍h ōe jī	308
+pehoeji	POJ	307
+pehoeji	白話字	306
 pengan	pêngan	310
 pengan	pêng-an	309
-pengan	平安	308
+pengan	pêng an	308
+pengan	平安	307
 pengcheng	pêngchēng	310
 pengcheng	pêng-chēng	309
-pengcheng	平靜	308
+pengcheng	pêng chēng	308
+pengcheng	平靜	307
 pengiu	pêngiú	310
 pengiu	pêng-iú	309
-pengiu	朋友	308
+pengiu	pêng iú	308
+pengiu	朋友	307
 pengsi	pêngsî	310
 pengsi	pêng-sî	309
-pengsi	平時	308
+pengsi	pêng sî	308
+pengsi	平時	307
 penntai	pêⁿtâi	310
 penntai	pêⁿ-tâi	309
-penntai	平台	308
+penntai	pêⁿ tâi	308
+penntai	平台	307
 piai	piai	310
 piai	pi-ai	309
-piai	悲哀	308
+piai	pi ai	308
+piai	悲哀	307
 pianchhian	piànchhian	310
 pianchhian	piàn-chhian	309
-pianchhian	變遷	308
+pianchhian	piàn chhian	308
+pianchhian	變遷	307
 pianheng	piànhêng	310
 pianheng	piàn-hêng	309
-pianheng	變形	308
+pianheng	piàn hêng	308
+pianheng	變形	307
 pianhoa	piànhòa	310
 pianhoa	piàn-hòa	309
-pianhoa	變化	308
+pianhoa	piàn hòa	308
+pianhoa	變化	307
 piansim	piànsim	310
 piansim	piàn-sim	309
-piansim	變心	308
+piansim	piàn sim	308
+piansim	變心	307
 pianthai	piànthài	310
 pianthai	piàn-thài	309
-pianthai	變態	308
+pianthai	piàn thài	308
+pianthai	變態	307
 piaubin	piáubīn	310
 piaubin	piáu-bīn	309
-piaubin	表面	308
+piaubin	piáu bīn	308
+piaubin	表面	307
 piaucheng	piáuchêng	310
 piaucheng	piáu-chêng	309
-piaucheng	表情	308
+piaucheng	piáu chêng	308
+piaucheng	表情	307
 piauhian	piáuhiān	310
 piauhian	piáu-hiān	309
-piauhian	表現	308
+piauhian	piáu hiān	308
+piauhian	表現	307
 piausi	piáusī	310
 piausi	piáu-sī	309
-piausi	表示	308
+piausi	piáu sī	308
+piausi	表示	307
 piautat	piáuta̍t	310
 piautat	piáu-ta̍t	309
-piautat	表達	308
+piautat	piáu ta̍t	308
+piautat	表達	307
 pibian	pībián	310
 pibian	pī-bián	309
-pibian	避免	308
+pibian	pī bián	308
+pibian	避免	307
 pichham	pichhám	310
 pichham	pi-chhám	309
-pichham	悲慘	308
+pichham	pi chhám	308
+pichham	悲慘	307
 pikhou	pikhó͘	310
 pikhou	pi-khó͘	309
-pikhou	悲苦	308
+pikhou	pi khó͘	308
+pikhou	悲苦	307
 pile	pílē	310
 pile	pí-lē	309
-pile	比例	308
+pile	pí lē	308
+pile	比例	307
 pinlut	pînlu̍t	310
 pinlut	pîn-lu̍t	309
-pinlut	頻率	308
+pinlut	pîn lu̍t	308
+pinlut	頻率	307
 pinntai	pîⁿtâi	310
 pinntai	pîⁿ-tâi	309
-pinntai	平台	308
+pinntai	pîⁿ tâi	308
+pinntai	平台	307
 pipan	pīpān	310
 pipan	pī-pān	309
-pipan	備辦	308
+pipan	pī pān	308
+pipan	備辦	307
 piphi	piphí	310
 piphi	pi-phí	309
-piphi	卑鄙	308
+piphi	pi phí	308
+piphi	卑鄙	307
 pisai	písài	310
 pisai	pí-sài	309
-pisai	比賽	308
+pisai	pí sài	308
+pisai	比賽	307
 pisiong	pisiong	310
 pisiong	pi-siong	309
-pisiong	悲傷	308
+pisiong	pi siong	308
+pisiong	悲傷	307
 pisu	pìsu	310
 pisu	pì-su	309
-pisu	秘書	308
+pisu	pì su	308
+pisu	秘書	307
 poj	Pe̍hōejī	310
 poj	Pe̍h-ōe-jī	309
-poj	POJ	308
-poj	白話字	307
+poj	Pe̍h ōe jī	308
+poj	POJ	307
+poj	白話字	306
 poan	Póan	310
 poan	Pó-an	309
-poan	保安	308
+poan	Pó an	308
+poan	保安	307
 pobea	pòbéá	310
 pobea	pò-bé-á	309
-pobea	報馬仔	308
+pobea	pò bé á	308
+pobea	報馬仔	307
 pochhi	póchhî	310
 pochhi	pó-chhî	309
-pochhi	保持	308
+pochhi	pó chhî	308
+pochhi	保持	307
 pochoa	pòchóa	310
 pochoa	pò-chóa	309
-pochoa	報紙	308
+pochoa	pò chóa	308
+pochoa	報紙	307
 pochun	póchûn	310
 pochun	pó-chûn	309
-pochun	保存	308
+pochun	pó chûn	308
+pochun	保存	307
 poeng	pòèng	310
 poeng	pò-èng	309
-poeng	報應	308
+poeng	pò èng	308
+poeng	報應	307
 poekeng	pōekéng	310
 poekeng	pōe-kéng	309
-poekeng	背景	308
+poekeng	pōe kéng	308
+poekeng	背景	307
 pohok	pòho̍k	310
 pohok	pò-ho̍k	309
-pohok	報復	308
+pohok	pò ho̍k	308
+pohok	報復	307
 pohou	póhō͘	310
 pohou	pó-hō͘	309
-pohou	保護	308
+pohou	pó hō͘	308
+pohou	保護	307
 poko	pòkò	310
 poko	pò-kò	309
-poko	報告	308
+poko	pò kò	308
+poko	報告	307
 pole	polê	310
 pole	po-lê	309
-pole	玻璃	308
+pole	po lê	308
+pole	玻璃	307
 poliu	póliû	310
 poliu	pó-liû	309
-poliu	保留	308
+poliu	pó liû	308
+poliu	保留	307
 posiu	pósiú	310
 posiu	pó-siú	309
-posiu	保守	308
+posiu	pó siú	308
+posiu	保守	307
 posiu	pósiû	310
 posiu	pó-siû	309
-posiu	報仇	308
+posiu	pó siû	308
+posiu	報仇	307
 potiong	pótiōng	310
 potiong	pó-tiōng	309
-potiong	保重	308
+potiong	pó tiōng	308
+potiong	保重	307
 pouchhiong	pó͘chhiong	310
 pouchhiong	pó͘-chhiong	309
-pouchhiong	補充	308
+pouchhiong	pó͘ chhiong	308
+pouchhiong	補充	307
 pouhun	pō͘hūn	310
 pouhun	pō͘-hūn	309
-pouhun	部份	308
+pouhun	pō͘ hūn	308
+pouhun	部份	307
 punchiann	púnchiâⁿ	310
 punchiann	pún-chiâⁿ	309
-punchiann	本成	308
+punchiann	pún chiâⁿ	308
+punchiann	本成	307
 punhun	púnhūn	310
 punhun	pún-hūn	309
-punhun	本分	308	#TJT
+punhun	pún hūn	308
+punhun	本分	307	#TJT
 punjian	púnjiân	310
 punjian	pún-jiân	309
-punjian	本然	308
+punjian	pún jiân	308
+punjian	本然	307
 punlai	púnlâi	310
 punlai	pún-lâi	309
-punlai	本來	308
+punlai	pún lâi	308
+punlai	本來	307
 punsin	púnsin	310
 punsin	pún-sin	309
-punsin	本身	308
+punsin	pún sin	308
+punsin	本身	307
 punte	púnté	310
 punte	pún-té	309
-punte	本底	308
+punte	pún té	308
+punte	本底	307
 puntiunn	puntiuⁿ	310
 puntiunn	pun-tiuⁿ	309
-puntiunn	分張	308
+puntiunn	pun tiuⁿ	308
+puntiunn	分張	307
 putchou	Pu̍tchó͘	310
 putchou	Pu̍t-chó͘	309
-putchou	佛祖	308
+putchou	Pu̍t chó͘	308
+putchou	佛祖	307
 puttoh	pu̍ttoh	310
 puttoh	pu̍t-toh	309
-puttoh	佛棹	308
+puttoh	pu̍t toh	308
+puttoh	佛棹	307
 phahji	phahjī	310
 phahji	phah-jī	309
-phahji	打字	308
-phahji	拍字	307
+phahji	phah jī	308
+phahji	打字	307
+phahji	拍字	306
 phainnlang	pháiⁿlâng	310
 phainnlang	pháiⁿ-lâng	309
-phainnlang	歹人	308
+phainnlang	pháiⁿ lâng	308
+phainnlang	歹人	307
 phainnse	pháiⁿsè	310
 phainnse	pháiⁿ-sè	309
-phainnse	歹世	308
+phainnse	pháiⁿ sè	308
+phainnse	歹世	307
 phangliau	phangliāu	310
 phangliau	phang-liāu	309
-phangliau	香料	308
+phangliau	phang liāu	308
+phangliau	香料	307
 phiauchun	phiauchún	310
 phiauchun	phiau-chún	309
-phiauchun	標凖	308
+phiauchun	phiau chún	308
+phiauchun	標凖	307
 phiaupun	phiaupún	310
 phiaupun	phiau-pún	309
-phiaupun	標本	308
+phiaupun	phiau pún	308
+phiaupun	標本	307
 phiausi	phiausī	310
 phiausi	phiau-sī	309
-phiausi	標示	308
+phiausi	phiau sī	308
+phiausi	標示	307
 phiaute	phiautê	310
 phiaute	phiau-tê	309
-phiaute	標題	308
+phiaute	phiau tê	308
+phiaute	標題	307
 phiauthau	phiauthâu	310
 phiauthau	phiau-thâu	309
-phiauthau	標頭	308
+phiauthau	phiau thâu	308
+phiauthau	標頭	307
 phiju	phìjū	310
 phiju	phì-jū	309
+phiju	phì jū	308
 #DONE﹕Che 是二个詞。第二个是 choa̍h 音。
 # Hām 卜 khǹg to 有好有呆。
 # 日本時代个文献寫「喩、輸、偸」多過「喻、輸、偷」
@@ -12378,1010 +13312,1332 @@ phiju	phì-jū	309
 # 今電腦 kan-na「俞」系有 chiâu 全
 # → 建議 lóng 用「俞」系
 # ＆「喩、輸、偸」kan-na 提供單字
-phiju	譬喻	308
-phiju	phíjū	307
-phiju	phí-jū	306
-phiju	比喻	305
+phiju	譬喻	307
+phiju	phíjū	306
+phiju	phí-jū	305
+phiju	比喻	304
 phinnchui	phīⁿchúi	310
 phinnchui	phīⁿ-chúi	309
-phinnchui	鼻水	308
+phinnchui	phīⁿ chúi	308
+phinnchui	鼻水	307
 phinnim	phīⁿim	310
 phinnim	phīⁿ-im	309
-phinnim	鼻音	308
+phinnim	phīⁿ im	308
+phinnim	鼻音	307
 phinnkhang	phīⁿkhang	310
 phinnkhang	phīⁿ-khang	309
-phinnkhang	鼻空	308
+phinnkhang	phīⁿ khang	308
+phinnkhang	鼻空	307
 phinnsai	phīⁿsái	310
 phinnsai	phīⁿ-sái	309
-phinnsai	鼻屎	308
+phinnsai	phīⁿ sái	308
+phinnsai	鼻屎	307
 phitphiak	phi̍tphia̍k	310
 phitphiak	phi̍t-phia̍k	309
+phitphiak	phi̍t phia̍k	308
 phitphok	phi̍tpho̍k	310
 phitphok	phi̍t-pho̍k	309
+phitphok	phi̍t pho̍k	308
 phoanntoan	phòaⁿtoàn	310
 phoanntoan	phòaⁿ-toàn	309
-phoanntoan	判斷	308
+phoanntoan	phòaⁿ toàn	308
+phoanntoan	判斷	307
 phoasiunn	phòasiùⁿ	310
 phoasiunn	phòa-siùⁿ	309
-phoasiunn	破相	308	#TJT
+phoasiunn	phòa siùⁿ	308
+phoasiunn	破相	307	#TJT
 Phoksu	Phoksū	310
 Phoksu	Phok-sū	309
-phoksu	phoksū	308
-phoksu	phok-sū	307
-phoksu	博士	306
+Phoksu	Phok sū	308
+phoksu	phoksū	307
+phoksu	phok-sū	306
+phoksu	博士	305
 phongpha	phòngphā	310
 phongpha	phòng-phā	309
-phongpha	凸泡	308	#TJT
+phongpha	phòng phā	308
+phongpha	凸泡	307	#TJT
 phouphian	phó͘tō͘	310
 phouphian	phó͘-tō͘	309
-phouphian	普度	308
+phouphian	phó͘ tō͘	308
+phouphian	普度	307
 phouthong	phó͘thong	310
 phouthong	phó͘-thong	309
-phouthong	普通	308
+phouthong	phó͘ thong	308
+phouthong	普通	307
 phulouthin	phuló͘thìn	310	#protein
 phulouthin	phu-ló͘-thìn	309
+phulouthin	phu ló͘ thìn	308
 saipakhou	saipakhō͘	310
 saipakhou	sai-pak-hō͘	309
-saipakhou	西北雨	308
+saipakhou	sai pak hō͘	308
+saipakhou	西北雨	307
 sangiap	sángia̍p	310
 sangiap	sán-gia̍p	309
-sangiap	產業	308
+sangiap	sán gia̍p	308
+sangiap	產業	307
 sanou	sanô͘	310
 sanou	san-ô͘	309
-sanou	珊瑚	308
+sanou	san ô͘	308
+sanou	珊瑚	307
 sanpang	sánpâng	310
 sanpang	sán-pâng	309
-sanpang	產房	308
+sanpang	sán pâng	308
+sanpang	產房	307
 sanseng	sánseng	310
 sanseng	sán-seng	309
-sanseng	產生	308
+sanseng	sán seng	308
+sanseng	產生	307
 santo	sántō	310
 santo	sán-tō	309
-santo	產道	308
+santo	sán tō	308
+santo	產道	307
 sebin	sèbīn	310
 sebin	sè-bīn	309
-sebin	勢面	308
-sebin	世面	307
+sebin	sè bīn	308
+sebin	勢面	307
+sebin	世面	306
 sehan	sèhàn	310
 sehan	sè-hàn	309
-sehan	細漢	308
+sehan	sè hàn	308
+sehan	細漢	307
 seiunn	seiûⁿ	310
 seiunn	se-iûⁿ	309
-seiunn	西洋	308
+seiunn	se iûⁿ	308
+seiunn	西洋	307
 seji	sèjī	310
 seji	sè-jī	309
-seji	細膩	308
-seji	細二	307
+seji	sè jī	308
+seji	細膩	307
+seji	細二	306
 sekan	sèkan	310
 sekan	sè-kan	309
-sekan	世間	308
+sekan	sè kan	308
+sekan	世間	307
 sekai	sèkài	310
 sekai	sè-kài	309
-sekai	世界	308
+sekai	sè kài	308
+sekai	世界	307
 sekchhiu	se̍kchhiú	310
 sekchhiu	se̍k-chhiú	309
-sekchhiu	熟手	308
+sekchhiu	se̍k chhiú	308
+sekchhiu	熟手	307
 sekhap	sekha̍p	310
 sekhap	sek-ha̍p	309
-sekhap	適合	308
+sekhap	sek ha̍p	308
+sekhap	適合	307
 seksai	se̍ksāi	310
 seksai	se̍k-sāi	309
-seksai	熟事	308
+seksai	se̍k sāi	308
+seksai	熟事	307
 sekti	sektì	310
 sekti	sek-tì	309
+sekti	sek tì	308
 sekti	sektī	310
 sekti	sek-tī	309
-sekti	色緻	308
+sekti	sek tī	308
+sekti	色緻	307
 selek	sèle̍k	310
 selek	sè-le̍k	309
-selek	勢力	308
+selek	sè le̍k	308
+selek	勢力	307
 sengbut	sengbu̍t	310
 sengbut	seng-bu̍t	309
-sengbut	生物	308
+sengbut	seng bu̍t	308
+sengbut	生物	307
 sengbutchit	sengbu̍tchit	310
 sengbutchit	seng-bu̍t-chit	309
-sengbutchit	生物質	308
+sengbutchit	seng bu̍t chit	308
+sengbutchit	生物質	307
 sengbuthak	sengbu̍tha̍k	310
 sengbuthak	seng-bu̍t-ha̍k	309
-sengbuthak	生物學	308
+sengbuthak	seng bu̍t ha̍k	308
+sengbuthak	生物學	307
 sengchit	sengchit	310
 sengchit	seng-chit	309
-sengchit	生質	308
+sengchit	seng chit	308
+sengchit	生質	307
 sengchit	sèngchit	310
 sengchit	sèng-chit	309
-sengchit	性質	308
+sengchit	sèng chit	308
+sengchit	性質	307
 senghun	sênghun	310
 senghun	sêng-hun	309
-senghun	成份	308
+senghun	sêng hun	308
+senghun	成份	307
 sengkeng	Sèngkeng	310
 sengkeng	Sèng-keng	309
-sengkeng	聖經	308
+sengkeng	Sèng keng	308
+sengkeng	聖經	307
 sengko	sêngkó	310
 sengko	sêng-kó	309
-sengko	成果	308
+sengko	sêng kó	308
+sengko	成果	307
 sengkong	sêngkong	310
 sengkong	sêng-kong	309
-sengkong	成功	308
+sengkong	sêng kong	308
+sengkong	成功	307
 sengkhu	sengkhu	310
 sengkhu	seng-khu	309
-sengkhu	身軀	308
+sengkhu	seng khu	308
+sengkhu	身軀	307
 sengli	senglí	310
 sengli	seng-lí	309
-sengli	生理	308
+sengli	seng lí	308
+sengli	生理	307
 sengoah	sengoa̍h	310
 sengoah	seng-oa̍h	309
-sengoah	生活	308
+sengoah	seng oa̍h	308
+sengoah	生活	307
 sengsan	sengsán	310
 sengsan	seng-sán	309
-sengsan	生產	308
+sengsan	seng sán	308
+sengsan	生產	307
 sengsanchia	sengsánchiá	310
 sengsanchia	seng-sán-chiá	309
-sengsanchia	生產者	308
+sengsanchia	seng sán chiá	308
+sengsanchia	生產者	307
 sengtiong	sengtióng	310
 sengtiong	seng-tióng	309
-sengtiong	生長	308
+sengtiong	seng tióng	308
+sengtiong	生長	307
 sennhun	seⁿhūn	310
 sennhun	seⁿ-hūn	309
-sennhun	生份	308
+sennhun	seⁿ hūn	308
+sennhun	生份	307
 sennjit	seⁿji̍t	310
 sennjit	seⁿ-ji̍t	309
-sennjit	生日	308
+sennjit	seⁿ ji̍t	308
+sennjit	生日	307
 sennsiann	seⁿsian	310
 sennsiann	seⁿ-sian	309
+sennsiann	seⁿ sian	308
 ###TODO
-sennsiann	生sian	308
+sennsiann	生sian	307
 sennsiunn	seⁿsiùⁿ	310
 sennsiunn	seⁿ-siùⁿ	309
-sennsiunn	生相	308
+sennsiunn	seⁿ siùⁿ	308
+sennsiunn	生相	307
 sennthoann	seⁿthòaⁿ	310
 sennthoann	seⁿ-thòaⁿ	309
-sennthoann	生炭	308
+sennthoann	seⁿ thòaⁿ	308
+sennthoann	生炭	307
 sepau	sèpau	310
 sepau	sè-pau	309
-sepau	細胞	308
+sepau	sè pau	308
+sepau	細胞	307
 sepauhut	sèpauhu̍t	310
 sepauhut	sè-pau-hu̍t	309
-sepauhut	細胞核	308
+sepauhut	sè pau hu̍t	308
+sepauhut	細胞核	307
 sesu	sèsū	310
 sesu	sè-sū	309
-sesu	世事	308
+sesu	sè sū	308
+sesu	世事	307
 siahoe	siāhōe	310
 siahoe	siā-hōe	309
-siahoe	社會	308
+siahoe	siā hōe	308
+siahoe	社會	307
 sianjin	sianjîn	310
 sianjin	sian-jîn	309
-sianjin	先人	308
+sianjin	sian jîn	308
+sianjin	先人	307
 Siansinn	Siansiⁿ	310
 siansinn	siansiⁿ	310
 siansinn	sian-siⁿ	309
-siansinn	先生	308
+siansinn	sian siⁿ	308
+siansinn	先生	307
 siannim	siaⁿim	310
 siannim	siaⁿ-im	309
-siannim	聲音	308
+siannim	siaⁿ im	308
+siannim	聲音	307
 siannlang	siáⁿlâng	310
 siannlang	siáⁿ-lâng	309
-siannlang	省人	308
+siannlang	siáⁿ lâng	308
+siannlang	省人	307
 siannmih	siáⁿmih	310
 siannmih	siáⁿ-mih	309
-siannmih	省乜	308
+siannmih	siáⁿ mih	308
+siannmih	省乜	307
 siannmih	siáⁿmi̍h	310
 siannmih	siáⁿ-mi̍h	309
+siannmih	siáⁿ mi̍h	308
 sianntiau	siaⁿtiāu	310
 sianntiau	siaⁿ-tiāu	309
-sianntiau	聲調	308
+sianntiau	siaⁿ tiāu	308
+sianntiau	聲調	307
 siathoat	siathoat	310
 siathoat	siat-hoat	309
-siathoat	設法	308
+siathoat	siat hoat	308
+siathoat	設法	307
 siatke	siatkè	310
 siatke	siat-kè	309
-siatke	設計	308
+siatke	siat kè	308
+siatke	設計	307
 siatkesu	siatkèsu	310
 siatkesu	siat-kè-su	309
-siatkesu	設計師	308
+siatkesu	siat kè su	308
+siatkesu	設計師	307
 siatsiong	siatsióng	310
 siatsiong	siat-sióng	309
-siatsiong	設想	308
+siatsiong	siat sióng	308
+siatsiong	設想	307
 siatsu	siatsú	310
 siatsu	siat-sú	309
-siatsu	設使	308
+siatsu	siat sú	308
+siatsu	設使	307
 siatteng	siattēng	310
 siatteng	siat-tēng	309
-siatteng	設定	308
+siatteng	siat tēng	308
+siatteng	設定	307
 siaubin	siáubīn	310
 siaubin	siáu-bīn	309
-siaubin	嬲面	308
+siaubin	siáu bīn	308
+siaubin	嬲面	307
 siaugongsin	siáugōngsîn	310
 siaugongsin	siáu-gōng-sîn	309
-siaugongsin	嬲戇神	308
+siaugongsin	siáu gōng sîn	308
+siaugongsin	嬲戇神	307
 siauhui	siauhùi	310
 siauhui	siau-hùi	309
-siauhui	消費	308
+siauhui	siau hùi	308
+siauhui	消費	307
 siauhuichia	siauhùichiá	310
 siauhuichia	siau-hùi-chiá	309
-siauhuichia	消費者	308
+siauhuichia	siau hùi chiá	308
+siauhuichia	消費者	307
 siaukai	siāukài	310
 siaukai	siāu-kài	309
-siaukai	紹介	307
+siaukai	siāu kài	308
+siaukai	紹介	306
 siaujin	siáujîn	310
 siaujin	siáu-jîn	309
-siaujin	小人	308
+siaujin	siáu jîn	308
+siaujin	小人	307
 siausit	siausit	310
 siausit	siau-sit	309
-siausit	消息	308
+siausit	siau sit	308
+siausit	消息	307
 siausoat	siáusoat	310
 siausoat	siáu-soat	309
-siausoat	小說	308
+siausoat	siáu soat	308
+siausoat	小說	307
 ###TODO
 siauthiua	siáuthiú-á	310
 siauthiua	siáu-thiú-á	309
-siauthiua	小丑仔	308
+siauthiua	siáu thiú á	308
+siauthiua	小丑仔	307
 sihna	sihnà	310
 sihna	sih-nà	309
-sihna	薛那	308
+sihna	sih nà	308
+sihna	薛那	307
 sihnah	sihnah	310
 sihnah	sih-nah	309
-sihnah	薛那	308
+sihnah	sih nah	308
+sihnah	薛那	307
 sikan	sîkan	310
 sikan	sî-kan	309
-sikan	時間	308
+sikan	sî kan	308
+sikan	時間	307
 simchong	simchōng	310
 simchong	sim-chōng	309
-simchong	心臟	308
+simchong	sim chōng	308
+simchong	心臟	307
 simkoann	simkoaⁿ	310
 simkoann	sim-koaⁿ	309
-simkoann	心肝	308
+simkoann	sim koaⁿ	308
+simkoann	心肝	307
 simkoannthau	simkoaⁿthâu	310
 simkoannthau	sim-koaⁿ-thâu	309
-simkoannthau	心肝頭	308
+simkoannthau	sim koaⁿ thâu	308
+simkoannthau	心肝頭	307
 simli	simlí	310
 simli	sim-lí	309
-simli	心理	308
+simli	sim lí	308
+simli	心理	307
 simleng	simlêng	310
 simleng	sim-lêng	309
-simleng	心靈	308
+simleng	sim lêng	308
+simleng	心靈	307
 simmih	símmi̍h	310
 simmih	sím-mi̍h	309
+simmih	sím mi̍h	308
 simsek	simsek	310
 simsek	sim-sek	309
-simsek	心適	308
+simsek	sim sek	308
+simsek	心適	307
 sinchupai	sînchúpâi	310
 sinchupai	sîn-chú-pâi	309
-sinchupai	神主牌	308
+sinchupai	sîn chú pâi	308
+sinchupai	神主牌	307
 singiong	sìngióng	310
 singiong	sìn-gióng	309
-singiong	信仰	308
+singiong	sìn gióng	308
+singiong	信仰	307
 sinkeng	sînkeng	310
 sinkeng	sîn-keng	309
-sinkeng	神經	308
+sinkeng	sîn keng	308
+sinkeng	神經	307
 sinkhu	sinkhu	310
 sinkhu	sin-khu	309
-sinkhu	身軀	308
+sinkhu	sin khu	308
+sinkhu	身軀	307
 sinmia	sinmiā	310
 sinmia	sin-miā	309
-sinmia	身命	308
+sinmia	sin miā	308
+sinmia	身命	307
 sinnmia	sìⁿmiā	310
 sinnmia	sìⁿ-miā	309
-sinnmia	性命	308
+sinnmia	sìⁿ miā	308
+sinnmia	性命	307
 sinthe	sinthé	310
 sinthe	sin-thé	309
-sinthe	身體	308
+sinthe	sin thé	308
+sinthe	身體	307
 siokhoa	siókhóa	310
 siokhoa	sió-khóa	309
-siokhoa	小可	308
+siokhoa	sió khóa	308
+siokhoa	小可	307
 siolo	siolō	310
 siolo	siolō	309
+siolo	siolō	308
 ###TODO
-siolo	燒烙	308
+siolo	燒烙	307
 siongbong	siongbông	310
 siongbong	siong-bông	309
-siongbong	傷亡	308
+siongbong	siong bông	308
+siongbong	傷亡	307
 sionggiap	sionggia̍p	310
 sionggiap	siong-gia̍p	309
-sionggiap	商業	308
+sionggiap	siong gia̍p	308
+sionggiap	商業	307
 siongkho	siōngkhò	310
 siongkho	siōng-khò	309
-siongkho	上課	308
+siongkho	siōng khò	308
+siongkho	上課	307
 sionghai	sionghāi	310
 sionghai	siong-hāi	309
-sionghai	傷害	308
+sionghai	siong hāi	308
+sionghai	傷害	307
 sionghun	sionghûn	310
 sionghun	siong-hûn	309
-sionghun	傷痕	308
+sionghun	siong hûn	308
+sionghun	傷痕	307
 siongphin	siongphín	310
 siongphin	siong-phín	309
-siongphin	商品	308
+siongphin	siong phín	308
+siongphin	商品	307
 siongphinn	siòngphìⁿ	310
 siongphinn	siòng-phìⁿ	309
-siongphinn	相片	308
+siongphinn	siòng phìⁿ	308
+siongphinn	相片	307
 siongse	siôngsè	310
 siongse	siông-sè	309
-siongse	詳細	308
+siongse	siông sè	308
+siongse	詳細	307
 siongsim	siongsim	310
 siongsim	siong-sim	309
-siongsim	傷心	308
+siongsim	siong sim	308
+siongsim	傷心	307
 siongsin	siongsìn	310
 siongsin	siong-sìn	309
-siongsin	相信	308
+siongsin	siong sìn	308
+siongsin	相信	307
 siongsiong	sióngsiōng	310
 siongsiong	sióng-siōng	309
-siongsiong	想像	308
+siongsiong	sióng siōng	308
+siongsiong	想像	307
 siongsionglek	sióngsiōngle̍k	310
 siongsionglek	sióng-siōng-le̍k	309
-siongsionglek	想像力	308
+siongsionglek	sióng siōng le̍k	308
+siongsionglek	想像力	307
 siongsiong	siôngsiông	310
 siongsiong	siông-siông	309
-siongsiong	常常	308
+siongsiong	siông siông	308
+siongsiong	常常	307
 siongsek	siôngsek	310
 siongsek	siông-sek	309
-siongsek	常識	308
+siongsek	siông sek	308
+siongsek	常識	307
 siongte	Siōngtè	310
 siongte	Siōng-tè	309
-siongte	上帝	308
+siongte	Siōng tè	308
+siongte	上帝	307
 siongtian	siongtián	310
 siongtian	siong-tián	309
-siongtian	商展	308
+siongtian	siong tián	308
+siongtian	商展	307
 siotian	siótiān	310
 siotian	siótiān	309
-siotian	小電	308
+siotian	siótiān	308
+siotian	小電	307
 sisiong	sîsiông	310
 sisiong	sî-siông	309
-sisiong	時常	308
+sisiong	sî siông	308
+sisiong	時常	307
 sitai	sîtāi	310
 sitai	sî-tāi	309
-sitai	時代	308
+sitai	sî tāi	308
+sitai	時代	307
 sitbin	sitbîn	310
 sitbin	sit-bîn	309
-sitbin	失眠	308
+sitbin	sit bîn	308
+sitbin	失眠	307
 sitbin	si̍tbîn	310
 sitbin	si̍t-bîn	309
-sitbin	植民	308
-sitbin	殖民	307
+sitbin	si̍t bîn	308
+sitbin	植民	307
+sitbin	殖民	306
 sitbut	si̍tbu̍t	310
 sitbut	si̍t-bu̍t	309
-sitbut	植物	308
+sitbut	si̍t bu̍t	308
+sitbut	植物	307
 sitchai	si̍tchāi	310
 sitchai	si̍t-chāi	309
-sitchai	實在	308
+sitchai	si̍t chāi	308
+sitchai	實在	307
 sitche	si̍tchè	310
 sitche	si̍t-chè	309
-sitche	實際	308
+sitche	si̍t chè	308
+sitche	實際	307
 sitgiam	si̍tgiām	310
 sitgiam	si̍t-giām	309
-sitgiam	實驗	308
+sitgiam	si̍t giām	308
+sitgiam	實驗	307
 sitgiamsek	si̍tgiāmsek	310
 sitgiamsek	si̍t-giām-sek	309
-sitgiamsek	實驗室	308
+sitgiamsek	si̍t giām sek	308
+sitgiamsek	實驗室	307
 sithoe	sithóe	310
 sithoe	sit-hóe	309
-sithoe	熄火	308
+sithoe	sit hóe	308
+sithoe	熄火	307
 sitiong	si̍tiōng	310
 sitiong	si̍t-iōng	309
-sitiong	實用	308
+sitiong	si̍t iōng	308
+sitiong	實用	307
 sitle	sitlé	310
 sitle	sit-lé	309
-sitle	失禮	308
+sitle	sit lé	308
+sitle	失禮	307
 sitthe	si̍tthé	310
 sitthe	si̍t-thé	309
-sitthe	實體	308
+sitthe	si̍t thé	308
+sitthe	實體	307
 sitthau	sitthâu	310
 sitthau	sit-thâu	309
-sitthau	穡頭	308
+sitthau	sit thâu	308
+sitthau	穡頭	307
 siuhok	siuho̍k	310
 siuhok	siu-ho̍k	309
-siuhok	收服	307
-siuhok	修復	306
+siuhok	siu ho̍k	308
+siuhok	收服	306
+siuhok	修復	305
 siukai	siukái	310
 siukai	siu-kái	309
-siukai	修改	308
+siukai	siu kái	308
+siukai	修改	307
 siukhi	siūkhì	310
 siukhi	siū-khì	309
-siukhi	受氣	308
+siukhi	siū khì	308
+siukhi	受氣	307
 siukhi	😠	99
 siukhi	😡	89
 siuli	siulí	310
 siuli	siu-lí	309
-siuli	修理	308
+siuli	siu lí	308
+siuli	修理	307
 siunnhoat	siūⁿhoat	310
 siunnhoat	siūⁿ-hoat	309
-siunnhoat	想法	308
+siunnhoat	siūⁿ hoat	308
+siunnhoat	想法	307
 snghai	sńghāi	310
 snghai	sńg-hāi	309
-snghai	損害	308
+snghai	sńg hāi	308
+snghai	損害	307
 sngpoann	sǹgpôaⁿ	310
 sngpoann	sǹg-pôaⁿ	309
-sngpoann	算盤	308
+sngpoann	sǹg pôaⁿ	308
+sngpoann	算盤	307
 sngsiau	sǹgsiàu	310
 sngsiau	sǹg-siàu	309
+sngsiau	sǹg siàu	308
 ###TODO
-sngsiau	算數	308
+sngsiau	算數	307
 soannteng	sòaⁿténg	310
-soannteng	sòaⁿ-téng	309
-soannteng	線頂	308
+soannteng	sòaⁿ-téng	307
+soannteng	線頂	306
 soanhoat	soànhoat	310
 soanhoat	soàn-hoat	309
-soanhoat	算法	308
+soanhoat	soàn hoat	308
+soanhoat	算法	307
 soatbeng	soatbêng	310
 soatbeng	soat-bêng	309
-soatbeng	說明	308
+soatbeng	soat bêng	308
+soatbeng	說明	307
 soatbengsu	soatbêngsu	310
 soatbengsu	soat-bêng-su	309
-soatbengsu	說明書	308
+soatbengsu	soat bêng su	308
+soatbengsu	說明書	307
 soehbeng	soehbêng	310
 soehbeng	soeh-bêng	309
-soehbeng	說明	308
+soehbeng	soeh bêng	308
+soehbeng	說明	307
 sokpi	sokpí	310
 sokpi	sok-pí	309
-sokpi	速比	308
+sokpi	sok pí	308
+sokpi	速比	307
 soktou	soktō͘	310
 soktou	sok-tō͘	309
-soktou	速度	308
+soktou	sok tō͘	308
+soktou	速度	307
 songkhoai	sóngkhoài	310
 songkhoai	sóng-khoài	309
-songkhoai	爽快	308
+songkhoai	sóng khoài	308
+songkhoai	爽快	307
 soubak	sò͘ba̍k	310
 soubak	sò͘-ba̍k	309
-soubak	數目	308
+soubak	sò͘ ba̍k	308
+soubak	數目	307
 soubok	sò͘bo̍k	310
 soubok	sò͘-bo̍k	309
-soubok	數目	308
+soubok	sò͘ bo̍k	308
+soubok	數目	307
 souhak	sò͘ha̍k	310
 souhak	sò͘-ha̍k	309
-souhak	數學	308
+souhak	sò͘ ha̍k	308
+souhak	數學	307
 soui	só͘í	310
 soui	só͘-í	309
-soui	所以	308
+soui	só͘ í	308
+soui	所以	307
 souji	sò͘jī	310
 souji	sò͘-jī	309
-souji	數字	308
+souji	sò͘ jī	308
+souji	數字	307
 souchai	só͘chāi	310
 souchai	só͘-chāi	309
-souchai	所在	308
+souchai	só͘ chāi	308
+souchai	所在	307
 soupai	só͘pái	310
 soupai	só͘-pái	309
+soupai	só͘ pái	308
 suchhut	suchhut	310
 suchhut	su-chhut	309
-suchhut	輸出	308
+suchhut	su chhut	308
+suchhut	輸出	307
 suiann	suiâⁿ	310
 suiann	su-iâⁿ	309
-suiann	輸贏	308
+suiann	su iâⁿ	308
+suiann	輸贏	307
 suiau	suiàu	310
 suiau	su-iàu	309
-suiau	需要	308
+suiau	su iàu	308
+suiau	需要	307
 #TODO: bô khaktēng chit ê sû ê lâigoân...
 #DONE：歸欉好好
 suibong	suibóng	310
 suibong	sui-bóng	309
-suibong	雖罔	308
+suibong	sui bóng	308
+suibong	雖罔	307
 suijian	suijiân	310
 suijian	sui-jiân	309
-suijian	雖然	308
+suijian	sui jiân	308
+suijian	雖然	307
 suikai	súikái	310
 suikai	súi-kái	309
-suikai	水解	308
+suikai	súi kái	308
+suikai	水解	307
 suikhui	súikhùi	310
 suikhui	súi-khùi	309
-suikhui	水氣	308
+suikhui	súi khùi	308
+suikhui	水氣	307
 suiong	súiōng	310
 suiong	sú-iōng	309
-suiong	使用	308
+suiong	sú iōng	308
+suiong	使用	307
 suiongchia	súiōngchiá	310
 suiongchia	sú-iōng-chiá	309
-suiongchia	使用者	308
+suiongchia	sú iōng chiá	308
+suiongchia	使用者	307
 sujip	suji̍p	310
 sujip	su-ji̍p	309
-sujip	輸入	308
+sujip	su ji̍p	308
+sujip	輸入	307
 sujiphoat	suji̍phoat	310
 sujiphoat	su-ji̍p-hoat	309
-sujiphoat	輸入法	308
+sujiphoat	su ji̍p hoat	308
+sujiphoat	輸入法	307
 sukiu	sukiû	310
 sukiu	su-kiû	309
-sukiu	需求	308
+sukiu	su kiû	308
+sukiu	需求	307
 sukho	sukhó	310
 sukho	su-khó	309
-sukho	思考	308
+sukho	su khó	308
+sukho	思考	307
 sunhai	súnhāi	310
 sunhai	sún-hāi	309
-sunhai	損害	308
+sunhai	sún hāi	308
+sunhai	損害	307
 sunli	sūnlī	310
 sunli	sūn-lī	309
-sunli	順利	308
+sunli	sūn lī	308
+sunli	順利	307
 sunsoa	sūnsòa	310
 sunsoa	sūn-sòa	309
-sunsoa	順續	308
+sunsoa	sūn sòa	308
+sunsoa	順續	307
 susiong	susióng	310
 susiong	su-sióng	309
-susiong	思想	308
+susiong	su sióng	308
+susiong	思想	307
 susit	sūsi̍t	310
 susit	sū-si̍t	309
-susit	事實	308
+susit	sū si̍t	308
+susit	事實	307
 sutgi	su̍tgí	310
 sutgi	su̍tgí	309
-sutgi	術語	308
+sutgi	su̍tgí	308
+sutgi	術語	307
 sutian	sûtián	310
 sutian	sû-tián	309
-sutian	辭典	308
-sutian	詞典	307
+sutian	sû tián	308
+sutian	辭典	307
+sutian	詞典	306
 taibun	Tâibûn	310
 taibun	Tâi-bûn	309
-taibun	台文	308
+taibun	Tâi bûn	308
+taibun	台文	307
 taichi	tāichì	310
 taichi	tāi-chì	309
-taichi	事志	308
+taichi	tāi chì	308
+taichi	事志	307
 taichiong	tāichìong	310
 taichiong	tāi-chìong	309
-taichiong	大眾	308
+taichiong	tāi chìong	308
+taichiong	大眾	307
 taichiongbio	tāichìongbiō	310
 taichiongbio	tāi-chìong-biō	309
-taichiongbio	大眾廟	308
+taichiongbio	tāi chìong biō	308
+taichiongbio	大眾廟	307
 taigi	Tâigí	310
 taigi	Tâi-gí	309
-taigi	台語	308
+taigi	Tâi gí	308
+taigi	台語	307
 taijin	tāijîn	310
 taijin	tāi-jîn	309
-taijin	大人	308
+taijin	tāi jîn	308
+taijin	大人	307
 taike	tāike	310
 taike	tāi-ke	309
-taike	大家	308
+taike	tāi ke	308
+taike	大家	307
 tailam	Tâilâm	310
 tailam	Tâi-lâm	309
-tailam	台南	307
+tailam	Tâi lâm	308
+tailam	台南	306
 tailiok	tāilio̍k	310
 tailiok	tāi-lio̍k	309
-tailiok	大略	307
-tailiok	大陸	306
+tailiok	tāi lio̍k	308
+tailiok	大略	306
+tailiok	大陸	305
 taioan	Tâioân	310
 taioan	Tâi-oân	309
-taioan	台員	307
-taioan	台灣	308
+taioan	Tâi oân	308
+taioan	台員	306
+taioan	台灣	307
 taioan	tâi-oan	310
 taioan	tâioan	309
-taioan	埋冤	308
+taioan	tâioan	308
+taioan	埋冤	307
 taioanlang	Tâioânlâng	310
 taioanlang	Tâi-oân-lâng	309
-taioanlang	台員人	307
-taioanlang	台灣人	308
+taioanlang	Tâi oân lâng	308
+taioanlang	台員人	306
+taioanlang	台灣人	307
 taioanoe	Tâioânōe	310
 taioanoe	Tâi-oân-ōe	309
-taioanoe	台員話	307
-taioanoe	台灣話	308
+taioanoe	Tâi oân ōe	308
+taioanoe	台員話	306
+taioanoe	台灣話	307
 taipak	Tâipak	310
 taipak	Tâi-pak	309
-taipak	台北	307
+taipak	Tâi pak	308
+taipak	台北	306
 taise	Tâise	310
 taise	Tâi-se	309
-taise	台西	307
+taise	Tâi se	308
+taise	台西	306
 taisia	tāisiā	310
 taisia	tāi-siā	309
-taisia	代謝	307
+taisia	tāi siā	308
+taisia	代謝	306
 taisu	tāisu	310
 taisu	tāi-su	309
-taisu	代書	307
+taisu	tāi su	308
+taisu	代書	306
 taitang	Tâitang	310
 taitang	Tâi-tang	309
-taitang	台東	307
+taitang	Tâi tang	308
+taitang	台東	306
 taitiong	Tâitiong	310
 taitiong	Tâi-tiong	309
-taitiong	台中	307
+taitiong	Tâi tiong	308
+taitiong	台中	306
 tamsip	tâmsip	310
 tamsip	tâm-sip	309
-tamsip	淡濕	307
+tamsip	tâm sip	308
+tamsip	淡濕	306
 tamtng	tamtng	310
 tamtng	tam-tng	309
-tamtng	擔當	307
+tamtng	tam tng	308
+tamtng	擔當	306
 tamtong	tamtong	310
 tamtong	tam-tong	309
-tamtong	擔當	307
+tamtong	tam tong	308
+tamtong	擔當	306
 tangiunn	tangiûⁿ	310
 tangiunn	tang-iûⁿ	309
-tangiunn	東洋	307
+tangiunn	tang iûⁿ	308
+tangiunn	東洋	306
 tangsu	tángsū	310
 tangsu	táng-sū	309
-tangsu	董事	307
+tangsu	táng sū	308
+tangsu	董事	306
 tangsuhoe	tángsūhōe	310
 tangsuhoe	táng-sū-hōe	309
-tangsuhoe	董事會	307
+tangsuhoe	táng sū hōe	308
+tangsuhoe	董事會	306
 tangsutiunn	tángsūtiúⁿ	310
 tangsutiunn	táng-sū-tiúⁿ	309
-tangsutiunn	董事長	307
+tangsutiunn	táng sū tiúⁿ	308
+tangsutiunn	董事長	306
 tantok	tanto̍k	310
 tantok	tan-to̍k	309
-tantok	單獨	307
+tantok	tan to̍k	308
+tantok	單獨	306
 tanpekchit	tānpe̍kchit	310	#TJT
 tanpekchit	tān-pe̍k-chit	309
-tanpekchit	蛋白質	307
+tanpekchit	tān pe̍k chit	308
+tanpekchit	蛋白質	306
 take	ta̍kê	310
 take	ta̍k-ê	309
+take	ta̍k ê	308
 tauhtauh	ta̍uhta̍uh	310
 tauhtauh	ta̍uh-ta̍uh	309
+tauhtauh	ta̍uh ta̍uh	308
 ###TODO
-tauhtauh	??	308
+tauhtauh	??	307
 tauphio	tâuphiò	310
 tauphio	tâu-phiò	309
-tauphio	投票	308
+tauphio	tâu phiò	308
+tauphio	投票	307
 tautin	tàutīn	310
 tautin	tàu-tīn	309
-tautin	鬥陣	308
+tautin	tàu tīn	308
+tautin	鬥陣	307
 tebin	tēbīn	310
 tebin	tē-bīn	309
-tebin	地面	308
+tebin	tē bīn	308
+tebin	地面	307
 tekhi	tēkhì	310
 tekhi	tē-khì	309
-tekhi	地氣	308
+tekhi	tē khì	308
+tekhi	地氣	307
 tekiu	tēkiû	310
 tekiu	tē-kiû	309
-tekiu	地球	308
+tekiu	tē kiû	308
+tekiu	地球	307
 tekkhak	tekkhak	310
 tekkhak	tek-khak	309
-tekkhak	的確	308
+tekkhak	tek khak	308
+tekkhak	的確	307
 tekpiat	te̍kpia̍t	310
 tekpiat	te̍k-pia̍t	309
-tekpiat	特別	308
+tekpiat	te̍k pia̍t	308
+tekpiat	特別	307
 teksu	te̍ksû	310
 teksu	te̍k-sû	309
-teksu	特殊	308
+teksu	te̍k sû	308
+teksu	特殊	307
 tengbin	téngbīn	310
 tengbin	téng-bīn	309
-tengbin	頂面	308
+tengbin	téng bīn	308
+tengbin	頂面	307
 tenggi	tēnggī	310
 tenggi	tēng-gī	309
-tenggi	定義	308	#TJT
+tenggi	tēng gī	308
+tenggi	定義	307	#TJT
 tengho	ténghō	310
 tengho	téng-hō	309
-tengho	等號	308	#TJT
+tengho	téng hō	308
+tengho	等號	307	#TJT
 tengkip	téngkip	310
 tengkip	téng-kip	309
-tengkip	等級	308
+tengkip	téng kip	308
+tengkip	等級	307
 tengkoan	téngkoân	310
 tengkoan	téng-koân	309
-tengkoan	頂高	308
+tengkoan	téng koân	308
+tengkoan	頂高	307
 tengsi	téngsi	310
 tengsi	téng-si	309
-tengsi	頂司	308
+tengsi	téng si	308
+tengsi	頂司	307
 tengtauh	tēngtauh	310
 tengtauh	tēng-tauh	309
+tengtauh	tēng tauh	308
 ###TODO
-tengtauh	tēng 篤	308	#TJT
+tengtauh	tēng 篤	307	#TJT
 tengthau	téngthâu	310
 tengthau	téng-thâu	309
-tengthau	頂頭	308
+tengthau	téng thâu	308
+tengthau	頂頭	307
 tephiau	tēphiau	310
 tephiau	tē-phiau	309
-tephiau	地標	308
+tephiau	tē phiau	308
+tephiau	地標	307
 tepiau	tēpiáu	310
 tepiau	tē-piáu	309
-tepiau	地表	308
+tepiau	tē piáu	308
+tepiau	地表	307
 tetang	tētāng	310
 tetang	tē-tāng	309
-tetang	地動	308
+tetang	tē tāng	308
+tetang	地動	307
 thoche	thóchè	310
 thoche	thó-chè	309
-thoche	討債	309
+thoche	thó chè	308
+thoche	討債	308
 tholun	thólūn	310
 tholun	thó-lūn	309
-tholun	討論	309
+tholun	thó lūn	308
+tholun	討論	308
 thongkhou	thòngkhó͘	310
 thongkhou	thòng-khó͘	309
-thongkhou	痛苦	308
+thongkhou	thòng khó͘	308
+thongkhou	痛苦	307
 thosiau	thósiàu	310
 thosiau	thó-siàu	309
-thosiau	討數	309
+thosiau	thó siàu	308
+thosiau	討數	308
 thoukha	thô͘kha	310
 thoukha	thô͘-kha	309
-thoukha	塗脚	308
-thoukha	塗 kha	307
+thoukha	thô͘ kha	308
+thoukha	塗脚	307
+thoukha	塗 kha	306
 tiambi	tiàmbī	310
 tiambi	tiàm-bī	309
+tiambi	tiàm bī	308
 ###TODO
-tiambi	??	308
+tiambi	??	307
 tianchun	tiānchú	310
 tianchun	tiān-chú	309
-tianchun	電子	308
+tianchun	tiān chú	308
+tianchun	電子	307
 tianchupho	tiānchûpho	310
 tianchupho	tiān-chû-pho	309
-tianchupho	電磁波	308
+tianchupho	tiān chû pho	308
+tianchupho	電磁波	307
 tianhun	tiānhûn	310
 tianhun	tiān-hûn	309
-tianhun	電雲	308
+tianhun	tiān hûn	308
+tianhun	電雲	307
 tianhoe	tiānhóe	310
 tianhoe	tiān-hóe	309
-tianhoe	電火	308
+tianhoe	tiān hóe	308
+tianhoe	電火	307
 tianhoepou	tiānhóepò͘	310
 tianhoepou	tiān-hóe-pò͘	309
-tianhoepou	電火布	308
+tianhoepou	tiān hóe pò͘	308
+tianhoepou	電火布	307
 tianhong	tiānhong	310
 tianhong	tiān-hong	309
-tianhong	電風	308
+tianhong	tiān hong	308
+tianhong	電風	307
 tiankek	tiānke̍k	310
 tiankek	tiān-ke̍k	309
-tiankek	電極	308
+tiankek	tiān ke̍k	308
+tiankek	電極	307
 tiankhi	tiānkhì	310
 tiankhi	tiān-khì	309
-tiankhi	電氣	308
-tiankhi	電器	307
+tiankhi	tiān khì	308
+tiankhi	電氣	307
+tiankhi	電器	306
 tianki	tiānki	310
 tianki	tiān-ki	309
-tianki	電機	308
+tianki	tiān ki	308
+tianki	電機	307
 tiankng	tiānkng	310
 tiankng	tiān-kng	309
-tiankng	電光	308
+tiankng	tiān kng	308
+tiankng	電光	307
 tiankong	tiānkong	310
 tiankong	tiān-kong	309
-tiankong	電光	308
+tiankong	tiān kong	308
+tiankong	電光	307
 tianlou	tiānlō͘	310
 tianlou	tiān-lō͘	309
-tianlou	電路	308
+tianlou	tiān lō͘	308
+tianlou	電路	307
 tiannau	tiānnáu	310
 tiannau	tiān-náu	309
-tiannau	電腦	308
+tiannau	tiān náu	308
+tiannau	電腦	307
 tianoe	tiānōe	310
 tianoe	tiān-ōe	309
-tianoe	電話	308
+tianoe	tiān ōe	308
+tianoe	電話	307
 tianpo	tiānpò	310
 tianpo	tiān-pò	309
-tianpo	電報	308
+tianpo	tiān pò	308
+tianpo	電報	307
 tianpothiau	tiānpòtiāu	310
 tianpothiau	tiān-pò-tiāu	309
-tianpothiau	電報柱	308
+tianpothiau	tiān pò tiāu	308
+tianpothiau	電報柱	307
 tiansi	tiānsī	310
 tiansi	tiān-sī	309
-tiansi	電視	308
+tiansi	tiān sī	308
+tiansi	電視	307
 tiansoann	tiānsòaⁿ	310
 tiansoann	tiān-sòaⁿ	309
-tiansoann	電線	308
+tiansoann	tiān sòaⁿ	308
+tiansoann	電線	307
 tianto	tiantó	310
 tianto	tian-tó	309
-tianto	顚倒	308
-tianto	顛倒	307	#TJT
+tianto	tian tó	308
+tianto	顚倒	307
+tianto	顛倒	306	#TJT
 tiantong	tiāntōng	310
 tiantong	tiān-tōng	309
-tiantong	電動	308
+tiantong	tiān tōng	308
+tiantong	電動	307
 tiantongki	tiāntōngki	310
 tiantongki	tiān-tōng-ki	309
-tiantongki	電動機	308
+tiantongki	tiān tōng ki	308
+tiantongki	電動機	307
 tianntiann	tiāⁿtiāⁿ	310
 tianntiann	tiāⁿ-tiāⁿ	309
-tianntiann	定定	308	#TJT
+tianntiann	tiāⁿ tiāⁿ	308
+tianntiann	定定	307	#TJT
 tianntioh	tiāⁿtio̍h	310
 tianntioh	tiāⁿ-tio̍h	309
-tianntioh	定着	308	#TJT
+tianntioh	tiāⁿ tio̍h	308
+tianntioh	定着	307	#TJT
 tiaukang	tiaukang	310
 tiaukang	tiau-kang	309
-tiaukang	刁工	308
+tiaukang	tiau kang	308
+tiaukang	刁工	307
 tiautau	tiàutâu	310
 tiautau	tiàu-tâu	309
+tiautau	tiàu tâu	308
 ###TODO
-tiautau	吊投	308
+tiautau	吊投	307
 tihui	tìhūi	310
 tihui	tì-hūi	309
-tihui	智慧	308
+tihui	tì hūi	308
+tihui	智慧	307
 timthau	tìmthâu	310
 timthau	tìm-thâu	309
-timthau	朕頭	308
+timthau	tìm thâu	308
+timthau	朕頭	307
 tinliat	tînlia̍t	310
 tinliat	tîn-lia̍t	309
-tinliat	陳列	308
+tinliat	tîn lia̍t	308
+tinliat	陳列	307
 tiongkok	Tiongkok	310
 tiongkok	Tiong-kok	309
-tiongkok	中國	308
+tiongkok	Tiong kok	308
+tiongkok	中國	307
 tionglan	tiōnglân	310
 tionglan	tiōng-lân	309
-tionglan	重難	308
+tionglan	tiōng lân	308
+tionglan	重難	307
 tionglek	tiōngle̍k	310
 tionglek	tiōng-le̍k	309
-tionglek	重力	308
+tionglek	tiōng le̍k	308
+tionglek	重力	307
 tionglektiunn	tiōngle̍ktiûⁿ	310
 tionglektiunn	tiōng-le̍k-tiûⁿ	309
-tionglektiunn	重力場	308
+tionglektiunn	tiōng le̍k tiûⁿ	308
+tionglektiunn	重力場	307
 tiongng	tiongng	310
 tiongng	tiong-ng	309
-tiongng	中央	308
+tiongng	tiong ng	308
+tiongng	中央	307
 tiongsim	tiongsim	310
 tiongsim	tiong-sim	309
-tiongsim	中心	308
+tiongsim	tiong sim	308
+tiongsim	中心	307
 tiongsim	tiōngsim	310
 tiongsim	tiōng-sim	309
-tiongsim	重心	308
+tiongsim	tiōng sim	308
+tiongsim	重心	307
 tiongtau	tiongtàu	310
 tiongtau	tiong-tàu	309
+tiongtau	tiong tàu	308
 ###TODO
-tiongtau	中 tàu	308
+tiongtau	中 tàu	307
 tisek	tìsek	310
 tisek	tì-sek	309
-tisek	智識	308
+tisek	tì sek	308
+tisek	智識	307
 titchiap	ti̍tchiap	310
 titchiap	ti̍t-chiap	309
-titchiap	直接	308
+titchiap	ti̍t chiap	308
+titchiap	直接	307
 tittit	ti̍tti̍t	310
 tittit	ti̍t-ti̍t	309
-tittit	直直	308
+tittit	ti̍t ti̍t	308
+tittit	直直	307
 Tiunnlo	Tiúⁿló	310
 tiunnlo	tiúⁿló	309
-tiunnlo	tiúⁿ-ló	308
-tiunnlo	長老	307
+tiunnlo	tiúⁿló	308
+tiunnlo	tiúⁿ-ló	307
+tiunnlo	長老	306
 toahai	tōahái	310
 toahai	tōa-hái	309
-toahai	大海	308
+toahai	tōa hái	308
+toahai	大海	307
 toalang	tōalâng	310
 toalang	tōa-lâng	309
-toalang	大人	308
+toalang	tōa lâng	308
+toalang	大人	307
 toalau	tōalâu	310
 toalau	tōa-lâu	309
-toalau	大樓	308
+toalau	tōa lâu	308
+toalau	大樓	307
 toatian	tōatiān	310
 toatian	tōa-tiān	309
-toatian	大電	308
+toatian	tōa tiān	308
+toatian	大電	307
 toklip	to̍kli̍p	310
 toklip	to̍k-li̍p	309
-toklip	獨立	308
+toklip	to̍k li̍p	308
+toklip	獨立	307
 tongan	tòngàn	310
 tongan	tòng-àn	309
-tongan	檔案	308
+tongan	tòng àn	308
+tongan	檔案	307
 tongbut	tōngbu̍t	310
 tongbut	tōng-bu̍t	309
-tongbut	動物	308
+tongbut	tōng bu̍t	308
+tongbut	動物	307
 tongchhong	tôngchhong	310
 tongchhong	tông-chhong	309
-tongchhong	同窗	308
+tongchhong	tông chhong	308
+tongchhong	同窗	307
 tongchhonghoe	tôngchhonghōe	310
 tongchhonghoe	tông-chhong-hōe	309
-tongchhonghoe	同窗會	308
+tongchhonghoe	tông chhong hōe	308
+tongchhonghoe	同窗會	307
 tongchok	tōngchok	310
 tongchok	tōng-chok	309
-tongchok	動作	308
+tongchok	tōng chok	308
+tongchok	動作	307
 tongi	tôngì	310
 tongi	tông-ì	309
-tongi	同意	308
+tongi	tông ì	308
+tongi	同意	307
 tongki	tōngki	310
 tongki	tōng-ki	309
-tongki	動機	308
+tongki	tōng ki	308
+tongki	動機	307
 tonglek	tōngle̍k	310
 tonglek	tōng-le̍k	309
-tonglek	動力	308
+tonglek	tōng le̍k	308
+tonglek	動力	307
 tongoh	tôngo̍h	310
 tongoh	tông-o̍h	309
-tongoh	同學	308
+tongoh	tông o̍h	308
+tongoh	同學	307
 tongsu	tôngsū	310
 tongsu	tông-sū	309
-tongsu	同事	308
+tongsu	tông sū	308
+tongsu	同事	307
 tosia	tosiā	310
 tosia	to-siā	309
-tosia	多謝	308
+tosia	to siā	308
+tosia	多謝	307
 tuieng	tùièng	310
 tuieng	tùi-èng	309
-tuieng	對應	308
+tuieng	tùi èng	308
+tuieng	對應	307
 tuihu	tùihù	310
 tuihu	tùi-hù	309
-tuihu	對付	308
+tuihu	tùi hù	308
+tuihu	對付	307
 tuitiong	tùitiōng	310
 tuitiong	tùi-tiōng	309
-tuitiong	對重	308
+tuitiong	tùi tiōng	308
+tuitiong	對重	307
 thamtho	thàmthó	310
 thamtho	thàm-thó	309
-thamtho	探討	308
+thamtho	thàm thó	308
+thamtho	探討	307
 thanhoainn	thánhoâiⁿ	310
 thanhoainn	thán-hoâiⁿ	309
-thanhoainn	坦橫	308
+thanhoainn	thán hoâiⁿ	308
+thanhoainn	坦橫	307
 thanpeh	thánpe̍h	310
 thanpeh	thán-pe̍h	309
-thanpeh	坦白	308
+thanpeh	thán pe̍h	308
+thanpeh	坦白	307
 thaucheng	thâuchêng	310
 thaucheng	thâu-chêng	309
-thaucheng	頭前	308
+thaucheng	thâu chêng	308
+thaucheng	頭前	307
 thauke	thâuke	310
 thauke	thâu-ke	309
-thauke	頭家	308
+thauke	thâu ke	308
+thauke	頭家	307
 thaukhak	thâukhak	310
 thaukhak	thâu-khak	309
-thaukhak	頭殼	308
+thaukhak	thâu khak	308
+thaukhak	頭殼	307
 thaulou	thâulō͘	310
 thaulou	thâu-lō͘	309
-thaulou	頭路	308
+thaulou	thâu lō͘	308
+thaulou	頭路	307
 thaumng	thâumn̂g	310
 thaumng	thâu-mn̂g	309
-thaumng	頭毛	308
+thaumng	thâu mn̂g	308
+thaumng	頭毛	307
 thaumou	thâumo͘	310
 thaumou	thâu-mo͘	309
-thaumou	頭毛	308
+thaumou	thâu mo͘	308
+thaumou	頭毛	307
 thaunau	thâunáu	310
 thaunau	thâu-náu	309
-thaunau	頭腦	308
+thaunau	thâu náu	308
+thaunau	頭腦	307
 thauphoe	thâuphôe	310
 thauphoe	thâu-phôe	309
-thauphoe	頭皮	308
+thauphoe	thâu phôe	308
+thauphoe	頭皮	307
 thauphou	thâupho͘	310
 thauphou	thâu-pho͘	309
+thauphou	thâu pho͘	308
 ###TODO
-thauphou	頭麩	308	#TJT
+thauphou	頭麩	307	#TJT
 thausu	thâusū	310
 thausu	thâu-sū	309
-thausu	頭序	308
+thausu	thâu sū	308
+thausu	頭序	307
 thautiongtau	thàutiongtàu	310
 thautiongtau	thàu-tiong-tàu	309
+thautiongtau	thàu tiong tàu	308
 ###TODO
-thautiongtau	透中 tàu	308
+thautiongtau	透中 tàu	307
 thebian	thébiān	310
 thebian	thé-biān	309
-thebian	體面	308
+thebian	thé biān	308
+thebian	體面	307
 theche	théchè	310
 theche	thé-chè	309
-theche	體制	308
+theche	thé chè	308
+theche	體制	307
 thekiong	thêkiong	310
 thekiong	thê-kiong	309
-thekiong	提供	308
+thekiong	thê kiong	308
+thekiong	提供	307
 theiok	théio̍k	310
 theiok	thé-io̍k	309
-theiok	體育	308
+theiok	thé io̍k	308
+theiok	體育	307
 thekeh	thékeh	310
 thekeh	thé-keh	309
-thekeh	體格	308
+thekeh	thé keh	308
+thekeh	體格	307
 thelat	théla̍t	310
 thelat	thé-la̍t	309
-thelat	體力	308
+thelat	thé la̍t	308
+thelat	體力	307
 theleng	thélêng	310
 theleng	thé-lêng	309
-theleng	體能	308
+theleng	thé lêng	308
+theleng	體能	307
 thengsek	thêngsek	310
 thengsek	thêng-sek	309
-thengsek	程式	308
+thengsek	thêng sek	308
+thengsek	程式	307
 thengtou	thêngtō͘	310
 thengtou	thêng-tō͘	309
-thengtou	程度	308
+thengtou	thêng tō͘	308
+thengtou	程度	307
 thiahbeng	thiahbêng	310
 thiahbeng	thiah-bêng	309
-thiahbeng	拆明	308
+thiahbeng	thiah bêng	308
+thiahbeng	拆明	307
 thiamthau	thiámthâu	310
 thiamthau	thiám-thâu	309
-thiamthau	忝頭	308	#TJT
+thiamthau	thiám thâu	308
+thiamthau	忝頭	307	#TJT
 thianjian	thianjiân	310
 thianjian	thian-jiân	309
-thianjian	天然	308
+thianjian	thian jiân	308
+thianjian	天然	307
 thiaubu	thiaubú	310
 thiaubu	thiau-bú	309
-thiaubu	跳舞	308
+thiaubu	thiau bú	308
+thiaubu	跳舞	307
 thiauchian	thiauchiàn	310
 thiauchian	thiau-chiàn	309
-thiauchian	挑戰	308
+thiauchian	thiau chiàn	308
+thiauchian	挑戰	307
 thiaukang	thiaukang	310
 thiaukang	thiau-kang	309
+thiaukang	thiau kang	308
 #DONE:我面頂 koh 創一條「tiaukang」
 #詞源方面、.xls 內底有講卡詳細
-thiaukang	挑工	308
+thiaukang	挑工	307
 thinnkhi	thiⁿkhì	310
 thinnkhi	thiⁿ-khì	309
-thinnkhi	天氣	308
+thinnkhi	thiⁿ khì	308
+thinnkhi	天氣	307
 thinnteng	thiⁿténg	310
 thinnteng	thiⁿ-téng	309
-thinnteng	天頂	308
+thinnteng	thiⁿ téng	308
+thinnteng	天頂	307
 thuichhek	thuichhek	310
 thuichhek	thui-chhek	309
-thuichhek	推測	308
+thuichhek	thui chhek	308
+thuichhek	推測	307
 thuichian	thuichiàn	310
 thuichian	thui-chiàn	309
-thuichian	推薦	308
+thuichian	thui chiàn	308
+thuichian	推薦	307
 thuiheng	thuihêng	310
 thuiheng	thui-hêng	309
-thuiheng	推行	308
+thuiheng	thui hêng	308
+thuiheng	推行	307
 uiann	ūiáⁿ	310
-uiann	ū iáⁿ	309
-uiann	ū-iáⁿ	308
-uiann	有影	307
+uiann	ū-iáⁿ	307
+uiann	有影	306
 uisng	ūisng	310
 uisng	ūi-sng	309
-uisng	胃酸	308
+uisng	ūi sng	308
+uisng	胃酸	307
 uiti	ūitì	310
 uiti	ūi-tì	309
-uiti	位置	308
+uiti	ūi tì	308
+uiti	位置	307
 untou	untō͘	310
 untou	un-tō͘	309
-untou	溫度	308
+untou	un tō͘	308
+untou	溫度	307
 END_TABLE
 ## File header must not be modified
 uiti	ūi-tì	309
-uiti	位置	308
+uiti	ūi tì	308
+uiti	位置	307
 untou	untō͘	310
 untou	un-tō͘	309
-untou	溫度	308
+untou	un tō͘	308
+untou	溫度	307
 utiu	útiū	310
 utiu	ú-tiū	309
-utiu	宇宙	308
+utiu	ú tiū	308
+utiu	宇宙	307
 END_TABLE
