@@ -1357,6 +1357,7 @@ chhi	痴	122
 chhi	癡	66
 chhi2	chhí	201
 chhi2	鼠	123
+chhi2	🐭	99
 chhi2	取	113
 chhi2	處	112
 chhi2	处	22
@@ -1478,6 +1479,8 @@ chhio2	chhió	201
 chhio3	chhiò	201
 chhio3	笑	132
 chhio3	😀	99
+chhio3	😂	98
+chhio3	🤣	98
 chhio7	chhiō	201
 chhioh	chhioh	201
 chhioh	尺	132
@@ -1664,6 +1667,7 @@ chhu2	此	123
 chhu2	取	122
 chhu2	處	121
 chhu2	鼠	131
+chhu2	🐭	99
 chhu2	处	33
 chhu3	chhù	201
 chhu3	次	131
@@ -2550,9 +2554,10 @@ gu2	gú	201
 gu2	語	123
 gu5	gû	201
 gu5	牛	123
+gu5	🐂	99
 gu5	漁	96
 gu5	愚	121
-gu5	禺	99
+gu5	禺	98
 gu5	魚	95
 gu5	隅	97
 gu5	虞	92
@@ -3108,6 +3113,7 @@ hou	ho͘	201
 hou	呼	120
 hou2	hó͘	201
 hou2	虎	127
+hou2	🐅	99
 hou2	否	113
 hou3	hò͘	201
 hou5	hô͘	201
@@ -5031,6 +5037,7 @@ ku	ku	201
 ku	車	103
 ku	居	98
 ku	龜	134
+ku	🐢	99
 ku	亀	66
 ku2	kú	201
 ku2	久	130
@@ -5298,6 +5305,7 @@ leng5	寧	128
 leng5	甯	42
 leng5	能	132
 leng5	龍	133
+leng5	🐲	99
 leng5	龙	44
 leng5	靈	131
 leng5	灵	43
@@ -5571,16 +5579,17 @@ liong2	两	75
 liong2	壤	98
 liong3	liòng	201
 liong5	liông	201
-liong5	良	123
-liong5	梁	99
-liong5	涼	88
-liong5	隆	113
-liong5	量	96
-liong5	樑	98
 liong5	龍	131
-liong5	戎	79
+liong5	🐲	99
+liong5	良	123
+liong5	隆	113
 liong5	茸	106
 liong5	絨	104
+liong5	量	96
+liong5	樑	98
+liong5	涼	88
+liong5	梁	87
+liong5	戎	79
 liong7	liōng	201
 liong7	亮	99
 liong7	量	116
@@ -8706,6 +8715,7 @@ thou3	thò͘	201
 thou3	吐	123
 thou3	兔	49
 thou3	兎	128
+thou3	🐇	99
 thou5	thô͘	201
 thou5	土	101
 thou5	塗	128

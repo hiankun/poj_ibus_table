@@ -104,7 +104,7 @@ __NOTE__: The following screenshot was captured in Lubuntu 18.04.
 
 ---
 
-# Change table to fit your need
+# Modify the table content to fit your need
 
 If you want to modify the table content, read on.
 
