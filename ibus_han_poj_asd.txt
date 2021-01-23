@@ -9558,8 +9558,8 @@ besin	bê-sìn	309
 besin	bê sìn	308
 besin	迷信	307
 betang	bētàng	310
-betang	bē-tàng	309
-betang	bē tàng	308
+betang	bē tàng	309
+betang	bē-tàng	308
 betang	袂凍	306
 bibiau	bībiāu	310
 bibiau	bī-biāu	309
@@ -9578,19 +9578,18 @@ bilai	bīlâi	310
 bilai	bī-lâi	309
 bilai	bī lâi	308
 bilai	未來	307
-binachai	bîn-ná-chài	310
-binachai	bînnáchài	309
-binachai	bînnáchài	308
-###DONE
 ###我 mā 是建議將 binachai 个 OUTPUT
 ###chhiâu 做「bînnáchài / bîn-ná-chài」
 ###既然語源是 -tòaⁿ-、koh 二式仝音
+binachai	bîn-ná-chài	310
+binachai	bînnáchài	309
+binachai	bînnáchài	308
 binachai	明旦再	307	#TJT
 binnachai	bîn-ná-chài	310
 binnachai	bînnáchài	309
 binnachai	bînnáchài	308
-###DONE
 binnachai	明旦再	307	#TJT
+###DONE
 binchheh	Bīnchheh	310
 binchheh	Bīn-chheh	309
 binchheh	Bīn chheh	308
@@ -9603,6 +9602,10 @@ binchiong	bînchiòng	310
 binchiong	bîn-chiòng	309
 binchiong	bîn chiòng	308
 binchiong	民眾	307
+binchok	bîncho̍k	310
+binchok	bîn-cho̍k	309
+binchok	bîn cho̍k	308
+binchok	民族	307
 binchu	bînchú	310
 binchu	bîn-chú	309
 binchu	bîn chú	308
@@ -10553,7 +10556,7 @@ engpong	Eng-pōng	309
 engpong	Eng pōng	308
 engpong	英磅	307
 #DONE: 頭節聲調是第七
-epou	ēpo͘	310
+epou	ēpo͘		310
 epou	ē-po͘	309
 epou	ē po͘	308
 epou	下晡	307
@@ -10561,8 +10564,7 @@ esai	ēsái	310
 esai	ē-sái	307
 esai	會使	306
 etang	ētàng	310
-### "ē tàng"???
-### íkeng kià email thólūn
+etang	ē tàng	309
 etang	ē-tàng	307
 etang	會凍	306
 etang	能凍	305
@@ -10673,10 +10675,10 @@ goanchubin	goânchūbîn	310
 goanchubin	goân-chū-bîn	309
 goanchubin	goân chū bîn	308
 goanchubin	原住民	307
-goanchubichok	goânchūbîncho̍k	310
-goanchubichok	goân-chū-bîn-cho̍k	309
-goanchubichok	goân chū bîn cho̍k	308
-goanchubichok	原住民族	307
+goanchubinchok	goânchūbîncho̍k	310
+goanchubinchok	goân-chū-bîn-cho̍k	309
+goanchubinchok	goân chū bîn cho̍k	308
+goanchubinchok	原住民族	307
 goanchuhek	goânchúhe̍k	310
 goanchuhek	goân-chú-he̍k	309
 goanchuhek	goân chú he̍k	308
