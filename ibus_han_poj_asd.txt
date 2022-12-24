@@ -9550,6 +9550,7 @@ bengsu	bêngsû	310
 bengsu	bêng-sû	309
 bengsu	bêng sû	308
 bengsu	名詞	307
+besai	bē sái	309
 besai	bēsái	310
 besai	bē-sái	307
 besai	袂使	306
@@ -10564,6 +10565,7 @@ epou	ēpo͘		310
 epou	ē-po͘	309
 epou	ē po͘	308
 epou	下晡	307
+esai	ē sái	309
 esai	ēsái	310
 esai	ē-sái	307
 esai	會使	306
