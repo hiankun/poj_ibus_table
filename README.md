@@ -155,6 +155,3 @@ The usage of the phrases' frequencies are listed in the following table.
 * [ibus上安裝大易輸入法](http://120.114.52.240/~T093000298/blog?node=000000103)
 * [在 iBus 加入大易輸入法](http://jamyy.us.to/blog/2013/12/5653.html)
 
----
-
-(chhìgiām)
