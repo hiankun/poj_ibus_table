@@ -10627,6 +10627,7 @@ gina	囝仔	307
 #DONE
 # Nā ánne leh?
 # Che bēbái (góa kòjîn kámkak…)
+ginkak	gînkak'á	313	#chhìgiām, 2023
 ginkak	gînkakᵃ	312	#chhìgiām
 ginkak	gînkakₐ	311	#chhìgiām
 ginkak	gînkak-á	310
