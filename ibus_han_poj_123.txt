@@ -7962,6 +7962,7 @@ soe3	稅	127
 soe3	歲	115
 soe5	sôe	201
 soe5	垂	113
+soe7	sōe	201
 soeh	soeh	201
 soeh	說	123
 soh	soh	201
@@ -11998,6 +11999,9 @@ khoanpo	khoânpó	310
 khoanpo	khoân-pó	309
 khoanpo	khoân pó	308
 khoanpo	環保	307
+khoansit	khoánsit	310
+khoansit	khoán-sit	309
+khoansit	khoán sit	308
 khochhi	khóchhì	310
 khochhi	khó-chhì	309
 khochhi	khó chhì	308
@@ -13049,6 +13053,10 @@ outiap	蝴蝶	307
 outoubai	o͘tó͘bái	310
 outoubai	o͘-tó͘-bái	309
 outoubai	o͘ tó͘ bái	308
+pailiat	pâilia̍t	310
+pailiat	pâi-lia̍t	309
+pailiat	pâi lia̍t	308
+pailiat	排列	307
 panpun	pánpún	310
 panpun	pán-pún	309
 panpun	pán pún	308
@@ -13656,6 +13664,10 @@ siauthiua	siáuthiú-á	310
 siauthiua	siáu-thiú-á	309
 siauthiua	siáu thiú á	308
 siauthiua	小丑仔	307
+sicheng	sîcheng	310
+sicheng	sî-cheng	309
+sicheng	sî cheng	308
+sicheng	時鐘	307
 sihna	sihnà	310
 sihna	sih-nà	309
 sihna	sih nà	308
