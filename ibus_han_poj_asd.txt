@@ -9546,6 +9546,10 @@ banglou	網路	307
 bansoukhou	bán-sò͘-khò͘	310
 bansoukhou	bánsò͘khò͘	309
 bansoukhou	bánsò͘khò͘	308
+bengpek	bêngpe̍k	310
+bengpek	bêng-pe̍k	309
+bengpek	bêng pe̍k	308
+bengpek	明白	307
 bengsu	bêngsû	310
 bengsu	bêng-sû	309
 bengsu	bêng sû	308
@@ -12798,6 +12802,9 @@ langkheh	lângkheh	310
 langkheh	lâng-kheh	309
 langkheh	lâng kheh	308
 langkheh	人客	307
+lansan	lânsan	310
+lansan	lân-san	309
+lansan	lân san	308
 lantou	lântō͘	310
 lantou	lân-tō͘	309
 lantou	lân tō͘	308
