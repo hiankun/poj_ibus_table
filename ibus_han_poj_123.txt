@@ -10632,6 +10632,10 @@ gina	囝仔	307
 #DONE
 # Nā ánne leh?
 # Che bēbái (góa kòjîn kámkak…)
+gilun	gīlūn	310
+gilun	gī-lūn	309
+gilun	gī lūn	308
+gilun	議論	307
 ginkak	gînkak'á	313	#chhìgiām, 2023
 ginkak	gînkakᵃ	312	#chhìgiām
 ginkak	gînkakₐ	311	#chhìgiām
@@ -11369,6 +11373,9 @@ iuengkong	Iúèngkong	310
 iuengkong	Iú-èng-kong	309
 iuengkong	Iú èng kong	308
 iuengkong	有應公	307
+iugoan	iûgoân	310
+iugoan	iû-goân	309
+iugoan	iû goân	308
 iukang	iùkang	310
 iukang	iù-kang	309
 iukang	iù kang	308
@@ -11870,6 +11877,9 @@ khauhok	kháuho̍k	310
 khauhok	kháu-ho̍k	309
 khauhok	kháu ho̍k	308
 khauhok	口服	307
+khautu	khàutû	310
+khautu	khàu-tû	309
+khautu	khàu tû	308
 khengkhak	khengkhak	310
 khengkhak	kheng-khak	309
 khengkhak	kheng khak	308
@@ -12867,6 +12877,10 @@ longsanphin	lôngsánphín	310
 longsanphin	lông-sán-phín	309
 longsanphin	lông sán phín	308
 longsanphin	農產品	307
+loueng	lō͘ēng	310
+loueng	lō͘-ēng	309
+loueng	lō͘ ēng	308
+loueng	路用	307
 loulat	ló͘la̍t	310
 loulat	ló͘-la̍t	309
 loulat	ló͘ la̍t	308
