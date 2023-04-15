@@ -93,10 +93,11 @@ __NOTE__: The following screenshot was captured in Lubuntu 18.04.
 
   ![set onechar mode](pics/onechar_mode.png)
 
+* [2023-04-15] 
 
 ## Known bugs
 
-* <s>The dynamic adjust function don't work as expected.</s>
+* The dynamic adjust function has no effect on single lomaji with accents (e.g., ê). (at least in Xubuntu 22.04)
 * <s>In some situations (e.g., after selecting Han characters) the input method might switch to full-width mode, and you need to press `Shift+Space` key once to back to normal input mode.</s>
 * The system does not show the icon (`pics/ibus-poj.svg`) in Ubuntu 18.04,
   but everything is okay in Lubuntu 18.04...
