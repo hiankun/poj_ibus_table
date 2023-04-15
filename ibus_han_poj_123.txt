@@ -12782,6 +12782,10 @@ lilun	lílūn	310
 lilun	lí-lūn	309
 lilun	lí lūn	308
 lilun	理論	307
+lisek	līsek	310
+lisek	lī-sek	309
+lisek	lī sek	308
+lisek	利息	307
 liseng	lísèng	310
 liseng	lí-sèng	309
 liseng	lí sèng	308
@@ -13962,6 +13966,10 @@ souhak	sò͘ha̍k	310
 souhak	sò͘-ha̍k	309
 souhak	sò͘ ha̍k	308
 souhak	數學	307
+souhui	só͘hùi	310
+souhui	só͘-hùi	309
+souhui	só͘ hùi	308
+souhui	所費	307
 soui	só͘í	310
 soui	só͘-í	309
 soui	só͘ í	308

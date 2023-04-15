@@ -85,7 +85,7 @@ PINYIN_MODE = FALSE
 
 ### If true then the phrases' frequencies will be adjusted dynamically
 ### according your using frequency.
-DYNAMIC_ADJUST = True #[2023-04-15:thk] buggy
+DYNAMIC_ADJUST = True #[2023-04-15:thk] cannot handle single lomaji with accents
 
 ### Some characters whose frequencies should be fix all the time, e.g.
 ### some punctuations
@@ -2253,7 +2253,6 @@ ed	è	201
 ed	裔	121
 ed	穢	113
 eg	ê	201
-eg	ê	202
 eg	个	131
 eg	鞋	123
 eg	兮	097
@@ -12783,6 +12782,10 @@ lilun	lílūn	310
 lilun	lí-lūn	309
 lilun	lí lūn	308
 lilun	理論	307
+lisek	līsek	310
+lisek	lī-sek	309
+lisek	lī sek	308
+lisek	利息	307
 liseng	lísèng	310
 liseng	lí-sèng	309
 liseng	lí sèng	308
@@ -13963,6 +13966,10 @@ souhak	sò͘ha̍k	310
 souhak	sò͘-ha̍k	309
 souhak	sò͘ ha̍k	308
 souhak	數學	307
+souhui	só͘hùi	310
+souhui	só͘-hùi	309
+souhui	só͘ hùi	308
+souhui	所費	307
 soui	só͘í	310
 soui	só͘-í	309
 soui	só͘ í	308
