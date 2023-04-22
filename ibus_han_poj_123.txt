@@ -6300,6 +6300,10 @@ oann	oaⁿ	201
 oann	安	110
 oann	鞍	129
 oann	垵	118
+oannz	oaⁿ	201
+oannz	安	110
+oannz	鞍	129
+oannz	垵	118
 Oann2	Óaⁿ	202
 oann2	óaⁿ	201
 oann2	碗	129

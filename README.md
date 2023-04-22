@@ -93,11 +93,10 @@ __NOTE__: The following screenshot was captured in Lubuntu 18.04.
 
   ![set onechar mode](pics/onechar_mode.png)
 
-* [2023-04-15] 
+## Known bugs/issues
 
-## Known bugs
-
-* The dynamic adjust function has no effect on single lomaji with accents (e.g., ê). (at least in Xubuntu 22.04)
+* [2023-04-15] The dynamic adjust function has no effect on single lomaji with accents (e.g., ê). (at least in Xubuntu 22.04)
+* [2023-04-22] Because `a` could be the letter or the "1st tone selector", combined with the above issue, it might make some words cannot be listed in the first page. A workaround is add `z` at the end of the words in `ibus_han_poj_123.txt` so that we can use `z` instead of `a` to select wanted words quickly (see `oaⁿ` at lines 6303 to 6306 of `ibus_han_poj_123.txt`). 
 * <s>In some situations (e.g., after selecting Han characters) the input method might switch to full-width mode, and you need to press `Shift+Space` key once to back to normal input mode.</s>
 * The system does not show the icon (`pics/ibus-poj.svg`) in Ubuntu 18.04,
   but everything is okay in Lubuntu 18.04...
