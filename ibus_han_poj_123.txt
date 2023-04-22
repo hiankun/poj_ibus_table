@@ -11008,6 +11008,10 @@ hoangeng	hoangêng	310
 hoangeng	hoan-gêng	309
 hoangeng	hoan gêng	308
 hoangeng	歡迎	307
+hoanhok	hoánhok	310
+hoanhok	hoán-hok	309
+hoanhok	hoán hok	308
+hoanhok	反覆	307
 hoanlo	hoânló	310
 hoanlo	hoân-ló	309
 hoanlo	hoân ló	308
@@ -12182,6 +12186,10 @@ kihai	kihâi	310
 kihai	ki-hâi	309
 kihai	ki hâi	308
 kihai	機械	307
+kiho	kìhō	310
+kiho	kì-hō	309
+kiho	kì hō	308
+kiho	記號	307
 kihoe	kihōe	310
 kihoe	ki-hōe	309
 kihoe	ki hōe	308
@@ -14528,6 +14536,11 @@ tosia	tosiā	310
 tosia	to-siā	309
 tosia	to siā	308
 tosia	多謝	307
+toutiam	tō͘tiám	310
+toutiam	tō͘-tiám	309
+toutiam	tō͘ tiám	308
+toutiam	讀点	307
+toutiam	讀點	306
 tuieng	tùièng	310
 tuieng	tùi-èng	309
 tuieng	tùi èng	308
